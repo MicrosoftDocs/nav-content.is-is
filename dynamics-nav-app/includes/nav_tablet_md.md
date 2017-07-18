@@ -1,0 +1,1 @@
+Microsoft Dynamics NAV Table biðlari

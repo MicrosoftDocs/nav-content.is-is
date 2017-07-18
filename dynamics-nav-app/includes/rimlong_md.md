@@ -1,0 +1,1 @@
+RapidStart-þjónusta fyrir Microsoft Dynamics NAV
