@@ -9,45 +9,45 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: a2268d8454af761c40b11d89b01778a3f92090fb
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 15f30a03c3e7ccc865ef527a707794c2c6428b2f
 ms.contentlocale: is-is
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="how-to-enable-customer-payments-through-paypal"></a>Hvernig á að: Virkja greiðslur viðskiptamanna gegnum PayPal#
-Í stað þess að innheimta greiðslur með gíró eða kreditkort getur boðið að viðskiptamenn greiði gegnum PayPal reikning þeirra .
+# <a name="how-to-enable-customer-payments-through-paypal"></a><span data-ttu-id="77cc6-102">Hvernig á að: Virkja greiðslur viðskiptamanna gegnum PayPal#</span><span class="sxs-lookup"><span data-stu-id="77cc6-102">How to: Enable Customer Payments Through PayPal#</span></span>
+<span data-ttu-id="77cc6-103">Í stað þess að innheimta greiðslur með gíró eða kreditkort getur boðið að viðskiptamenn greiði gegnum PayPal reikning þeirra .</span><span class="sxs-lookup"><span data-stu-id="77cc6-103">As an alternative to collecting payments through bank transfer or credit cards, you can offer your customers to pay you through their PayPal account.</span></span>
 
-Þegar viðskiptamaður velur PayPal tengilinn á sölureikningi eða sölupöntunarskjali, birtist þjónustusíða fyrir PayPal reikning hans þar sem nákvæmar greiðsluupplýsingar fyrir söluna koma fram. Viðskiptamaður getur síðan greiða reikning og sem hverja aðra PayPal greiðslu.
+<span data-ttu-id="77cc6-104">Þegar viðskiptamaður velur PayPal tengilinn á sölureikningi eða sölupöntunarskjali, birtist þjónustusíða fyrir PayPal reikning hans þar sem nákvæmar greiðsluupplýsingar fyrir söluna koma fram.</span><span class="sxs-lookup"><span data-stu-id="77cc6-104">When a customer chooses the PayPal link on a sales invoice or sales order document, the service page for their PayPal account appears showing the payment details for the sale.</span></span> <span data-ttu-id="77cc6-105">Viðskiptamaður getur síðan greiða reikning og sem hverja aðra PayPal greiðslu.</span><span class="sxs-lookup"><span data-stu-id="77cc6-105">The customer can then pay the invoice as any other PayPal payment.</span></span>
 
-Til að Virkja greiðslur viðskiptamanna gegnum PayPal verðurðu að gera eftirfarandi:
+<span data-ttu-id="77cc6-106">Til að Virkja greiðslur viðskiptamanna gegnum PayPal verðurðu að gera eftirfarandi:</span><span class="sxs-lookup"><span data-stu-id="77cc6-106">To enable customer payments through PayPal, you must do the following:</span></span>
 
-1. Setja upp PayPal Payments Standard sem greiðsluþjónustu í glugganum **GreiðslÞjónusta** .
-2. Velja PayPal Payments Standard í á **Greiðsluþjónustu** reit á viðkomandi söluskjal.
+1. <span data-ttu-id="77cc6-107">Setja upp PayPal Payments Standard sem greiðsluþjónustu í glugganum **GreiðslÞjónusta** .</span><span class="sxs-lookup"><span data-stu-id="77cc6-107">Set up PayPal Payments Standard as a payment service in the **Payments Services** window.</span></span>
+2. <span data-ttu-id="77cc6-108">Velja PayPal Payments Standard í á **Greiðsluþjónustu** reit á viðkomandi söluskjal.</span><span class="sxs-lookup"><span data-stu-id="77cc6-108">Select PayPal Payments Standard in the **Payment Service** field on the sales document in question.</span></span>
 
-Paypal Payments Standard er uppsett sem viðbót við Dynamics NAV og tilbúin til að láta virkja sig. Frekari upplýsingar skoða [Sérstilling Dynamics NAV með viðbótum ](ui-extensions.md).
+<span data-ttu-id="77cc6-109">Paypal Payments Standard er uppsett sem viðbót við Dynamics NAV og tilbúin til að láta virkja sig.</span><span class="sxs-lookup"><span data-stu-id="77cc6-109">The PayPal Payments Standard service is installed as an extension to Dynamics NAV and ready to enabled.</span></span> <span data-ttu-id="77cc6-110">Frekari upplýsingar skoða [Sérstilling Dynamics NAV með viðbótum ](ui-extensions.md).</span><span class="sxs-lookup"><span data-stu-id="77cc6-110">For more information, see [Customizing Dynamics NAV Using Extensions ](ui-extensions.md).</span></span>
 
-## <a name="to-enable-the-paypal-payments-standard-service"></a>Virkja PayPal Payments Standard þjónustuna
-1. Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, **greiðsluþjónusta**, og velja síðan viðeigandi tengil.  
-2. Í glugganum **Greiðsluþjónustur** skal velja aðgerðina **Nýtt**.
-3. Veljið **PayPal Standard** og lokið svo glugganum.
-4. Í glugganum **Greiðsluþjónustur** skal velja aðgerðina **uppsetning**.
-5. Fyllið inn í svæðin eftir þörfum. Velja reit til að lesa inn stutta lýsingu á reitnum eða tengil í frekari upplýsingar.
+## <a name="to-enable-the-paypal-payments-standard-service"></a><span data-ttu-id="77cc6-111">Virkja PayPal Payments Standard þjónustuna</span><span class="sxs-lookup"><span data-stu-id="77cc6-111">To enable the PayPal Payments Standard service</span></span>
+1. <span data-ttu-id="77cc6-112">Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, **greiðsluþjónusta**, og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="77cc6-112">In the top right corner, choose the **Search for Page or Report** icon, **Payment Services**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="77cc6-113">Í glugganum **Greiðsluþjónustur** skal velja aðgerðina **Nýtt**.</span><span class="sxs-lookup"><span data-stu-id="77cc6-113">In the **Payment Services** window, choose the **New** action.</span></span>
+3. <span data-ttu-id="77cc6-114">Veljið **PayPal Standard** og lokið svo glugganum.</span><span class="sxs-lookup"><span data-stu-id="77cc6-114">Select **PayPal Standard**, and then close the window.</span></span>
+4. <span data-ttu-id="77cc6-115">Í glugganum **Greiðsluþjónustur** skal velja aðgerðina **uppsetning**.</span><span class="sxs-lookup"><span data-stu-id="77cc6-115">In the **Payment Services** window, choose the **Setup** action.</span></span>
+5. <span data-ttu-id="77cc6-116">Fyllið inn í svæðin eftir þörfum.</span><span class="sxs-lookup"><span data-stu-id="77cc6-116">Fill in the fields as necessary.</span></span> <span data-ttu-id="77cc6-117">Velja reit til að lesa inn stutta lýsingu á reitnum eða tengil í frekari upplýsingar.</span><span class="sxs-lookup"><span data-stu-id="77cc6-117">Choose a field to read a short description of the field or link to more information.</span></span>
 
-    **Bent er á**: Valið er **Alltaf Með skjölum** gátreitinn ef tenglum fyrir PayPal greiðsluþjónustu ætti alltaf að vera sýnilegt í söluskjölum þar sem greiðsla í gegnum PayPal er virkjuð.
+    <span data-ttu-id="77cc6-118">**Bent er á**: Valið er **Alltaf Með skjölum** gátreitinn ef tenglum fyrir PayPal greiðsluþjónustu ætti alltaf að vera sýnilegt í söluskjölum þar sem greiðsla í gegnum PayPal er virkjuð.</span><span class="sxs-lookup"><span data-stu-id="77cc6-118">**Note**: Select the **Always Include on Documents** check box if the hyperlink for the PayPal payment service should always be visible on sales documents where payment through PayPal is enabled.</span></span>
 
-6. Glugganum er lokað.
+6. <span data-ttu-id="77cc6-119">Glugganum er lokað.</span><span class="sxs-lookup"><span data-stu-id="77cc6-119">Close the window.</span></span>
 
-## <a name="to-select-paypal-payments-standard-on-a-sales-invoice"></a>Til að velja PayPal Payments Standard á sölureikning.
-1. Í reitnum heimasíða velja **sölureikningar**.
-2. Opnið sölureikningur sem á að virkja paypal greiðslur fyrir.
-3. Í reitnum **GreiðsluÞjónustu** er valið er PayPal Payments Standard.
+## <a name="to-select-paypal-payments-standard-on-a-sales-invoice"></a><span data-ttu-id="77cc6-120">Til að velja PayPal Payments Standard á sölureikning.</span><span class="sxs-lookup"><span data-stu-id="77cc6-120">To select PayPal Payments Standard on a sales invoice</span></span>
+1. <span data-ttu-id="77cc6-121">Í reitnum heimasíða velja **sölureikningar**.</span><span class="sxs-lookup"><span data-stu-id="77cc6-121">On the Home page, choose **Sales Invoices**.</span></span>
+2. <span data-ttu-id="77cc6-122">Opnið sölureikningur sem á að virkja paypal greiðslur fyrir.</span><span class="sxs-lookup"><span data-stu-id="77cc6-122">Open the sales invoice that you want to enable PayPal payments for.</span></span>
+3. <span data-ttu-id="77cc6-123">Í reitnum **GreiðsluÞjónustu** er valið er PayPal Payments Standard.</span><span class="sxs-lookup"><span data-stu-id="77cc6-123">In the **Payment Service** field, choose PayPal Payments Standard.</span></span>
 
-**Athuga skal að**: **GreiðsluÞjónustu** reiturinn birtist aðeins ef PayPal Payments Standard er virkjað.   
+<span data-ttu-id="77cc6-124">**Athuga skal að**: **GreiðsluÞjónustu** reiturinn birtist aðeins ef PayPal Payments Standard er virkjað.</span><span class="sxs-lookup"><span data-stu-id="77cc6-124">**Note**: The **Payment Service** field is only visible if the PayPal Payments Standard service is enabled.</span></span>   
 
-## <a name="see-also"></a>Sjá einnig  
-[Uppsetning sölu](sales-setup-sales.md)  
-[Stjórna sölu](sales-manage-sales.md)  
-[Sérstilling Dynamics NAV með viðbótum](ui-extensions.md)
+## <a name="see-also"></a><span data-ttu-id="77cc6-125">Sjá einnig</span><span class="sxs-lookup"><span data-stu-id="77cc6-125">See Also</span></span>  
+[<span data-ttu-id="77cc6-126">Uppsetning sölu</span><span class="sxs-lookup"><span data-stu-id="77cc6-126">Set Up Sales</span></span>](sales-setup-sales.md)  
+[<span data-ttu-id="77cc6-127">Stjórna sölu</span><span class="sxs-lookup"><span data-stu-id="77cc6-127">Manage Sales</span></span>](sales-manage-sales.md)  
+[<span data-ttu-id="77cc6-128">Sérstilling Dynamics NAV með viðbótum</span><span class="sxs-lookup"><span data-stu-id="77cc6-128">Customizing Dynamics NAV Using Extensions</span></span>](ui-extensions.md)
 

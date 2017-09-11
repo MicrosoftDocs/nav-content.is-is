@@ -16,105 +16,105 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-revalue-fixed-assets"></a>Hvernig á að: Endurmeta eignir
-Endurmat eigna getur samanstaðið af uppfærslu, niðurfærslu, og leiðréttingum á almennu virði.
+# <a name="how-to-revalue-fixed-assets"></a><span data-ttu-id="744aa-102">Hvernig á að: Endurmeta eignir</span><span class="sxs-lookup"><span data-stu-id="744aa-102">How to: Revalue Fixed Assets</span></span>
+<span data-ttu-id="744aa-103">Endurmat eigna getur samanstaðið af uppfærslu, niðurfærslu, og leiðréttingum á almennu virði.</span><span class="sxs-lookup"><span data-stu-id="744aa-103">Revaluation of fixed assets can consist of appreciations, write-downs, or general value adjustments.</span></span>
 
-Þegar virði eignar hefur hækkað, er bókuð færslubókarlínu með hærri upphæð, uppfærslu í afskriftabókina. Nýtt verð er skráð sem uppfærslu samkvæmt bókunargrunni eigna.
+<span data-ttu-id="744aa-104">Þegar virði eignar hefur hækkað, er bókuð færslubókarlínu með hærri upphæð, uppfærslu í afskriftabókina.</span><span class="sxs-lookup"><span data-stu-id="744aa-104">When the value of a fixed asset has increased, you post a journal line with a higher amount, an appreciation, to the depreciation book.</span></span> <span data-ttu-id="744aa-105">Nýtt verð er skráð sem uppfærslu samkvæmt bókunargrunni eigna.</span><span class="sxs-lookup"><span data-stu-id="744aa-105">The new amount is recorded as an appreciation according to the fixed asset posting setup.</span></span>
 
-Þegar virði eignar hefur lækkað, bókarðu færslubókarlínu með lægri upphæð, niðurfærslu, í afskriftabók. Nýtt verð er skráð sem niðurfærslu samkvæmt bókunargrunni eigna.
+<span data-ttu-id="744aa-106">Þegar virði eignar hefur lækkað, bókarðu færslubókarlínu með lægri upphæð, niðurfærslu, í afskriftabók.</span><span class="sxs-lookup"><span data-stu-id="744aa-106">When the value of a fixed asset has decreased, you post a journal line with a lower amount, a write-down, to the depreciation book.</span></span> <span data-ttu-id="744aa-107">Nýtt verð er skráð sem niðurfærslu samkvæmt bókunargrunni eigna.</span><span class="sxs-lookup"><span data-stu-id="744aa-107">The new amount is recorded as a write-down according to the fixed asset posting setup.</span></span>
 
-Endurmat er notað til að laga virði margra eigna, til dæmis, að almennum verðbreytingum. Hægt er að nota keyrsluna **Endurmat eigna** til að breyta ýmsum upphæðum, svo sem upphæðum niðurfærslna og uppfærslna.
+<span data-ttu-id="744aa-108">Endurmat er notað til að laga virði margra eigna, til dæmis, að almennum verðbreytingum.</span><span class="sxs-lookup"><span data-stu-id="744aa-108">Indexation is used to adjust multiple fixed asset values, for example per general price changes.</span></span> <span data-ttu-id="744aa-109">Hægt er að nota keyrsluna **Endurmat eigna** til að breyta ýmsum upphæðum, svo sem upphæðum niðurfærslna og uppfærslna.</span><span class="sxs-lookup"><span data-stu-id="744aa-109">The **Index Fixed Assets** batch job can be used to change various amounts, such as write-down and appreciation amounts.</span></span>
 
-## <a name="to-post-an-appreciation-from-the-fixed-asset-gl-journal"></a>Bóka uppfærslu úr fjárhagsbók eigna  
-1. Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **fjárhagsbók eigna**, og velja síðan viðeigandi tengil.  
-2. Stofnaður er upprunaleg Færslubókarlína og reitirnir fylltir út eftir þörfum.
-3. Í reitnum **Eignabókunartegund** er valinn **uppfærsla**.
-4. Valið er **Setja inn mótreikn. eigna** aðgerð. Seinni færslubókarlína er búin til fyrir mótreiknings sem er sett upp fyrir bókun uppfærslu.
+## <a name="to-post-an-appreciation-from-the-fixed-asset-gl-journal"></a><span data-ttu-id="744aa-110">Bóka uppfærslu úr fjárhagsbók eigna</span><span class="sxs-lookup"><span data-stu-id="744aa-110">To post an appreciation from the fixed asset G/L journal</span></span>  
+1. <span data-ttu-id="744aa-111">Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **fjárhagsbók eigna**, og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="744aa-111">In the top right corner, choose the **Search for Page or Report** icon, enter **FA G/L Journals**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="744aa-112">Stofnaður er upprunaleg Færslubókarlína og reitirnir fylltir út eftir þörfum.</span><span class="sxs-lookup"><span data-stu-id="744aa-112">Create an initial journal line and fill in the fields as necessary.</span></span>
+3. <span data-ttu-id="744aa-113">Í reitnum **Eignabókunartegund** er valinn **uppfærsla**.</span><span class="sxs-lookup"><span data-stu-id="744aa-113">In the **FA Posting Type** field, select **Appreciation**.</span></span>
+4. <span data-ttu-id="744aa-114">Valið er **Setja inn mótreikn. eigna** aðgerð.</span><span class="sxs-lookup"><span data-stu-id="744aa-114">Choose the **Insert FA Bal. Account** action.</span></span> <span data-ttu-id="744aa-115">Seinni færslubókarlína er búin til fyrir mótreiknings sem er sett upp fyrir bókun uppfærslu.</span><span class="sxs-lookup"><span data-stu-id="744aa-115">A second journal line is created for the balancing account that is set up for appreciation posting.</span></span>
 
-    **Athugasemd**: skref 4 virkar eingöngu ef búið er að setja upp eftirfarandi: Í **Eignabókunarflokksspjald** glugganum fyrir bókunarflokkur eigna, inniheldur reiturinn **uppfærslureikningur** debetreikning fjárhags og reikningurinn **Mótreikning uppfærslu** inniheldur fjárhagsreikninginn sem á að bóka mótfærslur í fyrir uppfærslu. Nánari upplýsingar eru í "setja upp bókunarflokka eigna" hlutanum í [Hvernig: Setja Upp almennar upplýsingar um eignir](fa-how-setup-general.md).
-5. Valið er **bóka** aðgerð.
+    <span data-ttu-id="744aa-116">**Athugasemd**: skref 4 virkar eingöngu ef búið er að setja upp eftirfarandi: Í **Eignabókunarflokksspjald** glugganum fyrir bókunarflokkur eigna, inniheldur reiturinn **uppfærslureikningur** debetreikning fjárhags og reikningurinn **Mótreikning uppfærslu** inniheldur fjárhagsreikninginn sem á að bóka mótfærslur í fyrir uppfærslu.</span><span class="sxs-lookup"><span data-stu-id="744aa-116">**Note**: Step 4 only works if you have set up the following: In the **FA Posting Group Card** window for the posting group of the fixed asset, the **Appreciation Account** field contains the general ledger debit account and the **Appreciation Bal. Account** field contains the general ledger account to which you want to post balancing entries for appreciation.</span></span> <span data-ttu-id="744aa-117">Nánari upplýsingar eru í "setja upp bókunarflokka eigna" hlutanum í [Hvernig: Setja Upp almennar upplýsingar um eignir](fa-how-setup-general.md).</span><span class="sxs-lookup"><span data-stu-id="744aa-117">For more information, see the "To set up fixed asset posting groups" section in [How to: Set Up General Fixed Asset Information](fa-how-setup-general.md).</span></span>
+5. <span data-ttu-id="744aa-118">Valið er **bóka** aðgerð.</span><span class="sxs-lookup"><span data-stu-id="744aa-118">Choose the **Post** action.</span></span>
 
-## <a name="to-post-a-write-down-from-the-fixed-asset-gl-journal"></a>Bóka niðurfærsla úr fjárhagsbók eigna  
-1. Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **fjárhagsbók eigna**, og velja síðan viðeigandi tengil.  
-2. Stofnaður er upprunaleg Færslubókarlína og reitirnir fylltir út eftir þörfum.
-3. Í reitnum **Eignabókunartegund** er valinn **niðurfærsla**.
-4. Valið er **Setja inn mótreikn. eigna** aðgerð. Seinni færslubókarlína er búin til fyrir mótreiknings sem er sett upp fyrir bókun niðurfærslu.
+## <a name="to-post-a-write-down-from-the-fixed-asset-gl-journal"></a><span data-ttu-id="744aa-119">Bóka niðurfærsla úr fjárhagsbók eigna</span><span class="sxs-lookup"><span data-stu-id="744aa-119">To post a write-down from the fixed asset G/L journal</span></span>  
+1. <span data-ttu-id="744aa-120">Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **fjárhagsbók eigna**, og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="744aa-120">In the top right corner, choose the **Search for Page or Report** icon, enter **FA G/L Journals**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="744aa-121">Stofnaður er upprunaleg Færslubókarlína og reitirnir fylltir út eftir þörfum.</span><span class="sxs-lookup"><span data-stu-id="744aa-121">Create an initial journal line, and fill in the fields as necessary.</span></span>
+3. <span data-ttu-id="744aa-122">Í reitnum **Eignabókunartegund** er valinn **niðurfærsla**.</span><span class="sxs-lookup"><span data-stu-id="744aa-122">In the **FA Posting Type** field, select **Write-Down**.</span></span>
+4. <span data-ttu-id="744aa-123">Valið er **Setja inn mótreikn. eigna** aðgerð.</span><span class="sxs-lookup"><span data-stu-id="744aa-123">Choose the **Insert FA Bal. Account** action.</span></span> <span data-ttu-id="744aa-124">Seinni færslubókarlína er búin til fyrir mótreiknings sem er sett upp fyrir bókun niðurfærslu.</span><span class="sxs-lookup"><span data-stu-id="744aa-124">A second journal line is created for the balancing account that is set up for write-down posting.</span></span>
 
-    **Athugasemd**: skref 4 virkar eingöngu ef búið er að setja upp eftirfarandi: Í **Eignabókunarflokksspjald** glugganum fyrir bókunarflokkur eigna, inniheldur reiturinn **niðurfærslureikningur** kreditreikning fjárhags og reikningurinn **Mótreikning niðurfærslu** inniheldur fjárhagsreikninginn sem á að bóka mótfærslur í fyrir niðurfærslur. Nánari upplýsingar eru í "setja upp bókunarflokka eigna" hlutanum í [Hvernig: Setja Upp almennar upplýsingar um eignir](fa-how-setup-general.md).
-5. Valið er **bóka** aðgerð.
+    <span data-ttu-id="744aa-125">**Athugasemd**: skref 4 virkar eingöngu ef búið er að setja upp eftirfarandi: Í **Eignabókunarflokksspjald** glugganum fyrir bókunarflokkur eigna, inniheldur reiturinn **niðurfærslureikningur** kreditreikning fjárhags og reikningurinn **Mótreikning niðurfærslu** inniheldur fjárhagsreikninginn sem á að bóka mótfærslur í fyrir niðurfærslur.</span><span class="sxs-lookup"><span data-stu-id="744aa-125">**Note**: Step 4 only works if you have set up the following: In the **FA Posting Group Card** window for the posting group of the fixed asset, the **Write-Down Account** field contains the general ledger credit account and the **Write-Down Expense Account** field contains the general ledger debit account to which you want to post balancing entries for write-downs.</span></span> <span data-ttu-id="744aa-126">Nánari upplýsingar eru í "setja upp bókunarflokka eigna" hlutanum í [Hvernig: Setja Upp almennar upplýsingar um eignir](fa-how-setup-general.md).</span><span class="sxs-lookup"><span data-stu-id="744aa-126">For more information, see the "To set up fixed asset posting groups" section in [How to: Set Up General Fixed Asset Information](fa-how-setup-general.md).</span></span>
+5. <span data-ttu-id="744aa-127">Valið er **bóka** aðgerð.</span><span class="sxs-lookup"><span data-stu-id="744aa-127">Choose the **Post** action.</span></span>
 
-## <a name="to-perform-general-revaluation-of-fixed-assets"></a>Framkvæma almennt endurmat eigna  
-Endurmat er notað til að laga virði margra eigna, til dæmis, að almennum verðbreytingum. Hægt er að nota keyrsluna **Endurmat eigna** til að breyta ýmsum upphæðum, svo sem upphæðum niðurfærslna og uppfærslna. **Leyfa Endurmat** gátreiturinn á **Afskriftabók** glugganum verður að vera valinn.
+## <a name="to-perform-general-revaluation-of-fixed-assets"></a><span data-ttu-id="744aa-128">Framkvæma almennt endurmat eigna</span><span class="sxs-lookup"><span data-stu-id="744aa-128">To perform general revaluation of fixed assets</span></span>  
+<span data-ttu-id="744aa-129">Endurmat er notað til að laga virði margra eigna, til dæmis, að almennum verðbreytingum.</span><span class="sxs-lookup"><span data-stu-id="744aa-129">Indexation is used to adjust multiple fixed asset values, for example per general price changes.</span></span> <span data-ttu-id="744aa-130">Hægt er að nota keyrsluna **Endurmat eigna** til að breyta ýmsum upphæðum, svo sem upphæðum niðurfærslna og uppfærslna.</span><span class="sxs-lookup"><span data-stu-id="744aa-130">The **Index Fixed Assets** batch job can be used to change various amounts, such as write-down and appreciation amounts.</span></span> <span data-ttu-id="744aa-131">**Leyfa Endurmat** gátreiturinn á **Afskriftabók** glugganum verður að vera valinn.</span><span class="sxs-lookup"><span data-stu-id="744aa-131">The **Allow Indexation** check box in the **Depreciation Book** window must be selected.</span></span>
 
-1. Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **endurmeta eignir**, og velja síðan viðeigandi tengil.  
-2. Fyllið inn í svæðin eftir þörfum.
-3. Velja hnappinn **Í lagi**.  
+1. <span data-ttu-id="744aa-132">Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **endurmeta eignir**, og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="744aa-132">In the top right corner, choose the **Search for Page or Report** icon, enter **Index Fixed Assets**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="744aa-133">Fyllið inn í svæðin eftir þörfum.</span><span class="sxs-lookup"><span data-stu-id="744aa-133">Fill in the fields as necessary.</span></span>
+3. <span data-ttu-id="744aa-134">Velja hnappinn **Í lagi**.</span><span class="sxs-lookup"><span data-stu-id="744aa-134">Choose the **OK** button.</span></span>  
 
-    Endurmatslínur eru búnar til samkvæmt stillingu í skref 2. Línur eru búnar til annaðhvort í færslubók eigna, allt eftir sniðmáti þínu og uppsetningu keyrslu í glugganum **Eignabókargrunnur**. Nánari upplýsingar sjá [Hvernig: setja upp almennar upplýsingar um eignir](fa-how-setup-general.md).
+    <span data-ttu-id="744aa-135">Endurmatslínur eru búnar til samkvæmt stillingu í skref 2.</span><span class="sxs-lookup"><span data-stu-id="744aa-135">Revaluation lines are created per your settings in step 2.</span></span> <span data-ttu-id="744aa-136">Línur eru búnar til annaðhvort í færslubók eigna, allt eftir sniðmáti þínu og uppsetningu keyrslu í glugganum **Eignabókargrunnur**.</span><span class="sxs-lookup"><span data-stu-id="744aa-136">The lines are created in either the fixed asset journal or the fixed asset G/L journal, depending on your template and batch setup in the **FA Journal Setup** window.</span></span> <span data-ttu-id="744aa-137">Nánari upplýsingar sjá [Hvernig: setja upp almennar upplýsingar um eignir](fa-how-setup-general.md).</span><span class="sxs-lookup"><span data-stu-id="744aa-137">For more information, see [How to: Set Up General Fixed Asset Information](fa-how-setup-general.md).</span></span>
 
-4. Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **fjárhagsbók eigna**, og velja síðan viðeigandi tengil.  
-5. Velja bókina með eignir sem á að endurmeta og síðan valið aðgerðin **Færslur**.  
-6. Athugaðu Stofnaðar færslur, og síðan valið **Bóka** aðgerð til að bóka bókina.
+4. <span data-ttu-id="744aa-138">Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **fjárhagsbók eigna**, og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="744aa-138">In the top right corner, choose the **Search for Page or Report** icon, enter **FA G/L Journals**, and then choose the related link.</span></span>  
+5. <span data-ttu-id="744aa-139">Velja bókina með eignir sem á að endurmeta og síðan valið aðgerðin **Færslur**.</span><span class="sxs-lookup"><span data-stu-id="744aa-139">Select the journal with the fixed assets that you want to revalue, and then choose the **Ledger Entries** action.</span></span>  
+6. <span data-ttu-id="744aa-140">Athugaðu Stofnaðar færslur, og síðan valið **Bóka** aðgerð til að bóka bókina.</span><span class="sxs-lookup"><span data-stu-id="744aa-140">Check the created entries, and then choose the **Post** action to post the journal.</span></span>
 
-**Ábending**: Ef endurmatstölurnar eru aðeins til sýnis er hægt að búa til sérstaka afskriftabók til að geyma þær í. Þá hafa þessar færslur ekki áhrif á aðrar afskriftabækur.
+<span data-ttu-id="744aa-141">**Ábending**: Ef endurmatstölurnar eru aðeins til sýnis er hægt að búa til sérstaka afskriftabók til að geyma þær í.</span><span class="sxs-lookup"><span data-stu-id="744aa-141">**Tip**: If the index figures are for simulation purposes only, you can create a special depreciation book to store them in.</span></span> <span data-ttu-id="744aa-142">Þá hafa þessar færslur ekki áhrif á aðrar afskriftabækur.</span><span class="sxs-lookup"><span data-stu-id="744aa-142">Then these entries will not affect any of the other depreciation books.</span></span>
 
-## <a name="to-post-additional-acquisition-costs"></a>Bókun Viðbótarkaupverðs
-Annar stofnkostnaður eignar er bókaður eins og upphaflegi stofnkostnaðurinn: úr innkaupareikningi eða úr eignabók. Nánari upplýsingar eru í [Hvernig á að: komast ufir eignir](fa-how-acquire.md).  
+## <a name="to-post-additional-acquisition-costs"></a><span data-ttu-id="744aa-143">Bókun Viðbótarkaupverðs</span><span class="sxs-lookup"><span data-stu-id="744aa-143">To post additional acquisition costs</span></span>
+<span data-ttu-id="744aa-144">Annar stofnkostnaður eignar er bókaður eins og upphaflegi stofnkostnaðurinn: úr innkaupareikningi eða úr eignabók.</span><span class="sxs-lookup"><span data-stu-id="744aa-144">You post additional acquisition cost for a fixed asset in the same way as you post the original acquisition cost: from a purchase invoice or from a fixed asset journal.</span></span> <span data-ttu-id="744aa-145">Nánari upplýsingar eru í [Hvernig á að: komast ufir eignir](fa-how-acquire.md).</span><span class="sxs-lookup"><span data-stu-id="744aa-145">For more information, see [How to: Acquire Fixed Assets](fa-how-acquire.md).</span></span>  
 
-Ef afskriftir hafa þegar verið reiknaðar fyrir eignina er sett gátmerki í reitinn **Afskr. kaupverðs** til að annar stofnkostnaður að frádregnu hrakvirði verði afskrifaður í hlutfalli við upphæðina sem áður keypt eign hefur þegar verið afskrifuð um. Þetta tryggir að afskriftatímabilið breytist ekki.  
+<span data-ttu-id="744aa-146">Ef afskriftir hafa þegar verið reiknaðar fyrir eignina er sett gátmerki í reitinn **Afskr. kaupverðs** til að annar stofnkostnaður að frádregnu hrakvirði verði afskrifaður í hlutfalli við upphæðina sem áður keypt eign hefur þegar verið afskrifuð um.</span><span class="sxs-lookup"><span data-stu-id="744aa-146">If depreciation has already been calculated for the fixed asset, select the **Depr. Acquisition Cost** check box to have the additional acquisition cost less the salvage value depreciated in proportion to the amount by which the previously acquired fixed asset has already been depreciated.</span></span> <span data-ttu-id="744aa-147">Þetta tryggir að afskriftatímabilið breytist ekki.</span><span class="sxs-lookup"><span data-stu-id="744aa-147">This ensures that the depreciation period is not changed.</span></span>  
 
-Afskriftaprósentan er reiknuð sem:  
+<span data-ttu-id="744aa-148">Afskriftaprósentan er reiknuð sem:</span><span class="sxs-lookup"><span data-stu-id="744aa-148">The depreciation percentage is calculated as:</span></span>  
 
-*P = (heildarafskriftir x 100) / afskriftagrunnur*
+<span data-ttu-id="744aa-149">*P = (heildarafskriftir x 100) / afskriftagrunnur*</span><span class="sxs-lookup"><span data-stu-id="744aa-149">*P = (total depreciation x 100) / depreciable basis*</span></span>
 
-*Afskriftaupphæð = (P/100) x (viðbótarstofnkostnaður - hrakvirði)*  
+<span data-ttu-id="744aa-150">*Afskriftaupphæð = (P/100) x (viðbótarstofnkostnaður - hrakvirði)*</span><span class="sxs-lookup"><span data-stu-id="744aa-150">*Depreciation amount = (P/100) x (extra acquisition cost - salvage value)*</span></span>  
 
-Muna þarf að setja gátmerkið í reitinn **Afskr. til eignabókunardags.** í reikningi, eignafjárhagsbókar- eða eignabókarlínurnar til að tryggja að afskrift sé reiknuð frá síðasta eignabókunardegi til bókunardags annars kaupverðs.
+<span data-ttu-id="744aa-151">Muna þarf að setja gátmerkið í reitinn **Afskr. til eignabókunardags.** í reikningi, eignafjárhagsbókar- eða eignabókarlínurnar til að tryggja að afskrift sé reiknuð frá síðasta eignabókunardegi til bókunardags annars kaupverðs.</span><span class="sxs-lookup"><span data-stu-id="744aa-151">Remember to select the **Depr. until FA Posting Date** check box on the invoice, the fixed asset G/L journal, or the fixed asset journal lines to ensure that depreciation is calculated from the last fixed asset posting date to the posting date of the additional acquisition cost.</span></span>
 
-### <a name="example---posting-additional-acquisition-costs"></a>Dæmi - bókun viðbótar stofnkostnaðar
-Vél er keypt 1. ágúst, 2000. Stofnkostnaðurinn er 4.800. Afskriftaaðferðin er línuleg til fjögurra ára.
+### <a name="example---posting-additional-acquisition-costs"></a><span data-ttu-id="744aa-152">Dæmi - bókun viðbótar stofnkostnaðar</span><span class="sxs-lookup"><span data-stu-id="744aa-152">Example - Posting Additional Acquisition Costs</span></span>
+<span data-ttu-id="744aa-153">Vél er keypt 1. ágúst, 2000.</span><span class="sxs-lookup"><span data-stu-id="744aa-153">A machine is purchased on August 1, 2000.</span></span> <span data-ttu-id="744aa-154">Stofnkostnaðurinn er 4.800.</span><span class="sxs-lookup"><span data-stu-id="744aa-154">The acquisition cost is 4,800.</span></span> <span data-ttu-id="744aa-155">Afskriftaaðferðin er línuleg til fjögurra ára.</span><span class="sxs-lookup"><span data-stu-id="744aa-155">The depreciation method is straight-line over four years.</span></span>
 
-31. ágúst, 2000, er keyrslan **Reikna afskrift** keyrð. Afskriftir eru reiknaðar sem:
+<span data-ttu-id="744aa-156">31. ágúst, 2000, er keyrslan **Reikna afskrift** keyrð.</span><span class="sxs-lookup"><span data-stu-id="744aa-156">On August 31, 2000, the **Calculate Depreciation** batch job is run.</span></span> <span data-ttu-id="744aa-157">Afskriftir eru reiknaðar sem:</span><span class="sxs-lookup"><span data-stu-id="744aa-157">Depreciation is calculated as:</span></span>
 
-*bókfært virði x fjöldi afskriftadaga / heildarfjöldi afskriftadaga = 4800 x 30 / 1440 = 100*  
+<span data-ttu-id="744aa-158">*bókfært virði x fjöldi afskriftadaga / heildarfjöldi afskriftadaga = 4800 x 30 / 1440 = 100*</span><span class="sxs-lookup"><span data-stu-id="744aa-158">*book value x number of depreciation days / total number of depreciation days = 4800 x 30 / 1440 = 100*</span></span>  
 
-september, 2000, er sölureikningur bókaður vegna málningar á vélinni. Upphæðin á reikningnum er 480.
+<span data-ttu-id="744aa-159">september, 2000, er sölureikningur bókaður vegna málningar á vélinni.</span><span class="sxs-lookup"><span data-stu-id="744aa-159">On September 15, 2000, an invoice is posted for painting the machine.</span></span> <span data-ttu-id="744aa-160">Upphæðin á reikningnum er 480.</span><span class="sxs-lookup"><span data-stu-id="744aa-160">The invoice amount is 480.</span></span>
 
-Ef valið var **Afskr. til eignabókunardags.** gátreiturinn á reikningnum fyrir bókun, fara fram eftirfarandi útreikningar:  
+<span data-ttu-id="744aa-161">Ef valið var **Afskr. til eignabókunardags.** gátreiturinn á reikningnum fyrir bókun, fara fram eftirfarandi útreikningar:</span><span class="sxs-lookup"><span data-stu-id="744aa-161">If you selected the **Depr. until FA Posting Date** check box on the invoice before posting, the following calculation is made:</span></span>  
 
-15 daga afskriftir (frá 01/09/00 til 15/09/00) eru reiknaðar sem:
+<span data-ttu-id="744aa-162">15 daga afskriftir (frá 01/09/00 til 15/09/00) eru reiknaðar sem:</span><span class="sxs-lookup"><span data-stu-id="744aa-162">15 days of depreciation (from 09/01/00 to 09/15/00) is calculated as:</span></span>
 
-*bókfært virði x fjöldi afskriftadaga / eftirstandandi fjöldi afskriftadaga = (4800 - 100) x 15 / 1410 = 50*
+<span data-ttu-id="744aa-163">*bókfært virði x fjöldi afskriftadaga / eftirstandandi fjöldi afskriftadaga = (4800 - 100) x 15 / 1410 = 50*</span><span class="sxs-lookup"><span data-stu-id="744aa-163">*book value x number of depreciation days / remaining number of depreciation days = (4800 - 100) x 15 / 1410 = 50*</span></span>
 
-Ef valið var **Afskr. kaupverðs.** gátreiturinn á reikningnum fyrir bókun, fara fram eftirfarandi útreikningar:  
+<span data-ttu-id="744aa-164">Ef valið var **Afskr. kaupverðs.** gátreiturinn á reikningnum fyrir bókun, fara fram eftirfarandi útreikningar:</span><span class="sxs-lookup"><span data-stu-id="744aa-164">If you selected the **Depr. Acquisition Cost** check box on the invoice before posting, the following calculation is made:</span></span>  
 
-*Annar stofnkostnaður er afskrifaður um ((150 x 100) / 4800) / 100 x 480 = 15*
+<span data-ttu-id="744aa-165">*Annar stofnkostnaður er afskrifaður um ((150 x 100) / 4800) / 100 x 480 = 15*</span><span class="sxs-lookup"><span data-stu-id="744aa-165">*The additional acquisition cost is depreciated by ((150 x 100) / 4800) / 100 x 480 = 15*</span></span>
 
-Afskriftagrunnurinn er núna *5280 = (4800 + 480)* og uppsafnaðar afskriftir eru *165 = (100 + 50 +15) * sem samsvarar 45 daga afskriftum á heildarkaupverði. Það merkir að eignin verði að fullu afskrifuð innan áætlaðs fjögurra ára líftíma.  
+<span data-ttu-id="744aa-166">Afskriftagrunnurinn er núna *5280 = (4800 + 480)* og uppsafnaðar afskriftir eru *165 = (100 + 50 +15) * sem samsvarar 45 daga afskriftum á heildarkaupverði.</span><span class="sxs-lookup"><span data-stu-id="744aa-166">The depreciable basis is now *5280 = (4800 + 480)*, and the accumulated depreciation is *165 = (100 + 50 + 15)*, corresponding to 45 days of depreciation of the total acquisition cost.</span></span> <span data-ttu-id="744aa-167">Það merkir að eignin verði að fullu afskrifuð innan áætlaðs fjögurra ára líftíma.</span><span class="sxs-lookup"><span data-stu-id="744aa-167">This means that the asset will be totally depreciated within the estimated lifetime of four years.</span></span>  
 
-Þegar keyrslan **Reikna afskriftir** er keyrð 30/09/00 eru útreikningar með eftirfarandi hætti:  
+<span data-ttu-id="744aa-168">Þegar keyrslan **Reikna afskriftir** er keyrð 30/09/00 eru útreikningar með eftirfarandi hætti:</span><span class="sxs-lookup"><span data-stu-id="744aa-168">When the **Calculate Depreciation** batch job is run on 09/30/00, the following calculation is made:</span></span>  
 
-*Eftirstöðvar afskriftartíma eru 3 ár, 10 mánuðir og 15 dagar = 1395 dagar*  
+<span data-ttu-id="744aa-169">*Eftirstöðvar afskriftartíma eru 3 ár, 10 mánuðir og 15 dagar = 1395 dagar*</span><span class="sxs-lookup"><span data-stu-id="744aa-169">*Remaining depreciable life is 3 years, 10 months and 15 days = 1395 days*</span></span>  
 
-*Bókfært virði er (5280 -165) = 5115*  
+<span data-ttu-id="744aa-170">*Bókfært virði er (5280 -165) = 5115*</span><span class="sxs-lookup"><span data-stu-id="744aa-170">*Book value is (5280 - 165) = 5115*</span></span>  
 
-*Afskriftaupphæð fyrir september 2000: 5115 x 15 / 1395 = 55,00*  
+<span data-ttu-id="744aa-171">*Afskriftaupphæð fyrir september 2000: 5115 x 15 / 1395 = 55,00*</span><span class="sxs-lookup"><span data-stu-id="744aa-171">*Depreciation amount for September 2000: 5115 x 15 / 1395 = 55.00*</span></span>  
 
-*Heildarafskriftir = 165 + 55 = 220*  
+<span data-ttu-id="744aa-172">*Heildarafskriftir = 165 + 55 = 220*</span><span class="sxs-lookup"><span data-stu-id="744aa-172">*Total of depreciation = 165 + 55 = 220*</span></span>  
 
-Ef þú valdir ekki gátreitinn **Afskr. til eignabókunardags.** glatar eignin 15 daga afskriftum vegna þess að keyrslan **Reikna afskriftir** sem keyrð er 30/09/00 reiknar afskriftir frá 15/09/00 til 30/09/00. Það merkir að þegar keyrslan **Reikna afskriftir** er keyrð 30/09/00 eru útreikningarnir sem hér segir:  
+<span data-ttu-id="744aa-173">Ef þú valdir ekki gátreitinn **Afskr. til eignabókunardags.** glatar eignin 15 daga afskriftum vegna þess að keyrslan **Reikna afskriftir** sem keyrð er 30/09/00 reiknar afskriftir frá 15/09/00 til 30/09/00.</span><span class="sxs-lookup"><span data-stu-id="744aa-173">If you did not select the **Depr. until FA Posting Date** check box, the asset would loose 15 days of depreciation because the **Calculate Depreciation** batch job run on 09/30/00 would calculate depreciation from 09/15/00 to 09/30/00.</span></span> <span data-ttu-id="744aa-174">Það merkir að þegar keyrslan **Reikna afskriftir** er keyrð 30/09/00 eru útreikningarnir sem hér segir:</span><span class="sxs-lookup"><span data-stu-id="744aa-174">This means that when the **Calculate Depreciation** batch job is run on 09/30/00, the calculation is as follows:</span></span>  
 
-*Eftirstöðvar líftíma eru 3 ár, 10 mánuðir og 15 dagar = 1395 dagar*  
+<span data-ttu-id="744aa-175">*Eftirstöðvar líftíma eru 3 ár, 10 mánuðir og 15 dagar = 1395 dagar*</span><span class="sxs-lookup"><span data-stu-id="744aa-175">*Remaining life time is 3 years, 10 months and 15 days = 1395 days*</span></span>  
 
-*Bókfært virði er (4800 + 480 - 100 - 15) = 5165*
+<span data-ttu-id="744aa-176">*Bókfært virði er (4800 + 480 - 100 - 15) = 5165*</span><span class="sxs-lookup"><span data-stu-id="744aa-176">*Book value is (4800 + 480 - 100 - 15) = 5165*</span></span>
 
-*Afskriftaupphæð fyrir september 2000: 5165 x 15 / 1395 = 55,54*  
+<span data-ttu-id="744aa-177">*Afskriftaupphæð fyrir september 2000: 5165 x 15 / 1395 = 55,54*</span><span class="sxs-lookup"><span data-stu-id="744aa-177">*Depreciation amount for September 2000: 5165 x 15 / 1395 = 55.54*</span></span>  
 
-*Heildarafskriftir = 100 + 15 + 55,54 = 170,54*
+<span data-ttu-id="744aa-178">*Heildarafskriftir = 100 + 15 + 55,54 = 170,54*</span><span class="sxs-lookup"><span data-stu-id="744aa-178">*Total of depreciation = 100 + 15 + 55.54 = 170.54*</span></span>
 
-## <a name="see-also"></a>Sjá einnig
-[Eignastjórnun](fa-manage.md)  
-[Uppsetning eigna](fa-setup.md)  
-[Fjármál](finance-setup.md)  
-[Velkomin í Dynamics NAV](across-get-started.md)
+## <a name="see-also"></a><span data-ttu-id="744aa-179">Sjá einnig</span><span class="sxs-lookup"><span data-stu-id="744aa-179">See Also</span></span>
+[<span data-ttu-id="744aa-180">Eignastjórnun</span><span class="sxs-lookup"><span data-stu-id="744aa-180">Manage Fixed Assets</span></span>](fa-manage.md)  
+[<span data-ttu-id="744aa-181">Uppsetning eigna</span><span class="sxs-lookup"><span data-stu-id="744aa-181">Set Up Fixed Assets</span></span>](fa-setup.md)  
+[<span data-ttu-id="744aa-182">Fjármál</span><span class="sxs-lookup"><span data-stu-id="744aa-182">Finance</span></span>](finance-setup.md)  
+[<span data-ttu-id="744aa-183">Velkomin í Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="744aa-183">Welcome to Dynamics NAV</span></span>](across-get-started.md)
 

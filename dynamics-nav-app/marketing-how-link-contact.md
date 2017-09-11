@@ -9,24 +9,25 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 35775255d4b11e98b5c7f1df0babc538d62d6698
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 7587107cfd029e483256caebba8f6af09f19e474
 ms.contentlocale: is-is
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
-# <a name="how-to-link-contacts-with-customers-vendors-and-bank-accounts"></a>Hvernig á að: Tengja tengiliði við viðskiptamenn, lánardrottna og bankareikninga.
-Hafir þú tengilið og annaðhvort viðskiptamann, lánardrottin eða bankareikning fyrir sama fyrirtækið er hægt að tengja þessa aðila saman. Það að tengja tvær einingar gerir kleift að samstilla gögnin sem eru sameiginleg þannig að sömu gögn séu á báðum stöðum.
+# <a name="how-to-link-contacts-with-customers-vendors-and-bank-accounts"></a><span data-ttu-id="8ec58-102">Hvernig á að: Tengja tengiliði við viðskiptamenn, lánardrottna og bankareikninga.</span><span class="sxs-lookup"><span data-stu-id="8ec58-102">How to: Link Contacts With Customers, Vendors, and Bank Accounts</span></span>
+<span data-ttu-id="8ec58-103">Hafir þú tengilið og annaðhvort viðskiptamann, lánardrottin eða bankareikning fyrir sama fyrirtækið er hægt að tengja þessa aðila saman.</span><span class="sxs-lookup"><span data-stu-id="8ec58-103">If you have contact and either a customer, vendor, or bank account for the same company, you can link the two entities.</span></span> <span data-ttu-id="8ec58-104">Það að tengja tvær einingar gerir kleift að samstilla gögnin sem eru sameiginleg þannig að sömu gögn séu á báðum stöðum.</span><span class="sxs-lookup"><span data-stu-id="8ec58-104">Linking the two entities enables you to synchronize data that is common so that it is the same in both places.</span></span>
 
-## <a name="link-a-contact-to-an-existing-customer-vendor-or-bank-account"></a>Tengja tengilið við viðskiptamann, lánardrottin eða bankareikning sem þegar eru til.
-1. Tengiliðurinn sem þú vilt tengja er opnaður.
-2. Veljið aðgerðina **Tengja við fyrirliggjandi** og veljið síðan **Viðskiptamaður**, **Lánardrottinn**, eða **Banki**.
-3. Veljið viðskiptamann, lánardrottin eða bankareikning sem tengja á við.
+## <a name="link-a-contact-to-an-existing-customer-vendor-or-bank-account"></a><span data-ttu-id="8ec58-105">Tengja tengilið við viðskiptamann, lánardrottin eða bankareikning sem þegar eru til.</span><span class="sxs-lookup"><span data-stu-id="8ec58-105">Link a Contact to an Existing Customer, Vendor, or Bank Account</span></span>
+1. <span data-ttu-id="8ec58-106">Tengiliðurinn sem þú vilt tengja er opnaður.</span><span class="sxs-lookup"><span data-stu-id="8ec58-106">Open the contact that you want to link.</span></span>
+2. <span data-ttu-id="8ec58-107">Veljið aðgerðina **Tengja við fyrirliggjandi** og veljið síðan **Viðskiptamaður**, **Lánardrottinn**, eða **Banki**.</span><span class="sxs-lookup"><span data-stu-id="8ec58-107">Choose the **Link with existing** action, and then choose **Customer**, **Vendor**, or **Bank**.</span></span>
+3. <span data-ttu-id="8ec58-108">Veljið viðskiptamann, lánardrottin eða bankareikning sem tengja á við.</span><span class="sxs-lookup"><span data-stu-id="8ec58-108">Select the customer, vendor, or bank account to link to.</span></span>
 
- Í **Gildandi aðalreitir** er tilgreint hvaða reitum kerfið eigi að forgangsraða ef misræmi er í reitum sem eru sameiginlegir tengiliðnum annars vegar og viðskiptamanni, lánardrottni eða bankareikningi hins vegar. Ef kóði sölumanns, til dæmis, er mismunandi milli tengiliðar og viðskiptamanns er hægt að ákveða með því að velja **Tengiliður** að nota upplýsingarnar hjá tengiliðnum.
+ <span data-ttu-id="8ec58-109">Í **Gildandi aðalreitir** er tilgreint hvaða reitum kerfið eigi að forgangsraða ef misræmi er í reitum sem eru sameiginlegir tengiliðnum annars vegar og viðskiptamanni, lánardrottni eða bankareikningi hins vegar.</span><span class="sxs-lookup"><span data-stu-id="8ec58-109">In the **Current Master Fields**, you specify which fields should prioritize in case of conflicting information in fields common to the contact and customer, vendor, or account.</span></span> <span data-ttu-id="8ec58-110">Ef kóði sölumanns, til dæmis, er mismunandi milli tengiliðar og viðskiptamanns er hægt að ákveða með því að velja **Tengiliður** að nota upplýsingarnar hjá tengiliðnum.</span><span class="sxs-lookup"><span data-stu-id="8ec58-110">For example, if the salesperson code is different in the contact than the customer, you can decide, by selecting **Contact**, to use the information in the contact.</span></span>
 
 
-##<a name="see-also"></a>Sjá einnig
-[Að samstilla tengiliði við viðskiptamenn, lánardrottna og bankareikninga](marketing-synchronize-contacts-customers-vendors-bank-accounts.md)
-[Stofna og vinna með tengiliði](marketing-contacts.md)  
+##<a name="see-also"></a><span data-ttu-id="8ec58-111">Sjá einnig</span><span class="sxs-lookup"><span data-stu-id="8ec58-111">See Also</span></span>
+<span data-ttu-id="8ec58-112">[Að samstilla tengiliði við viðskiptamenn, lánardrottna og bankareikninga](marketing-synchronize-contacts-customers-vendors-bank-accounts.md)
+[Stofna og vinna með tengiliði](marketing-contacts.md)</span><span class="sxs-lookup"><span data-stu-id="8ec58-112">[Synchronizing Contacts With Customers, Vendors, and Bank Accounts](marketing-synchronize-contacts-customers-vendors-bank-accounts.md)
+[Create and Manage Contacts](marketing-contacts.md)</span></span>  
 

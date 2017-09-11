@@ -16,86 +16,86 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-depreciate-or-amortize-fixed-assets"></a>Hvernig á að: afskrifa eða greiða af eignum
-Afskriftir eru notaðar til að dreifa kostnaði við eignir eins og tæki og búnað á afskriftartíma þeirra. Tilgreina verður afskriftaraðferð fyrir hverja eign.  
+# <a name="how-to-depreciate-or-amortize-fixed-assets"></a><span data-ttu-id="11e40-102">Hvernig á að: afskrifa eða greiða af eignum</span><span class="sxs-lookup"><span data-stu-id="11e40-102">How to: Depreciate or Amortize Fixed Assets</span></span>
+<span data-ttu-id="11e40-103">Afskriftir eru notaðar til að dreifa kostnaði við eignir eins og tæki og búnað á afskriftartíma þeirra.</span><span class="sxs-lookup"><span data-stu-id="11e40-103">Depreciation is used to allocate the cost of fixed assets, such as machinery and equipment, over their depreciable life.</span></span> <span data-ttu-id="11e40-104">Tilgreina verður afskriftaraðferð fyrir hverja eign.</span><span class="sxs-lookup"><span data-stu-id="11e40-104">For each fixed asset, you must define how it will be depreciated.</span></span>  
 
- Hægt er að bóka afskriftir með tvennum hætti:
-- Sjálfvirkt með því að keyra keyrsluna **Reikna afskriftir**.
-- Handvirkt með því að nota fjárhagsbók eigna.  
+ <span data-ttu-id="11e40-105">Hægt er að bóka afskriftir með tvennum hætti:</span><span class="sxs-lookup"><span data-stu-id="11e40-105">There are two ways to post depreciation:</span></span>
+- <span data-ttu-id="11e40-106">Sjálfvirkt með því að keyra keyrsluna **Reikna afskriftir**.</span><span class="sxs-lookup"><span data-stu-id="11e40-106">Automatically, by running the **Calculate Depreciation** batch job.</span></span>
+- <span data-ttu-id="11e40-107">Handvirkt með því að nota fjárhagsbók eigna.</span><span class="sxs-lookup"><span data-stu-id="11e40-107">Manually, by using the fixed asset G/L journal.</span></span>  
 
-Dynamics NAV getur reiknað daglegar afskriftir og er því unnt að reikna afskriftir fyrir hvaða tímabil sem er. Þess vegna er til dæmis hægt að greina rekstrarafkomu hverju sinni miðað við mánuð, ársfjórðung eða ár. Útreikningurinn notar 360 daga staðalár og 30 daga staðalmánuð. Frekari upplýsingar eru í [afskriftaaðferðir](fa-depreciation-methods.md)
+<span data-ttu-id="11e40-108">Dynamics NAV getur reiknað daglegar afskriftir og er því unnt að reikna afskriftir fyrir hvaða tímabil sem er.</span><span class="sxs-lookup"><span data-stu-id="11e40-108">Dynamics NAV can calculate daily depreciation, which allows you to calculate depreciation for any period.</span></span> <span data-ttu-id="11e40-109">Þess vegna er til dæmis hægt að greina rekstrarafkomu hverju sinni miðað við mánuð, ársfjórðung eða ár.</span><span class="sxs-lookup"><span data-stu-id="11e40-109">You can therefore analyze current operating results on, for example, a monthly, quarterly, or annual basis.</span></span> <span data-ttu-id="11e40-110">Útreikningurinn notar 360 daga staðalár og 30 daga staðalmánuð.</span><span class="sxs-lookup"><span data-stu-id="11e40-110">The calculation uses a standard year of 360 days and a standard month of 30 days.</span></span> <span data-ttu-id="11e40-111">Frekari upplýsingar eru í [afskriftaaðferðir](fa-depreciation-methods.md)</span><span class="sxs-lookup"><span data-stu-id="11e40-111">For more information, see [Depreciation Methods](fa-depreciation-methods.md).</span></span>
 
-Ef margar deildir nota eign er hægt að dreifa tímabilsafskriftum sjálfvirkt á deildirnar samkvæmt úthlutunartöflu sem notandi skilgreinir.  
+<span data-ttu-id="11e40-112">Ef margar deildir nota eign er hægt að dreifa tímabilsafskriftum sjálfvirkt á deildirnar samkvæmt úthlutunartöflu sem notandi skilgreinir.</span><span class="sxs-lookup"><span data-stu-id="11e40-112">If a fixed asset is used by several departments, periodic depreciation can be automatically allocated to these departments according to a user-defined allocation table.</span></span>  
 
-Hægt er að hætta við rangar færslur í afskriftabók með því að nota keyrsluna **Hætta við eignabókarfærslur**. Að því loknu er hægt að bóka rétta afskriftarupphæð með því að keyra keyrsluna **Reikna afskriftir** aftur. Þegar villur eru leiðréttar eru þær bókaðar sem rangar eignafærslur.  
+<span data-ttu-id="11e40-113">Hægt er að hætta við rangar færslur í afskriftabók með því að nota keyrsluna **Hætta við eignabókarfærslur**.</span><span class="sxs-lookup"><span data-stu-id="11e40-113">You can cancel incorrect depreciation entries with the **Cancel FA Ledger Entries** batch job.</span></span> <span data-ttu-id="11e40-114">Að því loknu er hægt að bóka rétta afskriftarupphæð með því að keyra keyrsluna **Reikna afskriftir** aftur.</span><span class="sxs-lookup"><span data-stu-id="11e40-114">After this, you can post the correct amount of depreciation by running the **Calculate Depreciation** batch job again.</span></span> <span data-ttu-id="11e40-115">Þegar villur eru leiðréttar eru þær bókaðar sem rangar eignafærslur.</span><span class="sxs-lookup"><span data-stu-id="11e40-115">When you correct errors, they are posted as fixed asset error ledger entries.</span></span>  
 
-Endurmat er notað til að laga virði að almennum verðbreytingum. Hægt er að nota keyrsluna **Endurmat eigna** til að endurreikna upphæðir afskrifta.  
+<span data-ttu-id="11e40-116">Endurmat er notað til að laga virði að almennum verðbreytingum.</span><span class="sxs-lookup"><span data-stu-id="11e40-116">Indexation is used to adjust values for general price-level changes.</span></span> <span data-ttu-id="11e40-117">Hægt er að nota keyrsluna **Endurmat eigna** til að endurreikna upphæðir afskrifta.</span><span class="sxs-lookup"><span data-stu-id="11e40-117">The **Index Fixed Assets** batch job can be used to recalculate the depreciation amounts.</span></span>  
 
-## <a name="to-calculate-a-depreciation-automatically"></a>Afskriftir reiknaðar sjálfvirkt:
-Hægt er að keyra keyrsluna **Reikna afskriftir** mánaðarlega eða hvenær sem óskað er. Seldar eignir, eignir sem eru lokaðar eða óvirkar og eignir sem afskrifaðar eru handvirkt eru hunsaðar.    
+## <a name="to-calculate-a-depreciation-automatically"></a><span data-ttu-id="11e40-118">Afskriftir reiknaðar sjálfvirkt:</span><span class="sxs-lookup"><span data-stu-id="11e40-118">To calculate a depreciation automatically</span></span>
+<span data-ttu-id="11e40-119">Hægt er að keyra keyrsluna **Reikna afskriftir** mánaðarlega eða hvenær sem óskað er.</span><span class="sxs-lookup"><span data-stu-id="11e40-119">Once a month, or whenever you choose, you can run the **Calculate Depreciation** batch job.</span></span> <span data-ttu-id="11e40-120">Seldar eignir, eignir sem eru lokaðar eða óvirkar og eignir sem afskrifaðar eru handvirkt eru hunsaðar.</span><span class="sxs-lookup"><span data-stu-id="11e40-120">Fixed assets that have been sold, assets that are blocked or inactive, and fixed assets that use the manual depreciation method are ignored.</span></span>    
 
-1. Í efra hægri horni skal velja táknið **Leita að síðu eða skýrslu** , slá inn **reikna afskrift**, og velja síðan viðeigandi tengil.  
-2. Fyllið inn í svæðin eftir þörfum. Velja reit til að lesa inn stutta lýsingu á reitnum eða tengil í frekari upplýsingar.
-3. Velja hnappinn **Í lagi**.  
+1. <span data-ttu-id="11e40-121">Í efra hægri horni skal velja táknið **Leita að síðu eða skýrslu** , slá inn **reikna afskrift**, og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="11e40-121">In the top right corner, choose the **Search for Page or Report** icon, enter **Calculate Depreciation**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="11e40-122">Fyllið inn í svæðin eftir þörfum.</span><span class="sxs-lookup"><span data-stu-id="11e40-122">Fill in the fields as necessary.</span></span> <span data-ttu-id="11e40-123">Velja reit til að lesa inn stutta lýsingu á reitnum eða tengil í frekari upplýsingar.</span><span class="sxs-lookup"><span data-stu-id="11e40-123">Choose a field to read a short description of the field or link to more information.</span></span>
+3. <span data-ttu-id="11e40-124">Velja hnappinn **Í lagi**.</span><span class="sxs-lookup"><span data-stu-id="11e40-124">Choose the **OK** button.</span></span>  
 
-    Keyrslan reiknar afskriftirnar og býr til línur í eignafjárhagsbók.  
-4. Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **fjárhagsbók eigna**, og velja síðan viðeigandi tengil.
+    <span data-ttu-id="11e40-125">Keyrslan reiknar afskriftirnar og býr til línur í eignafjárhagsbók.</span><span class="sxs-lookup"><span data-stu-id="11e40-125">The batch job calculates the depreciation and creates lines in the fixed asset G/L journal.</span></span>  
+4. <span data-ttu-id="11e40-126">Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **fjárhagsbók eigna**, og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="11e40-126">In the top right corner, choose the **Search for Page or Report** icon, enter **FA G/L Journals**, and then choose the related link.</span></span>
 
-    Í glugganum **eignafjárhagsbók** í reitnum **Fjöldi afskriftadaga** má sjá hve margir afskriftadagar hafa verið reiknaðir.  
-5. Valið er **bóka** aðgerð.
+    <span data-ttu-id="11e40-127">Í glugganum **eignafjárhagsbók** í reitnum **Fjöldi afskriftadaga** má sjá hve margir afskriftadagar hafa verið reiknaðir.</span><span class="sxs-lookup"><span data-stu-id="11e40-127">In the **Fixed Asset G/L Journal** window, in the **No. of Depreciation Days** field you can see how many days of depreciation have been calculated.</span></span>  
+5. <span data-ttu-id="11e40-128">Valið er **bóka** aðgerð.</span><span class="sxs-lookup"><span data-stu-id="11e40-128">Choose the **Post** action.</span></span>
 
-## <a name="to-post-a-depreciation-manually-from-the-fixed-asset-gl-journal"></a>Bóka afskrift handvirkt úr fjárhagsbók eigna
-1. Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **fjárhagsbók eigna**, og velja síðan viðeigandi tengil.  
-2. Stofnaður er upprunaleg Færslubókarlína og reitirnir fylltir út eftir þörfum.
-3. Í reitnum **Eignabókunartegund** er valinn **afskrift**.
-4. Valið er **Setja inn mótreikn. eigna** aðgerð. Seinni færslubókarlína er búin til fyrir mótreiknings sem er sett upp fyrir bókun afskriftar. Nánari upplýsingar eru í "setja upp bókunarflokka eigna" hlutanum í [Hvernig: Setja Upp almennar upplýsingar um eignir](fa-how-setup-general.md).
-5. Á flipanum **Heim** veljið **Bóka** til að bóka færslubókina.
+## <a name="to-post-a-depreciation-manually-from-the-fixed-asset-gl-journal"></a><span data-ttu-id="11e40-129">Bóka afskrift handvirkt úr fjárhagsbók eigna</span><span class="sxs-lookup"><span data-stu-id="11e40-129">To post a depreciation manually from the fixed asset G/L journal</span></span>
+1. <span data-ttu-id="11e40-130">Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **fjárhagsbók eigna**, og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="11e40-130">In the top right corner, choose the **Search for Page or Report** icon, enter **Fixed Asset G/L Journal**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="11e40-131">Stofnaður er upprunaleg Færslubókarlína og reitirnir fylltir út eftir þörfum.</span><span class="sxs-lookup"><span data-stu-id="11e40-131">Create an initial journal line and fill in the fields as necessary.</span></span>
+3. <span data-ttu-id="11e40-132">Í reitnum **Eignabókunartegund** er valinn **afskrift**.</span><span class="sxs-lookup"><span data-stu-id="11e40-132">In the **FA Posting Type** field, select **Depreciation**.</span></span>
+4. <span data-ttu-id="11e40-133">Valið er **Setja inn mótreikn. eigna** aðgerð.</span><span class="sxs-lookup"><span data-stu-id="11e40-133">Choose the **Insert FA Bal. Account** action.</span></span> <span data-ttu-id="11e40-134">Seinni færslubókarlína er búin til fyrir mótreiknings sem er sett upp fyrir bókun afskriftar.</span><span class="sxs-lookup"><span data-stu-id="11e40-134">A second journal line is created for the balancing account that is set up for depreciation posting.</span></span> <span data-ttu-id="11e40-135">Nánari upplýsingar eru í "setja upp bókunarflokka eigna" hlutanum í [Hvernig: Setja Upp almennar upplýsingar um eignir](fa-how-setup-general.md).</span><span class="sxs-lookup"><span data-stu-id="11e40-135">For more information, see the "To set up fixed asset posting groups" section in [How to: Set Up General Fixed Asset Information](fa-how-setup-general.md).</span></span>
+5. <span data-ttu-id="11e40-136">Á flipanum **Heim** veljið **Bóka** til að bóka færslubókina.</span><span class="sxs-lookup"><span data-stu-id="11e40-136">On the **Home** tab, choose **Post** to post the journal.</span></span>
 
-Ef settir hafa verið eignaúthlutunarlyklar til að úthluta upphæðum á mismunandi deildir eða verkefni, þá verða upphæðirnar úthlutað á meðan á bókun stendur. Nánari upplýsingar sjá [Hvernig: setja upp almennar upplýsingar um eignir](fa-how-setup-general.md).
+<span data-ttu-id="11e40-137">Ef settir hafa verið eignaúthlutunarlyklar til að úthluta upphæðum á mismunandi deildir eða verkefni, þá verða upphæðirnar úthlutað á meðan á bókun stendur.</span><span class="sxs-lookup"><span data-stu-id="11e40-137">If you have set up fixed asset allocation keys to allocate amounts to different departments or projects, then the amounts will be allocated during posting.</span></span> <span data-ttu-id="11e40-138">Nánari upplýsingar sjá [Hvernig: setja upp almennar upplýsingar um eignir](fa-how-setup-general.md).</span><span class="sxs-lookup"><span data-stu-id="11e40-138">For more information, see [How to: Set Up General Fixed Assets Information](fa-how-setup-general.md).</span></span>
 
-## <a name="to-calculate-allocations-in-the-fixed-asset-gl-journal"></a>Reikna út úthlutanir í eignafjárhagsbókum:
-Ef margar deildir nota eign er hægt að dreifa tímabilsafskriftum sjálfvirkt á deildirnar samkvæmt úthlutunartöflu sem notandi skilgreinir.  
+## <a name="to-calculate-allocations-in-the-fixed-asset-gl-journal"></a><span data-ttu-id="11e40-139">Reikna út úthlutanir í eignafjárhagsbókum:</span><span class="sxs-lookup"><span data-stu-id="11e40-139">To calculate allocations in the fixed asset G/L journal</span></span>
+<span data-ttu-id="11e40-140">Ef margar deildir nota eign er hægt að dreifa tímabilsafskriftum sjálfvirkt á deildirnar samkvæmt úthlutunartöflu sem notandi skilgreinir.</span><span class="sxs-lookup"><span data-stu-id="11e40-140">If a fixed asset is used by several departments, periodic depreciation can be automatically allocated to these departments according to a user-defined allocation table.</span></span>  
 
-1. Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **fjárhagsbók eigna**, og velja síðan viðeigandi tengil.   
-Stofnaður er Færslubókarlína og reitirnir fylltir út eftir þörfum.
-3. Í reitnum **Eignabókunartegund** er valinn **úthlutun**.
-4. Valið er **Setja inn mótreikn. eigna** aðgerð. Seinni færslubókarlína er búin til fyrir mótreiknings sem er sett upp fyrir bókun úthlutunar.
-5. Á flipanum **Heim** veljið **Bóka** til að bóka færslubókina.
+1. <span data-ttu-id="11e40-141">Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **fjárhagsbók eigna**, og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="11e40-141">In the top right corner, choose the **Search for Page or Report** icon, enter **Fixed Asset G/L Journal**, and then choose the related link.</span></span>   
+<span data-ttu-id="11e40-142">Stofnaður er Færslubókarlína og reitirnir fylltir út eftir þörfum.</span><span class="sxs-lookup"><span data-stu-id="11e40-142">Create an initial line and fill in the fields as necessary.</span></span>
+3. <span data-ttu-id="11e40-143">Í reitnum **Eignabókunartegund** er valinn **úthlutun**.</span><span class="sxs-lookup"><span data-stu-id="11e40-143">In the **FA Posting Type** field, select **Allocation**.</span></span>
+4. <span data-ttu-id="11e40-144">Valið er **Setja inn mótreikn. eigna** aðgerð.</span><span class="sxs-lookup"><span data-stu-id="11e40-144">Choose the **Insert FA Bal. Account** action.</span></span> <span data-ttu-id="11e40-145">Seinni færslubókarlína er búin til fyrir mótreiknings sem er sett upp fyrir bókun úthlutunar.</span><span class="sxs-lookup"><span data-stu-id="11e40-145">A second journal line is created for the balancing account that is set up for allocation posting.</span></span>
+5. <span data-ttu-id="11e40-146">Á flipanum **Heim** veljið **Bóka** til að bóka færslubókina.</span><span class="sxs-lookup"><span data-stu-id="11e40-146">On the **Home** tab, choose **Post** to post the journal.</span></span>
 
-## <a name="use-duplication-lists-to-prepare-to-post-to-multiple-depreciation-books"></a>Nota Afritunarlista nota til undirbúa að bóka margar afskriftabækur  
-Þegar fylltar eru út færslubókarlínur sem á að bóka í afskriftabók er hægt að afrita línurnar í aðra bók, hvaðan hægt er að bóka þær í aðra afskriftabók. Nánari upplýsingar eru í "bóka færslur í mismunandi afskriftabækur" hlutanum.
+## <a name="use-duplication-lists-to-prepare-to-post-to-multiple-depreciation-books"></a><span data-ttu-id="11e40-147">Nota Afritunarlista nota til undirbúa að bóka margar afskriftabækur</span><span class="sxs-lookup"><span data-stu-id="11e40-147">Use duplication lists to prepare to post to multiple depreciation books</span></span>  
+<span data-ttu-id="11e40-148">Þegar fylltar eru út færslubókarlínur sem á að bóka í afskriftabók er hægt að afrita línurnar í aðra bók, hvaðan hægt er að bóka þær í aðra afskriftabók.</span><span class="sxs-lookup"><span data-stu-id="11e40-148">When you fill in journal lines to be posted to a depreciation book, you can duplicate the lines in a separate journal, after which they can be posted to a different depreciation book.</span></span> <span data-ttu-id="11e40-149">Nánari upplýsingar eru í "bóka færslur í mismunandi afskriftabækur" hlutanum.</span><span class="sxs-lookup"><span data-stu-id="11e40-149">For more information, see the "To post entries to different depreciation books" section.</span></span>
 
-1. Í efra hægri horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **afskriftarbækur**, og velja síðan viðeigandi tengil.  
-2. Viðeigandi afskriftabók er valin, smellt á gátreitinn **hluti afritunarlista**.  
+1. <span data-ttu-id="11e40-150">Í efra hægri horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **afskriftarbækur**, og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="11e40-150">In the top right corner, choose the **Search for Page or Report** icon, enter **Depreciation Books**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="11e40-151">Viðeigandi afskriftabók er valin, smellt á gátreitinn **hluti afritunarlista**.</span><span class="sxs-lookup"><span data-stu-id="11e40-151">Open the relevant depreciation book, and then select the **Part of Duplication List** check box.</span></span>  
 
-**Mikilvægt**: Ef reiturinn **Nota afritalista** hefur verið valinn skal ekki nota númeraraðir í færslubókinni. Ástæðan fyrir þessu er að númeraraðir fyrir fjárhagsbók eigna tekur ekki númeraröðinni fyrir færslubók eigna.
+<span data-ttu-id="11e40-152">**Mikilvægt**: Ef reiturinn **Nota afritalista** hefur verið valinn skal ekki nota númeraraðir í færslubókinni.</span><span class="sxs-lookup"><span data-stu-id="11e40-152">**Important**: If you have selected the **Use Duplication List** field, do not use number series on the journal.</span></span> <span data-ttu-id="11e40-153">Ástæðan fyrir þessu er að númeraraðir fyrir fjárhagsbók eigna tekur ekki númeraröðinni fyrir færslubók eigna.</span><span class="sxs-lookup"><span data-stu-id="11e40-153">The reason is that the number series for the fixed asset G/L journal does not the number series for the fixed asset journal.</span></span>
 
-## <a name="to-post-entries-to-different-depreciation-books"></a>Færslur bókaðar í mismunandi afskriftabækur  
-1. Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **fjárhagsbók eigna**, og velja síðan viðeigandi tengil.
-2. Í bókinni sem á að bóka afskriftir með, skal velja **Nota Afritalista** gátreitinn.
-3. Fyllið inn í eftirstandandi reiti eftir þörfum.
-4. Valið er **bóka** aðgerð.
-5. Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **eignabækur**, og velja síðan viðeigandi tengil.
+## <a name="to-post-entries-to-different-depreciation-books"></a><span data-ttu-id="11e40-154">Færslur bókaðar í mismunandi afskriftabækur</span><span class="sxs-lookup"><span data-stu-id="11e40-154">To post entries to different depreciation books</span></span>  
+1. <span data-ttu-id="11e40-155">Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **fjárhagsbók eigna**, og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="11e40-155">In the top right corner, choose the **Search for Page or Report** icon, enter **Fixed Asset G/L Journal**, and then choose the related link.</span></span>
+2. <span data-ttu-id="11e40-156">Í bókinni sem á að bóka afskriftir með, skal velja **Nota Afritalista** gátreitinn.</span><span class="sxs-lookup"><span data-stu-id="11e40-156">In the journal that you want to post depreciation with, select the **Use Duplication List** check box.</span></span>
+3. <span data-ttu-id="11e40-157">Fyllið inn í eftirstandandi reiti eftir þörfum.</span><span class="sxs-lookup"><span data-stu-id="11e40-157">Fill in the remaining fields as necessary.</span></span>
+4. <span data-ttu-id="11e40-158">Valið er **bóka** aðgerð.</span><span class="sxs-lookup"><span data-stu-id="11e40-158">Choose the **Post** action.</span></span>
+5. <span data-ttu-id="11e40-159">Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **eignabækur**, og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="11e40-159">In the top right corner, choose the **Search for Page or Report** icon, enter **FA Journals**, and then choose the related link.</span></span>
 
-    Glugginn **Eignabók** inniheldur nýjar línur fyrir mismunandi afskriftabækur samkvæmt afritunarlista.   
+    <span data-ttu-id="11e40-160">Glugginn **Eignabók** inniheldur nýjar línur fyrir mismunandi afskriftabækur samkvæmt afritunarlista.</span><span class="sxs-lookup"><span data-stu-id="11e40-160">The **Fixed Asset Journal** window contains new lines for different depreciation books according to the duplication list.</span></span>   
 
-6. Skoða eða breyta línunum og síðan valið **Bóka** aðgerð.
+6. <span data-ttu-id="11e40-161">Skoða eða breyta línunum og síðan valið **Bóka** aðgerð.</span><span class="sxs-lookup"><span data-stu-id="11e40-161">Review or edit the lines, and then choose the **Post** action.</span></span>
 
-**Athugasemd**: Einnig er hægt að afrita færslu í aðra bók með því að rita afskriftabókarkóta í reitinn **Afrit í afskriftabók** þegar bókarlína er fyllt út.
+<span data-ttu-id="11e40-162">**Athugasemd**: Einnig er hægt að afrita færslu í aðra bók með því að rita afskriftabókarkóta í reitinn **Afrit í afskriftabók** þegar bókarlína er fyllt út.</span><span class="sxs-lookup"><span data-stu-id="11e40-162">**Note**: Another way to duplicate an entry in a separate book is to enter a depreciation book code in the **Duplicate in Depreciation Book** field when you fill in a journal line.</span></span>
 
-Hægt er að nota keyrsluna **Afrita afskriftabók** til að afrita færslur úr einni afskriftabók í aðra. Við keyrsluna verða til bókarlínur í bókarkeyrslunni sem tilgreind var í glugganum **Eignabókaruppsetning** fyrir afskriftabókina sem á að afrita í. Nánari upplýsingar má finna hér á eftir.
+<span data-ttu-id="11e40-163">Hægt er að nota keyrsluna **Afrita afskriftabók** til að afrita færslur úr einni afskriftabók í aðra.</span><span class="sxs-lookup"><span data-stu-id="11e40-163">You can copy entries from one depreciation book to another with the **Copy Depreciation Book** batch job.</span></span> <span data-ttu-id="11e40-164">Við keyrsluna verða til bókarlínur í bókarkeyrslunni sem tilgreind var í glugganum **Eignabókaruppsetning** fyrir afskriftabókina sem á að afrita í.</span><span class="sxs-lookup"><span data-stu-id="11e40-164">The batch job creates journal lines in the journal batch that you have specified in the **FA Journal Setup** window for the depreciation book that you want to copy to.</span></span> <span data-ttu-id="11e40-165">Nánari upplýsingar má finna hér á eftir.</span><span class="sxs-lookup"><span data-stu-id="11e40-165">For more information, see the following procedure.</span></span>
 
-## <a name="to-copy-fixed-asset-ledger-entries-between-depreciation-books"></a>Til að afrita eignafærslur milli afskriftabækur  
-1. Í efra hægri horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **afskriftarbækur**, og velja síðan viðeigandi tengil.
-2. Opna skal viðeigandi kort afskriftabókar og veljið síðan aðgerðina **afrita afskriftabók**.  
-3. Í glugganum **afrita afskriftabók** þarf að fylla reitina út eftir þörfum.  
-4. Velja hnappinn **Í lagi**.  
+## <a name="to-copy-fixed-asset-ledger-entries-between-depreciation-books"></a><span data-ttu-id="11e40-166">Til að afrita eignafærslur milli afskriftabækur</span><span class="sxs-lookup"><span data-stu-id="11e40-166">To copy fixed asset ledger entries between depreciation books</span></span>  
+1. <span data-ttu-id="11e40-167">Í efra hægri horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **afskriftarbækur**, og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="11e40-167">In the top right corner, choose the **Search for Page or Report** icon, enter **Depreciation Books**, and then choose the related link.</span></span>
+2. <span data-ttu-id="11e40-168">Opna skal viðeigandi kort afskriftabókar og veljið síðan aðgerðina **afrita afskriftabók**.</span><span class="sxs-lookup"><span data-stu-id="11e40-168">Open the relevant depreciation book card, and then choose the **Copy Depreciation Book** action.</span></span>  
+3. <span data-ttu-id="11e40-169">Í glugganum **afrita afskriftabók** þarf að fylla reitina út eftir þörfum.</span><span class="sxs-lookup"><span data-stu-id="11e40-169">In the **Copy Depreciation Book** window, fill in the fields as necessary.</span></span>  
+4. <span data-ttu-id="11e40-170">Velja hnappinn **Í lagi**.</span><span class="sxs-lookup"><span data-stu-id="11e40-170">Choose the **OK** button.</span></span>  
 
-Afrituðu línurnar eru annaðhvort búnar til í fjárhagsbók eigna eða eignabókinni eftir því hvort afskriftabókin sem þú ert að afrita er með samþættingu við fjárhag.
+<span data-ttu-id="11e40-171">Afrituðu línurnar eru annaðhvort búnar til í fjárhagsbók eigna eða eignabókinni eftir því hvort afskriftabókin sem þú ert að afrita er með samþættingu við fjárhag.</span><span class="sxs-lookup"><span data-stu-id="11e40-171">The copied lines are created in either the fixed asset G/L journal or the fixed asset journal, depending on whether the depreciation book that you are copying has integration to the general ledger.</span></span>
 
-## <a name="see-also"></a>Sjá einnig
-[Eignastjórnun](fa-manage.md)  
-[Uppsetning eigna](fa-setup.md)  
-[Fjármál](finance-setup.md)  
-[Velkomin í Dynamics NAV](across-get-started.md)
+## <a name="see-also"></a><span data-ttu-id="11e40-172">Sjá einnig</span><span class="sxs-lookup"><span data-stu-id="11e40-172">See Also</span></span>
+[<span data-ttu-id="11e40-173">Eignastjórnun</span><span class="sxs-lookup"><span data-stu-id="11e40-173">Manage Fixed Assets</span></span>](fa-manage.md)  
+[<span data-ttu-id="11e40-174">Uppsetning eigna</span><span class="sxs-lookup"><span data-stu-id="11e40-174">Set Up Fixed Assets</span></span>](fa-setup.md)  
+[<span data-ttu-id="11e40-175">Fjármál</span><span class="sxs-lookup"><span data-stu-id="11e40-175">Finance</span></span>](finance-setup.md)  
+[<span data-ttu-id="11e40-176">Velkomin í Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="11e40-176">Welcome to Dynamics NAV</span></span>](across-get-started.md)
 

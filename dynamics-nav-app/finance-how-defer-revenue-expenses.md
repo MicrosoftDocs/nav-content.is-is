@@ -16,73 +16,73 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-defer-revenues-and-expenses"></a>Hvernig á að: Defer Tekjum og önnur Útgjöld
-Hægt er að nota þessa aðgerð til samþykktar tekna á eða fyrir kostnað tímabil en tímabil sem færslan var bókuð í til sjálfkrafa defer tekjum og önnur útgjöld yfir tiltekinni áætlun.
+# <a name="how-to-defer-revenues-and-expenses"></a><span data-ttu-id="cd552-102">Hvernig á að: Defer Tekjum og önnur Útgjöld</span><span class="sxs-lookup"><span data-stu-id="cd552-102">How to: Defer Revenues and Expenses</span></span>
+<span data-ttu-id="cd552-103">Hægt er að nota þessa aðgerð til samþykktar tekna á eða fyrir kostnað tímabil en tímabil sem færslan var bókuð í til sjálfkrafa defer tekjum og önnur útgjöld yfir tiltekinni áætlun.</span><span class="sxs-lookup"><span data-stu-id="cd552-103">To recognize a revenue or an expense in a period other than the period in which the transaction was posted, you can use functionality to automatically defer revenues and expenses over a specified schedule.</span></span>
 
-Dreifa tekjur eða útgjöld fjárhagstímabila sem á að setja upp sniðmát deferral sem forðinn, varan eða fjárhagsreikningurinn sem tekjur eða kostnaðinn bókast. Þegar tengdar sölu eða innkaupaskjal er bókað fylgiskjal á tekjur eða kostnaðinn eru deferred til sögu reikningstímabil samkvæmt tímaáætlun deferral sem er stjórnað af stillingar í sniðmáti deferral og bókunardagsetningu.
+<span data-ttu-id="cd552-104">Dreifa tekjur eða útgjöld fjárhagstímabila sem á að setja upp sniðmát deferral sem forðinn, varan eða fjárhagsreikningurinn sem tekjur eða kostnaðinn bókast.</span><span class="sxs-lookup"><span data-stu-id="cd552-104">To distribute revenues or expenses on the involved accounting periods, you set up a deferral template for the resource, item, or G/L account that the revenue or expense will be posted for.</span></span> <span data-ttu-id="cd552-105">Þegar tengdar sölu eða innkaupaskjal er bókað fylgiskjal á tekjur eða kostnaðinn eru deferred til sögu reikningstímabil samkvæmt tímaáætlun deferral sem er stjórnað af stillingar í sniðmáti deferral og bókunardagsetningu.</span><span class="sxs-lookup"><span data-stu-id="cd552-105">When you post the related sales or purchase document, the revenue or expense are deferred to the involved accounting periods, according to a deferral schedule that is governed by settings in the deferral template and the posting date.</span></span>
 
-## <a name="to-set-up-a-gl-account-for-deferral"></a>Verð sett upp fyrir fjárhagsreikning verks:
-1. Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **bókhaldslykill**, og velja síðan viðeigandi tengil.
-2. Valið er **Nýtt** aðgerð.
-3. Fyllt er út í reiti sem nauðsynlegt að stofna reikning fyrir deferred tekjur Fjárhags. Frekari upplýsingar er að finna í [Fjárhagur og bókhaldslyklar](finance-setup-general-ledger.md).
-3. Endurtaka skal þrep 2 og 3 eru endurtekin til að stofna nýjan reikning Fjárhags fyrir deferred útgjöld.
+## <a name="to-set-up-a-gl-account-for-deferral"></a><span data-ttu-id="cd552-106">Verð sett upp fyrir fjárhagsreikning verks:</span><span class="sxs-lookup"><span data-stu-id="cd552-106">To set up a G/L account for deferral</span></span>
+1. <span data-ttu-id="cd552-107">Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **bókhaldslykill**, og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="cd552-107">In the top right corner, choose the **Search for Page or Report** icon, enter **Chart of Accounts**, and then choose the related link.</span></span>
+2. <span data-ttu-id="cd552-108">Valið er **Nýtt** aðgerð.</span><span class="sxs-lookup"><span data-stu-id="cd552-108">Choose the **New** action.</span></span>
+3. <span data-ttu-id="cd552-109">Fyllt er út í reiti sem nauðsynlegt að stofna reikning fyrir deferred tekjur Fjárhags.</span><span class="sxs-lookup"><span data-stu-id="cd552-109">Fill in the fields as necessary to create a G/L account for deferred revenues.</span></span> <span data-ttu-id="cd552-110">Frekari upplýsingar er að finna í [Fjárhagur og bókhaldslyklar](finance-setup-general-ledger.md).</span><span class="sxs-lookup"><span data-stu-id="cd552-110">For more information, see [The General Ledger and the Chart of Accounts](finance-setup-general-ledger.md).</span></span>
+3. <span data-ttu-id="cd552-111">Endurtaka skal þrep 2 og 3 eru endurtekin til að stofna nýjan reikning Fjárhags fyrir deferred útgjöld.</span><span class="sxs-lookup"><span data-stu-id="cd552-111">Repeat steps 2 and 3 to create a new G/L account for deferred expenses.</span></span>
 
-Fyrir báðar gerðir deferral, velja **Efnahagsreikningur** í reitnum **Tegund** og heiti reikninga athuga, t.d. "Óinnleystra Tekna" deferred tekjum og "Ógreidda Útgjöld" fyrir deferred útgjöld.
+<span data-ttu-id="cd552-112">Fyrir báðar gerðir deferral, velja **Efnahagsreikningur** í reitnum **Tegund** og heiti reikninga athuga, t.d. "Óinnleystra Tekna" deferred tekjum og "Ógreidda Útgjöld" fyrir deferred útgjöld.</span><span class="sxs-lookup"><span data-stu-id="cd552-112">For both types of deferral, select **Balance Sheet** in the **Type** field, and name the accounts appropriately, such as "Unearned Income" for deferred revenues and "Unpaid Expenses" for deferred expenses.</span></span>
 
-## <a name="to-set-up-a-deferral-template"></a>Uppsetning sniðmáts viðskiptamanns
-1. Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **sniðmát eignabóka**, og velja síðan viðeigandi tengil.
-2. Valið er **Nýtt** aðgerð.
-3. Fyllið inn í svæðin eftir þörfum.
-4. Í á **Reikningsaðferð** er tilgreint hvernig **Upphæð** á hverju tímabili í á **Deferral Áætlun** glugganum reiknuð. Hægt er að velja um eftirfarandi kosti:
-    - **Línuleg**: reglubundin deferral upphæðir eru reiknaðar fjölda tímabila dreift eftir lengd tímabils.
-    - **Línuleg**: reglubundin deferral upphæðir eru reiknaðar fjölda tímabila dreift eftir lengd tímabils.
-    - **Línuleg**: reglubundin deferral upphæðir eru reiknaðar fjölda tímabila dreift eftir lengd tímabils.
-    - **Notandi Skilgreinir**: reglubundin deferral upphæðir eru ekki reiknaðir. Handvirkt er þarf að fylla í reitinn Upphæð fyrir hvert tímabil í glugganum Deferral Áætlun. Frekari upplýsingar má fá í hlutanum "til Að breyta tímaáætlun deferral úr sölureikningi".
+## <a name="to-set-up-a-deferral-template"></a><span data-ttu-id="cd552-113">Uppsetning sniðmáts viðskiptamanns</span><span class="sxs-lookup"><span data-stu-id="cd552-113">To set up a deferral template</span></span>
+1. <span data-ttu-id="cd552-114">Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **sniðmát eignabóka**, og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="cd552-114">In the top right corner, choose the **Search for Page or Report** icon, enter **Deferral Templates**, and then choose the related link.</span></span>
+2. <span data-ttu-id="cd552-115">Valið er **Nýtt** aðgerð.</span><span class="sxs-lookup"><span data-stu-id="cd552-115">Choose the **New** action.</span></span>
+3. <span data-ttu-id="cd552-116">Fyllið inn í svæðin eftir þörfum.</span><span class="sxs-lookup"><span data-stu-id="cd552-116">Fill in the fields as necessary.</span></span>
+4. <span data-ttu-id="cd552-117">Í á **Reikningsaðferð** er tilgreint hvernig **Upphæð** á hverju tímabili í á **Deferral Áætlun** glugganum reiknuð.</span><span class="sxs-lookup"><span data-stu-id="cd552-117">In the **Calc. Method** field, specify how the **Amount** field for each period in the **Deferral Schedule** window is calculated.</span></span> <span data-ttu-id="cd552-118">Hægt er að velja um eftirfarandi kosti:</span><span class="sxs-lookup"><span data-stu-id="cd552-118">You can choose between the following options:</span></span>
+    - <span data-ttu-id="cd552-119">**Línuleg**: reglubundin deferral upphæðir eru reiknaðar fjölda tímabila dreift eftir lengd tímabils.</span><span class="sxs-lookup"><span data-stu-id="cd552-119">**Straight-Line**: The periodic deferral amounts are calculated according to the number of periods, distributed according to period length.</span></span>
+    - <span data-ttu-id="cd552-120">**Línuleg**: reglubundin deferral upphæðir eru reiknaðar fjölda tímabila dreift eftir lengd tímabils.</span><span class="sxs-lookup"><span data-stu-id="cd552-120">**Equal Per Period**: The periodic deferral amounts are calculated according to the number of periods, distributed evenly on periods.</span></span>
+    - <span data-ttu-id="cd552-121">**Línuleg**: reglubundin deferral upphæðir eru reiknaðar fjölda tímabila dreift eftir lengd tímabils.</span><span class="sxs-lookup"><span data-stu-id="cd552-121">**Days Per Period**: The periodic deferral amounts are calculated according to the number of days in the period.</span></span>
+    - <span data-ttu-id="cd552-122">**Notandi Skilgreinir**: reglubundin deferral upphæðir eru ekki reiknaðir.</span><span class="sxs-lookup"><span data-stu-id="cd552-122">**User-Defined**: The periodic deferral amounts are not calculated.</span></span> <span data-ttu-id="cd552-123">Handvirkt er þarf að fylla í reitinn Upphæð fyrir hvert tímabil í glugganum Deferral Áætlun.</span><span class="sxs-lookup"><span data-stu-id="cd552-123">You must manually fill the Amount field for each period in the Deferral Schedule window.</span></span> <span data-ttu-id="cd552-124">Frekari upplýsingar má fá í hlutanum "til Að breyta tímaáætlun deferral úr sölureikningi".</span><span class="sxs-lookup"><span data-stu-id="cd552-124">For more information, see the “To change a deferral schedule from a sales invoice” section.</span></span>
 
-5. Í reitnum **Desc Tímabils.** Tilgreinir lýsingu sem verður birt í færslum fyrir bókun frestunar. Má færa kóta eftirfarandi frátaka fyrir dæmigerðum gildi sem er settur sjálfkrafa þegar tímabil lýsing birtist.
-    - %1 = Daganúmer bókunardagsetningar tímabilsins
-    - %2 = Vikunúmer bókunardagsetningar tímabilsins
-    - %3 = Mánaðarnúmer bókunardagsetningar tímabilsins
-    - %4 = Mánaðarheiti bókunardagsetningar tímabilsins
-    - %5 = Heiti bókunartímabils bókunardagsetningar tímabilsins
-    - %6 = Fjárhagsár bókunardagsetningar tímabilsins
+5. <span data-ttu-id="cd552-125">Í reitnum **Desc Tímabils.**</span><span class="sxs-lookup"><span data-stu-id="cd552-125">In the **Period Desc.**</span></span> <span data-ttu-id="cd552-126">Tilgreinir lýsingu sem verður birt í færslum fyrir bókun frestunar.</span><span class="sxs-lookup"><span data-stu-id="cd552-126">field, specify a description that will be shown on entries for the deferral posting.</span></span> <span data-ttu-id="cd552-127">Má færa kóta eftirfarandi frátaka fyrir dæmigerðum gildi sem er settur sjálfkrafa þegar tímabil lýsing birtist.</span><span class="sxs-lookup"><span data-stu-id="cd552-127">You can enter the following placeholder codes for typical values, which will be inserted automatically when the period description is displayed.</span></span>
+    - <span data-ttu-id="cd552-128">%1 = Daganúmer bókunardagsetningar tímabilsins</span><span class="sxs-lookup"><span data-stu-id="cd552-128">%1 = The day number of the period posting date</span></span>
+    - <span data-ttu-id="cd552-129">%2 = Vikunúmer bókunardagsetningar tímabilsins</span><span class="sxs-lookup"><span data-stu-id="cd552-129">%2 = The week number of the period posting date</span></span>
+    - <span data-ttu-id="cd552-130">%3 = Mánaðarnúmer bókunardagsetningar tímabilsins</span><span class="sxs-lookup"><span data-stu-id="cd552-130">%3 = The month number of the period posting date</span></span>
+    - <span data-ttu-id="cd552-131">%4 = Mánaðarheiti bókunardagsetningar tímabilsins</span><span class="sxs-lookup"><span data-stu-id="cd552-131">%4 = The month name of the period posting date</span></span>
+    - <span data-ttu-id="cd552-132">%5 = Heiti bókunartímabils bókunardagsetningar tímabilsins</span><span class="sxs-lookup"><span data-stu-id="cd552-132">%5 = The accounting period name of the period posting date</span></span>
+    - <span data-ttu-id="cd552-133">%6 = Fjárhagsár bókunardagsetningar tímabilsins</span><span class="sxs-lookup"><span data-stu-id="cd552-133">%6 = The fiscal year of the period posting date</span></span>
 
-Dæmi: Bókunardagsetningin er 02/06/2016. Ef fært er inn "Útgjöld deferred fyrir %4 %6" síðan birt lýsing verður "Útgjöld deferred fyrir Febrúar 2016".
+<span data-ttu-id="cd552-134">Dæmi: Bókunardagsetningin er 02/06/2016.</span><span class="sxs-lookup"><span data-stu-id="cd552-134">Example: The posting date is 02/06/2016.</span></span> <span data-ttu-id="cd552-135">Ef fært er inn "Útgjöld deferred fyrir %4 %6" síðan birt lýsing verður "Útgjöld deferred fyrir Febrúar 2016".</span><span class="sxs-lookup"><span data-stu-id="cd552-135">If you enter “Expenses deferred for %4 %6”, then the description displayed will be "Expenses deferred for February 2016".</span></span>
 
-## <a name="to-assign-a-deferral-template-to-an-item"></a>Til að úthluta sérþekkingarkóða á vöru
-1. Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **sniðmát eignabóka**, og velja síðan viðeigandi tengil.
-2. Opna spjald fyrir vöruna sem tekjur eða útgjöld er verður að deferred á reikningstímabilin þegar varan var seld eða keypt.
-3. Í reitnum **Sjálfgefin Sniðmát Deferral** er deferral viðeigandi sniðmát er valið.
+## <a name="to-assign-a-deferral-template-to-an-item"></a><span data-ttu-id="cd552-136">Til að úthluta sérþekkingarkóða á vöru</span><span class="sxs-lookup"><span data-stu-id="cd552-136">To assign a deferral template to an item</span></span>
+1. <span data-ttu-id="cd552-137">Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **sniðmát eignabóka**, og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="cd552-137">In the top right corner, choose the **Search for Page or Report** icon, enter **Deferral Templates**, and then choose the related link.</span></span>
+2. <span data-ttu-id="cd552-138">Opna spjald fyrir vöruna sem tekjur eða útgjöld er verður að deferred á reikningstímabilin þegar varan var seld eða keypt.</span><span class="sxs-lookup"><span data-stu-id="cd552-138">Open the card for the item for which revenues or expenses must be deferred to the accounting periods when the item was sold or purchased.</span></span>
+3. <span data-ttu-id="cd552-139">Í reitnum **Sjálfgefin Sniðmát Deferral** er deferral viðeigandi sniðmát er valið.</span><span class="sxs-lookup"><span data-stu-id="cd552-139">In the **Default Deferral Template** field, select the relevant deferral template.</span></span>
 
-## <a name="to-change-a-deferral-schedule-from-a-sales-invoice"></a>Til að breyta tímaáætlun deferral úr sölureikningi
-**Bent**: liðir þessi aðferð er þau sömu og þegar breytt tímaáætlun deferral fyrir útgjöld, af innkaupareikningi.
+## <a name="to-change-a-deferral-schedule-from-a-sales-invoice"></a><span data-ttu-id="cd552-140">Til að breyta tímaáætlun deferral úr sölureikningi</span><span class="sxs-lookup"><span data-stu-id="cd552-140">To change a deferral schedule from a sales invoice</span></span>
+<span data-ttu-id="cd552-141">**Bent**: liðir þessi aðferð er þau sömu og þegar breytt tímaáætlun deferral fyrir útgjöld, af innkaupareikningi.</span><span class="sxs-lookup"><span data-stu-id="cd552-141">**Note**: The steps in this procedure are the same as when you change a deferral schedule, for expenses, from a purchase invoice.</span></span>
 
-1. Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **söluferli**, og velja síðan viðeigandi tengil.
-2. Stofnaður sölureikningur fyrir vöru sem er til deferral sniðmát. Nánari upplýsingar eru í [Hvernig á að reikningsfæra sölu](sales-how-invoice-sales.md).
+1. <span data-ttu-id="cd552-142">Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **söluferli**, og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="cd552-142">In the top right corner, choose the **Search for Page or Report** icon, enter **Sales Invoices**, and then choose the related link.</span></span>
+2. <span data-ttu-id="cd552-143">Stofnaður sölureikningur fyrir vöru sem er til deferral sniðmát.</span><span class="sxs-lookup"><span data-stu-id="cd552-143">Create a sales invoice for an item that has a deferral template assigned.</span></span> <span data-ttu-id="cd552-144">Nánari upplýsingar eru í [Hvernig á að reikningsfæra sölu](sales-how-invoice-sales.md).</span><span class="sxs-lookup"><span data-stu-id="cd552-144">For more information, see [How to: Invoice Sales](sales-how-invoice-sales.md).</span></span>
 
-    Takið eftir að um leið og er að færa inn vöru (eða forða eða fjárhagsreiknings) í reikningslínunni, er **Deferral Kóta** fyllist með kóti sniðmáts deferral var úthlutað.
-3. Valið er **Deferral Áætlun** aðgerð.
-4. Í á **Deferral Áætlun** glugganum stillingar breytt í hausnum eða gildin í línunum, til dæmis til að defer upphæðinni öðrum reikningstímabil.
-5. Valið er **Deferral Áætlun** aðgerð.
-6. Velja hnappinn **Í lagi**. Áætlun deferral uppfærður til reikningnum. Sniðmát tengdar deferral er óbreytt.
+    <span data-ttu-id="cd552-145">Takið eftir að um leið og er að færa inn vöru (eða forða eða fjárhagsreiknings) í reikningslínunni, er **Deferral Kóta** fyllist með kóti sniðmáts deferral var úthlutað.</span><span class="sxs-lookup"><span data-stu-id="cd552-145">Notice that as soon as you enter the item (or resource or G/L account) on the invoice line, the **Deferral Code** field is filled with the code of the assigned deferral template.</span></span>
+3. <span data-ttu-id="cd552-146">Valið er **Deferral Áætlun** aðgerð.</span><span class="sxs-lookup"><span data-stu-id="cd552-146">Choose the **Deferral Schedule** action.</span></span>
+4. <span data-ttu-id="cd552-147">Í á **Deferral Áætlun** glugganum stillingar breytt í hausnum eða gildin í línunum, til dæmis til að defer upphæðinni öðrum reikningstímabil.</span><span class="sxs-lookup"><span data-stu-id="cd552-147">In the **Deferral Schedule** window, change settings on the header or values on the lines, for example to defer the amount to an additional accounting period.</span></span>
+5. <span data-ttu-id="cd552-148">Valið er **Deferral Áætlun** aðgerð.</span><span class="sxs-lookup"><span data-stu-id="cd552-148">Choose the **Calculate Schedule** action.</span></span>
+6. <span data-ttu-id="cd552-149">Velja hnappinn **Í lagi**.</span><span class="sxs-lookup"><span data-stu-id="cd552-149">Choose the **OK** button.</span></span> <span data-ttu-id="cd552-150">Áætlun deferral uppfærður til reikningnum.</span><span class="sxs-lookup"><span data-stu-id="cd552-150">The deferral schedule is updated for the sales invoice.</span></span> <span data-ttu-id="cd552-151">Sniðmát tengdar deferral er óbreytt.</span><span class="sxs-lookup"><span data-stu-id="cd552-151">The related deferral template is unchanged.</span></span>
 
-## <a name="to-preview-how-deferred-revenues-or-expenses-will-be-posted-to-the-general-ledger"></a>Til að forskoða hvernig deferred tekjur eða útgjöld verða bókaðar í fjárhag.
-**Bent**: liðir þessi aðferð er þau sömu og þegar er forskoða hvernig kostnaðinn deferrals eru bókuð.
+## <a name="to-preview-how-deferred-revenues-or-expenses-will-be-posted-to-the-general-ledger"></a><span data-ttu-id="cd552-152">Til að forskoða hvernig deferred tekjur eða útgjöld verða bókaðar í fjárhag.</span><span class="sxs-lookup"><span data-stu-id="cd552-152">To preview how deferred revenues or expenses will be posted to the general ledger</span></span>
+<span data-ttu-id="cd552-153">**Bent**: liðir þessi aðferð er þau sömu og þegar er forskoða hvernig kostnaðinn deferrals eru bókuð.</span><span class="sxs-lookup"><span data-stu-id="cd552-153">**Note**: The steps in this procedure are the same as when you preview how expense deferrals are posted.</span></span>
 
-1. Í reitnum **Bókaður Sölureikningur** er valið **leiðrétta** aðgerð.
-2. Í reitnum **Forskoðun Bókunar** , valin **Fjárhagsfærsla**, og velja síðan **Sýna Tengdar Færslur**.
+1. <span data-ttu-id="cd552-154">Í reitnum **Bókaður Sölureikningur** er valið **leiðrétta** aðgerð.</span><span class="sxs-lookup"><span data-stu-id="cd552-154">In the **Sales Invoice** window, choose the **Preview Posting** action.</span></span>
+2. <span data-ttu-id="cd552-155">Í reitnum **Forskoðun Bókunar** , valin **Fjárhagsfærsla**, og velja síðan **Sýna Tengdar Færslur**.</span><span class="sxs-lookup"><span data-stu-id="cd552-155">In the **Posting Preview** window, choose the **G/L Entry** action, and then choose the **Show Related Entries** action.</span></span>
 
-Fjárhagsfærslur á að bóka reikning tilgreinda deferral, til dæmis Óinnleystra Tekna, eru þjónustukótinn stendur lýsingin sem færður er inn í reitinn **Desc Tímabils.** reit deferral sniðmátinu, til dæmis, "Útgjöld deferred fyrir Febrúar 2016" í.
+<span data-ttu-id="cd552-156">Fjárhagsfærslur á að bóka reikning tilgreinda deferral, til dæmis Óinnleystra Tekna, eru þjónustukótinn stendur lýsingin sem færður er inn í reitinn **Desc Tímabils.**</span><span class="sxs-lookup"><span data-stu-id="cd552-156">G/L entries to be posted to the specified deferral account, for example, Unearned Income, are denoted by the description that you entered in the **Period Desc.**</span></span> <span data-ttu-id="cd552-157">reit deferral sniðmátinu, til dæmis, "Útgjöld deferred fyrir Febrúar 2016" í.</span><span class="sxs-lookup"><span data-stu-id="cd552-157">field in the deferral template, for example, "Expenses deferred for February 2016".</span></span>
 
-## <a name="to-review-posted-deferrals-in-the-sales-deferral-summary-report"></a>Til að skoða bókaðar deferrals í skýrslunni Deferral yfirlit Yfir Sölu
-**Bent**: liðir þessi aðferð er þau sömu og þegar er forskoða hvernig kostnaðinn deferrals eru bókuð.
+## <a name="to-review-posted-deferrals-in-the-sales-deferral-summary-report"></a><span data-ttu-id="cd552-158">Til að skoða bókaðar deferrals í skýrslunni Deferral yfirlit Yfir Sölu</span><span class="sxs-lookup"><span data-stu-id="cd552-158">To review posted deferrals in the Sales Deferral Summary report</span></span>
+<span data-ttu-id="cd552-159">**Bent**: liðir þessi aðferð er þau sömu og þegar er forskoða hvernig kostnaðinn deferrals eru bókuð.</span><span class="sxs-lookup"><span data-stu-id="cd552-159">**Note**: The steps in this procedure are the same as when you review the Purchasing Deferral Summary report.</span></span>
 
-1. Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Skýrsluval - sala**, og velja síðan viðeigandi tengil.
-2. Í á **Deferral yfirlit Yfir Sölu** glugga í á **Staða sem er af** er færð inn dagsetningin þegar á að skoða deferred tekjur.
-3. Veldu hnappinn **Vista**.
+1. <span data-ttu-id="cd552-160">Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Skýrsluval - sala**, og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="cd552-160">In the top right corner, choose the **Search for Page or Report** icon, enter **Sales Deferral Summary**, and then choose the related link.</span></span>
+2. <span data-ttu-id="cd552-161">Í á **Deferral yfirlit Yfir Sölu** glugga í á **Staða sem er af** er færð inn dagsetningin þegar á að skoða deferred tekjur.</span><span class="sxs-lookup"><span data-stu-id="cd552-161">In the **Sales Deferral Summary** window, in the **Balance as of** field, enter the date up to which you want to see deferred revenues.</span></span>
+3. <span data-ttu-id="cd552-162">Veldu hnappinn **Vista**.</span><span class="sxs-lookup"><span data-stu-id="cd552-162">Choose the **Preview** button.</span></span>
 
-## <a name="see-also"></a>Sjá einnig
-[Fjármál](finance-setup.md)  
-[Setja upp kjarnafjárhagsferli](finance-setup-setup-finance-setup.md)  
-[Hvernig á að: Vinna með almennum færslubókum](ui-work-general-journals.md)
+## <a name="see-also"></a><span data-ttu-id="cd552-163">Sjá einnig</span><span class="sxs-lookup"><span data-stu-id="cd552-163">See Also</span></span>
+[<span data-ttu-id="cd552-164">Fjármál</span><span class="sxs-lookup"><span data-stu-id="cd552-164">Finance</span></span>](finance-setup.md)  
+[<span data-ttu-id="cd552-165">Setja upp kjarnafjárhagsferli</span><span class="sxs-lookup"><span data-stu-id="cd552-165">Set Up Core Financial Processes</span></span>](finance-setup-setup-finance-setup.md)  
+[<span data-ttu-id="cd552-166">Hvernig á að: Vinna með almennum færslubókum</span><span class="sxs-lookup"><span data-stu-id="cd552-166">How to: Work With General Journals</span></span>](ui-work-general-journals.md)
 

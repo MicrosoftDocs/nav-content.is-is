@@ -1,1 +1,1 @@
-Microsoft Dynamics NAV Windows biðlari
+<span data-ttu-id="bfb68-101">Microsoft Dynamics NAV Windows biðlari</span><span class="sxs-lookup"><span data-stu-id="bfb68-101">Microsoft Dynamics NAV Windows client</span></span>

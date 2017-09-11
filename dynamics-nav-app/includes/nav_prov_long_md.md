@@ -1,1 +1,1 @@
-Úthlutunarverkfæri fyrir Microsoft Dynamics NAV fyrir Microsoft Azure
+<span data-ttu-id="97d8f-101">Úthlutunarverkfæri fyrir Microsoft Dynamics NAV fyrir Microsoft Azure</span><span class="sxs-lookup"><span data-stu-id="97d8f-101">Microsoft Dynamics NAV Provisioning Tools for Microsoft Azure</span></span>

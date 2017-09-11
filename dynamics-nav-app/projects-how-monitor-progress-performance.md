@@ -16,81 +16,81 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-monitor-job-progress-and-performance"></a>Hvernig á að: Fylgjast með framvindu og afköstum
-Þegar verk er unnið er efni, forði og annar kostnaður notuð og þetta þarf að bóka á verkið. Verk í vinnslu (VÍV) er eiginleiki þar sem hægt er að meta fjárhagslegt virði verka í fjárhag eftir því sem verkinu miðar áfram. Oft er kostnaður bókaður áður en verk er reikningsfært. Þegar aðeins kostnaður hefur verið bókaður verður fjárhagsyfirlitið ónákvæmt. Frekari upplýsingar eru í [Að skilja VÍV-aðferðir](projects-understanding-wip.md)
+# <a name="how-to-monitor-job-progress-and-performance"></a><span data-ttu-id="96971-102">Hvernig á að: Fylgjast með framvindu og afköstum</span><span class="sxs-lookup"><span data-stu-id="96971-102">How to: Monitor Job Progress and Performance</span></span>
+<span data-ttu-id="96971-103">Þegar verk er unnið er efni, forði og annar kostnaður notuð og þetta þarf að bóka á verkið.</span><span class="sxs-lookup"><span data-stu-id="96971-103">As a job progresses, materials, resources, and other expenses are consumed and must be posted to the job.</span></span> <span data-ttu-id="96971-104">Verk í vinnslu (VÍV) er eiginleiki þar sem hægt er að meta fjárhagslegt virði verka í fjárhag eftir því sem verkinu miðar áfram.</span><span class="sxs-lookup"><span data-stu-id="96971-104">Work in Process (WIP) is a feature that enables you to estimate the financial value of jobs in the general ledger while the jobs are ongoing.</span></span> <span data-ttu-id="96971-105">Oft er kostnaður bókaður áður en verk er reikningsfært.</span><span class="sxs-lookup"><span data-stu-id="96971-105">In many cases, you might post expenses for a job before invoicing a job.</span></span> <span data-ttu-id="96971-106">Þegar aðeins kostnaður hefur verið bókaður verður fjárhagsyfirlitið ónákvæmt.</span><span class="sxs-lookup"><span data-stu-id="96971-106">When only expenses have been posted, your financial statement will be inaccurate.</span></span> <span data-ttu-id="96971-107">Frekari upplýsingar eru í [Að skilja VÍV-aðferðir](projects-understanding-wip.md)</span><span class="sxs-lookup"><span data-stu-id="96971-107">For more information, see [Understanding WIP Methods](projects-understanding-wip.md).</span></span>
 
-Til að rekja gildi í fjárhagnum er hægt að reikna út VÍV og bóka gildið í fjárhag.
+<span data-ttu-id="96971-108">Til að rekja gildi í fjárhagnum er hægt að reikna út VÍV og bóka gildið í fjárhag.</span><span class="sxs-lookup"><span data-stu-id="96971-108">To track the value in the general ledger, you can calculate WIP and post the value to the general ledger.</span></span>
 
-VÍV má reikna út byggt á eftirfarandi:
+<span data-ttu-id="96971-109">VÍV má reikna út byggt á eftirfarandi:</span><span class="sxs-lookup"><span data-stu-id="96971-109">You can calculate WIP based on the following:</span></span>
 
-- Kostnaðargildi
-- Sölugildi
-- Auðkennanlegur kostnaður
-- Prósentum lokið
-- Samningi lokið
+- <span data-ttu-id="96971-110">Kostnaðargildi</span><span class="sxs-lookup"><span data-stu-id="96971-110">Cost Value</span></span>
+- <span data-ttu-id="96971-111">Sölugildi</span><span class="sxs-lookup"><span data-stu-id="96971-111">Sales Value</span></span>
+- <span data-ttu-id="96971-112">Auðkennanlegur kostnaður</span><span class="sxs-lookup"><span data-stu-id="96971-112">Recognizable Cost</span></span>
+- <span data-ttu-id="96971-113">Prósentum lokið</span><span class="sxs-lookup"><span data-stu-id="96971-113">Percentage of Completion</span></span>
+- <span data-ttu-id="96971-114">Samningi lokið</span><span class="sxs-lookup"><span data-stu-id="96971-114">Completed Contract</span></span>
 
-Til að skoða niðurstöður með annarri aðferð er hægt að breyta aðferðinni og reikna Verk í vinnslu á nýjan leik. Engin takmörk eru á því hversu oft VÍV er reiknað. VÍV er aðeins reiknað en er ekki bókað í fjárhag. Þegar VÍV hefur verið reiknað út er hægt að bóka það í fjárhag.
+<span data-ttu-id="96971-115">Til að skoða niðurstöður með annarri aðferð er hægt að breyta aðferðinni og reikna Verk í vinnslu á nýjan leik.</span><span class="sxs-lookup"><span data-stu-id="96971-115">If you want to view the result using a different method, you can change the method and calculate WIP again.</span></span> <span data-ttu-id="96971-116">Engin takmörk eru á því hversu oft VÍV er reiknað.</span><span class="sxs-lookup"><span data-stu-id="96971-116">There is no limit to the number of times that you calculate WIP.</span></span> <span data-ttu-id="96971-117">VÍV er aðeins reiknað en er ekki bókað í fjárhag.</span><span class="sxs-lookup"><span data-stu-id="96971-117">WIP is only calculated, it does not get posted to the general ledger.</span></span> <span data-ttu-id="96971-118">Þegar VÍV hefur verið reiknað út er hægt að bóka það í fjárhag.</span><span class="sxs-lookup"><span data-stu-id="96971-118">After you have calculated WIP, you can post to the general ledger.</span></span>
 
-## <a name="to-create-a-job-wip-method"></a>Til að búa til VÍV-aðferð fyrir verk  
-Hægt er að búa til VÍV-aðferð sem endurspeglar þarfir fyrirtækisins. Þegar búið er að stofna það, er hægt að velja það sem sjálfgefna VÍV-reikningsaðferð fyrir verk sem verða notuð í fyrirtækinu.  
+## <a name="to-create-a-job-wip-method"></a><span data-ttu-id="96971-119">Til að búa til VÍV-aðferð fyrir verk</span><span class="sxs-lookup"><span data-stu-id="96971-119">To create a job WIP method</span></span>  
+<span data-ttu-id="96971-120">Hægt er að búa til VÍV-aðferð sem endurspeglar þarfir fyrirtækisins.</span><span class="sxs-lookup"><span data-stu-id="96971-120">You can create a job WIP method that reflects the needs of your organization.</span></span> <span data-ttu-id="96971-121">Þegar búið er að stofna það, er hægt að velja það sem sjálfgefna VÍV-reikningsaðferð fyrir verk sem verða notuð í fyrirtækinu.</span><span class="sxs-lookup"><span data-stu-id="96971-121">After you have created it, you can set it as the default job WIP calculation method that will be used in your organization.</span></span>  
 
-**Athugasemd** Þegar búið er að nota nýju aðferðina til að stofna VÍV-færslur, er ekki hægt að eyða aðferðinni eða breyta henni.  
+<span data-ttu-id="96971-122">**Athugasemd**</span><span class="sxs-lookup"><span data-stu-id="96971-122">**Note**.</span></span> <span data-ttu-id="96971-123">Þegar búið er að nota nýju aðferðina til að stofna VÍV-færslur, er ekki hægt að eyða aðferðinni eða breyta henni.</span><span class="sxs-lookup"><span data-stu-id="96971-123">After you have used your new method to create WIP entries, you cannot delete the method or modify it.</span></span>  
 
-1. Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **VÍV-aðferðir verks** og velja síðan viðeigandi tengil.  
-2. Veljið aðgerðina **Nýtt** og fyllið svo út reitina eins og þörf krefur. Velja reit til að lesa inn stutta lýsingu á reitnum eða tengil í frekari upplýsingar.  
-3. Glugganum er lokað.   
-4. Til að gera þessa nýju aðferð að sjálfgefinni aðferð skal velja **Leita að síðu eða skýrslu** uppi í hægra horninu, slá inn **Uppsetning verka** og velja síðan viðeigandi tengil.  
-5. Í reitnum **Sjálfgefin vÍv-aðferð** veljið aðferðina af listanum.
+1. <span data-ttu-id="96971-124">Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **VÍV-aðferðir verks** og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="96971-124">In the top right corner, choose the **Search for Page or Report** icon, enter **Job WIP Methods**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="96971-125">Veljið aðgerðina **Nýtt** og fyllið svo út reitina eins og þörf krefur.</span><span class="sxs-lookup"><span data-stu-id="96971-125">Choose the **New** action, and then fill in the fields as necessary.</span></span> <span data-ttu-id="96971-126">Velja reit til að lesa inn stutta lýsingu á reitnum eða tengil í frekari upplýsingar.</span><span class="sxs-lookup"><span data-stu-id="96971-126">Choose a field to read a short description of the field or link to more information.</span></span>  
+3. <span data-ttu-id="96971-127">Glugganum er lokað.</span><span class="sxs-lookup"><span data-stu-id="96971-127">Close the window.</span></span>   
+4. <span data-ttu-id="96971-128">Til að gera þessa nýju aðferð að sjálfgefinni aðferð skal velja **Leita að síðu eða skýrslu** uppi í hægra horninu, slá inn **Uppsetning verka** og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="96971-128">To make this new method the default, in the top right corner, choose the **Search for Page or Report** icon, enter **Jobs Setup**, and then choose the related link.</span></span>  
+5. <span data-ttu-id="96971-129">Í reitnum **Sjálfgefin vÍv-aðferð** veljið aðferðina af listanum.</span><span class="sxs-lookup"><span data-stu-id="96971-129">In the **Default WIP Method** field, choose the method from the list.</span></span>
 
-## <a name="to-define-a-wip-method-for-a-job"></a>Til að skilgreina VÍV aðferð fyrir verk  
-Þegar nýtt verk er stofnað þarf að tilgreina hvaða VÍV-aðferð skuli eiga við. Í sumum tilfellum er þegar búið að stilla sjálfgefna VÍV-aðferð verka.
+## <a name="to-define-a-wip-method-for-a-job"></a><span data-ttu-id="96971-130">Til að skilgreina VÍV aðferð fyrir verk</span><span class="sxs-lookup"><span data-stu-id="96971-130">To define a WIP method for a job</span></span>  
+<span data-ttu-id="96971-131">Þegar nýtt verk er stofnað þarf að tilgreina hvaða VÍV-aðferð skuli eiga við.</span><span class="sxs-lookup"><span data-stu-id="96971-131">When you create a new job, you must specify which job WIP method that applies.</span></span> <span data-ttu-id="96971-132">Í sumum tilfellum er þegar búið að stilla sjálfgefna VÍV-aðferð verka.</span><span class="sxs-lookup"><span data-stu-id="96971-132">In some cases, which Job WIP method that you can use has been set up for you as a default.</span></span>
 
-1. Uppi í hægra horninu skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Verk** og velja svo viðeigandi tengil.
-2. Valið er **Nýtt** aðgerð. Nánari upplýsingar eru í [Hvernig á að: Stofna verk](projects-how-create-jobs.md).  
-3. Í glugganum **Verkspjald** skal velja VÍV-aðferð úr listanum í reitnum **VÍV-aðferð**. Ef sjálfgefin aðferð hefur verið skilgreind er hægt að velja annan valkost ef þess gerist þörf.  
+1. <span data-ttu-id="96971-133">Uppi í hægra horninu skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Verk** og velja svo viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="96971-133">In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs**, and then choose the related link.</span></span>
+2. <span data-ttu-id="96971-134">Valið er **Nýtt** aðgerð.</span><span class="sxs-lookup"><span data-stu-id="96971-134">Choose the **New** action.</span></span> <span data-ttu-id="96971-135">Nánari upplýsingar eru í [Hvernig á að: Stofna verk](projects-how-create-jobs.md).</span><span class="sxs-lookup"><span data-stu-id="96971-135">For more information, see [How to: Create Jobs](projects-how-create-jobs.md).</span></span>  
+3. <span data-ttu-id="96971-136">Í glugganum **Verkspjald** skal velja VÍV-aðferð úr listanum í reitnum **VÍV-aðferð**.</span><span class="sxs-lookup"><span data-stu-id="96971-136">In the **Job Card** window, in the **WIP Method** field, select a WIP method from the list.</span></span> <span data-ttu-id="96971-137">Ef sjálfgefin aðferð hefur verið skilgreind er hægt að velja annan valkost ef þess gerist þörf.</span><span class="sxs-lookup"><span data-stu-id="96971-137">If a default method has been defined, you can select another option if needed.</span></span>  
 
-## <a name="to-calculate-wip"></a>Útreikningur VÍV  
-Hægt er að ákvarða VÍV-upphæð sem bóka skal á efnahagsreikning fyrir árslokaskýrslu. Þetta má gera með því að nota keyrsluna **Verkreikna VÍV**.  
+## <a name="to-calculate-wip"></a><span data-ttu-id="96971-138">Útreikningur VÍV</span><span class="sxs-lookup"><span data-stu-id="96971-138">To calculate WIP</span></span>  
+<span data-ttu-id="96971-139">Hægt er að ákvarða VÍV-upphæð sem bóka skal á efnahagsreikning fyrir árslokaskýrslu.</span><span class="sxs-lookup"><span data-stu-id="96971-139">You can determine the WIP amount that is to be posted to balance sheet accounts for the period end reporting.</span></span> <span data-ttu-id="96971-140">Þetta má gera með því að nota keyrsluna **Verkreikna VÍV**.</span><span class="sxs-lookup"><span data-stu-id="96971-140">You use the **Job Calculate WIP** batch job to do this.</span></span>  
 
-1. Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Verk - Reikna VÍV** og velja síðan viðeigandi tengil.  
-2. Veljið aðgerðina **Reikna VÍV**.
-3. Í glugganum **Verk - Reikna VÍV** þarf að fylla reitina út eins og þörf krefur.
-4. Velja hnappinn **Í lagi**.  
+1. <span data-ttu-id="96971-141">Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Verk - Reikna VÍV** og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="96971-141">In the top right corner, choose the **Search for Page or Report** icon, enter **Job Calculate WIP**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="96971-142">Veljið aðgerðina **Reikna VÍV**.</span><span class="sxs-lookup"><span data-stu-id="96971-142">Choose the **Calculate WIP** action.</span></span>
+3. <span data-ttu-id="96971-143">Í glugganum **Verk - Reikna VÍV** þarf að fylla reitina út eins og þörf krefur.</span><span class="sxs-lookup"><span data-stu-id="96971-143">In the **Job Calculate WIP** window, fill in the fields as necessary.</span></span>
+4. <span data-ttu-id="96971-144">Velja hnappinn **Í lagi**.</span><span class="sxs-lookup"><span data-stu-id="96971-144">Choose the **OK** button.</span></span>  
 
-**Til athugunar**: Keyrslan reiknar einungis út VÍV. Er ekki bókað í fjárhag. Til að gera það verður að keyra keyrsluna **Bóka VÍV á fjárhag** þegar VÍV hefur verið reiknað. Nánari upplýsingar má finna hér á eftir.
+<span data-ttu-id="96971-145">**Til athugunar**: Keyrslan reiknar einungis út VÍV.</span><span class="sxs-lookup"><span data-stu-id="96971-145">**Note**: The batch job only calculates the WIP.</span></span> <span data-ttu-id="96971-146">Er ekki bókað í fjárhag.</span><span class="sxs-lookup"><span data-stu-id="96971-146">It is not posted to the general ledger.</span></span> <span data-ttu-id="96971-147">Til að gera það verður að keyra keyrsluna **Bóka VÍV á fjárhag** þegar VÍV hefur verið reiknað.</span><span class="sxs-lookup"><span data-stu-id="96971-147">To do so, you must run the **Post WIP to G/L** batch job when you have calculated the WIP.</span></span> <span data-ttu-id="96971-148">Nánari upplýsingar má finna hér á eftir.</span><span class="sxs-lookup"><span data-stu-id="96971-148">For more information, see the following procedure.</span></span>
 
-## <a name="to-post-wip"></a>Til að bóka VÍV  
-Þegar VÍV hefur verið reiknað er hægt að bóka það á efnahagsreikning fyrir árslokaskýrslu. Þetta má gera með því að nota keyrsluna **Bóka VÍV á fjárhag**.
+## <a name="to-post-wip"></a><span data-ttu-id="96971-149">Til að bóka VÍV</span><span class="sxs-lookup"><span data-stu-id="96971-149">To post WIP</span></span>  
+<span data-ttu-id="96971-150">Þegar VÍV hefur verið reiknað er hægt að bóka það á efnahagsreikning fyrir árslokaskýrslu.</span><span class="sxs-lookup"><span data-stu-id="96971-150">When you have calculated WIP, you can post it to balance sheet accounts for the period end reporting.</span></span> <span data-ttu-id="96971-151">Þetta má gera með því að nota keyrsluna **Bóka VÍV á fjárhag**.</span><span class="sxs-lookup"><span data-stu-id="96971-151">You use the **Job Post WIP to G/L** batch job to do this.</span></span>
 
-1. Uppi í hægra horninu skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Verk - Bóka VÍV í fjárhag** og velja svo viðeigandi tengil.  
-2. Í glugganum **Verk - Bóka VÍV í fjárhag** skal fylla reitina út eins og þörf krefur.  
-3. Velja hnappinn **Í lagi**.
+1. <span data-ttu-id="96971-152">Uppi í hægra horninu skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Verk - Bóka VÍV í fjárhag** og velja svo viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="96971-152">In the top right corner, choose the **Search for Page or Report** icon, enter **Job Post WIP to G/L**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="96971-153">Í glugganum **Verk - Bóka VÍV í fjárhag** skal fylla reitina út eins og þörf krefur.</span><span class="sxs-lookup"><span data-stu-id="96971-153">In the **Job Post WIP to G/L** window, fill in the fields as necessary.</span></span>  
+3. <span data-ttu-id="96971-154">Velja hnappinn **Í lagi**.</span><span class="sxs-lookup"><span data-stu-id="96971-154">Choose the **OK** button.</span></span>
 
-## <a name="to-view-job-usage-estimates-and-post-updates"></a>Til að skoða áætlanir um verknotkun og bóka uppfærslur  
-Skoða má verknotkun allt að lokum verkefnis í einu skrefi. Til þess er notuð keyrslan **Verk - Reikna eftirstandandi notkun** fyrir alla verkhluta allt að og með lokum verks.  
+## <a name="to-view-job-usage-estimates-and-post-updates"></a><span data-ttu-id="96971-155">Til að skoða áætlanir um verknotkun og bóka uppfærslur</span><span class="sxs-lookup"><span data-stu-id="96971-155">To view job usage estimates and post updates</span></span>  
+<span data-ttu-id="96971-156">Skoða má verknotkun allt að lokum verkefnis í einu skrefi.</span><span class="sxs-lookup"><span data-stu-id="96971-156">You can view job usage up to the completion of a project in one step.</span></span> <span data-ttu-id="96971-157">Til þess er notuð keyrslan **Verk - Reikna eftirstandandi notkun** fyrir alla verkhluta allt að og með lokum verks.</span><span class="sxs-lookup"><span data-stu-id="96971-157">To do so, you use the **Job Calc. Remaining Usage** batch job for all the tasks up to and including the end of a job.</span></span>  
 
-Á þennan hátt má rekja og bera saman upprunalega áætlun við raunverulegar niðurstöður og gera breytingar eða bæta við færslum eftir þörfum. Taka má dæmi af notanda sem hefur áætlað að verk taki 10 klukkustundir en það hefur þegar tekið 15 klukkustundir. Hann getur bætt klukkustundunum fimm við færslubókarlínu sem fyrir er eða búið til nýja færslubókarlínu til að skilgreina þessa fimm tíma sem yfirvinnu, sem er önnur tegund vinnu. Raunkostnaður og verð eru reiknuð út, sem svo er hægt að bóka í færslubókina.  
+<span data-ttu-id="96971-158">Á þennan hátt má rekja og bera saman upprunalega áætlun við raunverulegar niðurstöður og gera breytingar eða bæta við færslum eftir þörfum.</span><span class="sxs-lookup"><span data-stu-id="96971-158">This lets you track and compare your original estimates against actual results and make modifications or new entries as needed.</span></span> <span data-ttu-id="96971-159">Taka má dæmi af notanda sem hefur áætlað að verk taki 10 klukkustundir en það hefur þegar tekið 15 klukkustundir.</span><span class="sxs-lookup"><span data-stu-id="96971-159">For example, you may have estimated that a job required 10 hours, and to date, it has taken 15 hours.</span></span> <span data-ttu-id="96971-160">Hann getur bætt klukkustundunum fimm við færslubókarlínu sem fyrir er eða búið til nýja færslubókarlínu til að skilgreina þessa fimm tíma sem yfirvinnu, sem er önnur tegund vinnu.</span><span class="sxs-lookup"><span data-stu-id="96971-160">You can add the extra five hours to the existing journal line or create a new journal line to report these five hours as overtime, which is another work type.</span></span> <span data-ttu-id="96971-161">Raunkostnaður og verð eru reiknuð út, sem svo er hægt að bóka í færslubókina.</span><span class="sxs-lookup"><span data-stu-id="96971-161">The appropriate cost and price are calculated, and you can then post to the journal.</span></span>  
 
-**Til athugunar**: Birgðafærslur stofna færslur í birgðahöfuðbók og minnka birgðamagn. Keyrslan **Bóka birgðabreytingar** færir kostnaðinn úr birgðum í fjárhag. Forðafærslur stofna forðafærslur.  
+<span data-ttu-id="96971-162">**Til athugunar**: Birgðafærslur stofna færslur í birgðahöfuðbók og minnka birgðamagn.</span><span class="sxs-lookup"><span data-stu-id="96971-162">**Note**: Item entries create item ledger entries and reduce the inventory quantity.</span></span> <span data-ttu-id="96971-163">Keyrslan **Bóka birgðabreytingar** færir kostnaðinn úr birgðum í fjárhag.</span><span class="sxs-lookup"><span data-stu-id="96971-163">The **Post Inventory Cost to G/L** batch job transfers the cost from inventory to the general ledger.</span></span> <span data-ttu-id="96971-164">Forðafærslur stofna forðafærslur.</span><span class="sxs-lookup"><span data-stu-id="96971-164">Resource entries create resource ledger entries.</span></span>  
 
-1. Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Verkbækur** og velja síðan viðeigandi tengil.  
-2. Veljið viðeigandi verkbók og veljið svo aðgerðina **Reikna eftirstandandi notkun**.  
-3. Í glugganum **Verk - Reikna eftirstandandi notkun** skal slá inn númer skjalsins og bókunardagsetninguna sem færa skal í bókina og velja svo hnappinn **Í lagi**.  
-4. Uppfærið bókina með þeim breytingum sem kann að vera þörf á.  
-5. Veljið **Bókun**.
+1. <span data-ttu-id="96971-165">Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Verkbækur** og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="96971-165">In the top right corner, choose the **Search for Page or Report** icon, enter **Job Journals**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="96971-166">Veljið viðeigandi verkbók og veljið svo aðgerðina **Reikna eftirstandandi notkun**.</span><span class="sxs-lookup"><span data-stu-id="96971-166">Select a relevant job journal, and then choose the **Calc. Remaining Usage** action.</span></span>  
+3. <span data-ttu-id="96971-167">Í glugganum **Verk - Reikna eftirstandandi notkun** skal slá inn númer skjalsins og bókunardagsetninguna sem færa skal í bókina og velja svo hnappinn **Í lagi**.</span><span class="sxs-lookup"><span data-stu-id="96971-167">In the **Job Calc. Remaining Usage** window, enter the document number and posting date that is to be inserted in the journal, and then choose the **OK** button.</span></span>  
+4. <span data-ttu-id="96971-168">Uppfærið bókina með þeim breytingum sem kann að vera þörf á.</span><span class="sxs-lookup"><span data-stu-id="96971-168">Update the journal with any modifications that may be needed.</span></span>  
+5. <span data-ttu-id="96971-169">Veljið **Bókun**.</span><span class="sxs-lookup"><span data-stu-id="96971-169">Choose the **Post**.</span></span>
 
-## <a name="to-view-job-ledger-entries"></a>Verkdagbókarfærslur skoðaðar:
-Allar færslur sem tengjast verki eru skráðar í verkdagbækur og tölusettar í réttri röð, byrjað á 1. Í verkdagbókinni er hægt að fá yfirlit um verkfærslurnar.    
+## <a name="to-view-job-ledger-entries"></a><span data-ttu-id="96971-170">Verkdagbókarfærslur skoðaðar:</span><span class="sxs-lookup"><span data-stu-id="96971-170">To view job ledger entries</span></span>
+<span data-ttu-id="96971-171">Allar færslur sem tengjast verki eru skráðar í verkdagbækur og tölusettar í réttri röð, byrjað á 1.</span><span class="sxs-lookup"><span data-stu-id="96971-171">All job-related entries are recorded in job registers and are numbered sequentially, starting with 1.</span></span> <span data-ttu-id="96971-172">Í verkdagbókinni er hægt að fá yfirlit um verkfærslurnar.</span><span class="sxs-lookup"><span data-stu-id="96971-172">From the job register, you can get an overview of all job ledger entries.</span></span>    
 
-1. Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Verkdagbækur** og velja síðan viðeigandi tengil.
-2. Valin er viðeigandi dagbók og síðan skal velja aðgerðina **Verklínur**.
+1. <span data-ttu-id="96971-173">Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Verkdagbækur** og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="96971-173">In the top right corner, choose the **Search for Page or Report** icon, enter **Job Registers**, and then choose the related link.</span></span>
+2. <span data-ttu-id="96971-174">Valin er viðeigandi dagbók og síðan skal velja aðgerðina **Verklínur**.</span><span class="sxs-lookup"><span data-stu-id="96971-174">Select a relevant register, and then choose **Job Ledger** action.</span></span>
 
-Í glugganum **Verkfærslur** er hægt að fara yfir færslur sem tengjast verki.  
+<span data-ttu-id="96971-175">Í glugganum **Verkfærslur** er hægt að fara yfir færslur sem tengjast verki.</span><span class="sxs-lookup"><span data-stu-id="96971-175">In the **Job Ledger Entries** window you can review the entries that are associated with any job.</span></span>  
 
-## <a name="see-also"></a>Sjá einnig
-[Unnið með verkefni](projects-manage-projects.md)  
-[Fjármál](finance-setup.md)  
-[Stjórnun innkaupa](purchasing-manage-purchasing.md)         
-[Stjórna sölu](sales-manage-sales.md)      
-[Unnið með Dynamics NAV](ui-work-product.md)  
+## <a name="see-also"></a><span data-ttu-id="96971-176">Sjá einnig</span><span class="sxs-lookup"><span data-stu-id="96971-176">See Also</span></span>
+[<span data-ttu-id="96971-177">Unnið með verkefni</span><span class="sxs-lookup"><span data-stu-id="96971-177">Manage Projects</span></span>](projects-manage-projects.md)  
+[<span data-ttu-id="96971-178">Fjármál</span><span class="sxs-lookup"><span data-stu-id="96971-178">Finance</span></span>](finance-setup.md)  
+<span data-ttu-id="96971-179">[Stjórnun innkaupa](purchasing-manage-purchasing.md)       </span><span class="sxs-lookup"><span data-stu-id="96971-179">[Manage Purchasing](purchasing-manage-purchasing.md)       </span></span>  
+<span data-ttu-id="96971-180">[Stjórna sölu](sales-manage-sales.md)    </span><span class="sxs-lookup"><span data-stu-id="96971-180">[Manage Sales](sales-manage-sales.md)    </span></span>  
+[<span data-ttu-id="96971-181">Unnið með Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="96971-181">Work With Dynamics NAV</span></span>](ui-work-product.md)  
 

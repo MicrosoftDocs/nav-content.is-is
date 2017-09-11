@@ -1,1 +1,1 @@
-Uppsetning Microsoft NAV 2017
+<span data-ttu-id="bafcc-101">Uppsetning Microsoft NAV 2017</span><span class="sxs-lookup"><span data-stu-id="bafcc-101">Microsoft Dynamics NAV 2017 Setup</span></span>

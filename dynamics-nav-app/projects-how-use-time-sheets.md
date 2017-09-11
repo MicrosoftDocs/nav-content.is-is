@@ -16,136 +16,136 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-use-time-sheets-for-jobs"></a>Hvernig á að: Nota vinnuskýrslur fyrir verk
-Nota skal keyrsluna **Stofna vinnuskýrslur** til að setja upp vinnuskýrslur fyrir tilgreindan fjölda tímabila eða vikna. Notandi verður að hafa heimildir til að hægt sé að búa til vinnuskýrslur.
+# <a name="how-to-use-time-sheets-for-jobs"></a><span data-ttu-id="08393-102">Hvernig á að: Nota vinnuskýrslur fyrir verk</span><span class="sxs-lookup"><span data-stu-id="08393-102">How to: Use Time Sheets for Jobs</span></span>
+<span data-ttu-id="08393-103">Nota skal keyrsluna **Stofna vinnuskýrslur** til að setja upp vinnuskýrslur fyrir tilgreindan fjölda tímabila eða vikna.</span><span class="sxs-lookup"><span data-stu-id="08393-103">You use the **Create Time Sheets** batch job to set up time sheets for a specified number of time periods or weeks.</span></span> <span data-ttu-id="08393-104">Notandi verður að hafa heimildir til að hægt sé að búa til vinnuskýrslur.</span><span class="sxs-lookup"><span data-stu-id="08393-104">You must have permissions to be able to create time sheets.</span></span>
 
-Hægt er að afrita og nota verkáætlunarlínur í vinnuskýrslu. Með því móti þarf aðeins að færa upplýsingarnar inn á einum stað og línuupplýsingarnar eru alltaf réttar.
+<span data-ttu-id="08393-105">Hægt er að afrita og nota verkáætlunarlínur í vinnuskýrslu.</span><span class="sxs-lookup"><span data-stu-id="08393-105">You can copy and use your job planning lines in a time sheet.</span></span> <span data-ttu-id="08393-106">Með því móti þarf aðeins að færa upplýsingarnar inn á einum stað og línuupplýsingarnar eru alltaf réttar.</span><span class="sxs-lookup"><span data-stu-id="08393-106">In that way, you must only enter the information in one place and the line information is always correct.</span></span>
 
-Eftir að búið er að samþykkja vinnuskýrslufærslur fyrir verk er hægt að bóka þær á viðeigandi verkbók eða forðabók.
+<span data-ttu-id="08393-107">Eftir að búið er að samþykkja vinnuskýrslufærslur fyrir verk er hægt að bóka þær á viðeigandi verkbók eða forðabók.</span><span class="sxs-lookup"><span data-stu-id="08393-107">After you have approved time sheet entries for a job, you can post them to the relevant job journal or resource journal.</span></span>
 
-Áður en hægt er að nota vinnuskýrslur þarf að setja upp almennar upplýsingar og tilgreina stjórnanda og einn eða fleiri samþykkjendur vinnuskýrslna. Frekari upplýsingar eru í [Hvernig á að: Setja upp vinnuskýrslur](projects-how-setup-time-sheets.md).
+<span data-ttu-id="08393-108">Áður en hægt er að nota vinnuskýrslur þarf að setja upp almennar upplýsingar og tilgreina stjórnanda og einn eða fleiri samþykkjendur vinnuskýrslna.</span><span class="sxs-lookup"><span data-stu-id="08393-108">Before you can use time sheets, you must set up general information and specify an administrator and one or more approvers of time sheets.</span></span> <span data-ttu-id="08393-109">Frekari upplýsingar eru í [Hvernig á að: Setja upp vinnuskýrslur](projects-how-setup-time-sheets.md).</span><span class="sxs-lookup"><span data-stu-id="08393-109">For more information, see [How to: Set Up Time Sheets](projects-how-setup-time-sheets.md).</span></span>
 
-## <a name="to-create-a-time-sheet"></a>Til að búa til vinnuskýrslu  
-Hægt er að nota keyrsluna **Stofna vinnuskýrslur** til að setja upp vinnuskýrslur fyrir tilgreindan fjölda tímabila eða vikna. Eigandi vinnuskýrslunnar getur þá opnað hana og skráð tíma sem eytt hefur verið í verk.
+## <a name="to-create-a-time-sheet"></a><span data-ttu-id="08393-110">Til að búa til vinnuskýrslu</span><span class="sxs-lookup"><span data-stu-id="08393-110">To create a time sheet</span></span>  
+<span data-ttu-id="08393-111">Hægt er að nota keyrsluna **Stofna vinnuskýrslur** til að setja upp vinnuskýrslur fyrir tilgreindan fjölda tímabila eða vikna.</span><span class="sxs-lookup"><span data-stu-id="08393-111">You can use the **Create Time Sheets** batch job to set up time sheets for a specified number of time periods or weeks.</span></span> <span data-ttu-id="08393-112">Eigandi vinnuskýrslunnar getur þá opnað hana og skráð tíma sem eytt hefur verið í verk.</span><span class="sxs-lookup"><span data-stu-id="08393-112">Then, the time sheet owner can open it and record time that has been spent on a task.</span></span>
 
-1. Uppi í hægra horninu skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Vinnuskýrslur** og velja svo viðeigandi tengil.
-2. Í glugganum **Vinnuskýrslulisti** skal velja aðgerðina **Búa til vinnuskýrslur**.
-3. Fyllið inn í svæðin eftir þörfum. Velja reit til að lesa inn stutta lýsingu á reitnum eða tengil í frekari upplýsingar.
+1. <span data-ttu-id="08393-113">Uppi í hægra horninu skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Vinnuskýrslur** og velja svo viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="08393-113">In the top right corner, choose the **Search for Page or Report** icon, enter **Time Sheets**, and then choose the related link.</span></span>
+2. <span data-ttu-id="08393-114">Í glugganum **Vinnuskýrslulisti** skal velja aðgerðina **Búa til vinnuskýrslur**.</span><span class="sxs-lookup"><span data-stu-id="08393-114">In the **Time Sheet List** window, choose the **Create Time Sheets** action.</span></span>
+3. <span data-ttu-id="08393-115">Fyllið inn í svæðin eftir þörfum.</span><span class="sxs-lookup"><span data-stu-id="08393-115">Fill in the fields as necessary.</span></span> <span data-ttu-id="08393-116">Velja reit til að lesa inn stutta lýsingu á reitnum eða tengil í frekari upplýsingar.</span><span class="sxs-lookup"><span data-stu-id="08393-116">Choose a field to read a short description of the field or link to more information.</span></span>
 
-**Til athugunar**: Reitirnir **Nota vinnuskýrslu** og **Notandakenni eiganda vinnuskýrslu** þurfa að vera útfylltir á spjaldinu fyrir forða í vinnuskýrslunni.  
+<span data-ttu-id="08393-117">**Til athugunar**: Reitirnir **Nota vinnuskýrslu** og **Notandakenni eiganda vinnuskýrslu** þurfa að vera útfylltir á spjaldinu fyrir forða í vinnuskýrslunni.</span><span class="sxs-lookup"><span data-stu-id="08393-117">**Note**: The **Use Time Sheet** and **Time Sheet Owner User ID** fields must be filled in on the card for the resource of the time sheet.</span></span>  
 
-4. Velja hnappinn **Í lagi**.
-Í glugganum **Vinnuskýrslulisti** er hægt að sjá allar vinnuskýrslur sem hafa verið stofnaðar.
+4. <span data-ttu-id="08393-118">Velja hnappinn **Í lagi**.</span><span class="sxs-lookup"><span data-stu-id="08393-118">Choose the **OK** button.</span></span>
+<span data-ttu-id="08393-119">Í glugganum **Vinnuskýrslulisti** er hægt að sjá allar vinnuskýrslur sem hafa verið stofnaðar.</span><span class="sxs-lookup"><span data-stu-id="08393-119">You can view the time sheets that you have created in the **Time Sheet list** window.</span></span>
 
-## <a name="to-copy-job-planning-lines-to-a-time-sheet"></a>Til að afrita áætlunarlínur verks á vinnuskýrslu  
-Eftirfarandi ferli lýsir því hvernig eigi að flýtistofna verkáætlunarlínur á vinnuskýrslu.
+## <a name="to-copy-job-planning-lines-to-a-time-sheet"></a><span data-ttu-id="08393-120">Til að afrita áætlunarlínur verks á vinnuskýrslu</span><span class="sxs-lookup"><span data-stu-id="08393-120">To copy job planning lines to a time sheet</span></span>  
+<span data-ttu-id="08393-121">Eftirfarandi ferli lýsir því hvernig eigi að flýtistofna verkáætlunarlínur á vinnuskýrslu.</span><span class="sxs-lookup"><span data-stu-id="08393-121">The following procedure describes how to quickly add job planning lines to a time sheet.</span></span>
 
-1. Uppi í hægra horninu skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Vinnuskýrslur** og velja svo viðeigandi tengil.  
-2. Í glugganum **Vinnuskýrslulisti** skal velja vinnuskýrslu fyrir viðeigandi tímabil og velja svo aðgerðina **Breyta vinnuskýrslu**.  
-3. Veljið aðgerðina **Stofna línur úr verkáætlun**. Allar verkáætlunarlínur á tímabilinu í vinnuskýrslunni eru afritaðar í vinnuskýrslu aðilans eða vélarinnar í reitnum **Forði nr.** í vinnuskýrslunni.
+1. <span data-ttu-id="08393-122">Uppi í hægra horninu skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Vinnuskýrslur** og velja svo viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="08393-122">In the top right corner, choose the **Search for Page or Report** icon, enter **Time Sheets**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="08393-123">Í glugganum **Vinnuskýrslulisti** skal velja vinnuskýrslu fyrir viðeigandi tímabil og velja svo aðgerðina **Breyta vinnuskýrslu**.</span><span class="sxs-lookup"><span data-stu-id="08393-123">In the **Time Sheet List** window, select a time sheet for the relevant time period, and then choose the **Edit Time Sheet** action.</span></span>  
+3. <span data-ttu-id="08393-124">Veljið aðgerðina **Stofna línur úr verkáætlun**.</span><span class="sxs-lookup"><span data-stu-id="08393-124">Choose the **Create lines from job planning** action.</span></span> <span data-ttu-id="08393-125">Allar verkáætlunarlínur á tímabilinu í vinnuskýrslunni eru afritaðar í vinnuskýrslu aðilans eða vélarinnar í reitnum **Forði nr.**</span><span class="sxs-lookup"><span data-stu-id="08393-125">Any job planning lines in the time sheet time period are copied to the time sheet for the person or machine in the **Resource No.**</span></span> <span data-ttu-id="08393-126">í vinnuskýrslunni.</span><span class="sxs-lookup"><span data-stu-id="08393-126">field on the time sheet.</span></span>
 
-## <a name="to-define-work-types-and-add-one-to-a-time-sheet"></a>Til að skilgreina tegundir vinnu og bæta tegund vinnu við vinnuskýrslu  
-Hægt er að skilgreina tegund vinnu fyrir allar vinnuskýrslulínur fyrir verk. Með þeim hætti er hægt að bæta við upplýsingum sem þarf til að rukka viðskiptavininn og fyrir mismunandi tegundir af vinnu.
+## <a name="to-define-work-types-and-add-one-to-a-time-sheet"></a><span data-ttu-id="08393-127">Til að skilgreina tegundir vinnu og bæta tegund vinnu við vinnuskýrslu</span><span class="sxs-lookup"><span data-stu-id="08393-127">To define work types and add one to a time sheet</span></span>  
+<span data-ttu-id="08393-128">Hægt er að skilgreina tegund vinnu fyrir allar vinnuskýrslulínur fyrir verk.</span><span class="sxs-lookup"><span data-stu-id="08393-128">You can define the work type for all time sheet lines for jobs.</span></span> <span data-ttu-id="08393-129">Með þeim hætti er hægt að bæta við upplýsingum sem þarf til að rukka viðskiptavininn og fyrir mismunandi tegundir af vinnu.</span><span class="sxs-lookup"><span data-stu-id="08393-129">In this way, you can add information that you need to bill the customer for different types of work.</span></span>
 
-1. Uppi í hægra horninu skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Vinnuskýrslur** og velja svo viðeigandi tengil.   
-2. Opnið viðeigandi vinnuskýrslu.
-3. Veljið reitinn **Lýsing**.  
-4. Í glugganum **Verkupplýsingar vinnuskýrslulínu** skal velja reitinn **Vinnutegundarkóti** og velja tegund vinnu úr listanum, s.s. **Mílur**.  
-5. Ef engin tegund vinnu er til skal velja aðgerðina **Nýtt**.
-6. Í glugganum **Tegundir vinnu** þarf að fylla reitina út eftir þörfum.
-7. Endurtakið skref 4 til að úthluta nýju verktegundinni á vinnuskýrsluna.
+1. <span data-ttu-id="08393-130">Uppi í hægra horninu skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Vinnuskýrslur** og velja svo viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="08393-130">In the top right corner, choose the **Search for Page or Report** icon, enter **Time Sheets**, and then choose the related link.</span></span>   
+2. <span data-ttu-id="08393-131">Opnið viðeigandi vinnuskýrslu.</span><span class="sxs-lookup"><span data-stu-id="08393-131">Open the relevant time sheet.</span></span>
+3. <span data-ttu-id="08393-132">Veljið reitinn **Lýsing**.</span><span class="sxs-lookup"><span data-stu-id="08393-132">Choose the **Description** field.</span></span>  
+4. <span data-ttu-id="08393-133">Í glugganum **Verkupplýsingar vinnuskýrslulínu** skal velja reitinn **Vinnutegundarkóti** og velja tegund vinnu úr listanum, s.s. **Mílur**.</span><span class="sxs-lookup"><span data-stu-id="08393-133">In the **Time Sheet Line Job Detail** window, choose the **Work Type Code** field, and select a work type from the list, such as **Miles**.</span></span>  
+5. <span data-ttu-id="08393-134">Ef engin tegund vinnu er til skal velja aðgerðina **Nýtt**.</span><span class="sxs-lookup"><span data-stu-id="08393-134">If no work types exist, chose the **New** action.</span></span>
+6. <span data-ttu-id="08393-135">Í glugganum **Tegundir vinnu** þarf að fylla reitina út eftir þörfum.</span><span class="sxs-lookup"><span data-stu-id="08393-135">In the **Work Types** window, fill in the fields as necessary.</span></span>
+7. <span data-ttu-id="08393-136">Endurtakið skref 4 til að úthluta nýju verktegundinni á vinnuskýrsluna.</span><span class="sxs-lookup"><span data-stu-id="08393-136">Repeat step 4 to assign the new work type to the time sheet.</span></span>
 
-## <a name="to-reuse-time-sheet-lines-in-other-time-sheets"></a>Til að endurnýta vinnuskýrslulínur í öðrum vinnuskýrslum  
-Ef upplýsingar tímablaðs haldast óbreyttar á milli tímabila má spara tíma með því að afrita línur úr fyrra tímabili. Síðan er tímanotkunin fyrir nýja tímabilið færð inn.
+## <a name="to-reuse-time-sheet-lines-in-other-time-sheets"></a><span data-ttu-id="08393-137">Til að endurnýta vinnuskýrslulínur í öðrum vinnuskýrslum</span><span class="sxs-lookup"><span data-stu-id="08393-137">To reuse time sheet lines in other time sheets</span></span>  
+<span data-ttu-id="08393-138">Ef upplýsingar tímablaðs haldast óbreyttar á milli tímabila má spara tíma með því að afrita línur úr fyrra tímabili.</span><span class="sxs-lookup"><span data-stu-id="08393-138">If your time sheet information remains the same from time period to time period, you can save time by copying the lines from the previous time period.</span></span> <span data-ttu-id="08393-139">Síðan er tímanotkunin fyrir nýja tímabilið færð inn.</span><span class="sxs-lookup"><span data-stu-id="08393-139">Then, you just enter your time usage for the new period.</span></span>
 
-1. Uppi í hægra horninu skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Vinnuskýrslur** og velja svo viðeigandi tengil.  
-2. Opnið vinnuskýrsluna fyrir tímabil sem er síðar en tímabilið fyrir fyrirliggjandi vinnuskýrslu með línum.  
-3. Veljið aðgerðina **Afrita línur úr fyrri vinnuskýrslu**.
+1. <span data-ttu-id="08393-140">Uppi í hægra horninu skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Vinnuskýrslur** og velja svo viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="08393-140">In the top right corner, choose the **Search for Page or Report** icon, enter **Time Sheets**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="08393-141">Opnið vinnuskýrsluna fyrir tímabil sem er síðar en tímabilið fyrir fyrirliggjandi vinnuskýrslu með línum.</span><span class="sxs-lookup"><span data-stu-id="08393-141">Open the time sheet for a period later than the period for an existing time sheet with lines.</span></span>  
+3. <span data-ttu-id="08393-142">Veljið aðgerðina **Afrita línur úr fyrri vinnuskýrslu**.</span><span class="sxs-lookup"><span data-stu-id="08393-142">Choose the **Copy Lines from Previous Time Sheet** action.</span></span>
 
-Línurnar eru afritaðar, með upplýsingum eins og gerð og lýsingu. Ef línan tengist til dæmis verki skal **Verknr.** afritað. Allar afritað línur eru með stöðuna **Opna**. Þá er hægt að breyta línunum eftir þörfum.
+<span data-ttu-id="08393-143">Línurnar eru afritaðar, með upplýsingum eins og gerð og lýsingu.</span><span class="sxs-lookup"><span data-stu-id="08393-143">The lines are copied, including details such as type and description.</span></span> <span data-ttu-id="08393-144">Ef línan tengist til dæmis verki skal **Verknr.**</span><span class="sxs-lookup"><span data-stu-id="08393-144">For example, if the line is related to a job, the **Job No.**</span></span> <span data-ttu-id="08393-145">afritað.</span><span class="sxs-lookup"><span data-stu-id="08393-145">is copied.</span></span> <span data-ttu-id="08393-146">Allar afritað línur eru með stöðuna **Opna**.</span><span class="sxs-lookup"><span data-stu-id="08393-146">All copied lines have the status **Open**.</span></span> <span data-ttu-id="08393-147">Þá er hægt að breyta línunum eftir þörfum.</span><span class="sxs-lookup"><span data-stu-id="08393-147">You can now modify the lines as needed.</span></span>
 
-## <a name="to-fill-in-a-time-sheet-lines-and-submit-for-approval"></a>Til að fylla út vinnuskýrslulínur og senda til samþykktar  
-Vinnuskýrsluskráning er rakin í klukkustundum, sem er stöðluð grunnmælieining fyrir forða. Sjálfgefið er að vinnuskýrsla sýni sameiginlega vinnudaga frá mánudegi til föstudags.
+## <a name="to-fill-in-a-time-sheet-lines-and-submit-for-approval"></a><span data-ttu-id="08393-148">Til að fylla út vinnuskýrslulínur og senda til samþykktar</span><span class="sxs-lookup"><span data-stu-id="08393-148">To fill in a time sheet lines and submit for approval</span></span>  
+<span data-ttu-id="08393-149">Vinnuskýrsluskráning er rakin í klukkustundum, sem er stöðluð grunnmælieining fyrir forða.</span><span class="sxs-lookup"><span data-stu-id="08393-149">Time sheet registration is tracked in hours, the standard base unit of measure for resources.</span></span> <span data-ttu-id="08393-150">Sjálfgefið er að vinnuskýrsla sýni sameiginlega vinnudaga frá mánudegi til föstudags.</span><span class="sxs-lookup"><span data-stu-id="08393-150">By default, a time sheet shows the common work days of Monday through Friday.</span></span>
 
-1. Uppi í hægra horninu skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Vinnuskýrslur** og velja svo viðeigandi tengil.  
-2. Veljið vinnuskýrslu fyrir viðeigandi tímabil og veljið svo aðgerðina **Breyta tímaskýrslu**.  
-3. Fyllið í reitina í línu eins og þörf krefur. Færið inn fjölda stunda sem forðinn notar hvern dag vikunnar.
+1. <span data-ttu-id="08393-151">Uppi í hægra horninu skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Vinnuskýrslur** og velja svo viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="08393-151">In the top right corner, choose the **Search for Page or Report** icon, enter **Time Sheets**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="08393-152">Veljið vinnuskýrslu fyrir viðeigandi tímabil og veljið svo aðgerðina **Breyta tímaskýrslu**.</span><span class="sxs-lookup"><span data-stu-id="08393-152">Select a time sheet for the relevant time period, and then choose the **Edit Time Sheet** action.</span></span>  
+3. <span data-ttu-id="08393-153">Fyllið í reitina í línu eins og þörf krefur.</span><span class="sxs-lookup"><span data-stu-id="08393-153">Fill in the fields on a line as necessary.</span></span> <span data-ttu-id="08393-154">Færið inn fjölda stunda sem forðinn notar hvern dag vikunnar.</span><span class="sxs-lookup"><span data-stu-id="08393-154">Enter the number of hours used by the resource on each day of the week.</span></span>
 
-    **Ábending**: Hægt er að yfirfara samtölu vinnuskýrslustunda sem slegnar hafa verið inn í upplýsingakassanum **Raunveruleg/áætluð samantekt**.  
+    <span data-ttu-id="08393-155">**Ábending**: Hægt er að yfirfara samtölu vinnuskýrslustunda sem slegnar hafa verið inn í upplýsingakassanum **Raunveruleg/áætluð samantekt**.</span><span class="sxs-lookup"><span data-stu-id="08393-155">**Tip**: You can review the sum of time sheet hours that you have entered in the **Actual/Budgeted Summary** FactBox.</span></span>  
 
-4. Endurtakið skref 3 fyrir aðrar tegundir vinnu sem forðinn innir af hendi.
-5. Veljið aðgerðina **Senda** og veljið svo aðgerðina **Allar opnar línur** til að senda allar línur eða aðgerðina **Aðeins valdar línur** til að senda aðeins þær línur sem eru valdar í glugganum **Vinnuskýrsla**.  
+4. <span data-ttu-id="08393-156">Endurtakið skref 3 fyrir aðrar tegundir vinnu sem forðinn innir af hendi.</span><span class="sxs-lookup"><span data-stu-id="08393-156">Repeat step 3 for other work types that the resource performs.</span></span>
+5. <span data-ttu-id="08393-157">Veljið aðgerðina **Senda** og veljið svo aðgerðina **Allar opnar línur** til að senda allar línur eða aðgerðina **Aðeins valdar línur** til að senda aðeins þær línur sem eru valdar í glugganum **Vinnuskýrsla**.</span><span class="sxs-lookup"><span data-stu-id="08393-157">Choose the **Submit** action, and then choose the **All open lines** action to submit all lines or the **Selected lines only** action to submit only the lines that are selected in the **Time Sheet** window.</span></span>  
 
-    **Til athugunar**: Aðeins er hægt að senda vinnuskýrslulínur sem innihalda skráðan tíma.  
+    <span data-ttu-id="08393-158">**Til athugunar**: Aðeins er hægt að senda vinnuskýrslulínur sem innihalda skráðan tíma.</span><span class="sxs-lookup"><span data-stu-id="08393-158">**Note**: You can only submit time sheet lines for which you have entered time.</span></span>  
 
-6. Til að breyta upplýsingum í línu sem hefur verið stillt á **Sent** skal velja línu og velja svo aðgerðina **Enduropna**.
+6. <span data-ttu-id="08393-159">Til að breyta upplýsingum í línu sem hefur verið stillt á **Sent** skal velja línu og velja svo aðgerðina **Enduropna**.</span><span class="sxs-lookup"><span data-stu-id="08393-159">To modify information on a line that has been set to **Submitted**, select the line, and then choose the **Reopen** action.</span></span>
 
-    **Til athugunar**: Yfirmaður getur hafnað vinnuskýrslulínu sem send er til samþykkis. Ef lína hefur stöðuna **Hafnað** er hægt að gera breytingar í línunni og velja **Senda** aftur.  
+    <span data-ttu-id="08393-160">**Til athugunar**: Yfirmaður getur hafnað vinnuskýrslulínu sem send er til samþykkis.</span><span class="sxs-lookup"><span data-stu-id="08393-160">**Note**: A manager may reject a time sheet line that is submitted for approval.</span></span> <span data-ttu-id="08393-161">Ef lína hefur stöðuna **Hafnað** er hægt að gera breytingar í línunni og velja **Senda** aftur.</span><span class="sxs-lookup"><span data-stu-id="08393-161">If a line has a status of **Rejected**, you can make changes to the line, and then choose **Submit** again.</span></span>  
 
-7. Velja hnappinn **Í lagi**.
+7. <span data-ttu-id="08393-162">Velja hnappinn **Í lagi**.</span><span class="sxs-lookup"><span data-stu-id="08393-162">Choose the **OK** button.</span></span>
 
-## <a name="to-approve-or-reject-a-time-sheet"></a>Til að samþykkja eða hafna vinnuskýrslu  
-Senda þarf vinnuskýrslu til samþykkis áður en hægt er að nota hana. Hægt er að samþykkja og hafna einstaka línum í vinnuskýrslu eða senda þær aftur til sendanda fyrir frekari aðgerðir. Hægt er að samþykkja vinnuskýrslu með tvenns konar hætti:
-- Vinnuskýrslustjóri getur samþykkt allar vinnuskýrslur.
-- Einstaklingurinn sem er tilgreindur í reitnum **Notandakenni samþykkjanda vinnuskýrslu** á forðaspjaldi getur samþykkt vinnuskýrslur viðkomandi forða. Frekari upplýsingar eru í [Hvernig á að: Setja upp vinnuskýrslur](projects-how-setup-time-sheets.md).
+## <a name="to-approve-or-reject-a-time-sheet"></a><span data-ttu-id="08393-163">Til að samþykkja eða hafna vinnuskýrslu</span><span class="sxs-lookup"><span data-stu-id="08393-163">To approve or reject a time sheet</span></span>  
+<span data-ttu-id="08393-164">Senda þarf vinnuskýrslu til samþykkis áður en hægt er að nota hana.</span><span class="sxs-lookup"><span data-stu-id="08393-164">A time sheet must be submitted for approval before it can be used.</span></span> <span data-ttu-id="08393-165">Hægt er að samþykkja og hafna einstaka línum í vinnuskýrslu eða senda þær aftur til sendanda fyrir frekari aðgerðir.</span><span class="sxs-lookup"><span data-stu-id="08393-165">You can approve and reject individual lines on a time sheet or send them back to the submitter for additional action.</span></span> <span data-ttu-id="08393-166">Hægt er að samþykkja vinnuskýrslu með tvenns konar hætti:</span><span class="sxs-lookup"><span data-stu-id="08393-166">A time sheet can be approved in two ways:</span></span>
+- <span data-ttu-id="08393-167">Vinnuskýrslustjóri getur samþykkt allar vinnuskýrslur.</span><span class="sxs-lookup"><span data-stu-id="08393-167">A time sheet administrator can approve any time sheet.</span></span>
+- <span data-ttu-id="08393-168">Einstaklingurinn sem er tilgreindur í reitnum **Notandakenni samþykkjanda vinnuskýrslu** á forðaspjaldi getur samþykkt vinnuskýrslur viðkomandi forða.</span><span class="sxs-lookup"><span data-stu-id="08393-168">The person who is specified in the **Time Sheet Approver User ID** field on a resource card can approve that resource's time sheets.</span></span> <span data-ttu-id="08393-169">Frekari upplýsingar eru í [Hvernig á að: Setja upp vinnuskýrslur](projects-how-setup-time-sheets.md).</span><span class="sxs-lookup"><span data-stu-id="08393-169">For more information, see [How to: Set Up Time Sheets](projects-how-setup-time-sheets.md).</span></span>
 
-1. Uppi í hægra horninu skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Vinnuskýrslur verkstjóra** og velja svo viðeigandi tengil.
-2. Veljið vinnuskýrslu úr listanum.  
-3. Í glugganum **Vinnuskýrsla** skal velja aðgerðina **Samþykkja** og velja svo aðgerðina **Allar sendar línur** til að samþykkja allar línur eða aðgerðina **Aðeins valdar línur** til að samþykkja aðeins þær línur sem eru valdar í glugganum **Vinnuskýrsla**.
-4. Velja hnappinn **Í lagi**.  
-5. Einnig er hægt að velja aðgerðina **Hafna** og fylgja skrefum 4 til 5.  
+1. <span data-ttu-id="08393-170">Uppi í hægra horninu skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Vinnuskýrslur verkstjóra** og velja svo viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="08393-170">In the top right corner, choose the **Search for Page or Report** icon, enter **Manager Time Sheets**, and then choose the related link.</span></span>
+2. <span data-ttu-id="08393-171">Veljið vinnuskýrslu úr listanum.</span><span class="sxs-lookup"><span data-stu-id="08393-171">Select a time sheet from the list.</span></span>  
+3. <span data-ttu-id="08393-172">Í glugganum **Vinnuskýrsla** skal velja aðgerðina **Samþykkja** og velja svo aðgerðina **Allar sendar línur** til að samþykkja allar línur eða aðgerðina **Aðeins valdar línur** til að samþykkja aðeins þær línur sem eru valdar í glugganum **Vinnuskýrsla**.</span><span class="sxs-lookup"><span data-stu-id="08393-172">In the **Time Sheet** window, choose the **Approve** action, and then choose the **All submitted lines** action to approve all lines or the **Selected lines only** action to approve only the lines that are selected in the **Time Sheet** window.</span></span>
+4. <span data-ttu-id="08393-173">Velja hnappinn **Í lagi**.</span><span class="sxs-lookup"><span data-stu-id="08393-173">Choose the **OK** button.</span></span>  
+5. <span data-ttu-id="08393-174">Einnig er hægt að velja aðgerðina **Hafna** og fylgja skrefum 4 til 5.</span><span class="sxs-lookup"><span data-stu-id="08393-174">Alternatively, choose the **Reject** action and follow steps 4 through 5.</span></span>  
 
-**Ábending**: Notið upplýsingakassana **Staða vinnuskýrslu** og **Raunveruleg/áætluð samantekt** til að fá yfirlit yfir upplýsingar vinnuskýrslna.
+<span data-ttu-id="08393-175">**Ábending**: Notið upplýsingakassana **Staða vinnuskýrslu** og **Raunveruleg/áætluð samantekt** til að fá yfirlit yfir upplýsingar vinnuskýrslna.</span><span class="sxs-lookup"><span data-stu-id="08393-175">**Tip**: Use the **Time Sheet Status** and **Actual/Budgeted Summary** FactBoxes to get an overview of time sheet information.</span></span>
 
-Þegar búið er að samþykkja eða hafna vinnuskýrslu er ekki hægt að breyta henni nema hún sé enduropnuð fyrst. Eftirfarandi ferli lýsir því hvernig á að enduropna vinnuskýrslu sem hefur verið samþykkt eða hafnað.
+<span data-ttu-id="08393-176">Þegar búið er að samþykkja eða hafna vinnuskýrslu er ekki hægt að breyta henni nema hún sé enduropnuð fyrst.</span><span class="sxs-lookup"><span data-stu-id="08393-176">After you have approved or rejected a time sheet, it cannot be modified unless it is first reopened.</span></span> <span data-ttu-id="08393-177">Eftirfarandi ferli lýsir því hvernig á að enduropna vinnuskýrslu sem hefur verið samþykkt eða hafnað.</span><span class="sxs-lookup"><span data-stu-id="08393-177">The following procedure explains how to reopen an approved or rejected time sheet.</span></span>
 
-## <a name="to-reopen-a-time-sheet"></a>Til að enduropna vinnuskýrslu  
+## <a name="to-reopen-a-time-sheet"></a><span data-ttu-id="08393-178">Til að enduropna vinnuskýrslu</span><span class="sxs-lookup"><span data-stu-id="08393-178">To reopen a time sheet</span></span>  
 
-1. Uppi í hægra horninu skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Vinnuskýrslur verkstjóra** eða **Vinnuskýrslur** og velja svo viðeigandi tengil.
-2. Opnið vinnuskýrslu úr listanum.  
+1. <span data-ttu-id="08393-179">Uppi í hægra horninu skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Vinnuskýrslur verkstjóra** eða **Vinnuskýrslur** og velja svo viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="08393-179">In the top right corner, choose the **Search for Page or Report** icon, enter **Manager Time Sheets** or **Time Sheets**, and then choose the related link.</span></span>
+2. <span data-ttu-id="08393-180">Opnið vinnuskýrslu úr listanum.</span><span class="sxs-lookup"><span data-stu-id="08393-180">Open a time sheet from the list.</span></span>  
 
-    **Ábending**: Aðeins er hægt að enduropna línur sem hafa stöðuna **Samþykkt**. Ekki er hægt að enduropna línur með stöðuna **Hafnað**. Ekki er hægt að opna vinnuskýrslu á ný hafi nú verið bókuð.  
+    <span data-ttu-id="08393-181">**Ábending**: Aðeins er hægt að enduropna línur sem hafa stöðuna **Samþykkt**.</span><span class="sxs-lookup"><span data-stu-id="08393-181">**Note**: You can only reopen lines that have the status **Approved**.</span></span> <span data-ttu-id="08393-182">Ekki er hægt að enduropna línur með stöðuna **Hafnað**.</span><span class="sxs-lookup"><span data-stu-id="08393-182">You cannot reopen lines that have the status **Rejected**.</span></span> <span data-ttu-id="08393-183">Ekki er hægt að opna vinnuskýrslu á ný hafi nú verið bókuð.</span><span class="sxs-lookup"><span data-stu-id="08393-183">You cannot reopen a time sheet if it has been posted.</span></span>  
 
-3. Í glugganum **Vinnuskýrsla** skal velja aðgerðina **Enduropna** og velja svo aðgerðina **Allar sendar línur** til að enduropna allar línur eða aðgerðina **Aðeins valdar línur** til að enduropna aðeins þær línur sem eru valdar í glugganum **Vinnuskýrsla**.
-4. Velja hnappinn **Í lagi**. Staða vinnuskýrslulínunnar eða -línanna breytist í **Sent**.  
+3. <span data-ttu-id="08393-184">Í glugganum **Vinnuskýrsla** skal velja aðgerðina **Enduropna** og velja svo aðgerðina **Allar sendar línur** til að enduropna allar línur eða aðgerðina **Aðeins valdar línur** til að enduropna aðeins þær línur sem eru valdar í glugganum **Vinnuskýrsla**.</span><span class="sxs-lookup"><span data-stu-id="08393-184">In the **Time Sheet** window, choose the **Reopen** action, and then choose the **All submitted lines** action to reopen all lines or the **Selected lines only** action to reopen only the lines that are selected in the **Time Sheet** window.</span></span>
+4. <span data-ttu-id="08393-185">Velja hnappinn **Í lagi**.</span><span class="sxs-lookup"><span data-stu-id="08393-185">Choose the **OK** button.</span></span> <span data-ttu-id="08393-186">Staða vinnuskýrslulínunnar eða -línanna breytist í **Sent**.</span><span class="sxs-lookup"><span data-stu-id="08393-186">The status of the time sheets line or lines is changes to **Submitted**.</span></span>  
 
-## <a name="to-post-time-sheet-lines-in-a-resource-journal"></a>Til að bóka vinnuskýrslulínur í forðabók  
-Eftir að búið er að samþykkja vinnuskýrslufærslur fyrir forða, er hægt að bóka þær á viðeigandi forðabók.
+## <a name="to-post-time-sheet-lines-in-a-resource-journal"></a><span data-ttu-id="08393-187">Til að bóka vinnuskýrslulínur í forðabók</span><span class="sxs-lookup"><span data-stu-id="08393-187">To post time sheet lines in a resource journal</span></span>  
+<span data-ttu-id="08393-188">Eftir að búið er að samþykkja vinnuskýrslufærslur fyrir forða, er hægt að bóka þær á viðeigandi forðabók.</span><span class="sxs-lookup"><span data-stu-id="08393-188">After you have approved time sheet entries for a resource, you can post them to the relevant resource journal.</span></span>
 
-1. Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Forðabók** og velja síðan viðeigandi tengil.  
-2. Veljið aðgerðina **Stinga upp á línum úr vinnuskýrslum**.  
-3. Fyllið inn í svæðin eftir þörfum.  
-4. Velja hnappinn **Í lagi**. Færslur fyrir notkun eru stofnaðar í forðabókinni þar sem hægt er að breyta upplýsingunum eftir þörfum.  
-5. Valið er **bóka** aðgerð.  
-6. Til að staðfesta bókunina skal velja aðgerðina **Verkfærslur**. Glugginn **Forðafærslur** opnast og sýnir niðurstöður bókunar forðabókarinnar.
+1. <span data-ttu-id="08393-189">Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Forðabók** og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="08393-189">In the top right corner, choose the **Search for Page or Report** icon, enter **Resource Journal**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="08393-190">Veljið aðgerðina **Stinga upp á línum úr vinnuskýrslum**.</span><span class="sxs-lookup"><span data-stu-id="08393-190">Choose the **Suggest Lines from Time Sheets** action.</span></span>  
+3. <span data-ttu-id="08393-191">Fyllið inn í svæðin eftir þörfum.</span><span class="sxs-lookup"><span data-stu-id="08393-191">Fill in the fields as necessary.</span></span>  
+4. <span data-ttu-id="08393-192">Velja hnappinn **Í lagi**.</span><span class="sxs-lookup"><span data-stu-id="08393-192">Choose the **OK** button.</span></span> <span data-ttu-id="08393-193">Færslur fyrir notkun eru stofnaðar í forðabókinni þar sem hægt er að breyta upplýsingunum eftir þörfum.</span><span class="sxs-lookup"><span data-stu-id="08393-193">Entries for usage are created in the resource journal, where you can modify the information as needed.</span></span>  
+5. <span data-ttu-id="08393-194">Valið er **bóka** aðgerð.</span><span class="sxs-lookup"><span data-stu-id="08393-194">Choose the **Post** action.</span></span>  
+6. <span data-ttu-id="08393-195">Til að staðfesta bókunina skal velja aðgerðina **Verkfærslur**.</span><span class="sxs-lookup"><span data-stu-id="08393-195">To verify the posting, choose the **Ledger Entries** action.</span></span> <span data-ttu-id="08393-196">Glugginn **Forðafærslur** opnast og sýnir niðurstöður bókunar forðabókarinnar.</span><span class="sxs-lookup"><span data-stu-id="08393-196">The **Resource Ledger Entries** window opens showing the result of posting the resource journal.</span></span>
 
-## <a name="to-post-time-sheet-lines-in-a-job-journal"></a>Til að bóka vinnuskýrslulínur í verkbók  
-Eftir að búið er að samþykkja vinnuskýrslufærslur fyrir verk, er hægt að bóka þær á viðeigandi verkbók.
+## <a name="to-post-time-sheet-lines-in-a-job-journal"></a><span data-ttu-id="08393-197">Til að bóka vinnuskýrslulínur í verkbók</span><span class="sxs-lookup"><span data-stu-id="08393-197">To post time sheet lines in a job journal</span></span>  
+<span data-ttu-id="08393-198">Eftir að búið er að samþykkja vinnuskýrslufærslur fyrir verk, er hægt að bóka þær á viðeigandi verkbók.</span><span class="sxs-lookup"><span data-stu-id="08393-198">After you have approved time sheet entries for a job, you can post them to the relevant job journal.</span></span>
 
-1. Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Verkbók** og velja síðan viðeigandi tengil.  
-2. Veljið aðgerðina **Stinga upp á línum úr vinnuskýrslum**.  
-3. Fyllið inn í svæðin eftir þörfum.  
-4. Velja hnappinn **Í lagi**. Færslur fyrir notkun eru stofnaðar í verkbókinni þar sem hægt er að breyta upplýsingunum eftir þörfum.  
+1. <span data-ttu-id="08393-199">Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Verkbók** og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="08393-199">In the top right corner, choose the **Search for Page or Report** icon, enter **Job Journal**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="08393-200">Veljið aðgerðina **Stinga upp á línum úr vinnuskýrslum**.</span><span class="sxs-lookup"><span data-stu-id="08393-200">Choose the **Suggest Lines from Time Sheets** action.</span></span>  
+3. <span data-ttu-id="08393-201">Fyllið inn í svæðin eftir þörfum.</span><span class="sxs-lookup"><span data-stu-id="08393-201">Fill in the fields as necessary.</span></span>  
+4. <span data-ttu-id="08393-202">Velja hnappinn **Í lagi**.</span><span class="sxs-lookup"><span data-stu-id="08393-202">Choose the **OK** button.</span></span> <span data-ttu-id="08393-203">Færslur fyrir notkun eru stofnaðar í verkbókinni þar sem hægt er að breyta upplýsingunum eftir þörfum.</span><span class="sxs-lookup"><span data-stu-id="08393-203">Entries for usage are created in the job journal, where you can modify the information as needed.</span></span>  
 
-    **Til athugunar**: Upplýsingar um tegund verks og hvort verkið er reikningshæft eru afritaðar úr vinnuskýrslulínu. Ef þörf krefur er hægt að fækka klukkustundum og bóka að hluta. Ef magnið er minnkað mun línan sem stofnuð er innihalda eftirstandandi klukkustundir næst þegar aðgerðin **Stinga upp á línum úr vinnuskýrslum** er valin.  
+    <span data-ttu-id="08393-204">**Til athugunar**: Upplýsingar um tegund verks og hvort verkið er reikningshæft eru afritaðar úr vinnuskýrslulínu.</span><span class="sxs-lookup"><span data-stu-id="08393-204">**Note**: Information about work type and whether the work is chargeable is copied from the time sheet line.</span></span> <span data-ttu-id="08393-205">Ef þörf krefur er hægt að fækka klukkustundum og bóka að hluta.</span><span class="sxs-lookup"><span data-stu-id="08393-205">If needed, you can reduce the quantity of hours and do a partial posting.</span></span> <span data-ttu-id="08393-206">Ef magnið er minnkað mun línan sem stofnuð er innihalda eftirstandandi klukkustundir næst þegar aðgerðin **Stinga upp á línum úr vinnuskýrslum** er valin.</span><span class="sxs-lookup"><span data-stu-id="08393-206">If you reduce the quantity, then the next time that you choose the **Suggest Lines From Time Sheets** action, the line that is created will contain the remaining quantity of hours.</span></span>  
 
-5. Valið er **bóka** aðgerð.  
-6. Til að staðfesta bókunina skal velja aðgerðina **Verkfærslur**. Glugginn **Verkfærslur** opnast og sýnir niðurstöður bókunar forðabókarinnar.
+5. <span data-ttu-id="08393-207">Valið er **bóka** aðgerð.</span><span class="sxs-lookup"><span data-stu-id="08393-207">Choose the **Post** action.</span></span>  
+6. <span data-ttu-id="08393-208">Til að staðfesta bókunina skal velja aðgerðina **Verkfærslur**.</span><span class="sxs-lookup"><span data-stu-id="08393-208">To verify the posting, choose the **Ledger Entries** action.</span></span> <span data-ttu-id="08393-209">Glugginn **Verkfærslur** opnast og sýnir niðurstöður bókunar forðabókarinnar.</span><span class="sxs-lookup"><span data-stu-id="08393-209">The **Job Ledger Entries** window opens showing the result of posting the resource journal.</span></span>
 
-## <a name="to-archive-time-sheets"></a>Til að færa vinnuskýrslur í safn  
-Þegar búið er að bóka vinnuskýrslu, er hægt að safna þeim fyrir seinni tíma tilvísun. Bóka þarf allar vinnuskýrslulínur áður en hægt er að færa vinnuskýrslu í skjalasafn.
+## <a name="to-archive-time-sheets"></a><span data-ttu-id="08393-210">Til að færa vinnuskýrslur í safn</span><span class="sxs-lookup"><span data-stu-id="08393-210">To archive time sheets</span></span>  
+<span data-ttu-id="08393-211">Þegar búið er að bóka vinnuskýrslu, er hægt að safna þeim fyrir seinni tíma tilvísun.</span><span class="sxs-lookup"><span data-stu-id="08393-211">After you have posted time sheets, you can archive them for future reference.</span></span> <span data-ttu-id="08393-212">Bóka þarf allar vinnuskýrslulínur áður en hægt er að færa vinnuskýrslu í skjalasafn.</span><span class="sxs-lookup"><span data-stu-id="08393-212">All time sheets lines must be posted before a time sheet can be archived.</span></span>
 
-**Til athugunar**: Þegar vinnuskýrsla er færð í skjalasafn er hún fjarlægð af listunum bæði í glugganum **Vinnuskýrslur** og glugganum **Vinnuskýrslur verkstjóra**.
+<span data-ttu-id="08393-213">**Til athugunar**: Þegar vinnuskýrsla er færð í skjalasafn er hún fjarlægð af listunum bæði í glugganum **Vinnuskýrslur** og glugganum **Vinnuskýrslur verkstjóra**.</span><span class="sxs-lookup"><span data-stu-id="08393-213">**Note**: When you archive a time sheet, it is removed from the lists in both the **Time Sheets** window and the **Manager Time Sheets** window.</span></span>
 
-1. Uppi í hægra horninu skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Færa vinnuskýrslur í safn** og velja svo viðeigandi tengil.  
-2. Fyllið út reitina eins og þörf krefur og lokið svo glugganum.  
-3. Til þess að fara yfir vinnuskýrslur í skjalasafni skal velja táknið **Leita að síðu eða skýrslu** uppi í hægra horninu og slá svo inn **Vinnuskýrsluskrár** eða **Vinnuskýrsluskrár verkstjóra** og velja svo viðeigandi tengil.
+1. <span data-ttu-id="08393-214">Uppi í hægra horninu skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Færa vinnuskýrslur í safn** og velja svo viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="08393-214">In the top right corner, choose the **Search for Page or Report** icon, enter **Move Time Sheets to Archive**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="08393-215">Fyllið út reitina eins og þörf krefur og lokið svo glugganum.</span><span class="sxs-lookup"><span data-stu-id="08393-215">Fill in the fields as necessary, and then close the window.</span></span>  
+3. <span data-ttu-id="08393-216">Til þess að fara yfir vinnuskýrslur í skjalasafni skal velja táknið **Leita að síðu eða skýrslu** uppi í hægra horninu og slá svo inn **Vinnuskýrsluskrár** eða **Vinnuskýrsluskrár verkstjóra** og velja svo viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="08393-216">To review archived time sheets, in the top right corner, choose the **Search for Page or Report** icon, enter **Time Sheet Archives** or **Manager Time Sheet Archives**, and then choose the related link.</span></span>
 
-## <a name="see-also"></a>Sjá einnig
-[Unnið með verkefni](projects-manage-projects.md)  
-[Setja upp verkefnastjórnun](projects-setup-projects.md)    
-[Fjármál](finance-setup.md)  
-[Stjórnun innkaupa](purchasing-manage-purchasing.md)         
-[Stjórna sölu](sales-manage-sales.md)     
-[Unnið með Dynamics NAV](ui-work-product.md)  
+## <a name="see-also"></a><span data-ttu-id="08393-217">Sjá einnig</span><span class="sxs-lookup"><span data-stu-id="08393-217">See Also</span></span>
+[<span data-ttu-id="08393-218">Unnið með verkefni</span><span class="sxs-lookup"><span data-stu-id="08393-218">Manage Projects</span></span>](projects-manage-projects.md)  
+<span data-ttu-id="08393-219">[Setja upp verkefnastjórnun](projects-setup-projects.md)  </span><span class="sxs-lookup"><span data-stu-id="08393-219">[Set Up Project Management](projects-setup-projects.md)  </span></span>  
+[<span data-ttu-id="08393-220">Fjármál</span><span class="sxs-lookup"><span data-stu-id="08393-220">Finance</span></span>](finance-setup.md)  
+<span data-ttu-id="08393-221">[Stjórnun innkaupa](purchasing-manage-purchasing.md)       </span><span class="sxs-lookup"><span data-stu-id="08393-221">[Manage Purchasing](purchasing-manage-purchasing.md)       </span></span>  
+<span data-ttu-id="08393-222">[Stjórna sölu](sales-manage-sales.md)   </span><span class="sxs-lookup"><span data-stu-id="08393-222">[Manage Sales](sales-manage-sales.md)   </span></span>  
+[<span data-ttu-id="08393-223">Unnið með Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="08393-223">Work With Dynamics NAV</span></span>](ui-work-product.md)  
 

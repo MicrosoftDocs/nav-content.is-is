@@ -1,1 +1,1 @@
-Microsoft Dynamics NAV Table biðlari
+<span data-ttu-id="b32b4-101">Microsoft Dynamics NAV Table biðlari</span><span class="sxs-lookup"><span data-stu-id="b32b4-101">Microsoft Dynamics NAV Tablet client</span></span>

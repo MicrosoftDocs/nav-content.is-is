@@ -9,48 +9,48 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 59db38c159dd2810656edc668ee431c6414b9d90
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 6f582e844670b8dc67e458947392d29afb8f1d1a
 ms.contentlocale: is-is
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="how-to-adjust-item-costs"></a>Hvernig á að: Leiðrétta birgðakostnað   
-Kostnaðarverð vöru (birgðavirði) sem er keypt og seld síðar getur breyst á líftímanum, til dæmis vegna þess að kostnað við frakt er bætt við innkaupakostnaðinn þegar varan hefur verið seld. Til þess að vita alltaf rétt birgðavirði verður því að leiðrétta kostnaðarverð vöru reglubundið.
-Þetta tryggir að sölu- og hagnaðartölur séu réttar og afkastavísar (KPI) fjárhags séu réttir.
+# <a name="how-to-adjust-item-costs"></a><span data-ttu-id="9a414-102">Hvernig á að: Leiðrétta birgðakostnað</span><span class="sxs-lookup"><span data-stu-id="9a414-102">How to: Adjust Item Costs</span></span>   
+<span data-ttu-id="9a414-103">Kostnaðarverð vöru (birgðavirði) sem er keypt og seld síðar getur breyst á líftímanum, til dæmis vegna þess að kostnað við frakt er bætt við innkaupakostnaðinn þegar varan hefur verið seld.</span><span class="sxs-lookup"><span data-stu-id="9a414-103">The cost of an item (inventory value) that you purchase and later sell may change during its lifetime, for example because a freight cost is added to its purchase cost after you have sold the item.</span></span> <span data-ttu-id="9a414-104">Til þess að vita alltaf rétt birgðavirði verður því að leiðrétta kostnaðarverð vöru reglubundið.</span><span class="sxs-lookup"><span data-stu-id="9a414-104">To always know the correct inventory value, item costs must therefore regularly be adjusted.</span></span>
+<span data-ttu-id="9a414-105">Þetta tryggir að sölu- og hagnaðartölur séu réttar og afkastavísar (KPI) fjárhags séu réttir.</span><span class="sxs-lookup"><span data-stu-id="9a414-105">This ensures that sales and profit statistics are up to date and that financial KPIs are correct.</span></span>
 
-**Til athugunar**: Vörukostnaður er aðeins leiðréttur með FIFO-aðferðinni. Þetta þýðir að kostnaðarverð vöru er raunvirði sérhverrar innhreyfingar vörunnar og við verðmat birgða er gert ráð fyrir því að fyrstu vörurnar í birgðunum séu seldar fyrst.
+<span data-ttu-id="9a414-106">**Til athugunar**: Vörukostnaður er aðeins leiðréttur með FIFO-aðferðinni.</span><span class="sxs-lookup"><span data-stu-id="9a414-106">**Note**: Item costs are adjusted by the FIFO costing method only.</span></span> <span data-ttu-id="9a414-107">Þetta þýðir að kostnaðarverð vöru er raunvirði sérhverrar innhreyfingar vörunnar og við verðmat birgða er gert ráð fyrir því að fyrstu vörurnar í birgðunum séu seldar fyrst.</span><span class="sxs-lookup"><span data-stu-id="9a414-107">This means that an item’s unit cost is the actual value of any receipt of the item, and that inventory is valuated with the assumption that the first items placed in inventory are sold first.</span></span>
 
-Kostnaðarleiðréttingin vinnur aðeins virðisfærslur sem hafa ekki verið lagfærðar. Ef keyrslan þarf að flytja kostnaðarbreytingar á innleið í tengdar færslur á útleið gerir hún það með því að stofna nýjar virðisleiðréttingarfærslur sem byggja á upplýsingum um upphaflegar virðisfærslur en innihalda leiðréttingarupphæðina. Kostnaðarleiðréttingin notar dagsetningu bókunar upphaflegu virðisfærslunnar í leiðréttingarfærslunni nema hún sé í lokuðu birgðatímabili. Í því tilfelli notar kerfið upphafsdagsetningu næsta birgðatímabils. Ef birgðatímabil eru ekki notuð munu gögnin í reitnum **Bókun leyfð frá** í glugganum **Fjárhagsgrunnur** skilgreina hvenær leiðréttingarfærslan er bókuð.
+<span data-ttu-id="9a414-108">Kostnaðarleiðréttingin vinnur aðeins virðisfærslur sem hafa ekki verið lagfærðar.</span><span class="sxs-lookup"><span data-stu-id="9a414-108">The cost adjustment function processes only value entries that have not yet been adjusted.</span></span> <span data-ttu-id="9a414-109">Ef keyrslan þarf að flytja kostnaðarbreytingar á innleið í tengdar færslur á útleið gerir hún það með því að stofna nýjar virðisleiðréttingarfærslur sem byggja á upplýsingum um upphaflegar virðisfærslur en innihalda leiðréttingarupphæðina.</span><span class="sxs-lookup"><span data-stu-id="9a414-109">If the function encounters a situation where changed inbound costs need to be forwarded to associated outbound entries, then new adjustment value entries are created, which are based on the information in the original value entries but contain the adjustment amount.</span></span> <span data-ttu-id="9a414-110">Kostnaðarleiðréttingin notar dagsetningu bókunar upphaflegu virðisfærslunnar í leiðréttingarfærslunni nema hún sé í lokuðu birgðatímabili.</span><span class="sxs-lookup"><span data-stu-id="9a414-110">The cost adjustment function uses the posting date of the original value entry in the adjustment entry, unless that date is in a closed inventory period.</span></span> <span data-ttu-id="9a414-111">Í því tilfelli notar kerfið upphafsdagsetningu næsta birgðatímabils.</span><span class="sxs-lookup"><span data-stu-id="9a414-111">In that case, the program uses the starting date of the next open inventory period.</span></span> <span data-ttu-id="9a414-112">Ef birgðatímabil eru ekki notuð munu gögnin í reitnum **Bókun leyfð frá** í glugganum **Fjárhagsgrunnur** skilgreina hvenær leiðréttingarfærslan er bókuð.</span><span class="sxs-lookup"><span data-stu-id="9a414-112">If inventory periods are not used, then the date in the **Allow Posting From** field in the **General Ledger Setup** window will define when the adjustment entry is posted.</span></span>
 
-**Athugasemd**: Þegar kostnaður vöru hefur verið leiðréttur þarf að bóka birgðakostnað á fjárhag, annaðhvort sjálfvirkt eða handvirkt. Nánari upplýsingar má sjá í [Hvernig á að: Bóka Birgðakostnað í fjárhag](inventory-how-post-inventory-cost-gl.md).
+<span data-ttu-id="9a414-113">**Athugasemd**: Þegar kostnaður vöru hefur verið leiðréttur þarf að bóka birgðakostnað á fjárhag, annaðhvort sjálfvirkt eða handvirkt.</span><span class="sxs-lookup"><span data-stu-id="9a414-113">**Note**: After item costs have been adjusted, the inventory cost must be posted to the general ledger, either automatically or manually.</span></span> <span data-ttu-id="9a414-114">Nánari upplýsingar má sjá í [Hvernig á að: Bóka Birgðakostnað í fjárhag](inventory-how-post-inventory-cost-gl.md).</span><span class="sxs-lookup"><span data-stu-id="9a414-114">For more information, see [How to: Post Inventory Costs to the General Ledger](inventory-how-post-inventory-cost-gl.md).</span></span>
 
-Hægt er að leiðrétta kostnað vöru á tvo vegu:
- - Setja kerfið þannig upp að leiðrétt sé sjálfvirkt vegna allra kostnaðarbreytinga í hvert sinn sem birgðafærslur eru bókaðar.
- - Handvirkt með því að keyra runuvinnsluna **Leiðr. Kostnað - Birgðafærslur** fyrir eina eða fleiri vörur þegar vitað er að kostnaður vegna þeirra hefur breyst.  
+<span data-ttu-id="9a414-115">Hægt er að leiðrétta kostnað vöru á tvo vegu:</span><span class="sxs-lookup"><span data-stu-id="9a414-115">You can adjust item costs in two ways:</span></span>
+ - <span data-ttu-id="9a414-116">Setja kerfið þannig upp að leiðrétt sé sjálfvirkt vegna allra kostnaðarbreytinga í hvert sinn sem birgðafærslur eru bókaðar.</span><span class="sxs-lookup"><span data-stu-id="9a414-116">Automatically, by having the system adjusted any cost changes every time that inventory transactions occur.</span></span>
+ - <span data-ttu-id="9a414-117">Handvirkt með því að keyra runuvinnsluna **Leiðr. Kostnað - Birgðafærslur** fyrir eina eða fleiri vörur þegar vitað er að kostnaður vegna þeirra hefur breyst.</span><span class="sxs-lookup"><span data-stu-id="9a414-117">Manually, by running the **Adjust Cost - Item Entries** batch job for one or more items when you know that their costs have changed.</span></span>  
 
-## <a name="to-adjust-item-costs-automatically"></a>Til að uppfæra kostnað vörusjálfvirkt
-1. Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn**Birgðagrunnur**, og velja síðan viðeigandi tengil.
-2. Í glugganum **Birgðagrunnur** í svæðinu **Sjálfvirk Kostnaðarleiðrétting** er valið eitt af eftirfarandi gildum.
+## <a name="to-adjust-item-costs-automatically"></a><span data-ttu-id="9a414-118">Til að uppfæra kostnað vörusjálfvirkt</span><span class="sxs-lookup"><span data-stu-id="9a414-118">To adjust item costs automatically</span></span>
+1. <span data-ttu-id="9a414-119">Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn**Birgðagrunnur**, og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="9a414-119">In the top right corner, choose the **Search for Page or Report** icon, enter **Inventory Setup**, and then  choose the related link.</span></span>
+2. <span data-ttu-id="9a414-120">Í glugganum **Birgðagrunnur** í svæðinu **Sjálfvirk Kostnaðarleiðrétting** er valið eitt af eftirfarandi gildum.</span><span class="sxs-lookup"><span data-stu-id="9a414-120">In the **Inventory Setup** window, in the **Automatic Cost Adjustment** field, select one of the following values.</span></span>
 
-|Valkostur |Virkni |
+|<span data-ttu-id="9a414-121">Valkostur</span><span class="sxs-lookup"><span data-stu-id="9a414-121">Option</span></span> |<span data-ttu-id="9a414-122">Virkni</span><span class="sxs-lookup"><span data-stu-id="9a414-122">Behavior</span></span> |
 |-------|---------|
-|Aldrei|Kostnaður er ekki leiðréttur við bókun|
-|Dagur|Kostnaður er leiðréttur ef bókun á sér stað innan eins dags frá vinnudagsetningunni.|
-|Vika|Kostnaður er leiðréttur ef bókun á sér stað innan einnar viku frá vinnudagsetningunni.|
-|Mánuður|Kostnaður er leiðréttur ef bókun á sér stað innan eins mánaðar frá vinnudagsetningunni.|
-|Fjórðungur|Kostnaður er leiðréttur ef bókun á sér stað innan eins ársfjórðungs frá vinnudagsetningunni.|
-|Ár|Kostnaður er leiðréttur ef bókun á sér stað innan eins árs frá vinnudagsetningunni.|
-|Alltaf|Kostnaður er alltaf leiðréttur við bókun óháð bókunardagsetningunni.|
+|<span data-ttu-id="9a414-123">Aldrei</span><span class="sxs-lookup"><span data-stu-id="9a414-123">Never</span></span>|<span data-ttu-id="9a414-124">Kostnaður er ekki leiðréttur við bókun</span><span class="sxs-lookup"><span data-stu-id="9a414-124">Costs are not adjusted when posting</span></span>|
+|<span data-ttu-id="9a414-125">Dagur</span><span class="sxs-lookup"><span data-stu-id="9a414-125">Day</span></span>|<span data-ttu-id="9a414-126">Kostnaður er leiðréttur ef bókun á sér stað innan eins dags frá vinnudagsetningunni.</span><span class="sxs-lookup"><span data-stu-id="9a414-126">Costs are adjusted if posting occurs within one day from the work date</span></span>|
+|<span data-ttu-id="9a414-127">Vika</span><span class="sxs-lookup"><span data-stu-id="9a414-127">Week</span></span>|<span data-ttu-id="9a414-128">Kostnaður er leiðréttur ef bókun á sér stað innan einnar viku frá vinnudagsetningunni.</span><span class="sxs-lookup"><span data-stu-id="9a414-128">Costs are adjusted if posting occurs within one week from the work date</span></span>|
+|<span data-ttu-id="9a414-129">Mánuður</span><span class="sxs-lookup"><span data-stu-id="9a414-129">Month</span></span>|<span data-ttu-id="9a414-130">Kostnaður er leiðréttur ef bókun á sér stað innan eins mánaðar frá vinnudagsetningunni.</span><span class="sxs-lookup"><span data-stu-id="9a414-130">Costs are adjusted if posting occurs within one month from the work date</span></span>|
+|<span data-ttu-id="9a414-131">Fjórðungur</span><span class="sxs-lookup"><span data-stu-id="9a414-131">Quarter</span></span>|<span data-ttu-id="9a414-132">Kostnaður er leiðréttur ef bókun á sér stað innan eins ársfjórðungs frá vinnudagsetningunni.</span><span class="sxs-lookup"><span data-stu-id="9a414-132">Costs are adjusted if posting occurs within one quarter from the work date</span></span>|
+|<span data-ttu-id="9a414-133">Ár</span><span class="sxs-lookup"><span data-stu-id="9a414-133">Year</span></span>|<span data-ttu-id="9a414-134">Kostnaður er leiðréttur ef bókun á sér stað innan eins árs frá vinnudagsetningunni.</span><span class="sxs-lookup"><span data-stu-id="9a414-134">Costs are adjusted if posting occurs within one year from the work date</span></span>|
+|<span data-ttu-id="9a414-135">Alltaf</span><span class="sxs-lookup"><span data-stu-id="9a414-135">Always</span></span>|<span data-ttu-id="9a414-136">Kostnaður er alltaf leiðréttur við bókun óháð bókunardagsetningunni.</span><span class="sxs-lookup"><span data-stu-id="9a414-136">Costs are always adjusted when posting, irrespective of the posting date</span></span>|
 
-## <a name="to-adjust-item-costs-manually"></a>Til að uppfæra birgðakostnað verks handvirkt
-1. Í efra hægri horni skal velja táknið **Leita að síðu eða skýrslu** slá inn **Leiðr. Kostnað - Birgðafærslur**, og velja síðan viðeigandi tengil.
-2. Í glugganum **Leiðr. Kostnað - Birgðafærslur** skal tilgreina hvaða vörur á að leiðrétta kostnað fyrir og hvort leiðréttur kostnaður verður bókaður í fjárhag á sama tíma.
+## <a name="to-adjust-item-costs-manually"></a><span data-ttu-id="9a414-137">Til að uppfæra birgðakostnað verks handvirkt</span><span class="sxs-lookup"><span data-stu-id="9a414-137">To adjust item costs manually</span></span>
+1. <span data-ttu-id="9a414-138">Í efra hægri horni skal velja táknið **Leita að síðu eða skýrslu** slá inn **Leiðr. Kostnað - Birgðafærslur**, og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="9a414-138">In the top right corner, choose the **Search for Page or Report** icon, enter **Adjust Cost - Item Entries**, and then choose the related link.</span></span>
+2. <span data-ttu-id="9a414-139">Í glugganum **Leiðr. Kostnað - Birgðafærslur** skal tilgreina hvaða vörur á að leiðrétta kostnað fyrir og hvort leiðréttur kostnaður verður bókaður í fjárhag á sama tíma.</span><span class="sxs-lookup"><span data-stu-id="9a414-139">In the **Adjust Cost - Item Entries** window, specify which items to adjust costs for and whether the adjusted costs will be posted to the general ledger at the same time.</span></span>
 
-## <a name="see-also"></a>Sjá einnig
-[Stjórna birgðum](inventory-manage-inventory.md)  
-[Hvernig á að bóka birgðakostnað í fjárhag](inventory-how-post-inventory-cost-gl.md)  
-[Stjórna sölu](sales-manage-sales.md)  
-[Stjórnun innkaupa](purchasing-manage-purchasing.md)
+## <a name="see-also"></a><span data-ttu-id="9a414-140">Sjá einnig</span><span class="sxs-lookup"><span data-stu-id="9a414-140">See Also</span></span>
+[<span data-ttu-id="9a414-141">Stjórna birgðum</span><span class="sxs-lookup"><span data-stu-id="9a414-141">Manage Inventory</span></span>](inventory-manage-inventory.md)  
+[<span data-ttu-id="9a414-142">Hvernig á að bóka birgðakostnað í fjárhag</span><span class="sxs-lookup"><span data-stu-id="9a414-142">How to: Post Inventory Costs to the General Ledger</span></span>](inventory-how-post-inventory-cost-gl.md)  
+[<span data-ttu-id="9a414-143">Stjórna sölu</span><span class="sxs-lookup"><span data-stu-id="9a414-143">Manage Sales</span></span>](sales-manage-sales.md)  
+[<span data-ttu-id="9a414-144">Stjórnun innkaupa</span><span class="sxs-lookup"><span data-stu-id="9a414-144">Manage Purchasing</span></span>](purchasing-manage-purchasing.md)
 

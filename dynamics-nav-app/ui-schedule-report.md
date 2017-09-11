@@ -9,20 +9,20 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 2c22d857a67818dae0c743fb30ef644470fcef6f
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: d3aa98ffdaf6d9d1e88b6ed233e8a38808b5d05b
 ms.contentlocale: is-is
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
     
-# <a name="schedule-a-report-to-run"></a>Tímasetja keyrslu skýrslu
-Hægt er að tímasetja skýrslu þannig að hún keyri á tilteknum degi og tíma. Tímasettar skýrslur eru færðar inn í verkröð og unnar á settum tíma, eins og önnur verk. Hægt er að velja að vista meðhöndlaða skýrslu í skrá, t.d. Excel, Word, eða PDF, prenta hana á völdum prentara, eða meðhöndla aðeins skýrsluna. Ef þú velur að vista skýrsluna í skrá þá er meðhöndlaða skýrslan send í **Skýrsluinnhólf** á heimasíðu þinni þar sem þú getur skoðað hana. 
+# <a name="schedule-a-report-to-run"></a><span data-ttu-id="19db2-102">Tímasetja keyrslu skýrslu</span><span class="sxs-lookup"><span data-stu-id="19db2-102">Schedule a Report to Run</span></span>
+<span data-ttu-id="19db2-103">Hægt er að tímasetja skýrslu þannig að hún keyri á tilteknum degi og tíma.</span><span class="sxs-lookup"><span data-stu-id="19db2-103">You can schedule a report to run at a specific date and time.</span></span> <span data-ttu-id="19db2-104">Tímasettar skýrslur eru færðar inn í verkröð og unnar á settum tíma, eins og önnur verk.</span><span class="sxs-lookup"><span data-stu-id="19db2-104">Scheduled reports are entered in the job queue and processed at the scheduled time, similar to other jobs.</span></span> <span data-ttu-id="19db2-105">Hægt er að velja að vista meðhöndlaða skýrslu í skrá, t.d. Excel, Word, eða PDF, prenta hana á völdum prentara, eða meðhöndla aðeins skýrsluna.</span><span class="sxs-lookup"><span data-stu-id="19db2-105">You can choose to save the processed report to a file, such as an Excel, Word, or PDF, print it to a selected printer, or process the report only.</span></span> <span data-ttu-id="19db2-106">Ef þú velur að vista skýrsluna í skrá þá er meðhöndlaða skýrslan send í **Skýrsluinnhólf** á heimasíðu þinni þar sem þú getur skoðað hana.</span><span class="sxs-lookup"><span data-stu-id="19db2-106">If you choose to save the report to a file, then the processed report is sent to the **Report Inbox** on your Home page, where you can view it.</span></span> 
 
-Hægt er að tímasetja skýrslu þegar skýrsla er opnuð. Valið er **Áætlun** og síðan eru upplýsingar á borð við prentara, og tíma og dagsetningu færðar inn. Skýrslunni er síðan bætt við verkröðina og hún verður keyrð á tilgreindum tíma. Þegar skýrslan hefur verið meðhöndluð er varan fjarlægð úr verkröðinni. Ef þú vistaðir meðhöndlaða skýrsluna í skrá er hún aðgengileg í **Skýrsluinnhólf**.
+<span data-ttu-id="19db2-107">Hægt er að tímasetja skýrslu þegar skýrsla er opnuð.</span><span class="sxs-lookup"><span data-stu-id="19db2-107">You can schedule a report when you open a report.</span></span> <span data-ttu-id="19db2-108">Valið er **Áætlun** og síðan eru upplýsingar á borð við prentara, og tíma og dagsetningu færðar inn.</span><span class="sxs-lookup"><span data-stu-id="19db2-108">You choose **Schedule** and then you enter information such as printer, and time and date.</span></span> <span data-ttu-id="19db2-109">Skýrslunni er síðan bætt við verkröðina og hún verður keyrð á tilgreindum tíma.</span><span class="sxs-lookup"><span data-stu-id="19db2-109">The report is then added to the job queue and will be run at the specified time.</span></span> <span data-ttu-id="19db2-110">Þegar skýrslan hefur verið meðhöndluð er varan fjarlægð úr verkröðinni.</span><span class="sxs-lookup"><span data-stu-id="19db2-110">When the report is processed, the item will be removed from the job queue.</span></span> <span data-ttu-id="19db2-111">Ef þú vistaðir meðhöndlaða skýrsluna í skrá er hún aðgengileg í **Skýrsluinnhólf**.</span><span class="sxs-lookup"><span data-stu-id="19db2-111">If you saved the processed report to a file, it will be available in the **Report Inbox**.</span></span>
 
-## <a name="see-also"></a>Sjá einnig
-[Tilgreina prentaraval fyrir skýrslur](ui-specify-printer-selection-reports.md) 
+## <a name="see-also"></a><span data-ttu-id="19db2-112">Sjá einnig</span><span class="sxs-lookup"><span data-stu-id="19db2-112">See Also</span></span>
+[<span data-ttu-id="19db2-113">Tilgreina prentaraval fyrir skýrslur</span><span class="sxs-lookup"><span data-stu-id="19db2-113">Specify Printer Selection for Reports</span></span>](ui-specify-printer-selection-reports.md) 
 
  
 

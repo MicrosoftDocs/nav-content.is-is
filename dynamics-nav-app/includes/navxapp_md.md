@@ -1,1 +1,1 @@
-NAV-nafnauki
+<span data-ttu-id="94d38-101">NAV-nafnauki</span><span class="sxs-lookup"><span data-stu-id="94d38-101">NAV extension</span></span>

@@ -1,1 +1,1 @@
-CRONUS Ísland hf. sýnigagnagrunnur
+<span data-ttu-id="5826c-101">CRONUS Ísland hf.</span><span class="sxs-lookup"><span data-stu-id="5826c-101">CRONUS International Ltd.</span></span> <span data-ttu-id="5826c-102">sýnigagnagrunnur</span><span class="sxs-lookup"><span data-stu-id="5826c-102">demonstration database</span></span>

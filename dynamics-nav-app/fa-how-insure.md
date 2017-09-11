@@ -16,100 +16,100 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="how-to-insure-fixed-assets"></a>Hvernig á að: Tryggja eignir
-Vátryggingarskírteini fyrir eign er sýnt með vátryggingarspjaldi. Hægt er að úthluta einni eign á eina vátryggingarskírteini eða margar eignir á eitt vátryggingarskírteini.
+# <a name="how-to-insure-fixed-assets"></a><span data-ttu-id="5fa83-102">Hvernig á að: Tryggja eignir</span><span class="sxs-lookup"><span data-stu-id="5fa83-102">How to: Insure Fixed Assets</span></span>
+<span data-ttu-id="5fa83-103">Vátryggingarskírteini fyrir eign er sýnt með vátryggingarspjaldi.</span><span class="sxs-lookup"><span data-stu-id="5fa83-103">An insurance policy for a fixed asset is represented by an insurance card.</span></span> <span data-ttu-id="5fa83-104">Hægt er að úthluta einni eign á eina vátryggingarskírteini eða margar eignir á eitt vátryggingarskírteini.</span><span class="sxs-lookup"><span data-stu-id="5fa83-104">You can assign one fixed asset to one insurance policy or multiple fixed assets to one insurance policy.</span></span>
 
-Þú úthlutar eign á vátryggingarskírteini með því að bóka í vátryggingasviðsbók úr glugganum **Vátryggingabók** .
+<span data-ttu-id="5fa83-105">Þú úthlutar eign á vátryggingarskírteini með því að bóka í vátryggingasviðsbók úr glugganum **Vátryggingabók** .</span><span class="sxs-lookup"><span data-stu-id="5fa83-105">You assign a fixed asset to an insurance policy by posting to the insurance coverage ledger from the **Insurance Journal** window.</span></span>
 
-Þar að auki er hægt að úthluta eign á vátryggingarskírteini og stofna vátryggingasviðsfærslur þegar þú bókar kaupverð hennar. Þú gerir þetta með því að bóka kaupverð úr eignabók með reitnum **vátryggingarnúmer** útfylltan. **Sjálfvirk Vátryggingarbókun** gátreiturinn á **uppsetning eigna** glugganum þarf að vera valinn. Nánari upplýsingar eru í Bókun eignakaupa handvirkt með fjárhagsbók eigna í [hvernig á að komast yfir eignir](fa-how-acquire.md).
+<span data-ttu-id="5fa83-106">Þar að auki er hægt að úthluta eign á vátryggingarskírteini og stofna vátryggingasviðsfærslur þegar þú bókar kaupverð hennar.</span><span class="sxs-lookup"><span data-stu-id="5fa83-106">In addition, you can assign a fixed asset to an insurance policy and create coverage ledger entries when you post its acquisition cost.</span></span> <span data-ttu-id="5fa83-107">Þú gerir þetta með því að bóka kaupverð úr eignabók með reitnum **vátryggingarnúmer**</span><span class="sxs-lookup"><span data-stu-id="5fa83-107">You do this by posting an acquisition cost from the fixed asset journal with the **Insurance No.**</span></span> <span data-ttu-id="5fa83-108">útfylltan.</span><span class="sxs-lookup"><span data-stu-id="5fa83-108">field filled in.</span></span> <span data-ttu-id="5fa83-109">**Sjálfvirk Vátryggingarbókun** gátreiturinn á **uppsetning eigna** glugganum þarf að vera valinn.</span><span class="sxs-lookup"><span data-stu-id="5fa83-109">The **Automatic Insurance Posting** check box in the **Fixed Asset Setup** window must be selected.</span></span> <span data-ttu-id="5fa83-110">Nánari upplýsingar eru í Bókun eignakaupa handvirkt með fjárhagsbók eigna í [hvernig á að komast yfir eignir](fa-how-acquire.md).</span><span class="sxs-lookup"><span data-stu-id="5fa83-110">For more information, see the "To post a fixed asset acquisition manually with the fixed asset G/L journal" section in [How to: Acquire Fixed Assets](fa-how-acquire.md).</span></span>
 
-Ef **Sjálfvirk Vátryggingarbókun** gátreiturinn á **uppsetning eigna** glugganum er ekki valinn, þá mun bókun eignakaupa úr eignabók stofna línur í glugganum **Vátryggingabók** sem síðan verður að bóka handvirkt.
+<span data-ttu-id="5fa83-111">Ef **Sjálfvirk Vátryggingarbókun** gátreiturinn á **uppsetning eigna** glugganum er ekki valinn, þá mun bókun eignakaupa úr eignabók stofna línur í glugganum **Vátryggingabók** sem síðan verður að bóka handvirkt.</span><span class="sxs-lookup"><span data-stu-id="5fa83-111">If the **Automatic Insurance Posting** check box in the **Fixed Asset Setup** window is not selected, then posting acquisitions from the fixed asset journal will create lines in the **Insurance Journal** window, which you must then post manually.</span></span>
 
-**Viðvörun**: Ef ekki er valinn gátreiturinn **Sjálfvirk Vátryggingarbókun** á **uppsetning eigna** glugganum, þá ætti vátryggingabók að vera byggð á færslubókarsniðmát án númeraröð. Þetta er af því að innsett fylgiskjalsnúmerum úr eignabókarlínum munu annars skarast við númeraröðina í vátryggingabók. Nánari upplýsingar um sniðmát færslubókar og keyrsla sjá [Hvernig: setja upp almennar upplýsingar um eignir](fa-how-setup-general.md).
+<span data-ttu-id="5fa83-112">**Viðvörun**: Ef ekki er valinn gátreiturinn **Sjálfvirk Vátryggingarbókun** á **uppsetning eigna** glugganum, þá ætti vátryggingabók að vera byggð á færslubókarsniðmát án númeraröð.</span><span class="sxs-lookup"><span data-stu-id="5fa83-112">**Warning**: If you do not select the **Automatic Insurance Posting** check box in the **Fixed Asset Setup** window, then your insurance journal should be based on a journal template without a number series.</span></span> <span data-ttu-id="5fa83-113">Þetta er af því að innsett fylgiskjalsnúmerum úr eignabókarlínum munu annars skarast við númeraröðina í vátryggingabók.</span><span class="sxs-lookup"><span data-stu-id="5fa83-113">This is because the inserted document numbers from the fixed asset journal line will otherwise conflict with the number series of the insurance journal.</span></span> <span data-ttu-id="5fa83-114">Nánari upplýsingar um sniðmát færslubókar og keyrsla sjá [Hvernig: setja upp almennar upplýsingar um eignir](fa-how-setup-general.md).</span><span class="sxs-lookup"><span data-stu-id="5fa83-114">For more information about journal templates and batches, see [How to: Set Up General Fixed Assets Information](fa-how-setup-general.md).</span></span>
 
-Þegar eign hefur verið úthlutað á vátryggingarskírteini, er valinn gátreitur **Tryggt** á eignaspjaldi. Þegar þú selur eignina, er sjálfkrafa hakað úr gátreitnum.
+<span data-ttu-id="5fa83-115">Þegar eign hefur verið úthlutað á vátryggingarskírteini, er valinn gátreitur **Tryggt** á eignaspjaldi.</span><span class="sxs-lookup"><span data-stu-id="5fa83-115">After you have assigned a fixed asset to an insurance policy, the **Insured** check box is selected on the fixed asset card.</span></span> <span data-ttu-id="5fa83-116">Þegar þú selur eignina, er sjálfkrafa hakað úr gátreitnum.</span><span class="sxs-lookup"><span data-stu-id="5fa83-116">When you sell the fixed asset, the check box is automatically deselected.</span></span>
 
-## <a name="to-create-or-modify-an-insurance-card"></a>Stofna eða Breyting á vátryggingaspjöldum:
-Vátryggingarskírteini fyrir eign verður að vera sýnt með vátryggingarspjaldi.
+## <a name="to-create-or-modify-an-insurance-card"></a><span data-ttu-id="5fa83-117">Stofna eða Breyting á vátryggingaspjöldum:</span><span class="sxs-lookup"><span data-stu-id="5fa83-117">To create or modify an insurance card</span></span>
+<span data-ttu-id="5fa83-118">Vátryggingarskírteini fyrir eign verður að vera sýnt með vátryggingarspjaldi.</span><span class="sxs-lookup"><span data-stu-id="5fa83-118">An insurance policy for a fixed asset must be represented by an insurance card.</span></span>
 
-Þegar upplýsingar um breytingar á tryggingarupphæð berast verður að breyta þeim á **vátryggingarspjald** glugganum til að tryggja að greining vátryggingasviðs sé rétt.  
+<span data-ttu-id="5fa83-119">Þegar upplýsingar um breytingar á tryggingarupphæð berast verður að breyta þeim á **vátryggingarspjald** glugganum til að tryggja að greining vátryggingasviðs sé rétt.</span><span class="sxs-lookup"><span data-stu-id="5fa83-119">When you receive information about changes in the coverage amount, you must enter the new information in the **Insurance Card** window to ensure that you analyze insurance policy coverage correctly.</span></span>  
 
-1. Í efra hægri horni skal velja táknið **Leita að síðu eða skýrslu**,slá inn **tryggingar**, og velja síðan viðeigandi tengil.
-2. Veljið aðgerðina **Nýtt** til að Búa til nýtt kort fyrir vátryggingarskírteini. Velja reit til að lesa inn stutta lýsingu á reitnum eða tengil í frekari upplýsingar.
-3. Einnig geturðu valið vátryggingarskírteini sem þú vilt breyta og veldu svo aðgerðina **Breyta**.
+1. <span data-ttu-id="5fa83-120">Í efra hægri horni skal velja táknið **Leita að síðu eða skýrslu**,slá inn **tryggingar**, og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="5fa83-120">In the top right corner, choose the **Search for Page or Report** icon, enter **Insurance**, and then choose the related link.</span></span>
+2. <span data-ttu-id="5fa83-121">Veljið aðgerðina **Nýtt** til að Búa til nýtt kort fyrir vátryggingarskírteini.</span><span class="sxs-lookup"><span data-stu-id="5fa83-121">Choose the **New** action to create a new card for an insurance policy.</span></span> <span data-ttu-id="5fa83-122">Velja reit til að lesa inn stutta lýsingu á reitnum eða tengil í frekari upplýsingar.</span><span class="sxs-lookup"><span data-stu-id="5fa83-122">Choose a field to read a short description of the field or link to more information.</span></span>
+3. <span data-ttu-id="5fa83-123">Einnig geturðu valið vátryggingarskírteini sem þú vilt breyta og veldu svo aðgerðina **Breyta**.</span><span class="sxs-lookup"><span data-stu-id="5fa83-123">Alternatively, select the insurance policy that you want to change, and then choose the **Edit** action.</span></span>
 
-## <a name="to-assign-a-fixed-asset-to-an-insurance-policy-by-posting-from-the-insurance-journal"></a>Til að Tengja eign við vátryggingarskírteini með því að bóka úr vátryggingabók.
-Þú úthlutar eign á vátryggingarskírteini með því að bóka í vátryggingasviðsbók.
+## <a name="to-assign-a-fixed-asset-to-an-insurance-policy-by-posting-from-the-insurance-journal"></a><span data-ttu-id="5fa83-124">Til að Tengja eign við vátryggingarskírteini með því að bóka úr vátryggingabók.</span><span class="sxs-lookup"><span data-stu-id="5fa83-124">To assign a fixed asset to an insurance policy by posting from the insurance journal</span></span>
+<span data-ttu-id="5fa83-125">Þú úthlutar eign á vátryggingarskírteini með því að bóka í vátryggingasviðsbók.</span><span class="sxs-lookup"><span data-stu-id="5fa83-125">You assign a fixed asset to an insurance policy by posting to the insurance coverage ledger.</span></span>
 
-Eftirfarandi ferli útskýrir hvernig stofna vátryggingarbókarlínu handvirkt. Ef **Sjálfvirk Vátryggingarbókun** gátreitinn er valinn í **uppsetning eigna** glugganum, þá eru línur í vátryggingabók sjálfkrafa stofnaðar þegar kaupverð er bókað. Í því tilfelli er allt sem þarf að gera er að bóka færslubókina.
+<span data-ttu-id="5fa83-126">Eftirfarandi ferli útskýrir hvernig stofna vátryggingarbókarlínu handvirkt.</span><span class="sxs-lookup"><span data-stu-id="5fa83-126">The following procedure explains how to create an insurance journal line manually.</span></span> <span data-ttu-id="5fa83-127">Ef **Sjálfvirk Vátryggingarbókun** gátreitinn er valinn í **uppsetning eigna** glugganum, þá eru línur í vátryggingabók sjálfkrafa stofnaðar þegar kaupverð er bókað.</span><span class="sxs-lookup"><span data-stu-id="5fa83-127">If the **Automatic Insurance Posting** check box is selected in the **FA Setup** window, then insurance journal lines are automatically created when you post acquisition costs.</span></span> <span data-ttu-id="5fa83-128">Í því tilfelli er allt sem þarf að gera er að bóka færslubókina.</span><span class="sxs-lookup"><span data-stu-id="5fa83-128">In that case, all you have to do is to post the journal.</span></span>
 
-1. Í efra hægri horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **vátryggingarækur**, og velja síðan viðeigandi tengil.
-2. Opna skal viðeigandi færslubók og fylla færslubókarlínurnar út eftir þörfum.
-3. Til að úthluta mörgum eignum á eina vátryggingarskírteini, skal stofna færslubókarlínur með sömu gildum og í **Vátryggingarnr.** reitnum og mismunandi gildin í reitnum **Eignanr.** .
-4. Valið er **bóka** aðgerð.
+1. <span data-ttu-id="5fa83-129">Í efra hægri horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **vátryggingarækur**, og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="5fa83-129">In the top right corner, choose the **Search for Page or Report** icon, enter **Insurance Journals**, and then choose the related link.</span></span>
+2. <span data-ttu-id="5fa83-130">Opna skal viðeigandi færslubók og fylla færslubókarlínurnar út eftir þörfum.</span><span class="sxs-lookup"><span data-stu-id="5fa83-130">Open the relevant journal, and fill in the journal lines as necessary.</span></span>
+3. <span data-ttu-id="5fa83-131">Til að úthluta mörgum eignum á eina vátryggingarskírteini, skal stofna færslubókarlínur með sömu gildum og í **Vátryggingarnr.**</span><span class="sxs-lookup"><span data-stu-id="5fa83-131">To assign multiple fixed assets to one insurance policy, create journal lines with the same value in the **Insurance No.**</span></span> <span data-ttu-id="5fa83-132">reitnum og mismunandi gildin í reitnum **Eignanr.**</span><span class="sxs-lookup"><span data-stu-id="5fa83-132">field and different values in the **FA No.**</span></span> <span data-ttu-id="5fa83-133">.</span><span class="sxs-lookup"><span data-stu-id="5fa83-133">field.</span></span>
+4. <span data-ttu-id="5fa83-134">Valið er **bóka** aðgerð.</span><span class="sxs-lookup"><span data-stu-id="5fa83-134">Choose the **Post** action.</span></span>
 
-**Athugasemd**: Færslurnar í vátryggingabók eru aðeins bókaðar í vátryggingasviðshöfuðbókina.  
+<span data-ttu-id="5fa83-135">**Athugasemd**: Færslurnar í vátryggingabók eru aðeins bókaðar í vátryggingasviðshöfuðbókina.</span><span class="sxs-lookup"><span data-stu-id="5fa83-135">**Note**: The entries from an insurance journal are only posted to the insurance coverage ledger.</span></span>  
 
-## <a name="to-update-the-insurance-value-of-a-fixed-asset"></a>Uppfæra tryggingarvirði eignar
-Í eftirfarandi dæmi er sýnt hvernig hægt er að nota keyrsluna **Endurmat vátrygginga** til að uppfæra verðmæti eigna sem eru tryggðar.
+## <a name="to-update-the-insurance-value-of-a-fixed-asset"></a><span data-ttu-id="5fa83-136">Uppfæra tryggingarvirði eignar</span><span class="sxs-lookup"><span data-stu-id="5fa83-136">To update the insurance value of a fixed asset</span></span>
+<span data-ttu-id="5fa83-137">Í eftirfarandi dæmi er sýnt hvernig hægt er að nota keyrsluna **Endurmat vátrygginga** til að uppfæra verðmæti eigna sem eru tryggðar.</span><span class="sxs-lookup"><span data-stu-id="5fa83-137">You can use the **Index Insurance** batch job to update the value of the fixed assets that are covered.</span></span>
 
-1. Í efra hægri horni skal velja táknið **Leita að síðu eða skýrslu**,slá inn **endurmat vátrygginga**, og velja síðan viðeigandi tengil.
-2. Fyllið inn í svæðin eftir þörfum.
+1. <span data-ttu-id="5fa83-138">Í efra hægri horni skal velja táknið **Leita að síðu eða skýrslu**,slá inn **endurmat vátrygginga**, og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="5fa83-138">In the top right corner, choose the **Search for Page or Report** icon, enter **Index Insurance**, and then choose the related link.</span></span>
+2. <span data-ttu-id="5fa83-139">Fyllið inn í svæðin eftir þörfum.</span><span class="sxs-lookup"><span data-stu-id="5fa83-139">Fill in the fields as necessary.</span></span>
 
-    **Athugasemd**: í reitnum **endurmatstala** er Lækkun uppá 5%, til dæmis, færð inn sem 95, en þú færir inn aukningu uppá 2% sem 102.  
-3.  Velja hnappinn **Í lagi**.  
+    <span data-ttu-id="5fa83-140">**Athugasemd**: í reitnum **endurmatstala** er Lækkun uppá 5%, til dæmis, færð inn sem 95, en þú færir inn aukningu uppá 2% sem 102.</span><span class="sxs-lookup"><span data-stu-id="5fa83-140">**Note**: In the **Index Figure** field, you enter a decrease of 5%, for example, as 95, whereas you enter an increase of 2% as 102.</span></span>  
+3.  <span data-ttu-id="5fa83-141">Velja hnappinn **Í lagi**.</span><span class="sxs-lookup"><span data-stu-id="5fa83-141">Choose the **OK** button.</span></span>  
 
-    Keyrslan reiknar þessa nýju tölu sem hlutfall af vátryggðu heildarvirði eins og kemur fram í glugganum **Vátryggingaupplýsingar** og býr til línu í vátryggingabókinni.  
-4. Í efra hægri horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **vátryggingarækur**, og velja síðan viðeigandi tengil.
-5. Opnaðu viðeigandi Vátryggingabók, endurskoðaðu stofnuð gildi og bókaðu þau síðan í vátryggingasviðshöfuðbókina.
+    <span data-ttu-id="5fa83-142">Keyrslan reiknar þessa nýju tölu sem hlutfall af vátryggðu heildarvirði eins og kemur fram í glugganum **Vátryggingaupplýsingar** og býr til línu í vátryggingabókinni.</span><span class="sxs-lookup"><span data-stu-id="5fa83-142">The batch job calculates the new amount as a percentage of the total value insured, as stated in the **Insurance Statistics** window, and then creates a line in the insurance journal.</span></span>  
+4. <span data-ttu-id="5fa83-143">Í efra hægri horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **vátryggingarækur**, og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="5fa83-143">In the top right corner, choose the **Search for Page or Report** icon, enter **Insurance Journals**, and then choose the related link.</span></span>
+5. <span data-ttu-id="5fa83-144">Opnaðu viðeigandi Vátryggingabók, endurskoðaðu stofnuð gildi og bókaðu þau síðan í vátryggingasviðshöfuðbókina.</span><span class="sxs-lookup"><span data-stu-id="5fa83-144">Open the relevant insurance journal, review the created values, and then post them to the insurance coverage ledger.</span></span>
 
-## <a name="to-monitor-insurance-coverage"></a>Eftirlit með vátryggingasviði
-Dynamics NAV veitir sérhæfðar skýrslu- og tölfræðiglugga til að greina vátryggingarskírteini, og hvort eignir þínar eru oftryggðar eða vantryggðar.
+## <a name="to-monitor-insurance-coverage"></a><span data-ttu-id="5fa83-145">Eftirlit með vátryggingasviði</span><span class="sxs-lookup"><span data-stu-id="5fa83-145">To monitor insurance coverage</span></span>
+<span data-ttu-id="5fa83-146">Dynamics NAV veitir sérhæfðar skýrslu- og tölfræðiglugga til að greina vátryggingarskírteini, og hvort eignir þínar eru oftryggðar eða vantryggðar.</span><span class="sxs-lookup"><span data-stu-id="5fa83-146">Dynamics NAV provides dedicated reports and statistics windows for use in analyzing insurance policies and whether your fixed assets are over- or under-insured.</span></span>
 
-### <a name="overview-of-insurance-policies"></a>Yfirlit yfir vátryggingaskírteini  
-Yfirlit yfir vátryggingarskírteini fæst með því að prenta eða forskoða skýrsluna **Vátrygging – Listi** þar sem sýndar eru allar vátryggingar og helstu reitir á vátryggingarspjöldunum.  
+### <a name="overview-of-insurance-policies"></a><span data-ttu-id="5fa83-147">Yfirlit yfir vátryggingaskírteini</span><span class="sxs-lookup"><span data-stu-id="5fa83-147">Overview of Insurance Policies</span></span>  
+<span data-ttu-id="5fa83-148">Yfirlit yfir vátryggingarskírteini fæst með því að prenta eða forskoða skýrsluna **Vátrygging – Listi** þar sem sýndar eru allar vátryggingar og helstu reitir á vátryggingarspjöldunum.</span><span class="sxs-lookup"><span data-stu-id="5fa83-148">To get an overview of your insurance policies, you can preview or print the **Insurance - List** report, which shows all the policies and the most important fields from the insurance cards.</span></span>  
 
-### <a name="insurance-coverage"></a>Vátryggingasvið
-Ef skoða á hvaða eignir eru vátryggðar eða hvaða vátryggingar gilda fyrir hverja eign er hægt að prenta eða forskoða skýrsluna **Vátrygging - Tryggt heildarv.**.
+### <a name="insurance-coverage"></a><span data-ttu-id="5fa83-149">Vátryggingasvið</span><span class="sxs-lookup"><span data-stu-id="5fa83-149">Insurance Coverage</span></span>
+<span data-ttu-id="5fa83-150">Ef skoða á hvaða eignir eru vátryggðar eða hvaða vátryggingar gilda fyrir hverja eign er hægt að prenta eða forskoða skýrsluna **Vátrygging - Tryggt heildarv.**.</span><span class="sxs-lookup"><span data-stu-id="5fa83-150">To see which insurance policies cover each asset and by which amount, you can preview or print the **Insurance - Tot. Value Insured** report.</span></span>
 
-### <a name="overunder-coverage"></a>Of-/Vantrygging
-Hægt er að athuga hvort eignir eru oftryggðar eða vantryggðar á eftirfarandi hátt:
-- Glugginn **Vátryggingaupplýsingar**. Plústala í reitnum **Yfir-/undirtryggt** merkir að eignin sé yfirtryggð. Mínustala merkir að hún sé undirtryggð.
-- Glugginn **Eignaupplýsingar** . Veldu reitinn **Vátryggt Heildarvirði** til að skoða **Vátryggingasviðsfærslur** glugginn.  
-- **Yfir-/undir Vátryggingasvið** skýrslu.  
-- **Tryggingagreining** skýrslan
+### <a name="overunder-coverage"></a><span data-ttu-id="5fa83-151">Of-/Vantrygging</span><span class="sxs-lookup"><span data-stu-id="5fa83-151">Over/Under Coverage</span></span>
+<span data-ttu-id="5fa83-152">Hægt er að athuga hvort eignir eru oftryggðar eða vantryggðar á eftirfarandi hátt:</span><span class="sxs-lookup"><span data-stu-id="5fa83-152">You can check if fixed assets are over- or under-insured in the following ways:</span></span>
+- <span data-ttu-id="5fa83-153">Glugginn **Vátryggingaupplýsingar**.</span><span class="sxs-lookup"><span data-stu-id="5fa83-153">The **Insurance Statistics** window.</span></span> <span data-ttu-id="5fa83-154">Plústala í reitnum **Yfir-/undirtryggt** merkir að eignin sé yfirtryggð.</span><span class="sxs-lookup"><span data-stu-id="5fa83-154">A positive amount in the **Over/Under Insured** field means that the fixed asset is over-insured.</span></span> <span data-ttu-id="5fa83-155">Mínustala merkir að hún sé undirtryggð.</span><span class="sxs-lookup"><span data-stu-id="5fa83-155">A negative amount means that it is underinsured.</span></span>
+- <span data-ttu-id="5fa83-156">Glugginn **Eignaupplýsingar** .</span><span class="sxs-lookup"><span data-stu-id="5fa83-156">The **Fixed Asset Statistics** window.</span></span> <span data-ttu-id="5fa83-157">Veldu reitinn **Vátryggt Heildarvirði** til að skoða **Vátryggingasviðsfærslur** glugginn.</span><span class="sxs-lookup"><span data-stu-id="5fa83-157">Choose the **Total Value Insured** field to view the **Ins. Coverage Ledger Entries** window.</span></span>  
+- <span data-ttu-id="5fa83-158">**Yfir-/undir Vátryggingasvið** skýrslu.</span><span class="sxs-lookup"><span data-stu-id="5fa83-158">The **Over/Under Coverage** report.</span></span>  
+- <span data-ttu-id="5fa83-159">**Tryggingagreining** skýrslan</span><span class="sxs-lookup"><span data-stu-id="5fa83-159">The **Insurance Analysis** report.</span></span>
 
-### <a name="uninsured-fixed-assets"></a>Ótryggðar eignir
-Ef ganga á úr skugga um hvort gleymst hafi að tengja eign við vátryggingu er hægt að prenta eða forskoða skýrsluna **Vátrygging - Ótryggðar eignir**. Þessi skýrsla sýnir eignir með upphæðir sem hafa ekki verið bókaðar á vátryggingasviðsbókina.
+### <a name="uninsured-fixed-assets"></a><span data-ttu-id="5fa83-160">Ótryggðar eignir</span><span class="sxs-lookup"><span data-stu-id="5fa83-160">Uninsured Fixed Assets</span></span>
+<span data-ttu-id="5fa83-161">Ef ganga á úr skugga um hvort gleymst hafi að tengja eign við vátryggingu er hægt að prenta eða forskoða skýrsluna **Vátrygging - Ótryggðar eignir**.</span><span class="sxs-lookup"><span data-stu-id="5fa83-161">To check if you have forgotten to assign a fixed asset to an insurance policy, you can print or preview the **Insurance - Uninsured FAs** report.</span></span> <span data-ttu-id="5fa83-162">Þessi skýrsla sýnir eignir með upphæðir sem hafa ekki verið bókaðar á vátryggingasviðsbókina.</span><span class="sxs-lookup"><span data-stu-id="5fa83-162">This report displays fixed assets for which amounts have not been posted to the insurance coverage ledger.</span></span>
 
-## <a name="to-view-insurance-coverage-ledger-entries"></a>Skoðun vátryggingasviðsfærslna:
-Hægt er að skoða færslurnar sem færðar hafa verið í vátryggingasviðsbókina.  
+## <a name="to-view-insurance-coverage-ledger-entries"></a><span data-ttu-id="5fa83-163">Skoðun vátryggingasviðsfærslna:</span><span class="sxs-lookup"><span data-stu-id="5fa83-163">To view insurance coverage ledger entries</span></span>
+<span data-ttu-id="5fa83-164">Hægt er að skoða færslurnar sem færðar hafa verið í vátryggingasviðsbókina.</span><span class="sxs-lookup"><span data-stu-id="5fa83-164">You can view the entries that you have made in the insurance coverage ledger.</span></span>  
 
-1. Í efra hægri horni skal velja táknið **Leita að síðu eða skýrslu**,slá inn **tryggingar**, og velja síðan viðeigandi tengil.  
-2. Valin er viðeigandi vátryggingarskírteini og veldu svo **vátryggingasviðsfærslur** aðgerðina.
+1. <span data-ttu-id="5fa83-165">Í efra hægri horni skal velja táknið **Leita að síðu eða skýrslu**,slá inn **tryggingar**, og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="5fa83-165">In the top right corner, choose the **Search for Page or Report** icon, enter **Insurance**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="5fa83-166">Valin er viðeigandi vátryggingarskírteini og veldu svo **vátryggingasviðsfærslur** aðgerðina.</span><span class="sxs-lookup"><span data-stu-id="5fa83-166">Select the relevant insurance policy, and then choose the **Coverage Ledger Entries** action.</span></span>
 
-## <a name="to-view-the-total-insurance-value-of-fixed-assets"></a>Skoðun á vátryggðu heildarvirði eigna:
-Sérhæfðu fylkisgluggi sýnir upphæð skráðrar tryggingar við hverja tryggingarstefnu fyrir hverja eign. Þetta eru vátryggingatengdar upphæðir sem bókaðar voru.
+## <a name="to-view-the-total-insurance-value-of-fixed-assets"></a><span data-ttu-id="5fa83-167">Skoðun á vátryggðu heildarvirði eigna:</span><span class="sxs-lookup"><span data-stu-id="5fa83-167">To view the total insurance value of fixed assets</span></span>
+<span data-ttu-id="5fa83-168">Sérhæfðu fylkisgluggi sýnir upphæð skráðrar tryggingar við hverja tryggingarstefnu fyrir hverja eign. Þetta eru vátryggingatengdar upphæðir sem bókaðar voru.</span><span class="sxs-lookup"><span data-stu-id="5fa83-168">A dedicated matrix window shows the insurance values that are registered for each insurance policy for each fixed asset as a result of insurance-related amounts that you have posted.</span></span>
 
-1. Í efra hægri horni skal velja táknið **Leita að síðu eða skýrslu**,slá inn **tryggingar**, og velja síðan viðeigandi tengil.  
-2. Valin er viðeigandi vátryggingarskírteini og veldu svo **heildarvirði tryggingar á eign** aðgerðina.
-3. Fyllið inn í svæðin eftir þörfum.  
-4. Veldu aðgerðina **sýna fylki**.  
-5. Til að skoða undirliggjandi vátryggingasviðsfærslur, velja gildi í fylkinu.
+1. <span data-ttu-id="5fa83-169">Í efra hægri horni skal velja táknið **Leita að síðu eða skýrslu**,slá inn **tryggingar**, og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="5fa83-169">In the top right corner, choose the **Search for Page or Report** icon, enter **Insurance**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="5fa83-170">Valin er viðeigandi vátryggingarskírteini og veldu svo **heildarvirði tryggingar á eign** aðgerðina.</span><span class="sxs-lookup"><span data-stu-id="5fa83-170">Select the relevant insurance policy, and then choose the **Total Value Insures per FA** action.</span></span>
+3. <span data-ttu-id="5fa83-171">Fyllið inn í svæðin eftir þörfum.</span><span class="sxs-lookup"><span data-stu-id="5fa83-171">Fill in the fields as necessary</span></span>  
+4. <span data-ttu-id="5fa83-172">Veldu aðgerðina **sýna fylki**.</span><span class="sxs-lookup"><span data-stu-id="5fa83-172">choose the **Show Matrix** action.</span></span>  
+5. <span data-ttu-id="5fa83-173">Til að skoða undirliggjandi vátryggingasviðsfærslur, velja gildi í fylkinu.</span><span class="sxs-lookup"><span data-stu-id="5fa83-173">To see the underlying insurance coverage ledger entries, choose a value in the matrix.</span></span>
 
-## <a name="to-correct-insurance-coverage-entries"></a>Leiðrétting á vátryggingarsviðsfærslum  
-Ef eign hefur verið tengd við rangt vátryggingarskírteini er hægt að leiðrétta það með því stofna tvær endurflokkunarfærslur úr vátryggingabókinni.  
+## <a name="to-correct-insurance-coverage-entries"></a><span data-ttu-id="5fa83-174">Leiðrétting á vátryggingarsviðsfærslum</span><span class="sxs-lookup"><span data-stu-id="5fa83-174">To correct insurance coverage entries</span></span>  
+<span data-ttu-id="5fa83-175">Ef eign hefur verið tengd við rangt vátryggingarskírteini er hægt að leiðrétta það með því stofna tvær endurflokkunarfærslur úr vátryggingabókinni.</span><span class="sxs-lookup"><span data-stu-id="5fa83-175">If a fixed asset has been attached to the wrong insurance policy, you can correct it by creating two reclassification entries from the insurance journal.</span></span>  
 
-1. Í efra hægri horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **vátryggingarækur**, og velja síðan viðeigandi tengil.
-2. Stofna eina færslubókarlínu fyrir hverja eign og rétt vátryggingarskírteini þar sem gildið í reitnum **Upphæð** er jákvæð.
-3. Stofna aðra færslubókarlínu fyrir hverja eign og rangt vátryggingarskírteini þar sem gildið í reitnum **Upphæð** er neikvæð.  
-4. Valið er **bóka** aðgerð.
+1. <span data-ttu-id="5fa83-176">Í efra hægri horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **vátryggingarækur**, og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="5fa83-176">In the top right corner, choose the **Search for Page or Report** icon, enter **Insurance Journals**, and then choose the related link.</span></span>
+2. <span data-ttu-id="5fa83-177">Stofna eina færslubókarlínu fyrir hverja eign og rétt vátryggingarskírteini þar sem gildið í reitnum **Upphæð** er jákvæð.</span><span class="sxs-lookup"><span data-stu-id="5fa83-177">Create one journal line for the fixed asset and the correct insurance policy where the value in the **Amount** field is positive.</span></span>
+3. <span data-ttu-id="5fa83-178">Stofna aðra færslubókarlínu fyrir hverja eign og rangt vátryggingarskírteini þar sem gildið í reitnum **Upphæð** er neikvæð.</span><span class="sxs-lookup"><span data-stu-id="5fa83-178">Create another journal line for the fixed asset and the incorrect insurance policy where the value in the **Amount** field is negative.</span></span>  
+4. <span data-ttu-id="5fa83-179">Valið er **bóka** aðgerð.</span><span class="sxs-lookup"><span data-stu-id="5fa83-179">Choose the **Post** action.</span></span>
 
-Eignin er losuð frá ranga vátryggingarskírteininu, á annarri línunni, og hengt við rétta vátryggingarskírteinið, á fyrstu línunni.
+<span data-ttu-id="5fa83-180">Eignin er losuð frá ranga vátryggingarskírteininu, á annarri línunni, og hengt við rétta vátryggingarskírteinið, á fyrstu línunni.</span><span class="sxs-lookup"><span data-stu-id="5fa83-180">The fixed asset will be detached from the incorrect insurance policy, on the second line, and attached to the correct insurance policy, on the first line.</span></span>
 
-## <a name="see-also"></a>Sjá einnig
-[Eignastjórnun](fa-manage.md)  
-[Uppsetning eigna](fa-setup.md)  
-[Fjármál](finance-setup.md)  
-[Velkomin í Dynamics NAV](across-get-started.md)
+## <a name="see-also"></a><span data-ttu-id="5fa83-181">Sjá einnig</span><span class="sxs-lookup"><span data-stu-id="5fa83-181">See Also</span></span>
+[<span data-ttu-id="5fa83-182">Eignastjórnun</span><span class="sxs-lookup"><span data-stu-id="5fa83-182">Manage Fixed Assets</span></span>](fa-manage.md)  
+[<span data-ttu-id="5fa83-183">Uppsetning eigna</span><span class="sxs-lookup"><span data-stu-id="5fa83-183">Set Up Fixed Assets</span></span>](fa-setup.md)  
+[<span data-ttu-id="5fa83-184">Fjármál</span><span class="sxs-lookup"><span data-stu-id="5fa83-184">Finance</span></span>](finance-setup.md)  
+[<span data-ttu-id="5fa83-185">Velkomin í Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="5fa83-185">Welcome to Dynamics NAV</span></span>](across-get-started.md)
 

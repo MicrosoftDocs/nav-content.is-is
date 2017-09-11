@@ -9,86 +9,86 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: e4135aa801b0b507b5f179d02a240a7554ed45cd
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: bde70a8febc561b68908b1da2729fff59b105fd9
 ms.contentlocale: is-is
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="how-to-use-approval-workflows"></a>Hvernig á að: Nota samþykktarverkflæði
-Þegar færsla, svo sem innkaupaskjal eða viðskiptamannaspjald sem stofnað hefur verið þarfnast samþykktar aðila innan fyrirtækisins er send samþykktarbeiðni sem hluti af verkflæði. Beiðnin um samþykki færslu verður send til viðeigandi samþykkjanda á grundvelli þess hvernig verkflæðið hefur verið sett upp.
+# <a name="how-to-use-approval-workflows"></a><span data-ttu-id="2a5ab-102">Hvernig á að: Nota samþykktarverkflæði</span><span class="sxs-lookup"><span data-stu-id="2a5ab-102">How to: Use Approval Workflows</span></span>
+<span data-ttu-id="2a5ab-103">Þegar færsla, svo sem innkaupaskjal eða viðskiptamannaspjald sem stofnað hefur verið þarfnast samþykktar aðila innan fyrirtækisins er send samþykktarbeiðni sem hluti af verkflæði.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-103">When a record, such as a purchase document or a customer card, needs to be approved by someone in your organization, you send an approval request as part of a workflow.</span></span> <span data-ttu-id="2a5ab-104">Beiðnin um samþykki færslu verður send til viðeigandi samþykkjanda á grundvelli þess hvernig verkflæðið hefur verið sett upp.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-104">Based on how the workflow is set up, the appropriate approver is then notified that the record requires their approval.</span></span>
 
-Kjarna samþykkisverkflæði fyrir innkaupaskjöl, söluskjöl, greiðslubækur, viðskiptamannaspjöld og birgðaspjöldum eru tilbúin til að byrja sem aðstoð við uppsetningu. Nánari upplýsingar eru í [Velkomin í Dynamics NAV](across-get-started.md).
+<span data-ttu-id="2a5ab-105">Kjarna samþykkisverkflæði fyrir innkaupaskjöl, söluskjöl, greiðslubækur, viðskiptamannaspjöld og birgðaspjöldum eru tilbúin til að byrja sem aðstoð við uppsetningu.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-105">Core approval workflows for purchases documents, sales documents, payment journals, customer cards, and item cards are ready to start as assisted setup.</span></span> <span data-ttu-id="2a5ab-106">Nánari upplýsingar eru í [Velkomin í Dynamics NAV](across-get-started.md).</span><span class="sxs-lookup"><span data-stu-id="2a5ab-106">For more information, see [Welcome to Dynamics NAV](across-get-started.md).</span></span>
 
-## <a name="to-request-approval-of-a-record"></a>Til að biðja um samþykki færslu
-Eftirfarandi verkið er framkvæmt af samþykktarnotanda.
+## <a name="to-request-approval-of-a-record"></a><span data-ttu-id="2a5ab-107">Til að biðja um samþykki færslu</span><span class="sxs-lookup"><span data-stu-id="2a5ab-107">To request approval of a record</span></span>
+<span data-ttu-id="2a5ab-108">Eftirfarandi verkið er framkvæmt af samþykktarnotanda.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-108">The following task is performed by an approval user.</span></span>
 
-1. Í glugganum sem táknar færsluna er valið **Senda samþykktarbeiðni** aðgerðin.
-2. Til að sjá allar samþykktarbeiðnir í efra hægra horni, veldu **leita að síðu eða skýrslu**, færðu inn **Samþykktarbeiðnifærslur** og velja síðan viðkomandi tengil.
+1. <span data-ttu-id="2a5ab-109">Í glugganum sem táknar færsluna er valið **Senda samþykktarbeiðni** aðgerðin.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-109">In the window that presents the record, choose the **Send Approval Request** action.</span></span>
+2. <span data-ttu-id="2a5ab-110">Til að sjá allar samþykktarbeiðnir í efra hægra horni, veldu **leita að síðu eða skýrslu**, færðu inn **Samþykktarbeiðnifærslur** og velja síðan viðkomandi tengil.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-110">To see all your approval requests, in the top right corner, choose the **Search for Page or Report** icon, enter **Approval Request Entries**, and then choose the related link.</span></span>
 
-Staða samþykktarfærslunnar er uppfærð úr **Stofnað** í **Opið**. Staða færslunnar, til dæmis innkaupareikningur, er uppfærð úr **Opin** í **Bíður samþykkis** og er áfram lokuð fyrir breytngar þar til allir samþykkjendur hafa samþykkt færsluna.
+<span data-ttu-id="2a5ab-111">Staða samþykktarfærslunnar er uppfærð úr **Stofnað** í **Opið**.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-111">The status of the approval entry is updated from **Created** to **Open**.</span></span> <span data-ttu-id="2a5ab-112">Staða færslunnar, til dæmis innkaupareikningur, er uppfærð úr **Opin** í **Bíður samþykkis** og er áfram lokuð fyrir breytngar þar til allir samþykkjendur hafa samþykkt færsluna.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-112">The status of the record, for example a purchase invoice, is updated from **Open** to **Pending Approval** and remains locked for processing until all approvers have approved the record.</span></span>
 
-Þegar samþykkjandi hefur samþykkt færslu breytist staðan í **Losuð** Þá er hægt að halda áfram verkefni með færsluna.
+<span data-ttu-id="2a5ab-113">Þegar samþykkjandi hefur samþykkt færslu breytist staðan í **Losuð**</span><span class="sxs-lookup"><span data-stu-id="2a5ab-113">When the approver has approved the record, the status changes to **Released**.</span></span> <span data-ttu-id="2a5ab-114">Þá er hægt að halda áfram verkefni með færsluna.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-114">You can then continue your tasks with the record.</span></span>
 
-## <a name="to-cancel-requests-for-approval"></a>Hætt við beiðnir um samþykki
-Eftirfarandi verkið er framkvæmt af samþykktarnotanda með samþykktarheimildir.
+## <a name="to-cancel-requests-for-approval"></a><span data-ttu-id="2a5ab-115">Hætt við beiðnir um samþykki</span><span class="sxs-lookup"><span data-stu-id="2a5ab-115">To cancel requests for approval</span></span>
+<span data-ttu-id="2a5ab-116">Eftirfarandi verkið er framkvæmt af samþykktarnotanda með samþykktarheimildir.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-116">The following task is performed by an approval user with approver rights.</span></span>
 
-Vera kann að viðskiptavinur vilji breyta pöntun eftir að hún hefur verið lögð fram til samþykktar. Í þessu tilfelli má hætta við samþykktarferlið og gera nauðsynlegar breytingar á pöntuninni áður en beðið er um samþykki aftur.
+<span data-ttu-id="2a5ab-117">Vera kann að viðskiptavinur vilji breyta pöntun eftir að hún hefur verið lögð fram til samþykktar.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-117">A customer may want to change an order after it has been submitted for approval.</span></span> <span data-ttu-id="2a5ab-118">Í þessu tilfelli má hætta við samþykktarferlið og gera nauðsynlegar breytingar á pöntuninni áður en beðið er um samþykki aftur.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-118">In this case, you can cancel the approval process and make the necessary changes to the order before you request approval again.</span></span>
 
-1. Í glugganum sem sýnir færsluna er valið **Hætta við samþykktarbeiðni** aðgerðin.
+1. <span data-ttu-id="2a5ab-119">Í glugganum sem sýnir færsluna er valið **Hætta við samþykktarbeiðni** aðgerðin.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-119">In the window that displays the record, choose the **Cancel Approval Request** action.</span></span>
 
-Þegar hætt hefur verið við samþykktarbeiðnina uppfærist staðan á samþykktarfærslunni í **Hætt við**. Staða færslunnar er uppfærð úr **Bíður samþykktar** í **Opið**. Samþykktarferlið getur þá hafist á ný.
+<span data-ttu-id="2a5ab-120">Þegar hætt hefur verið við samþykktarbeiðnina uppfærist staðan á samþykktarfærslunni í **Hætt við**.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-120">When the approval request has been canceled, the status of the related approval entry is changed to **Canceled**.</span></span> <span data-ttu-id="2a5ab-121">Staða færslunnar er uppfærð úr **Bíður samþykktar** í **Opið**.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-121">The status of the record is updated from **Pending Approval** to **Open**.</span></span> <span data-ttu-id="2a5ab-122">Samþykktarferlið getur þá hafist á ný.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-122">The approval process can then start again.</span></span>
 
-## <a name="to-make-minor-changes-to-approved-records"></a>Gera smávægilegar breytingar á samþykktum færslum
-Ef gera á smávægilega breytinga á færslu eftir að hún hefur verið samþykkt er hægt að enduropna hana, gera breytinguna og samþykkja hana. Fyrir smávægilegar breytingar er þetta gert með hnöppunum **Enduropna** og **Gefa út**.
+## <a name="to-make-minor-changes-to-approved-records"></a><span data-ttu-id="2a5ab-123">Gera smávægilegar breytingar á samþykktum færslum</span><span class="sxs-lookup"><span data-stu-id="2a5ab-123">To make minor changes to approved records</span></span>
+<span data-ttu-id="2a5ab-124">Ef gera á smávægilega breytinga á færslu eftir að hún hefur verið samþykkt er hægt að enduropna hana, gera breytinguna og samþykkja hana.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-124">If you want to make a minor change to a record after it has been approved, you can reopen the record, make the change, and then release it.</span></span> <span data-ttu-id="2a5ab-125">Fyrir smávægilegar breytingar er þetta gert með hnöppunum **Enduropna** og **Gefa út**.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-125">For minor changes, you do this with the **Reopen** and **Release** buttons.</span></span>
 
-1. Opna skal gluggann sem sýnir færsluna, t.d. innkaupareikning, og velja síðan **opna aftur** aðgerðina.
+1. <span data-ttu-id="2a5ab-126">Opna skal gluggann sem sýnir færsluna, t.d. innkaupareikning, og velja síðan **opna aftur** aðgerðina.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-126">Open the window that displays the record, such as a purchase invoice, and then choose the **Reopen** action.</span></span>
 
-    Reitnum **Staða skjals** er breytt í Opna.
-3. Nauðsynlegar breytingar eru gerðar á færslunni, svo sem heimilisfang lánardrottins.
-4. Valið er **Losa** aðgerð.
+    <span data-ttu-id="2a5ab-127">Reitnum **Staða skjals** er breytt í Opna.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-127">The **Document Status** field is changed to Open.</span></span>
+3. <span data-ttu-id="2a5ab-128">Nauðsynlegar breytingar eru gerðar á færslunni, svo sem heimilisfang lánardrottins.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-128">Make the necessary changes on the record, such as the vendor’s address.</span></span>
+4. <span data-ttu-id="2a5ab-129">Valið er **Losa** aðgerð.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-129">Choose the **Release** action.</span></span>
 
-Þegar frumfærslan er opnuð aftur er staða tengdrar samþykktarfærslu áfram Samþykkt í glugganum **Samþykktarfærslur**.
+<span data-ttu-id="2a5ab-130">Þegar frumfærslan er opnuð aftur er staða tengdrar samþykktarfærslu áfram Samþykkt í glugganum **Samþykktarfærslur**.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-130">When you reopen the source record, the status of the related approval entry remains Approved in the **Approval Entries** window.</span></span>
 
-## <a name="to-approve-or-reject-requests-for-approval"></a>Samþykkja eða hafna samþykktum
-Eftirfarandi verkið er framkvæmt af samþykktarnotanda með samþykktarheimildir.
+## <a name="to-approve-or-reject-requests-for-approval"></a><span data-ttu-id="2a5ab-131">Samþykkja eða hafna samþykktum</span><span class="sxs-lookup"><span data-stu-id="2a5ab-131">To approve or reject requests for approval</span></span>
+<span data-ttu-id="2a5ab-132">Eftirfarandi verkið er framkvæmt af samþykktarnotanda með samþykktarheimildir.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-132">The following task is performed by an approval user with approver rights.</span></span>
 
-Hægt er að vinna samþykktarbeiðnum í glugganum **Beiðnir til að samþykkja** , til dæmis til að samþykkja margar beiðnum í einu. Einnig er hægt er að vinna hvern beiðni á tengdar færslu, eins og í **Innkaupareikningur** glugganum, með því að velja tengillinn í tilkynningin sem þú tekur á móti.
+<span data-ttu-id="2a5ab-133">Hægt er að vinna samþykktarbeiðnum í glugganum **Beiðnir til að samþykkja** , til dæmis til að samþykkja margar beiðnum í einu.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-133">You can process approval requests in the **Requests to Approve** window, for example to approve multiple requests at a time.</span></span> <span data-ttu-id="2a5ab-134">Einnig er hægt er að vinna hvern beiðni á tengdar færslu, eins og í **Innkaupareikningur** glugganum, með því að velja tengillinn í tilkynningin sem þú tekur á móti.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-134">Alternatively, you can process each request on the related record, such as the **Purchase Invoice** window, by choosing the link in the notification that you receive.</span></span>
 
-1. í efra hægra horni, veldu **leita að síðu eða skýrslu**, færðu inn **beiðnir til samþykktar** og velja síðan viðkomandi tengil.
-2. Velja eina eða fleiri línur fyrir færslu eða færslur sem á að samþykkja eða hafna.
-3. Valið er **Samþykkja**, **Hafna**, eða **Framselja** aðgerðir.
+1. <span data-ttu-id="2a5ab-135">í efra hægra horni, veldu **leita að síðu eða skýrslu**, færðu inn **beiðnir til samþykktar** og velja síðan viðkomandi tengil.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-135">In the top right corner, choose the **Search for Page or Report** icon, enter **Requests to Approve**, and then choose the related link.</span></span>
+2. <span data-ttu-id="2a5ab-136">Velja eina eða fleiri línur fyrir færslu eða færslur sem á að samþykkja eða hafna.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-136">Select one or more lines for the record or records that you want to approve or reject.</span></span>
+3. <span data-ttu-id="2a5ab-137">Valið er **Samþykkja**, **Hafna**, eða **Framselja** aðgerðir.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-137">Choose the **Approve**, **Reject**, or **Delegate** actions.</span></span>
 
-Þegar færsla hefur verið samþykkt eða henni hafnað breytist samþykktarstaða í reitnum **Staða** í **Samþykkt** eða **Hafnað**.
+<span data-ttu-id="2a5ab-138">Þegar færsla hefur verið samþykkt eða henni hafnað breytist samþykktarstaða í reitnum **Staða** í **Samþykkt** eða **Hafnað**.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-138">When a record has been approved or rejected, the approval status in the **Status** field changes to **Approved** or **Rejected**.</span></span>
 
-Ef samþykkjendastigveldi er til staðar mun færslustaða vera **Bíður samþykktar** þar til allir samþykkjendur hafa samþykkt færsluna. Þá mun staða færslunnar breytast í **Losað**.
+<span data-ttu-id="2a5ab-139">Ef samþykkjendastigveldi er til staðar mun færslustaða vera **Bíður samþykktar** þar til allir samþykkjendur hafa samþykkt færsluna.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-139">If an approver hierarchy is set up, the record status will be **Pending Approval** until all approvers have approved the record.</span></span> <span data-ttu-id="2a5ab-140">Þá mun staða færslunnar breytast í **Losað**.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-140">Then the record status will change to **Released**.</span></span>
 
-Á sama tíma breytist samþykktarstaða úr **Stofnað** í **opið** um leið og samþykktarbeiðni fyrir færsla er stofnuð. Ef beiðni er hafnað berytist samþykktarstaða í **Hafnað**. Staðan er áfram **opið** eða **Hafnað** þar til allir samþykkjendur hafa samþykki beiðnina.
+<span data-ttu-id="2a5ab-141">Á sama tíma breytist samþykktarstaða úr **Stofnað** í **opið** um leið og samþykktarbeiðni fyrir færsla er stofnuð.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-141">At the same time, the approval status changes from **Created** to **Open** as soon as an approval request for the record is created.</span></span> <span data-ttu-id="2a5ab-142">Ef beiðni er hafnað berytist samþykktarstaða í **Hafnað**.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-142">If the request is rejected, the approval status changes to **Rejected**.</span></span> <span data-ttu-id="2a5ab-143">Staðan er áfram **opið** eða **Hafnað** þar til allir samþykkjendur hafa samþykki beiðnina.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-143">The status remains **Open** or **Rejected** until all approvers have approved the request.</span></span>
 
-## <a name="to-delegate-requests-for-approval"></a>Úthluta beiðnum um samþykki
-Eftirfarandi verkið er framkvæmt af samþykktarnotanda með samþykktarheimildir.
+## <a name="to-delegate-requests-for-approval"></a><span data-ttu-id="2a5ab-144">Úthluta beiðnum um samþykki</span><span class="sxs-lookup"><span data-stu-id="2a5ab-144">To delegate requests for approval</span></span>
+<span data-ttu-id="2a5ab-145">Eftirfarandi verkið er framkvæmt af samþykktarnotanda með samþykktarheimildir.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-145">The following task is performed by an approval user with approver rights.</span></span>
 
-Til að koma í veg fyrir að skjöl safnist upp með öðru móti stífla verkflæði getur sá sem bað um samþykktina eða samþykkjandinn úthlutað samþykktarbeiðni til staðgengilssamþykkjanda. Staðgengil getur annað hvort verið tilgreindur staðgengill, beinn samþykkjandi eða stjórnandi samþykkis, í þeirri forgangsröð. Þessi aðgerð er yfirleitt notuð ef samþykkjandi er ekki við og getur ekki samþykkt beiðnir fyrir lokadaginn.
+<span data-ttu-id="2a5ab-146">Til að koma í veg fyrir að skjöl safnist upp með öðru móti stífla verkflæði getur sá sem bað um samþykktina eða samþykkjandinn úthlutað samþykktarbeiðni til staðgengilssamþykkjanda.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-146">To prevent documents from piling up or otherwise block the workflow, the approver and the approval administrator can delegate an approval request to a substitute approver.</span></span> <span data-ttu-id="2a5ab-147">Staðgengil getur annað hvort verið tilgreindur staðgengill, beinn samþykkjandi eða stjórnandi samþykkis, í þeirri forgangsröð.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-147">The substitute can either be a designated substitute, the direct approver, or the approval administrator, in that order of priority.</span></span> <span data-ttu-id="2a5ab-148">Þessi aðgerð er yfirleitt notuð ef samþykkjandi er ekki við og getur ekki samþykkt beiðnir fyrir lokadaginn.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-148">You typically use this feature if an approver is out of office and is unable to approve requests before the due date.</span></span>
 
-1. í efra hægra horni, veldu **leita að síðu eða skýrslu**, færðu inn **beiðnir til samþykktar** og velja síðan viðkomandi tengil.
-2. Velja eina eða fleiri línur fyrir samþykktarbeiðni sem á að úthluta á staðgengil til samþykktar, og veldu síðan aðgerðina **framselja**.
+1. <span data-ttu-id="2a5ab-149">í efra hægra horni, veldu **leita að síðu eða skýrslu**, færðu inn **beiðnir til samþykktar** og velja síðan viðkomandi tengil.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-149">In the top right corner, choose the **Search for Page or Report** icon, enter **Requests to Approve**, and then choose the related link.</span></span>
+2. <span data-ttu-id="2a5ab-150">Velja eina eða fleiri línur fyrir samþykktarbeiðni sem á að úthluta á staðgengil til samþykktar, og veldu síðan aðgerðina **framselja**.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-150">Select one or more lines for the approval requests that you want to delegate to a substitute approver, and then choose the **Delegate** action.</span></span>
 
-Tilkynning um að samþykkja beiðnina er send til staðgengilssamþykkjanda.
+<span data-ttu-id="2a5ab-151">Tilkynning um að samþykkja beiðnina er send til staðgengilssamþykkjanda.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-151">A notification to approve the request is sent to the substitute approver.</span></span>
 
-## <a name="to-manage-overdue-approval-requests"></a>Til að stjórna samþykktarbeiðnum sem eru komnar fram yfir á tíma
-Eftirfarandi verkið er framkvæmt af samþykktarnotanda með samþykktarheimildir.
+## <a name="to-manage-overdue-approval-requests"></a><span data-ttu-id="2a5ab-152">Til að stjórna samþykktarbeiðnum sem eru komnar fram yfir á tíma</span><span class="sxs-lookup"><span data-stu-id="2a5ab-152">To manage overdue approval requests</span></span>
+<span data-ttu-id="2a5ab-153">Eftirfarandi verkið er framkvæmt af samþykktarnotanda með samþykktarheimildir.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-153">The following task is performed by an approval user with approver rights.</span></span>
 
-Með reglulegu millibili kann að þurfa að minna notendur samþykktarverkflæðis á beiðnir sem eru fallnar á tíma og sem þeir þurfa að bregðast við. Virknin Senda samþykkistilkynningar sem komnar eru fram yfir á tíma er notuð fyrir þetta.
+<span data-ttu-id="2a5ab-154">Með reglulegu millibili kann að þurfa að minna notendur samþykktarverkflæðis á beiðnir sem eru fallnar á tíma og sem þeir þurfa að bregðast við.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-154">At regular intervals, you must remind approval workflow users of overdue approval requests that they must react on.</span></span> <span data-ttu-id="2a5ab-155">Virknin Senda samþykkistilkynningar sem komnar eru fram yfir á tíma er notuð fyrir þetta.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-155">You use the Send Overdue Approval Notifications function for this.</span></span>
 
-Aðgerðin Senda samþykkistilkynningar sem komnar eru fram yfir á tíma kannar allar opnar samþykktar færslur sem eru fallnar á tíma. Allir samþykkjendur með a.m.k. eina samþykkt fram yfir á tíma fá tilkynningu með lista yfir þær samþykktarfærslur sem fallnar eru á tíma. Afrit af tilkynningu er sent til samþykkjenda þeirra og allra sendenda samþykkta sem fallnar eru á tíma. Þetta er gagnlegt ef nauðsynlegt er að framselja samþykktarfærslu sem fallin er á tíma til staðgengils.
+<span data-ttu-id="2a5ab-156">Aðgerðin Senda samþykkistilkynningar sem komnar eru fram yfir á tíma kannar allar opnar samþykktar færslur sem eru fallnar á tíma.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-156">The Send Overdue Approval Notifications function checks for all open approval requests that are currently overdue.</span></span> <span data-ttu-id="2a5ab-157">Allir samþykkjendur með a.m.k. eina samþykkt fram yfir á tíma fá tilkynningu með lista yfir þær samþykktarfærslur sem fallnar eru á tíma.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-157">Each approver that has at least one overdue approval entry receives a notification with the list of all their overdue approval requests.</span></span> <span data-ttu-id="2a5ab-158">Afrit af tilkynningu er sent til samþykkjenda þeirra og allra sendenda samþykkta sem fallnar eru á tíma.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-158">The notification is also sent to their approver and all the requesters of the overdue approvals.</span></span> <span data-ttu-id="2a5ab-159">Þetta er gagnlegt ef nauðsynlegt er að framselja samþykktarfærslu sem fallin er á tíma til staðgengils.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-159">This helps if the overdue approval entry must be delegated to a substitute.</span></span>
 
-1. Í efra hægra horni, veldu **leita að síðu eða skýrslu**, færðu inn **samþykktarbeiðni komin fram yfir á tíma** og velja síðan viðkomandi tengil.
-2. Í **Samþykktarbeiðnir komin fram yfir á tíma** glugganum er valið á **Samþykktarbeiðnir komin fram yfir á tíma Tilkynningar** aðgerð.
+1. <span data-ttu-id="2a5ab-160">Í efra hægra horni, veldu **leita að síðu eða skýrslu**, færðu inn **samþykktarbeiðni komin fram yfir á tíma** og velja síðan viðkomandi tengil.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-160">In the top right corner, choose the **Search for Page or Report** icon, enter **Overdue Approval Requests**, and then choose the related link.</span></span>
+2. <span data-ttu-id="2a5ab-161">Í **Samþykktarbeiðnir komin fram yfir á tíma** glugganum er valið á **Samþykktarbeiðnir komin fram yfir á tíma Tilkynningar** aðgerð.</span><span class="sxs-lookup"><span data-stu-id="2a5ab-161">In the **Overdue Approval Requests** window, choose the **Send Overdue Approval Notifications** action.</span></span>
 
-## <a name="see-also"></a>Sjá einnig  
-[Stjórna sölu](sales-manage-sales.md)    
-[Skjöl á innleið](across-income-documents.md)  
-[Stjórnun innkaupa](purchasing-manage-purchasing.md)  
-[Unnið með Dynamics NAV](ui-work-product.md)
+## <a name="see-also"></a><span data-ttu-id="2a5ab-162">Sjá einnig</span><span class="sxs-lookup"><span data-stu-id="2a5ab-162">See Also</span></span>  
+<span data-ttu-id="2a5ab-163">[Stjórna sölu](sales-manage-sales.md)  </span><span class="sxs-lookup"><span data-stu-id="2a5ab-163">[Manage Sales](sales-manage-sales.md)  </span></span>  
+[<span data-ttu-id="2a5ab-164">Skjöl á innleið</span><span class="sxs-lookup"><span data-stu-id="2a5ab-164">Incoming Documents</span></span>](across-income-documents.md)  
+[<span data-ttu-id="2a5ab-165">Stjórnun innkaupa</span><span class="sxs-lookup"><span data-stu-id="2a5ab-165">Manage Purchasing</span></span>](purchasing-manage-purchasing.md)  
+[<span data-ttu-id="2a5ab-166">Unnið með Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="2a5ab-166">Work With Dynamics NAV</span></span>](ui-work-product.md)
 

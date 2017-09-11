@@ -9,47 +9,47 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: f34bef80c64cbad0a0b20d4d021cefbdc5a1cb64
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: aa36ff606cf832049e7f002af724a9185289a2b3
 ms.contentlocale: is-is
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="how-to-transfer-bank-funds"></a>Hvernig á að: Flytja bankainnistæður
-Stundum þarf að bóka millifærslu á upphæðum af einum bankareikningi yfir á annan. Til að gera þetta verður að bóka á færslu í færslubók. Verkið er misjafnt eftir því hvort bankareikningarnir nota sama gjaldmiðil eða mismunandi gjaldmiðla.
+# <a name="how-to-transfer-bank-funds"></a><span data-ttu-id="e5155-102">Hvernig á að: Flytja bankainnistæður</span><span class="sxs-lookup"><span data-stu-id="e5155-102">How to: Transfer Bank Funds</span></span>
+<span data-ttu-id="e5155-103">Stundum þarf að bóka millifærslu á upphæðum af einum bankareikningi yfir á annan.</span><span class="sxs-lookup"><span data-stu-id="e5155-103">You may sometimes need to transfer an amount from one bank account to another.</span></span> <span data-ttu-id="e5155-104">Til að gera þetta verður að bóka á færslu í færslubók.</span><span class="sxs-lookup"><span data-stu-id="e5155-104">To do this, you must post the a transaction in the general journal.</span></span> <span data-ttu-id="e5155-105">Verkið er misjafnt eftir því hvort bankareikningarnir nota sama gjaldmiðil eða mismunandi gjaldmiðla.</span><span class="sxs-lookup"><span data-stu-id="e5155-105">The task varies depending on whether the bank accounts use the same currency or different currencies.</span></span>
 
-## <a name="to-post-a-transfer-between-bank-accounts-with-the-same-currency-code"></a>Millifærslur af einum bankareikningi á annan með sama gjaldmiðilskóða
-1. Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Færslubók**, og velja síðan viðeigandi tengil.
-2. **Bókunardagsetning** og **Númer fylgiskjals** eru fylltir út í færslubókarlínu. Reitir
-3. Í reitnum **Tegund reiknings** er valinn **Bankareikningur**.
-4. Í svæðinu **Bankareikningsnúmer**,  veljið bankann sem flytja á bankainnistæðuna frá.
-5. Heildarupphæðin sem á að úthluta í reitinn  **Upphæð** er færð inn.
-6. Í reitnum **Tegund mótreiknings** er **Bankareikningur** valinn.
-7. Í svæðinu **Númer mótreiknings**,  veljið bankareikninginn sem flytja á bankainnistæðuna til.
-8. Bóka skal færslubókina.
+## <a name="to-post-a-transfer-between-bank-accounts-with-the-same-currency-code"></a><span data-ttu-id="e5155-106">Millifærslur af einum bankareikningi á annan með sama gjaldmiðilskóða</span><span class="sxs-lookup"><span data-stu-id="e5155-106">To post a transfer between bank accounts with the same currency code</span></span>
+1. <span data-ttu-id="e5155-107">Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Færslubók**, og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="e5155-107">In the top right corner, choose the **Search for Page or Report** icon, enter **General Journal**, and then choose the related link.</span></span>
+2. <span data-ttu-id="e5155-108">**Bókunardagsetning** og **Númer fylgiskjals** eru fylltir út í færslubókarlínu.</span><span class="sxs-lookup"><span data-stu-id="e5155-108">On a journal line, fill in the **Posting Date** and **Document No.**</span></span> <span data-ttu-id="e5155-109">Reitir</span><span class="sxs-lookup"><span data-stu-id="e5155-109">fields.</span></span>
+3. <span data-ttu-id="e5155-110">Í reitnum **Tegund reiknings** er valinn **Bankareikningur**.</span><span class="sxs-lookup"><span data-stu-id="e5155-110">In the **Account Type** field, select **Bank Account**.</span></span>
+4. <span data-ttu-id="e5155-111">Í svæðinu **Bankareikningsnúmer**, </span><span class="sxs-lookup"><span data-stu-id="e5155-111">In the **Account No.**</span></span> <span data-ttu-id="e5155-112">veljið bankann sem flytja á bankainnistæðuna frá.</span><span class="sxs-lookup"><span data-stu-id="e5155-112">field, select the bank from which you want to transfer the funds.</span></span>
+5. <span data-ttu-id="e5155-113">Heildarupphæðin sem á að úthluta í reitinn  **Upphæð** er færð inn.</span><span class="sxs-lookup"><span data-stu-id="e5155-113">In the **Amount** field, enter the amount to be transferred.</span></span>
+6. <span data-ttu-id="e5155-114">Í reitnum **Tegund mótreiknings** er **Bankareikningur** valinn.</span><span class="sxs-lookup"><span data-stu-id="e5155-114">In the **Bal. Account Type** field, select **Bank Account**.</span></span>
+7. <span data-ttu-id="e5155-115">Í svæðinu **Númer mótreiknings**, </span><span class="sxs-lookup"><span data-stu-id="e5155-115">In the **Bal. Account No.**</span></span> <span data-ttu-id="e5155-116">veljið bankareikninginn sem flytja á bankainnistæðuna til.</span><span class="sxs-lookup"><span data-stu-id="e5155-116">field, select the bank account to which you want to transfer the funds.</span></span>
+8. <span data-ttu-id="e5155-117">Bóka skal færslubókina.</span><span class="sxs-lookup"><span data-stu-id="e5155-117">Post the journal.</span></span>
 
-## <a name="to-post-a-transfer-between-bank-accounts-with-different-currency-codes"></a>Færslur milli bankareikninga bókaðar með gjaldmiðilskótum
-Til að færa fjármuni milli bankareikninga sem nota mismunandi gjaldmiðla, verður að bóka tvær færslubókarlínur.
+## <a name="to-post-a-transfer-between-bank-accounts-with-different-currency-codes"></a><span data-ttu-id="e5155-118">Færslur milli bankareikninga bókaðar með gjaldmiðilskótum</span><span class="sxs-lookup"><span data-stu-id="e5155-118">To post a transfer between bank accounts with different currency codes</span></span>
+<span data-ttu-id="e5155-119">Til að færa fjármuni milli bankareikninga sem nota mismunandi gjaldmiðla, verður að bóka tvær færslubókarlínur.</span><span class="sxs-lookup"><span data-stu-id="e5155-119">To transfer funds between bank accounts that use different currencies, you must post two general journal lines.</span></span>
 
-1. Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Færslubók**, og velja síðan viðeigandi tengil.
-2. Búið til tvær færslubókarlínur og fyllið út reitina **Bókunardagsetning** og **Númer fylgiskjals**. Reitir
-3. Í fyrstu færslubókarlínunni skal færa inn **Bankareikningur** í reitnum **Tegund reiknings**.
-4. Í svæðinu **Bankareikningsnúmer**,  veljið bankareikninginn sem flytja á bankainnistæðuna frá.
-5. Í reitnum **Upphæð** er rituð upphæðin sem er í gjaldmiðli bankareiknings. Færið inn kreditáætlunarupphæð með neikvæðu formerki. Færið inn debetáætlunarupphæð með neikvæðu formerki.
-6. Í reitnum **Tegund mótreiknings** er **Bankareikningur** valinn.
-7. Í svæðinu **Númer mótreiknings**,  veljið bankareikninginn sem flytja á bankainnistæðuna til.
-8. Í seinni færslubókarlínunni skal færa inn **Bankareikningur** í reitnum **Tegund reiknings**.
-9. Í svæðinu **Bankareikningsnúmer**,  veljið bankareikninginn sem flytja á bankainnistæðuna til.
-10. Í reitnum **Upphæð** er rituð upphæðin sem er í gjaldmiðli bankareiknings. Færið inn kreditáætlunarupphæð með neikvæðu formerki. Færið inn debetáætlunarupphæð með neikvæðu formerki.
-11. Í reitnum **Tegund mótreiknings** er **Bankareikningur** valinn.  
-12. Í svæðinu **Númer mótreiknings**,  veljið bankareikninginn sem flytja á bankainnistæðuna frá.
+1. <span data-ttu-id="e5155-120">Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Færslubók**, og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="e5155-120">In the top right corner, choose the **Search for Page or Report** icon, enter **General Journal**, and then choose the related link.</span></span>
+2. <span data-ttu-id="e5155-121">Búið til tvær færslubókarlínur og fyllið út reitina **Bókunardagsetning** og **Númer fylgiskjals**.</span><span class="sxs-lookup"><span data-stu-id="e5155-121">Create two journal lines, and fill in the **Posting Date** and **Document No.**</span></span> <span data-ttu-id="e5155-122">Reitir</span><span class="sxs-lookup"><span data-stu-id="e5155-122">fields.</span></span>
+3. <span data-ttu-id="e5155-123">Í fyrstu færslubókarlínunni skal færa inn **Bankareikningur** í reitnum **Tegund reiknings**.</span><span class="sxs-lookup"><span data-stu-id="e5155-123">On the first journal line, in the **Type** field, select **Bank Account**.</span></span>
+4. <span data-ttu-id="e5155-124">Í svæðinu **Bankareikningsnúmer**, </span><span class="sxs-lookup"><span data-stu-id="e5155-124">In the **Account No.**</span></span> <span data-ttu-id="e5155-125">veljið bankareikninginn sem flytja á bankainnistæðuna frá.</span><span class="sxs-lookup"><span data-stu-id="e5155-125">field, select the bank account from which you want to transfer the funds.</span></span>
+5. <span data-ttu-id="e5155-126">Í reitnum **Upphæð** er rituð upphæðin sem er í gjaldmiðli bankareiknings.</span><span class="sxs-lookup"><span data-stu-id="e5155-126">In the **Amount** field, enter the amount in the currency of the bank account.</span></span> <span data-ttu-id="e5155-127">Færið inn kreditáætlunarupphæð með neikvæðu formerki.</span><span class="sxs-lookup"><span data-stu-id="e5155-127">Enter credit amounts with a minus sign.</span></span> <span data-ttu-id="e5155-128">Færið inn debetáætlunarupphæð með neikvæðu formerki.</span><span class="sxs-lookup"><span data-stu-id="e5155-128">Enter debit amounts without a minus sign.</span></span>
+6. <span data-ttu-id="e5155-129">Í reitnum **Tegund mótreiknings** er **Bankareikningur** valinn.</span><span class="sxs-lookup"><span data-stu-id="e5155-129">In the **Bal. Account Type** field, select **Bank Account**.</span></span>
+7. <span data-ttu-id="e5155-130">Í svæðinu **Númer mótreiknings**, </span><span class="sxs-lookup"><span data-stu-id="e5155-130">In the **Bal. Account No.**</span></span> <span data-ttu-id="e5155-131">veljið bankareikninginn sem flytja á bankainnistæðuna til.</span><span class="sxs-lookup"><span data-stu-id="e5155-131">field, select the bank account to which you want to transfer the funds.</span></span>
+8. <span data-ttu-id="e5155-132">Í seinni færslubókarlínunni skal færa inn **Bankareikningur** í reitnum **Tegund reiknings**.</span><span class="sxs-lookup"><span data-stu-id="e5155-132">On the second journal line, in the **Type** field, select **Bank Account**.</span></span>
+9. <span data-ttu-id="e5155-133">Í svæðinu **Bankareikningsnúmer**, </span><span class="sxs-lookup"><span data-stu-id="e5155-133">In the **Account No.**</span></span> <span data-ttu-id="e5155-134">veljið bankareikninginn sem flytja á bankainnistæðuna til.</span><span class="sxs-lookup"><span data-stu-id="e5155-134">field, select the bank account to which you want to transfer the funds.</span></span>
+10. <span data-ttu-id="e5155-135">Í reitnum **Upphæð** er rituð upphæðin sem er í gjaldmiðli bankareiknings.</span><span class="sxs-lookup"><span data-stu-id="e5155-135">In the **Amount** field, enter the amount in the currency of the bank account.</span></span> <span data-ttu-id="e5155-136">Færið inn kreditáætlunarupphæð með neikvæðu formerki.</span><span class="sxs-lookup"><span data-stu-id="e5155-136">Enter credit amounts with a minus sign.</span></span> <span data-ttu-id="e5155-137">Færið inn debetáætlunarupphæð með neikvæðu formerki.</span><span class="sxs-lookup"><span data-stu-id="e5155-137">Enter debit amounts without a minus sign.</span></span>
+11. <span data-ttu-id="e5155-138">Í reitnum **Tegund mótreiknings** er **Bankareikningur** valinn.</span><span class="sxs-lookup"><span data-stu-id="e5155-138">In the **Bal. Account Type** field, select **Bank Account**.</span></span>  
+12. <span data-ttu-id="e5155-139">Í svæðinu **Númer mótreiknings**, </span><span class="sxs-lookup"><span data-stu-id="e5155-139">In the **Bal. Account No.**</span></span> <span data-ttu-id="e5155-140">veljið bankareikninginn sem flytja á bankainnistæðuna frá.</span><span class="sxs-lookup"><span data-stu-id="e5155-140">field, select the bank account from which you want to transfer the funds.</span></span>
 
-    **Athugið**: Ef gengið sem notað er í færslunni er annað en gengið í glugganum **Gengi gjaldmiðils** þarf að bæta inn þriðju línunni fyrir gengishagnað eða -tap. Færið inn **Fjárhagsreikning** í reitnum **Tegund reiknings**. Færið inn fjárhagsreikningsnúmer fyrir gengishagnað eða -tap í reitinn **Reikningur nr.**. . Færa inn gengishagnað eða -tap í reitinn **Upphæð** með eða án neikvæðs formerkis, eftir því hvort um er að ræða kreditupphæð eða debetupphæð.
-13. Bóka skal færslubókina.
+    <span data-ttu-id="e5155-141">**Athugið**: Ef gengið sem notað er í færslunni er annað en gengið í glugganum **Gengi gjaldmiðils** þarf að bæta inn þriðju línunni fyrir gengishagnað eða -tap.</span><span class="sxs-lookup"><span data-stu-id="e5155-141">**Note**: If the exchange rates used in the journal are different than the exchange rates in the **Currency Exchange Rates** window, enter a third line for the exchange rate gain or loss.</span></span> <span data-ttu-id="e5155-142">Færið inn **Fjárhagsreikning** í reitnum **Tegund reiknings**.</span><span class="sxs-lookup"><span data-stu-id="e5155-142">Enter **G/L Account** in the **Account Type** field.</span></span> <span data-ttu-id="e5155-143">Færið inn fjárhagsreikningsnúmer fyrir gengishagnað eða -tap í reitinn **Reikningur nr.**.</span><span class="sxs-lookup"><span data-stu-id="e5155-143">Enter the G/L account number for exchange rate gain or loss in the **Account No.**</span></span> <span data-ttu-id="e5155-144">.</span><span class="sxs-lookup"><span data-stu-id="e5155-144">field.</span></span> <span data-ttu-id="e5155-145">Færa inn gengishagnað eða -tap í reitinn **Upphæð** með eða án neikvæðs formerkis, eftir því hvort um er að ræða kreditupphæð eða debetupphæð.</span><span class="sxs-lookup"><span data-stu-id="e5155-145">Enter the exchange rate gain or loss in the **Amount** field with or without a minus sign for credits and debits respectively.</span></span>
+13. <span data-ttu-id="e5155-146">Bóka skal færslubókina.</span><span class="sxs-lookup"><span data-stu-id="e5155-146">Post the journal.</span></span>
 
-## <a name="see-also"></a>Sjá einnig  
-[Stjórna bankareikningum](bank-manage-bank-accounts.md)  
-[Uppsetning bankaþjónustu](bank-setup-banking.md)  
-[Vinna í færslubókum](ui-work-general-journals.md)
+## <a name="see-also"></a><span data-ttu-id="e5155-147">Sjá einnig</span><span class="sxs-lookup"><span data-stu-id="e5155-147">See Also</span></span>  
+[<span data-ttu-id="e5155-148">Stjórna bankareikningum</span><span class="sxs-lookup"><span data-stu-id="e5155-148">Manage Bank Accounts</span></span>](bank-manage-bank-accounts.md)  
+[<span data-ttu-id="e5155-149">Uppsetning bankaþjónustu</span><span class="sxs-lookup"><span data-stu-id="e5155-149">Set Up Banking</span></span>](bank-setup-banking.md)  
+[<span data-ttu-id="e5155-150">Vinna í færslubókum</span><span class="sxs-lookup"><span data-stu-id="e5155-150">Work with General Journals</span></span>](ui-work-general-journals.md)
 

@@ -1,1 +1,1 @@
-C:\\Forritaskrár\\Microsoft Dynamics NAV\\100
+<span data-ttu-id="5e299-101">C:\\Forritaskrár\\Microsoft Dynamics NAV\\100</span><span class="sxs-lookup"><span data-stu-id="5e299-101">C:\\Program Files\\Microsoft Dynamics NAV\\100</span></span>

@@ -9,78 +9,78 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 00f316dd3032d41239a75c0f40e6db6dc54601fe
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 0b65de9444851e6d7812a68740b1b60d922fef8a
 ms.contentlocale: is-is
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
-# <a name="processing-sales-opportunities"></a>Meðhöndla sölutækifæri
-Þegar tækifæri er stofnað eru margar aðgerðir til að stjórna tækifæri og vinna það til enda.
+# <a name="processing-sales-opportunities"></a><span data-ttu-id="bb787-102">Meðhöndla sölutækifæri</span><span class="sxs-lookup"><span data-stu-id="bb787-102">Processing Sales Opportunities</span></span>
+<span data-ttu-id="bb787-103">Þegar tækifæri er stofnað eru margar aðgerðir til að stjórna tækifæri og vinna það til enda.</span><span class="sxs-lookup"><span data-stu-id="bb787-103">After you create an opportunity, there are several features for managing the opportunity and moving it through to completion.</span></span>
 
-## <a name="view-opportunities"></a>Skoða tækifæri.
-Fyrirliggjandi sölutækifæri eru tiltækar í á **Tækifæralisti** glugga. Það eru til mismunandi leiðir til að fá aðgang að glugga til að vinna sölutækifæri:
+## <a name="view-opportunities"></a><span data-ttu-id="bb787-104">Skoða tækifæri.</span><span class="sxs-lookup"><span data-stu-id="bb787-104">View opportunities</span></span>
+<span data-ttu-id="bb787-105">Fyrirliggjandi sölutækifæri eru tiltækar í á **Tækifæralisti** glugga.</span><span class="sxs-lookup"><span data-stu-id="bb787-105">The existing sale opportunities are available from the **Opportunity List** window.</span></span> <span data-ttu-id="bb787-106">Það eru til mismunandi leiðir til að fá aðgang að glugga til að vinna sölutækifæri:</span><span class="sxs-lookup"><span data-stu-id="bb787-106">There are different ways to access this window for processing sales opportunities:</span></span>
 
-|Skoða tækifæri fyrir |Þá |
+|<span data-ttu-id="bb787-107">Skoða tækifæri fyrir</span><span class="sxs-lookup"><span data-stu-id="bb787-107">To view opportunities for</span></span> |<span data-ttu-id="bb787-108">Þá</span><span class="sxs-lookup"><span data-stu-id="bb787-108">Then</span></span> |
 |--------------------------|-----|
-|Alla sölumenn og tengiliði|Í efra hægra horni, veldu **leita að síðu eða skýrslu**, færðu inn **tækifæralisti** og velja síðan viðkomandi tengil.|
-|Tiltekin sölumaður|Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Sölumenn**, og velja síðan viðeigandi tengil. Veldu sölumaður, veldu aðgerðina **tækifæri**, og veldu síðan aðgerðina **listi**.|
-|Tiltekinn tengilið|Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **tengiliðir**, og velja síðan viðeigandi tengil. Veldu tengilið úr listanum, og veldu svo aðgerðina **tækifæri**.|
+|<span data-ttu-id="bb787-109">Alla sölumenn og tengiliði</span><span class="sxs-lookup"><span data-stu-id="bb787-109">All salespeople and contacts</span></span>|<span data-ttu-id="bb787-110">Í efra hægra horni, veldu **leita að síðu eða skýrslu**, færðu inn **tækifæralisti** og velja síðan viðkomandi tengil.</span><span class="sxs-lookup"><span data-stu-id="bb787-110">In the top right corner, choose the **Search for Page or Report** icon, enter **Opportunity List**, and then choose the related link.</span></span>|
+|<span data-ttu-id="bb787-111">Tiltekin sölumaður</span><span class="sxs-lookup"><span data-stu-id="bb787-111">A specific sales person</span></span>|<span data-ttu-id="bb787-112">Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Sölumenn**, og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="bb787-112">In the top right corner, choose the **Search for Page or Report** icon, enter **Salespeople**, and then choose the related link.</span></span> <span data-ttu-id="bb787-113">Veldu sölumaður, veldu aðgerðina **tækifæri**, og veldu síðan aðgerðina **listi**.</span><span class="sxs-lookup"><span data-stu-id="bb787-113">Select the salesperson, choose the **Opportunities** action, and then choose the **List** action.</span></span>|
+|<span data-ttu-id="bb787-114">Tiltekinn tengilið</span><span class="sxs-lookup"><span data-stu-id="bb787-114">A specific contact</span></span>|<span data-ttu-id="bb787-115">Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **tengiliðir**, og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="bb787-115">In the top right corner, choose the **Search for Page or Report** icon, enter **Contacts**, and then choose the related link.</span></span> <span data-ttu-id="bb787-116">Veldu tengilið úr listanum, og veldu svo aðgerðina **tækifæri**.</span><span class="sxs-lookup"><span data-stu-id="bb787-116">Select the contact from the list, and then choose the **Opportunities** action.</span></span>|
 
-Hver þesara verkefna opnar **Tækifæralisti** gluggann.
+<span data-ttu-id="bb787-117">Hver þesara verkefna opnar **Tækifæralisti** gluggann.</span><span class="sxs-lookup"><span data-stu-id="bb787-117">Each of these tasks opens the **Opportunity List** window.</span></span>
 
-## <a name="close-opportunities"></a>Tækifærum lokað:
-Hægt er að loka tækifærum þegar samningaviðræðum er lokið. Þegar tækifæri er lokað er hægt að tilgreina hvort það hafi nýst eða tapast, og ástæðu fyrir lokuninni. Til að tilgreina ástæðu, þarf að setja upp kóða fyrir lokuð tækifæri.
+## <a name="close-opportunities"></a><span data-ttu-id="bb787-118">Tækifærum lokað:</span><span class="sxs-lookup"><span data-stu-id="bb787-118">Close opportunities</span></span>
+<span data-ttu-id="bb787-119">Hægt er að loka tækifærum þegar samningaviðræðum er lokið.</span><span class="sxs-lookup"><span data-stu-id="bb787-119">You can close opportunities when the negotiations are over.</span></span> <span data-ttu-id="bb787-120">Þegar tækifæri er lokað er hægt að tilgreina hvort það hafi nýst eða tapast, og ástæðu fyrir lokuninni.</span><span class="sxs-lookup"><span data-stu-id="bb787-120">When closing an opportunity, you can specify whether it was won or lost, and the reasons for closing it.</span></span> <span data-ttu-id="bb787-121">Til að tilgreina ástæðu, þarf að setja upp kóða fyrir lokuð tækifæri.</span><span class="sxs-lookup"><span data-stu-id="bb787-121">To specify a reason, you must set up closed opportunity codes.</span></span>
 
-1. Í á **Tækifæralisti** glugganum, valin tækifæri og velja **Loka** aðgerð. **Loka tækifæri** glugginn birtist.
-2. Fyllið út viðeigandi reitina og smellið á hnappinn **Í lagi**.
+1. <span data-ttu-id="bb787-122">Í á **Tækifæralisti** glugganum, valin tækifæri og velja **Loka** aðgerð.</span><span class="sxs-lookup"><span data-stu-id="bb787-122">In the **Opportunity List** window, select the opportunity, and the choose the **Close** action.</span></span> <span data-ttu-id="bb787-123">**Loka tækifæri** glugginn birtist.</span><span class="sxs-lookup"><span data-stu-id="bb787-123">The **Close Opportunity** window opens.</span></span>
+2. <span data-ttu-id="bb787-124">Fyllið út viðeigandi reitina og smellið á hnappinn **Í lagi**.</span><span class="sxs-lookup"><span data-stu-id="bb787-124">Fill in the relevant fields, and then choose the **OK** button.</span></span>
 
-  Reitirnir **Kóði lokunar tækifæris** og **Lokað dags** eru skyldureitir og verða að vera fylltir út áður en hægt er að velja **Í lagi** takkann
+  <span data-ttu-id="bb787-125">Reitirnir **Kóði lokunar tækifæris** og **Lokað dags** eru skyldureitir og verða að vera fylltir út áður en hægt er að velja **Í lagi** takkann</span><span class="sxs-lookup"><span data-stu-id="bb787-125">The **Close Opportunity Code** and **Date Closed** fields are required fields and must be filled in before you can choose the **OK** button.</span></span>
 
-  Í reitnum **Kóði vegna lokunar tækifæris** í hægt er að velja úr einn af fyrirliggjandi kóðum vegna lokunar tækifæris eða bæta við nýjan kóða. Til að bæta inn nýja kóða úr fellilistanum er valið **Valið úr tæmandi listi**, og síðan valið **nýtt**. Á nýju auðri línu, fyllt út í á **kóða**, **Tegund**, og **Lýsing** reitina, og síðan valið **í lagi** hnappinn.
+  <span data-ttu-id="bb787-126">Í reitnum **Kóði vegna lokunar tækifæris** í hægt er að velja úr einn af fyrirliggjandi kóðum vegna lokunar tækifæris eða bæta við nýjan kóða.</span><span class="sxs-lookup"><span data-stu-id="bb787-126">In the **Close Opportunity Code** field, you can choose from one of the existing close opportunity codes or add a new code.</span></span> <span data-ttu-id="bb787-127">Til að bæta inn nýja kóða úr fellilistanum er valið **Valið úr tæmandi listi**, og síðan valið **nýtt**.</span><span class="sxs-lookup"><span data-stu-id="bb787-127">To add a new code, from the drop-down list, choose **Select from full list**, and then choose **new**.</span></span> <span data-ttu-id="bb787-128">Á nýju auðri línu, fyllt út í á **kóða**, **Tegund**, og **Lýsing** reitina, og síðan valið **í lagi** hnappinn.</span><span class="sxs-lookup"><span data-stu-id="bb787-128">On the new blank line, fill in the **Code**, **Type**, and **Description** fields, and then choose the **OK** button.</span></span>
 
-## <a name="create-quotes-for-opportunities"></a>Tilboð stofnuð fyrir tækifæri:
-Hægt er að stofna sölutilboð fyrir tengiliði sem ekki eru skráðir sem viðskiptamenn.
+## <a name="create-quotes-for-opportunities"></a><span data-ttu-id="bb787-129">Tilboð stofnuð fyrir tækifæri:</span><span class="sxs-lookup"><span data-stu-id="bb787-129">Create quotes for opportunities</span></span>
+<span data-ttu-id="bb787-130">Hægt er að stofna sölutilboð fyrir tengiliði sem ekki eru skráðir sem viðskiptamenn.</span><span class="sxs-lookup"><span data-stu-id="bb787-130">You can create sales quotes for contacts that are not recorded as customers.</span></span>
 
-1. Í á **Tækifæralisti** glugganum, valin tækifæri og velja síðan **úthluta sölutilboðum** aðgerð. Glugginn **sölutilboð** opnast.
-2. Viðeigandi reitir eru fylltir út.
+1. <span data-ttu-id="bb787-131">Í á **Tækifæralisti** glugganum, valin tækifæri og velja síðan **úthluta sölutilboðum** aðgerð.</span><span class="sxs-lookup"><span data-stu-id="bb787-131">In the **Opportunity List** window, select the opportunity, and then choose the **Assign Sales Quote** action.</span></span> <span data-ttu-id="bb787-132">Glugginn **sölutilboð** opnast.</span><span class="sxs-lookup"><span data-stu-id="bb787-132">The **Sales Quote** window opens.</span></span>
+2. <span data-ttu-id="bb787-133">Viðeigandi reitir eru fylltir út.</span><span class="sxs-lookup"><span data-stu-id="bb787-133">Fill in the relevant fields.</span></span>
 
-## <a name="create-sales-orders-for-opportunities"></a>Sölupantanir stofnaðar fyrir tækifæri:
-Hægt er að búa til sölupantanir úr sölutilboðunum sem stofnuð hafa verið fyrir tækifærin. Áður en hægt er að stofna sölupantanir fyrir tengiliði þarf að stofna tengiliðinn sem viðskiptamann. Fyrir frekar upplýsingar, sjá sjá [stofna Viðskiptamann, Lánadrottinn eða Bankareikning út frá tengilið](marketing-how-create-contacts-new-customers-vendors-bank-accounts.md).
+## <a name="create-sales-orders-for-opportunities"></a><span data-ttu-id="bb787-134">Sölupantanir stofnaðar fyrir tækifæri:</span><span class="sxs-lookup"><span data-stu-id="bb787-134">Create sales orders for opportunities</span></span>
+<span data-ttu-id="bb787-135">Hægt er að búa til sölupantanir úr sölutilboðunum sem stofnuð hafa verið fyrir tækifærin.</span><span class="sxs-lookup"><span data-stu-id="bb787-135">You can make sales orders from the sales quotes that you have created for your opportunities.</span></span> <span data-ttu-id="bb787-136">Áður en hægt er að stofna sölupantanir fyrir tengiliði þarf að stofna tengiliðinn sem viðskiptamann.</span><span class="sxs-lookup"><span data-stu-id="bb787-136">Before you can create sales orders for your contacts, you must create the contact as a customer.</span></span> <span data-ttu-id="bb787-137">Fyrir frekar upplýsingar, sjá sjá [stofna Viðskiptamann, Lánadrottinn eða Bankareikning út frá tengilið](marketing-how-create-contacts-new-customers-vendors-bank-accounts.md).</span><span class="sxs-lookup"><span data-stu-id="bb787-137">For more information, see [Create a Customer, Vendor, or Bank Account From a Contact](marketing-how-create-contacts-new-customers-vendors-bank-accounts.md).</span></span>
 
-1. Í glugganum **Tækifæralisti** skal velja tækifærið sem sölutilboð hefur verið stofnað fyrir.
-2. Velja skal aðgerðir fyrir Úthluta Sölutilboði. Glugginn **Sölutilboð** opnast, og sýnir hann sölutilboðið sem tækifærinu var úthlutað.
-3. Fyllið út aukalegu reitina og veljið  aðgeðrina **búa til pöntun**.
+1. <span data-ttu-id="bb787-138">Í glugganum **Tækifæralisti** skal velja tækifærið sem sölutilboð hefur verið stofnað fyrir.</span><span class="sxs-lookup"><span data-stu-id="bb787-138">In the **Opportunity List** window, find the opportunity that you have created a sales quote for.</span></span>
+2. <span data-ttu-id="bb787-139">Velja skal aðgerðir fyrir Úthluta Sölutilboði.</span><span class="sxs-lookup"><span data-stu-id="bb787-139">Choose the Assign Sales Quote actions.</span></span> <span data-ttu-id="bb787-140">Glugginn **Sölutilboð** opnast, og sýnir hann sölutilboðið sem tækifærinu var úthlutað.</span><span class="sxs-lookup"><span data-stu-id="bb787-140">The **Sales Quote** window opens to show the sales quote that you have assigned to the opportunity.</span></span>
+3. <span data-ttu-id="bb787-141">Fyllið út aukalegu reitina og veljið  aðgeðrina **búa til pöntun**.</span><span class="sxs-lookup"><span data-stu-id="bb787-141">Fill in the additional fields, and then choose the **Make Order** action.</span></span>
 
-Þegar unnið er með sölutækifæri getur þurft að stofna tilboð fyrir tengiliðinn sem tækifærið er tengt við,
+<span data-ttu-id="bb787-142">Þegar unnið er með sölutækifæri getur þurft að stofna tilboð fyrir tengiliðinn sem tækifærið er tengt við,</span><span class="sxs-lookup"><span data-stu-id="bb787-142">When handling sales opportunities, you may need to create a quote for the contact that the opportunity is linked to.</span></span>
 
-## <a name="delete-opportunities"></a>Eyða tækifærum
-Hægt er að eyða tækifærum, til dæmis þegar sala hefur náðst. Hinsvegar, Aðeins er hægt að eyða  lokuðum tækifærum. Tvær aðferðir til að eyða lokuð tækifæri. Er hægt að eyða einstökum lokuðum tækifærumúr **Tækifæralisti** eða þú getur keyrt **Eyða Lokuð Tækifæri** runuvinnsla til að eyða margar tækifærum byggða á tilgreindum skilyrðum.
+## <a name="delete-opportunities"></a><span data-ttu-id="bb787-143">Eyða tækifærum</span><span class="sxs-lookup"><span data-stu-id="bb787-143">Delete opportunities</span></span>
+<span data-ttu-id="bb787-144">Hægt er að eyða tækifærum, til dæmis þegar sala hefur náðst.</span><span class="sxs-lookup"><span data-stu-id="bb787-144">You can delete opportunities, for example, after you have concluded a deal.</span></span> <span data-ttu-id="bb787-145">Hinsvegar, Aðeins er hægt að eyða  lokuðum tækifærum.</span><span class="sxs-lookup"><span data-stu-id="bb787-145">However, you can only delete closed opportunities.</span></span> <span data-ttu-id="bb787-146">Tvær aðferðir til að eyða lokuð tækifæri.</span><span class="sxs-lookup"><span data-stu-id="bb787-146">There are two ways to delete closed opportunities.</span></span> <span data-ttu-id="bb787-147">Er hægt að eyða einstökum lokuðum tækifærumúr **Tækifæralisti** eða þú getur keyrt **Eyða Lokuð Tækifæri** runuvinnsla til að eyða margar tækifærum byggða á tilgreindum skilyrðum.</span><span class="sxs-lookup"><span data-stu-id="bb787-147">You can delete individual closed opportunities from the **Opportunity List** window or you can run the **Delete Closed Opportunities** batch job to delete multiple opportunities based on a specified criteria.</span></span>
 
-Til að eyða lokuðum tækifærum af **Tækifæralisti** glugganum, valin tækifæri og velja síðan **eyða** aðgerð.
+<span data-ttu-id="bb787-148">Til að eyða lokuðum tækifærum af **Tækifæralisti** glugganum, valin tækifæri og velja síðan **eyða** aðgerð.</span><span class="sxs-lookup"><span data-stu-id="bb787-148">To delete closed opportunities from the **Opportunity List** window, select the opportunity, and then choose the **Delete** action.</span></span>
 
-Til að eyða lokuðum tækifærum með því að nota **Eyða Lokuð Tækifæri** runuvinnslu, fylgja skal eftirfarandi skrefum:
+<span data-ttu-id="bb787-149">Til að eyða lokuðum tækifærum með því að nota **Eyða Lokuð Tækifæri** runuvinnslu, fylgja skal eftirfarandi skrefum:</span><span class="sxs-lookup"><span data-stu-id="bb787-149">To delete closed opportunities by using the **Delete Closed Opportunities** batch job, follow these steps:</span></span>
 
-1. Í efra hægra horni, veldu **leita að síðu eða skýrslu**, færðu inn **Eyða tækifærum** og velja síðan viðkomandi tengil.
-2. Í **Tækifæri** hlutanum, skal setja upp síur sem tilgreina lokuð tækifæri til að eyða.
-3. Velja hnappinn **Í lagi**.
+1. <span data-ttu-id="bb787-150">Í efra hægra horni, veldu **leita að síðu eða skýrslu**, færðu inn **Eyða tækifærum** og velja síðan viðkomandi tengil.</span><span class="sxs-lookup"><span data-stu-id="bb787-150">In the top right corner, choose the **Search for Page or Report** icon, enter **Delete Opportunities**, and then choose the related link.</span></span>
+2. <span data-ttu-id="bb787-151">Í **Tækifæri** hlutanum, skal setja upp síur sem tilgreina lokuð tækifæri til að eyða.</span><span class="sxs-lookup"><span data-stu-id="bb787-151">In the **Opportunity** section, set up the filters that specify the closed opportunities to delete.</span></span>
+3. <span data-ttu-id="bb787-152">Velja hnappinn **Í lagi**.</span><span class="sxs-lookup"><span data-stu-id="bb787-152">Choose the **OK** button.</span></span>
 
-Þegar tækifæri hefur verið eytt er það sjálfkrafa fjarlægt úr glugganum **Tækifæralisti**.
+<span data-ttu-id="bb787-153">Þegar tækifæri hefur verið eytt er það sjálfkrafa fjarlægt úr glugganum **Tækifæralisti**.</span><span class="sxs-lookup"><span data-stu-id="bb787-153">After you have deleted an opportunity, it is removed it from the **Opportunity List** window.</span></span>
 
-## <a name="move-an-opportunity-through-sales-cycle-stages"></a>Færa tækifæri gegnum söluferliþrep
-Ef tækifærið fer samkvæmt söluferli, er hægt að flytja það fram eða aftur gegnum mismunandi stig, eins og flutningur á næstu eða fyrra þrep og jafnvel hoppa yfir þrep.
+## <a name="move-an-opportunity-through-sales-cycle-stages"></a><span data-ttu-id="bb787-154">Færa tækifæri gegnum söluferliþrep</span><span class="sxs-lookup"><span data-stu-id="bb787-154">Move an opportunity through sales cycle stages</span></span>
+<span data-ttu-id="bb787-155">Ef tækifærið fer samkvæmt söluferli, er hægt að flytja það fram eða aftur gegnum mismunandi stig, eins og flutningur á næstu eða fyrra þrep og jafnvel hoppa yfir þrep.</span><span class="sxs-lookup"><span data-stu-id="bb787-155">If an opportunity follows a sales cycle, you can move it forward or back through the different stages, such as moving the the next or previous stage, and even skipping a stage.</span></span>
 
-1. Í glugganum **Tækifæralisti** er smellt á **uppfæra** aðgerðina. **Uppfæra tækifæri** opnast.
-2. Nota á **gerð aðgerðar** reitinn til að færa tækifærið gegnum söluferliþrep:
-  * **Næsta** flytur tækifærið fram um eitt stig.
-  * **Sleppa** flytur tækifærið fram um eitt eða fleiri stig í söluferlinu sem tilgreint er í reitnum **Framsetningu** . Aðeins er hægt að sleppa þrepum sem hafa verið settar upp til að leyfa því að vera sleppt.
-  * **Fyrra** flytur tækifærið aftur um eitt stig.
-  * **Hoppa** flytur tækifærið aftur um eitt eða fleiri stig í söluferlinu sem tilgreint er í reitnum **Framsetningu** .
-  * **Uppfæra** gerir kleift að breyta upplýsingar (t.d. breyta mati á líkum á árangri og áætluðu virði) án fara á annað stig.
-3. Fyllið út aðra reitina að þörfum og smellið veljið síðan hnappinn **Í lagi**.
+1. <span data-ttu-id="bb787-156">Í glugganum **Tækifæralisti** er smellt á **uppfæra** aðgerðina.</span><span class="sxs-lookup"><span data-stu-id="bb787-156">In the **Opportunity List** window, choose the **Update** action.</span></span> <span data-ttu-id="bb787-157">**Uppfæra tækifæri** opnast.</span><span class="sxs-lookup"><span data-stu-id="bb787-157">The **Update Opportunity** opens,</span></span>
+2. <span data-ttu-id="bb787-158">Nota á **gerð aðgerðar** reitinn til að færa tækifærið gegnum söluferliþrep:</span><span class="sxs-lookup"><span data-stu-id="bb787-158">Use the **Action Type** field to move the opportunity through the sales cycle stages:</span></span>
+  * <span data-ttu-id="bb787-159">**Næsta** flytur tækifærið fram um eitt stig.</span><span class="sxs-lookup"><span data-stu-id="bb787-159">**Next** moves the opportunity forward one stage.</span></span>
+  * <span data-ttu-id="bb787-160">**Sleppa** flytur tækifærið fram um eitt eða fleiri stig í söluferlinu sem tilgreint er í reitnum **Framsetningu** .</span><span class="sxs-lookup"><span data-stu-id="bb787-160">**Skip** moves the opportunity forward one or several stages in the sales cycle, which you specify in the **Presentation** field.</span></span> <span data-ttu-id="bb787-161">Aðeins er hægt að sleppa þrepum sem hafa verið settar upp til að leyfa því að vera sleppt.</span><span class="sxs-lookup"><span data-stu-id="bb787-161">You can only skip stages that have been set up to allow skipping.</span></span>
+  * <span data-ttu-id="bb787-162">**Fyrra** flytur tækifærið aftur um eitt stig.</span><span class="sxs-lookup"><span data-stu-id="bb787-162">**Previous** moves the opportunity back one stage.</span></span>
+  * <span data-ttu-id="bb787-163">**Hoppa** flytur tækifærið aftur um eitt eða fleiri stig í söluferlinu sem tilgreint er í reitnum **Framsetningu** .</span><span class="sxs-lookup"><span data-stu-id="bb787-163">**Jump** moves the opportunity back one or several stages in the sales cycle, which you specify in the **Presentation** field.</span></span>
+  * <span data-ttu-id="bb787-164">**Uppfæra** gerir kleift að breyta upplýsingar (t.d. breyta mati á líkum á árangri og áætluðu virði) án fara á annað stig.</span><span class="sxs-lookup"><span data-stu-id="bb787-164">**Update** enables you to change information (such as to modify your evaluation of their chances of success and estimated values) without moving to another stage.</span></span>
+3. <span data-ttu-id="bb787-165">Fyllið út aðra reitina að þörfum og smellið veljið síðan hnappinn **Í lagi**.</span><span class="sxs-lookup"><span data-stu-id="bb787-165">Fill in the other fields as needed, and then choose the **OK** button.</span></span>
 
-##<a name="see-also"></a>Sjá einnig  
-[Stjórna sölu](sales-manage-sales.md)  
-[Stofna og vinna með tengiliði](marketing-contacts.md)  
-[Unnið með Dynamics NAV](ui-work-product.md)
+##<a name="see-also"></a><span data-ttu-id="bb787-166">Sjá einnig</span><span class="sxs-lookup"><span data-stu-id="bb787-166">See Also</span></span>  
+[<span data-ttu-id="bb787-167">Stjórna sölu</span><span class="sxs-lookup"><span data-stu-id="bb787-167">Manage Sales</span></span>](sales-manage-sales.md)  
+[<span data-ttu-id="bb787-168">Stofna og vinna með tengiliði</span><span class="sxs-lookup"><span data-stu-id="bb787-168">Create and Manage Contacts</span></span>](marketing-contacts.md)  
+[<span data-ttu-id="bb787-169">Unnið með Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="bb787-169">Work with Dynamics NAV</span></span>](ui-work-product.md)
 

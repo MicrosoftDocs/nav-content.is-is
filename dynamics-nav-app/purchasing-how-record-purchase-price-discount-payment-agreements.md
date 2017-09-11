@@ -9,62 +9,62 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: f99bb0aeef2c25048b0da3e0476ae2d612bff562
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: af5ba3a17412ba4c123c4d3cb337b8d5df36cace
 ms.contentlocale: is-is
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-#<a name="how-to-record-purchase-prices-and-discounts"></a>Hvernig á að: Skrá söluverð og afslætti
-Skilgreina verður mismunandi verð- og afsláttarsamninga sem gilda þegar vörur eru keyptar frá mismunandi lánardrottnum svo að þeim reglum og gildum sem samkomulag hefur náðst um sé beitt á innkaupaskjöl sem gerð eru fyrir lánardrottininn.
+#<a name="how-to-record-purchase-prices-and-discounts"></a><span data-ttu-id="1be22-102">Hvernig á að: Skrá söluverð og afslætti</span><span class="sxs-lookup"><span data-stu-id="1be22-102">How to: Record Purchase Prices and Discounts</span></span>
+<span data-ttu-id="1be22-103">Skilgreina verður mismunandi verð- og afsláttarsamninga sem gilda þegar vörur eru keyptar frá mismunandi lánardrottnum svo að þeim reglum og gildum sem samkomulag hefur náðst um sé beitt á innkaupaskjöl sem gerð eru fyrir lánardrottininn.</span><span class="sxs-lookup"><span data-stu-id="1be22-103">The different price and discount agreements that apply when you buy from different vendors must be defined so that the agreed rules and values are applied to purchase documents that you create for the vendors.</span></span>
 
-Hvað varðar verð, er hægt að hafa sérstakt söluverð í sölulínunum ef tiltekin samsetning á viðskiptamanni, vöru, lágmarksmagni, mælieiningu, eða upphafs-/ lokadagsetningu er til staðar.
+<span data-ttu-id="1be22-104">Hvað varðar verð, er hægt að hafa sérstakt söluverð í sölulínunum ef tiltekin samsetning á viðskiptamanni, vöru, lágmarksmagni, mælieiningu, eða upphafs-/ lokadagsetningu er til staðar.</span><span class="sxs-lookup"><span data-stu-id="1be22-104">Concerning prices, you can have a special purchase price inserted on purchase lines if a certain combination of vendor, item, minimum quantity, unit of measure, or starting/ending date exists.</span></span>
 
-Hvað varðar afslátt, er hægt að setja upp og nota tvær tegundir innkaupaafsláttar:
+<span data-ttu-id="1be22-105">Hvað varðar afslátt, er hægt að setja upp og nota tvær tegundir innkaupaafsláttar:</span><span class="sxs-lookup"><span data-stu-id="1be22-105">Concerning discounts, you can set up and use two types of purchase discounts:</span></span>
 
-|Afsláttargerð |Lýsing |
+|<span data-ttu-id="1be22-106">Afsláttargerð</span><span class="sxs-lookup"><span data-stu-id="1be22-106">Discount Type</span></span> |<span data-ttu-id="1be22-107">Lýsing</span><span class="sxs-lookup"><span data-stu-id="1be22-107">Description</span></span> |
 |--------------|------------|
-|**Innkaupalínuafsláttur**|Afsláttarupphæð sem er sett inn í sölulínur ef tiltekin samsetning á lánardrottni, vöru, lágmarksmagni, mælieiningu, eða upphafs-/ lokadagsetningu er til staðar. Þetta virkar á sama háttog fyrir innkaupsverð.|
-|**Reikningsafsláttur**|Hlutfallsafsláttur sem er dreginn frá heildarupphæð skjalsins ef upphæðin í öllum línum í söluskjali fer fram yfir ákveðið lágmark.|
+|<span data-ttu-id="1be22-108">**Innkaupalínuafsláttur**</span><span class="sxs-lookup"><span data-stu-id="1be22-108">**Purchase Line Discount**</span></span>|<span data-ttu-id="1be22-109">Afsláttarupphæð sem er sett inn í sölulínur ef tiltekin samsetning á lánardrottni, vöru, lágmarksmagni, mælieiningu, eða upphafs-/ lokadagsetningu er til staðar.</span><span class="sxs-lookup"><span data-stu-id="1be22-109">An amount discount that is inserted on purchase lines if a certain combination of vendor, item, minimum quantity, unit of measure, or starting/ending date exists.</span></span> <span data-ttu-id="1be22-110">Þetta virkar á sama háttog fyrir innkaupsverð.</span><span class="sxs-lookup"><span data-stu-id="1be22-110">This works in the same way as for purchase prices.</span></span>|
+|<span data-ttu-id="1be22-111">**Reikningsafsláttur**</span><span class="sxs-lookup"><span data-stu-id="1be22-111">**Invoice Discount**</span></span>|<span data-ttu-id="1be22-112">Hlutfallsafsláttur sem er dreginn frá heildarupphæð skjalsins ef upphæðin í öllum línum í söluskjali fer fram yfir ákveðið lágmark.</span><span class="sxs-lookup"><span data-stu-id="1be22-112">A percentage discount that is subtracted from the document total if the value amount of all lines on a purchase document exceeds a certain minimum.</span></span>|
 
-Vegna þess að innkaupalínuafslættir og innkaupaverð byggjast á samsetningu vöru og lánardrottins er einnig hægt að færa þessa grunnstillingu inn af birgðaspjaldinu, þar sem reglurnar og gildin eru skilgreind. Nánari upplýsingar eru í [Hvernig á að: Skrá nýjar vörur](inventory-how-register-new-products.md).
+<span data-ttu-id="1be22-113">Vegna þess að innkaupalínuafslættir og innkaupaverð byggjast á samsetningu vöru og lánardrottins er einnig hægt að færa þessa grunnstillingu inn af birgðaspjaldinu, þar sem reglurnar og gildin eru skilgreind.</span><span class="sxs-lookup"><span data-stu-id="1be22-113">Because purchase line discounts and purchase prices are based on a combination of item and vendor, you can also enter this configuration from the item card, where the rules and values are defined.</span></span> <span data-ttu-id="1be22-114">Nánari upplýsingar eru í [Hvernig á að: Skrá nýjar vörur](inventory-how-register-new-products.md).</span><span class="sxs-lookup"><span data-stu-id="1be22-114">For more information, see [How to: Register New Products](inventory-how-register-new-products.md).</span></span>
 
-## <a name="to-set-up-a-special-purchase-price-for-a-vendor"></a>Að setja upp sérstakt innkaupsverð fyrir lánardrottin
-1. Í efra hægra horni, veldu **leita að síðu eða skýrslu**, færðu inn **lánardrottnar** og velja síðan viðkomandi tengil.
-2. Opna skal viðeigandi lánardrottnaspjald og velja síðan aðgerðina **Verð**.
+## <a name="to-set-up-a-special-purchase-price-for-a-vendor"></a><span data-ttu-id="1be22-115">Að setja upp sérstakt innkaupsverð fyrir lánardrottin</span><span class="sxs-lookup"><span data-stu-id="1be22-115">To set up a special purchase price for a vendor</span></span>
+1. <span data-ttu-id="1be22-116">Í efra hægra horni, veldu **leita að síðu eða skýrslu**, færðu inn **lánardrottnar** og velja síðan viðkomandi tengil.</span><span class="sxs-lookup"><span data-stu-id="1be22-116">In the top right corner, choose the **Search for Page or Report** icon, enter **Vendors**, and then choose the related link.</span></span>
+2. <span data-ttu-id="1be22-117">Opna skal viðeigandi lánardrottnaspjald og velja síðan aðgerðina **Verð**.</span><span class="sxs-lookup"><span data-stu-id="1be22-117">Open the relevant vendor card, and then choose the **Prices** action.</span></span>
 
-    Reiturinn **Tegund innkaupa** er fylltur út fyrirfram með **Lánardrottinn**og í reitnum **Innkaupakóði**er númer lánardrottins.
-3. Fyllið út reitina í línunni eins og þörf er á. Velja reit til að lesa inn stutta lýsingu á reitnum eða tengil í frekari upplýsingar.
-4. Fyllt er út lína fyrir hverja samsetningu sem lánardrottinn veitir innkaupalínuafsláttur fyrir.
+    <span data-ttu-id="1be22-118">Reiturinn **Tegund innkaupa** er fylltur út fyrirfram með **Lánardrottinn**og í reitnum **Innkaupakóði**er númer lánardrottins.</span><span class="sxs-lookup"><span data-stu-id="1be22-118">The **Purchase Type** field is prefilled with **Vendor**, and the **Purchase Code** field is prefilled with the vendor number.</span></span>
+3. <span data-ttu-id="1be22-119">Fyllið út reitina í línunni eins og þörf er á.</span><span class="sxs-lookup"><span data-stu-id="1be22-119">Fill in the fields on the line as necessary.</span></span> <span data-ttu-id="1be22-120">Velja reit til að lesa inn stutta lýsingu á reitnum eða tengil í frekari upplýsingar.</span><span class="sxs-lookup"><span data-stu-id="1be22-120">Choose a field to read a short description of the field or link to more information.</span></span>
+4. <span data-ttu-id="1be22-121">Fyllt er út lína fyrir hverja samsetningu sem lánardrottinn veitir innkaupalínuafsláttur fyrir.</span><span class="sxs-lookup"><span data-stu-id="1be22-121">Fill a line for each combination for which the vendor grants you a purchase line discount.</span></span>
 
-## <a name="to-set-up-a-line-discount-for-a-vendor"></a>Að setja upp línuafslátt fyrir lánardrottin
-1. Í efra hægra horni, veldu **leita að síðu eða skýrslu**, færðu inn **lánardrottnar** og velja síðan viðkomandi tengil.
-2. Opna skal viðeigandi lánardrottinsspjald og veljið síðan aðgerðina **Línuafslættir**.
+## <a name="to-set-up-a-line-discount-for-a-vendor"></a><span data-ttu-id="1be22-122">Að setja upp línuafslátt fyrir lánardrottin</span><span class="sxs-lookup"><span data-stu-id="1be22-122">To set up a line discount for a vendor</span></span>
+1. <span data-ttu-id="1be22-123">Í efra hægra horni, veldu **leita að síðu eða skýrslu**, færðu inn **lánardrottnar** og velja síðan viðkomandi tengil.</span><span class="sxs-lookup"><span data-stu-id="1be22-123">In the top right corner, choose the **Search for Page or Report** icon, enter **Vendors**, and then choose the related link.</span></span>
+2. <span data-ttu-id="1be22-124">Opna skal viðeigandi lánardrottinsspjald og veljið síðan aðgerðina **Línuafslættir**.</span><span class="sxs-lookup"><span data-stu-id="1be22-124">Open the relevant vendor card, and then choose the **Line Discounts** action.</span></span>
 
-    Reiturinn **Tegund innkaupa** er fylltur út fyrirfram með **Lánardrottinn**og í reitnum **Innkaupakóði**er númer lánardrottins.
-3. Fyllið út reitina í línunni eins og þörf er á. Velja reit til að lesa inn stutta lýsingu á reitnum eða tengil í frekari upplýsingar.
-4. Fyllt er út lína fyrir hverja samsetningu sem lánardrottinn veitir innkaupalínuafsláttur fyrir.
+    <span data-ttu-id="1be22-125">Reiturinn **Tegund innkaupa** er fylltur út fyrirfram með **Lánardrottinn**og í reitnum **Innkaupakóði**er númer lánardrottins.</span><span class="sxs-lookup"><span data-stu-id="1be22-125">The **Purchase Type** field is prefilled with **Vendor**, and the **Purchase Code** field is prefilled with the vendor number.</span></span>
+3. <span data-ttu-id="1be22-126">Fyllið út reitina í línunni eins og þörf er á.</span><span class="sxs-lookup"><span data-stu-id="1be22-126">Fill in the fields on the line as necessary.</span></span> <span data-ttu-id="1be22-127">Velja reit til að lesa inn stutta lýsingu á reitnum eða tengil í frekari upplýsingar.</span><span class="sxs-lookup"><span data-stu-id="1be22-127">Choose a field to read a short description of the field or link to more information.</span></span>
+4. <span data-ttu-id="1be22-128">Fyllt er út lína fyrir hverja samsetningu sem lánardrottinn veitir innkaupalínuafsláttur fyrir.</span><span class="sxs-lookup"><span data-stu-id="1be22-128">Fill a line for each combination for which the vendor grants you a purchase line discount.</span></span>
 
-## <a name="to-set-up-an-invoice-discount-for-a-vendor"></a>Að setja upp reikningsafslátt fyrir lánardrottin
-Þegar lánardrottnar þínir hafa veitt þér upplýsingar um hvaða reikningsafslætti þeir veita eru færðir inn reikningsafsláttarkóðar á lánardrottnaspjöldin og sett upp skilyrði fyrir hvern kóða.
+## <a name="to-set-up-an-invoice-discount-for-a-vendor"></a><span data-ttu-id="1be22-129">Að setja upp reikningsafslátt fyrir lánardrottin</span><span class="sxs-lookup"><span data-stu-id="1be22-129">To set up an invoice discount for a vendor</span></span>
+<span data-ttu-id="1be22-130">Þegar lánardrottnar þínir hafa veitt þér upplýsingar um hvaða reikningsafslætti þeir veita eru færðir inn reikningsafsláttarkóðar á lánardrottnaspjöldin og sett upp skilyrði fyrir hvern kóða.</span><span class="sxs-lookup"><span data-stu-id="1be22-130">When your vendors have informed you which invoice discounts they grant, enter the invoice discount code on the vendor cards and set up the terms for each code.</span></span>
 
-1. Í efra hægra horni, veldu **leita að síðu eða skýrslu**, færðu inn **lánardrottnar** og velja síðan viðkomandi tengil.
-2. Opna skal spjald lánardrottins sem getur veitt reikningsafslátt.
-3. Í reitnum **Reikningsafsláttarkóði** er valinn kóði fyrir viðeigandi reikningsafsláttarskilmála sem forritið notar til að reikna reikningsafslátt fyrir lánardrottin.
+1. <span data-ttu-id="1be22-131">Í efra hægra horni, veldu **leita að síðu eða skýrslu**, færðu inn **lánardrottnar** og velja síðan viðkomandi tengil.</span><span class="sxs-lookup"><span data-stu-id="1be22-131">In the top right corner, choose the **Search for Page or Report** icon, enter **Vendors**, and then choose the related link.</span></span>
+2. <span data-ttu-id="1be22-132">Opna skal spjald lánardrottins sem getur veitt reikningsafslátt.</span><span class="sxs-lookup"><span data-stu-id="1be22-132">Open the vendor card for a vendor that will be eligible for invoice discounts.</span></span>
+3. <span data-ttu-id="1be22-133">Í reitnum **Reikningsafsláttarkóði** er valinn kóði fyrir viðeigandi reikningsafsláttarskilmála sem forritið notar til að reikna reikningsafslátt fyrir lánardrottin.</span><span class="sxs-lookup"><span data-stu-id="1be22-133">In the **Invoice Disc. Code** field, select a code for the relevant invoice discount terms to use to calculate invoice discounts for the vendor.</span></span>
 
-    **Athugasemd**: Fyrirliggjandi lánardrottnaspjöld standa fyrir reikningsafsláttarkóða. Þetta gerir kleift að úthluta reikningsafsláttarskilmálum hratt og örugglega til lánardrottna með því að velja nafn annars lánardrottins sem hefur sömu skilmála.
+    <span data-ttu-id="1be22-134">**Athugasemd**: Fyrirliggjandi lánardrottnaspjöld standa fyrir reikningsafsláttarkóða.</span><span class="sxs-lookup"><span data-stu-id="1be22-134">**Note**: Invoice discount codes are represented by existing vendor cards.</span></span> <span data-ttu-id="1be22-135">Þetta gerir kleift að úthluta reikningsafsláttarskilmálum hratt og örugglega til lánardrottna með því að velja nafn annars lánardrottins sem hefur sömu skilmála.</span><span class="sxs-lookup"><span data-stu-id="1be22-135">This enables you to quickly assign invoice discount terms to vendors by picking the name of another vendors who will have the same terms.</span></span>
 
-    Næsta skref er að setja upp nýja skilmála fyrir reikningsafslátt.
-4. Í glugganum **Lánardrottnaspjald** er aðgerðin **Reikningsafslættir** valin. Glugginn **Reikningsafsláttur lánardr.** opnast.
-5. Í reitnum **Gjaldmiðilskóði** er færður inn kóðinn fyrir gjaldmiðilinn sem reikningsafsláttarskilyrði í línunni eiga við um. Reiturinn er skilinn eftir auður ef setja á upp reikningsafsláttarskilyrði í USD.
-6. Í reitinn **Lágmarksupphæð** er færð inn lágmarksupphæð sem reikningur þarf að hafa til að hægt sé að fá afslátt.
-7. Í reitnum **Afsláttar %** skal slá inn reikningsafslátt sem prósentu af reikningsupphæð.
-8. Endurtakið skref 5 til 7 fyrir alla gjaldmiðla sem lánardrottinn mun fá mismunandi reikningsafslátt í.
+    <span data-ttu-id="1be22-136">Næsta skref er að setja upp nýja skilmála fyrir reikningsafslátt.</span><span class="sxs-lookup"><span data-stu-id="1be22-136">Proceed to set up new the purchase invoice discount terms.</span></span>
+4. <span data-ttu-id="1be22-137">Í glugganum **Lánardrottnaspjald** er aðgerðin **Reikningsafslættir** valin.</span><span class="sxs-lookup"><span data-stu-id="1be22-137">In the **Vendor Card** window, choose the **Invoice Discounts** action.</span></span> <span data-ttu-id="1be22-138">Glugginn **Reikningsafsláttur lánardr.** opnast.</span><span class="sxs-lookup"><span data-stu-id="1be22-138">The **Vend. Invoice Discounts** window opens.</span></span>
+5. <span data-ttu-id="1be22-139">Í reitnum **Gjaldmiðilskóði** er færður inn kóðinn fyrir gjaldmiðilinn sem reikningsafsláttarskilyrði í línunni eiga við um.</span><span class="sxs-lookup"><span data-stu-id="1be22-139">In the **Currency Code** field, enter the code for a currency that the invoice discount terms on the line applies to.</span></span> <span data-ttu-id="1be22-140">Reiturinn er skilinn eftir auður ef setja á upp reikningsafsláttarskilyrði í USD.</span><span class="sxs-lookup"><span data-stu-id="1be22-140">Leave the field blank to set up invoice discount terms in USD.</span></span>
+6. <span data-ttu-id="1be22-141">Í reitinn **Lágmarksupphæð** er færð inn lágmarksupphæð sem reikningur þarf að hafa til að hægt sé að fá afslátt.</span><span class="sxs-lookup"><span data-stu-id="1be22-141">In the **Minimum Amount** field, enter the minimum amount that an invoice must have to be eligible for the discount.</span></span>
+7. <span data-ttu-id="1be22-142">Í reitnum **Afsláttar %** skal slá inn reikningsafslátt sem prósentu af reikningsupphæð.</span><span class="sxs-lookup"><span data-stu-id="1be22-142">In the **Discount %** field, enter the invoice discount as a percentage of the invoice amount.</span></span>
+8. <span data-ttu-id="1be22-143">Endurtakið skref 5 til 7 fyrir alla gjaldmiðla sem lánardrottinn mun fá mismunandi reikningsafslátt í.</span><span class="sxs-lookup"><span data-stu-id="1be22-143">Repeat steps 5 through 7 for each currency that the vendor will receive a different invoice discount for.</span></span>
 
-Reikningsafsláttur er nú settur upp og úthlutað á umræddan lánardrottin. Þegar valinn er lánardrottinskóði í reitnum **Kóði reikningsafsláttar** á öðrum lánardrottnaspjöldum er sama reikningsafslætti úthlutað þeim lánardrottini.
+<span data-ttu-id="1be22-144">Reikningsafsláttur er nú settur upp og úthlutað á umræddan lánardrottin.</span><span class="sxs-lookup"><span data-stu-id="1be22-144">The invoice discount is now set up and assigned to the vendor in question.</span></span> <span data-ttu-id="1be22-145">Þegar valinn er lánardrottinskóði í reitnum **Kóði reikningsafsláttar** á öðrum lánardrottnaspjöldum er sama reikningsafslætti úthlutað þeim lánardrottini.</span><span class="sxs-lookup"><span data-stu-id="1be22-145">When you select the vendor code in the **Invoice Disc. Code** field on other vendor cards, the same invoice discount is assigned to those vendor.</span></span>
 
-## <a name="see-also"></a>Sjá einnig  
-[Setja upp innkaup](purchasing-setup-purchasing.md)  
-[Stjórnun innkaupa](purchasing-manage-purchasing.md)
+## <a name="see-also"></a><span data-ttu-id="1be22-146">Sjá einnig</span><span class="sxs-lookup"><span data-stu-id="1be22-146">See Also</span></span>  
+[<span data-ttu-id="1be22-147">Setja upp innkaup</span><span class="sxs-lookup"><span data-stu-id="1be22-147">Set Up Purchasing</span></span>](purchasing-setup-purchasing.md)  
+[<span data-ttu-id="1be22-148">Stjórnun innkaupa</span><span class="sxs-lookup"><span data-stu-id="1be22-148">Manage Purchasing</span></span>](purchasing-manage-purchasing.md)
 

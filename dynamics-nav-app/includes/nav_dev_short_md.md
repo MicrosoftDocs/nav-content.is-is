@@ -1,1 +1,1 @@
-þróunarumhverfi
+<span data-ttu-id="6d805-101">þróunarumhverfi</span><span class="sxs-lookup"><span data-stu-id="6d805-101">development environment</span></span>

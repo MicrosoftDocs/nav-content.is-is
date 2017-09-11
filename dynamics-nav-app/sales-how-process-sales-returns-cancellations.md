@@ -9,58 +9,58 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 92b65379f2ec633712a2b2c0f06615c6de61cc6e
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 84feace413c7fbda0a1ba9688d7168510c3612a5
 ms.contentlocale: is-is
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="how-to-process-sales-returns-or-cancellations"></a>Meðhöndlun söluvöruskila eða afturkallana
-Ef viðskiptamaður vill skila vörum eða fá endurgreiðslu fyrir vöru eða þjónustu sem honum hefur verið veitt og búið er að greiða fyrir verður að búa til og bóka sölukreditreikning sem tilgreinir breytingarnar sem óskað er eftir. Til að taka með réttar sölureikningsupplýsingar, er hægt að stofna sölukreditreikning úr bókaða innkaupareikningnum eða nota aðgerðina afritun.
+# <a name="how-to-process-sales-returns-or-cancellations"></a><span data-ttu-id="7f122-102">Meðhöndlun söluvöruskila eða afturkallana</span><span class="sxs-lookup"><span data-stu-id="7f122-102">How to: Process Sales Returns or Cancellations</span></span>
+<span data-ttu-id="7f122-103">Ef viðskiptamaður vill skila vörum eða fá endurgreiðslu fyrir vöru eða þjónustu sem honum hefur verið veitt og búið er að greiða fyrir verður að búa til og bóka sölukreditreikning sem tilgreinir breytingarnar sem óskað er eftir.</span><span class="sxs-lookup"><span data-stu-id="7f122-103">If your customer wants to return or get reimbursement for items or services that you have sold and received payment for, you must create and post a sales credit memo that specifies the requested change.</span></span> <span data-ttu-id="7f122-104">Til að taka með réttar sölureikningsupplýsingar, er hægt að stofna sölukreditreikning úr bókaða innkaupareikningnum eða nota aðgerðina afritun.</span><span class="sxs-lookup"><span data-stu-id="7f122-104">To include the correct sales invoice information, you can create the sales credit memo from the posted sales invoice or use a copy function.</span></span>
 
-Auk upprunalega bókaðs sölureiknings, er hægt að jafna sölukreditreikning öðrum söluskjölum, t.d. aðra bókað sölureikninga, þar sem viðskiptamaðurinn er einnig að skila vörum sem voru afhentar með viðkomandi reikningi.
+<span data-ttu-id="7f122-105">Auk upprunalega bókaðs sölureiknings, er hægt að jafna sölukreditreikning öðrum söluskjölum, t.d. aðra bókað sölureikninga, þar sem viðskiptamaðurinn er einnig að skila vörum sem voru afhentar með viðkomandi reikningi.</span><span class="sxs-lookup"><span data-stu-id="7f122-105">In addition to the original posted sales invoice, you can apply the sales credit memo to other sales documents, for example another posted sales invoice, because the customer is also returning items delivered with that invoice.</span></span>
 
-Skil eða endurgreiðsla getur átt við um aðeins hluta af vörum eða þjónustum á upprunalega sölureikningnum. Í því tilviki þarf að breyta upplýsingum í línunum á sölukreditreikningnum. Við bókun sölukreditreiknings eru þau söluskjöl sem eru breytingin hefur áhrif á bakfærð og hægt er að stofna endurgreiðslu til viðskiptamannsins.
+<span data-ttu-id="7f122-106">Skil eða endurgreiðsla getur átt við um aðeins hluta af vörum eða þjónustum á upprunalega sölureikningnum.</span><span class="sxs-lookup"><span data-stu-id="7f122-106">A return or reimbursement may relate to only some of the items or services on the original sales invoice.</span></span> <span data-ttu-id="7f122-107">Í því tilviki þarf að breyta upplýsingum í línunum á sölukreditreikningnum.</span><span class="sxs-lookup"><span data-stu-id="7f122-107">In that case, you must edit information on the lines on the sales credit memo.</span></span> <span data-ttu-id="7f122-108">Við bókun sölukreditreiknings eru þau söluskjöl sem eru breytingin hefur áhrif á bakfærð og hægt er að stofna endurgreiðslu til viðskiptamannsins.</span><span class="sxs-lookup"><span data-stu-id="7f122-108">When you post the sales credit memo, the sales documents that are affected by the change are reversed and a refund payment can be created for the customer.</span></span>
 
-Hægt er að senda bókaða sölukreditreikninga til viðskiptamannsins til að staðfesta vöruskil eða afturköllun og miðla því að virðið verði endurgreitt, til dæmis þegar vörum er skilað.
+<span data-ttu-id="7f122-109">Hægt er að senda bókaða sölukreditreikninga til viðskiptamannsins til að staðfesta vöruskil eða afturköllun og miðla því að virðið verði endurgreitt, til dæmis þegar vörum er skilað.</span><span class="sxs-lookup"><span data-stu-id="7f122-109">You can send the posted sales credit memo to the customer to confirm the return or cancellation and communicate that the related value will be reimbursed, for example when the items are returned.</span></span>
 
-## <a name="to-create-a-sales-credit-memo-from-a-posted-sales-invoice"></a>Að stofna nýjan sölukreditreikning úr bókuðum sölureikningi.
-1. Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Bókaðir sölureikningar**, og velja síðan viðeigandi tengil.  
-2. Í glugganum **Bókaðir sölureikningar** skal velja þá bókuðu sölureikninga sem á að bakfæra og veljið síðan aðgerðina **Stofna leiðréttan kreditreikning**.
+## <a name="to-create-a-sales-credit-memo-from-a-posted-sales-invoice"></a><span data-ttu-id="7f122-110">Að stofna nýjan sölukreditreikning úr bókuðum sölureikningi.</span><span class="sxs-lookup"><span data-stu-id="7f122-110">To create a sales credit memo from a posted sales invoice</span></span>
+1. <span data-ttu-id="7f122-111">Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Bókaðir sölureikningar**, og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="7f122-111">In the top right corner, choose the **Search for Page or Report** icon, enter **Posted Sales Invoices**, and the choose the related link.</span></span>  
+2. <span data-ttu-id="7f122-112">Í glugganum **Bókaðir sölureikningar** skal velja þá bókuðu sölureikninga sem á að bakfæra og veljið síðan aðgerðina **Stofna leiðréttan kreditreikning**.</span><span class="sxs-lookup"><span data-stu-id="7f122-112">In the **Posted Sales Invoices** window, select the posted sales invoice that you want to reverse, and then choose the **Create Corrective Credit Memo** action.</span></span>
 
-    Flestir reitirnir í á sölukreditreikningshausnum eru fylltir út með upplýsingum úr bókaða sölureikningnum. Hægt er að breyta allir reitir, til dæmis með nýjar upplýsingar sem endurspegla endursenda samkomulagið.
-3. Breytið upplýsingum í línunum í samræmi við samninga, eins og fjöldi þeirra vara sem skilað eða endurgreiðsluupphæð.
-4. Valið er **Jafna Færslur** aðgerð.
-5. Í glugganum **Jafna viðskm.færslur** skal velja línuna með bókaða söluskjalinu sem á að jafna sölukreditreikninginn við og veljið síðan aðgerðina **Kenni jöfnunar**.
+    <span data-ttu-id="7f122-113">Flestir reitirnir í á sölukreditreikningshausnum eru fylltir út með upplýsingum úr bókaða sölureikningnum.</span><span class="sxs-lookup"><span data-stu-id="7f122-113">Most fields on the sales credit memo header are filled with the information from the posted sales invoice.</span></span> <span data-ttu-id="7f122-114">Hægt er að breyta allir reitir, til dæmis með nýjar upplýsingar sem endurspegla endursenda samkomulagið.</span><span class="sxs-lookup"><span data-stu-id="7f122-114">You can edit all the fields, for example with new information that reflects the return agreement.</span></span>
+3. <span data-ttu-id="7f122-115">Breytið upplýsingum í línunum í samræmi við samninga, eins og fjöldi þeirra vara sem skilað eða endurgreiðsluupphæð.</span><span class="sxs-lookup"><span data-stu-id="7f122-115">Edit information on the lines according to the agreement, such as the number of items returned or the amount to be reimbursed.</span></span>
+4. <span data-ttu-id="7f122-116">Valið er **Jafna Færslur** aðgerð.</span><span class="sxs-lookup"><span data-stu-id="7f122-116">Choose the **Apply Entries** action.</span></span>
+5. <span data-ttu-id="7f122-117">Í glugganum **Jafna viðskm.færslur** skal velja línuna með bókaða söluskjalinu sem á að jafna sölukreditreikninginn við og veljið síðan aðgerðina **Kenni jöfnunar**.</span><span class="sxs-lookup"><span data-stu-id="7f122-117">In the **Apply Customer Entries** window, select the line with the posted sales document that you want to apply the sales credit memo to, and then choose the **Applies-to ID** action.</span></span>
 
-    Númer sölukreditreikningsins er sett í reitinn **Kenni jöfnunar**.  
-6. Í reitnum  **Upphæð til jöfnunar** er rituð upphæðin sem á að jafna ef hún er lægri en upprunalega upphæðin.
+    <span data-ttu-id="7f122-118">Númer sölukreditreikningsins er sett í reitinn **Kenni jöfnunar**.</span><span class="sxs-lookup"><span data-stu-id="7f122-118">The number of the sales credit memo is inserted in the **Applies-to ID** field.</span></span>  
+6. <span data-ttu-id="7f122-119">Í reitnum  **Upphæð til jöfnunar** er rituð upphæðin sem á að jafna ef hún er lægri en upprunalega upphæðin.</span><span class="sxs-lookup"><span data-stu-id="7f122-119">In the **Amount to Apply** field, enter the amount that you want to apply if smaller than the original amount.</span></span>
 
-    Neðst á glugganum **Jafna viðskm.færslur** er hægt að skoða heildarupphæðina sem á að nota til að bakfæra allar færslur, nefnilega þegar gildið í reitnum **Staða** er núll.  
-7. Velja hnappinn **Í lagi**. Þegar sölukreditreikningurinn er bókaður, verður hann jafnaður við tilgreind bókuð söluskjöl.
+    <span data-ttu-id="7f122-120">Neðst á glugganum **Jafna viðskm.færslur** er hægt að skoða heildarupphæðina sem á að nota til að bakfæra allar færslur, nefnilega þegar gildið í reitnum **Staða** er núll.</span><span class="sxs-lookup"><span data-stu-id="7f122-120">At the bottom of the **Apply Customer Entries** window, you can see the total amount to apply to reverse all involved entries, namely when the value in the **Balance** field is zero.</span></span>  
+7. <span data-ttu-id="7f122-121">Velja hnappinn **Í lagi**.</span><span class="sxs-lookup"><span data-stu-id="7f122-121">Choose the **OK** button.</span></span> <span data-ttu-id="7f122-122">Þegar sölukreditreikningurinn er bókaður, verður hann jafnaður við tilgreind bókuð söluskjöl.</span><span class="sxs-lookup"><span data-stu-id="7f122-122">When you post the sales credit memo, it will be applied to the specified posted sales documents.</span></span>
 
-    Þegar línur fyrir sölukreditreikningana hafa verið stofnaðar eða þeim breytt og ein eða fleiri jöfnun tilgreind, er hægt að bóka sölukreditreikninginn.
-8. Veljið aðgerðina **Bóka og senda**.
+    <span data-ttu-id="7f122-123">Þegar línur fyrir sölukreditreikningana hafa verið stofnaðar eða þeim breytt og ein eða fleiri jöfnun tilgreind, er hægt að bóka sölukreditreikninginn.</span><span class="sxs-lookup"><span data-stu-id="7f122-123">When you have created or edited the needed sales credit memo lines and the single or multiple applications are specified, you can proceed to post the sales credit memo.</span></span>
+8. <span data-ttu-id="7f122-124">Veljið aðgerðina **Bóka og senda**.</span><span class="sxs-lookup"><span data-stu-id="7f122-124">Choose the **Post and Send** action.</span></span>
 
-Í **Bóka og Senda staðfestingu** svargluggi opnast og sýnir notuð valda sendingaraðferð fyrir viðskiptamanninn. Hægt er að breyta sendingaraðferð með því að velja uppflettihnappinn í reitnum **Senda skjal** til. Frekari upplýsingar er að finna á [Hvernig á að: Setja upp sendisnið skjala](sales-how-setup-document-send-profiles.md)
+<span data-ttu-id="7f122-125">Í **Bóka og Senda staðfestingu** svargluggi opnast og sýnir notuð valda sendingaraðferð fyrir viðskiptamanninn.</span><span class="sxs-lookup"><span data-stu-id="7f122-125">The **Post and Send Confirmation** dialog box opens showing the preferred sending method for the customer.</span></span> <span data-ttu-id="7f122-126">Hægt er að breyta sendingaraðferð með því að velja uppflettihnappinn í reitnum **Senda skjal** til.</span><span class="sxs-lookup"><span data-stu-id="7f122-126">You can change the sending method by choosing the lookup button for the **Send Document** to field.</span></span> <span data-ttu-id="7f122-127">Frekari upplýsingar er að finna á [Hvernig á að: Setja upp sendisnið skjala](sales-how-setup-document-send-profiles.md)</span><span class="sxs-lookup"><span data-stu-id="7f122-127">For more information, see [How to: Set Up Document Sending Profiles](sales-how-setup-document-send-profiles.md).</span></span>
 
-Bókuðu söluskjölin sem jafnað var við kreditreikninginn eru nú bakfærðir og endurgreiðslu má nú búa til fyrir viðskiptamanninn. Sölukreditreikningurinn er fjarlægður og skipt út fyrir nýtt fylgiskjal á lista bókaðra sölukreditreikninga.
+<span data-ttu-id="7f122-128">Bókuðu söluskjölin sem jafnað var við kreditreikninginn eru nú bakfærðir og endurgreiðslu má nú búa til fyrir viðskiptamanninn.</span><span class="sxs-lookup"><span data-stu-id="7f122-128">The posted sales documents that you applied the credit memo to are now reversed, and a refund payment can be created for the customer.</span></span> <span data-ttu-id="7f122-129">Sölukreditreikningurinn er fjarlægður og skipt út fyrir nýtt fylgiskjal á lista bókaðra sölukreditreikninga.</span><span class="sxs-lookup"><span data-stu-id="7f122-129">The sales credit memo is removed and replaced with a new document in the list of posted sales credit memos.</span></span>
 
-## <a name="to-create-a-sales-credit-memo-from-scratch"></a>Að búa til sölukreditreikning frá grunni
-1. Í efra hægra horni, veldu **leita að síðu eða skýrslu**, færðu inn **bókaður sölureikningur** og velja síðan viðkomandi tengil.
-2. Veljið aðgerðina **Nýtt** til að opna nýjan auðan sölukreditreikning.
-3. Í reitnum **Viðskiptamaður** er fært inn nafn núverandi viðskiptamanns.
-4. Valið er **Afrita fylgiskjal** aðgerð.
-5. Í glugganum **Afrita söluskjal** í reitnum **Gerð skjals** skal velja **Bókaður reikningur**.
-6. Veljið **skjalanúmer** reitinn til að opna gluggann **Bókaðir sölureikningar** og velið síðan bókaða sölureikninginn sem inniheldur línur sem þú vilt bakfæra.
-7. Veljið gátreitinn **Endurreikna línur**, ef bókaða sölureikningslínan sem var afrituð á að uppfærast með breytingum á vöruverði og kostnaðarverði síðan reikningurinn var bókaður.
-8. Velja hnappinn **Í lagi**. Afrituðu reikningslínurnar eru settar inn í sölukreditreikninginn.
-9. Sölukreditreikningnum er lokið eins og útskýrt er í hlutanum "Að stofna sölukreditreikning úr bókuðum sölureikningi" í þessu efnisatriði.
+## <a name="to-create-a-sales-credit-memo-from-scratch"></a><span data-ttu-id="7f122-130">Að búa til sölukreditreikning frá grunni</span><span class="sxs-lookup"><span data-stu-id="7f122-130">To create a sales credit memo from scratch</span></span>
+1. <span data-ttu-id="7f122-131">Í efra hægra horni, veldu **leita að síðu eða skýrslu**, færðu inn **bókaður sölureikningur** og velja síðan viðkomandi tengil.</span><span class="sxs-lookup"><span data-stu-id="7f122-131">In the top right corner, choose the **Search for Page or Report** icon, enter **Posted Sales Invoices**, and then choose the related link.</span></span>
+2. <span data-ttu-id="7f122-132">Veljið aðgerðina **Nýtt** til að opna nýjan auðan sölukreditreikning.</span><span class="sxs-lookup"><span data-stu-id="7f122-132">Choose the **New** action to open a new empty sales credit memo.</span></span>
+3. <span data-ttu-id="7f122-133">Í reitnum **Viðskiptamaður** er fært inn nafn núverandi viðskiptamanns.</span><span class="sxs-lookup"><span data-stu-id="7f122-133">In the **Customer** field, enter the name of an existing customer.</span></span>
+4. <span data-ttu-id="7f122-134">Valið er **Afrita fylgiskjal** aðgerð.</span><span class="sxs-lookup"><span data-stu-id="7f122-134">Choose the **Copy Document** action.</span></span>
+5. <span data-ttu-id="7f122-135">Í glugganum **Afrita söluskjal** í reitnum **Gerð skjals** skal velja **Bókaður reikningur**.</span><span class="sxs-lookup"><span data-stu-id="7f122-135">In the **Copy Sales Document** window, in the **Document Type** field, select **Posted Invoice**.</span></span>
+6. <span data-ttu-id="7f122-136">Veljið **skjalanúmer**</span><span class="sxs-lookup"><span data-stu-id="7f122-136">Choose the **Document No.**</span></span> <span data-ttu-id="7f122-137">reitinn til að opna gluggann **Bókaðir sölureikningar** og velið síðan bókaða sölureikninginn sem inniheldur línur sem þú vilt bakfæra.</span><span class="sxs-lookup"><span data-stu-id="7f122-137">field to open the **Posted Sales Invoices** window, and then select the posted sales invoice that contains lines that you want to reverse.</span></span>
+7. <span data-ttu-id="7f122-138">Veljið gátreitinn **Endurreikna línur**, ef bókaða sölureikningslínan sem var afrituð á að uppfærast með breytingum á vöruverði og kostnaðarverði síðan reikningurinn var bókaður.</span><span class="sxs-lookup"><span data-stu-id="7f122-138">Select the **Recalculate Lines** check box if you want the copied posted sales invoice lines to be updated with any changes in item price and unit cost since the invoice was posted.</span></span>
+8. <span data-ttu-id="7f122-139">Velja hnappinn **Í lagi**.</span><span class="sxs-lookup"><span data-stu-id="7f122-139">Choose the **OK** button.</span></span> <span data-ttu-id="7f122-140">Afrituðu reikningslínurnar eru settar inn í sölukreditreikninginn.</span><span class="sxs-lookup"><span data-stu-id="7f122-140">The copied invoice lines are inserted in the sales credit memo.</span></span>
+9. <span data-ttu-id="7f122-141">Sölukreditreikningnum er lokið eins og útskýrt er í hlutanum "Að stofna sölukreditreikning úr bókuðum sölureikningi" í þessu efnisatriði.</span><span class="sxs-lookup"><span data-stu-id="7f122-141">Complete the sales credit memo as explained in the "To create a sales credit memo from a posted sales invoice" section in this topic.</span></span>
 
-## <a name="see-also"></a>Sjá einnig  
-[Stjórna sölu](sales-manage-sales.md)  
-[Uppsetning sölu](sales-setup-sales.md)  
-[Hvernig á að: Senda skjöl í tölvupósti](ui-how-send-documents-email.md)  
-[Unnið með Dynamics NAV](ui-work-product.md)
+## <a name="see-also"></a><span data-ttu-id="7f122-142">Sjá einnig</span><span class="sxs-lookup"><span data-stu-id="7f122-142">See Also</span></span>  
+[<span data-ttu-id="7f122-143">Stjórna sölu</span><span class="sxs-lookup"><span data-stu-id="7f122-143">Manage Sales</span></span>](sales-manage-sales.md)  
+[<span data-ttu-id="7f122-144">Uppsetning sölu</span><span class="sxs-lookup"><span data-stu-id="7f122-144">Set Up Sales</span></span>](sales-setup-sales.md)  
+[<span data-ttu-id="7f122-145">Hvernig á að: Senda skjöl í tölvupósti</span><span class="sxs-lookup"><span data-stu-id="7f122-145">How to: Send Documents by Email</span></span>](ui-how-send-documents-email.md)  
+[<span data-ttu-id="7f122-146">Unnið með Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="7f122-146">Work with Dynamics NAV</span></span>](ui-work-product.md)
 

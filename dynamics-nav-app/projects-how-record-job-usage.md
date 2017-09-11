@@ -16,79 +16,79 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-#<a name="how-to-record-usage-for-jobs"></a>Hvernig á að: Skrá notkun vegna verka
-Í glugganum **Áætlunarlínur verks** er hægt að fara yfir og skrá notkun mismunandi hluta verks, sem uppfærist sjálfkrafa þegar breytt er og við flutning upplýsinga milli verka og verkbóka eða verkreikninga. Þetta krefst þess að verk hafi verið sett upp svo kveikt sé á **Beita notkunartengli**. Frekari upplýsingar eru í [Hvernig á að: Setja upp verk](projects-how-setup-jobs.md).  
+#<a name="how-to-record-usage-for-jobs"></a><span data-ttu-id="39e5d-102">Hvernig á að: Skrá notkun vegna verka</span><span class="sxs-lookup"><span data-stu-id="39e5d-102">How to: Record Usage for Jobs</span></span>
+<span data-ttu-id="39e5d-103">Í glugganum **Áætlunarlínur verks** er hægt að fara yfir og skrá notkun mismunandi hluta verks, sem uppfærist sjálfkrafa þegar breytt er og við flutning upplýsinga milli verka og verkbóka eða verkreikninga.</span><span class="sxs-lookup"><span data-stu-id="39e5d-103">In the **Job Planning Lines** window, you can review and record usage on various parts of your job, which is automatically updated as you modify and transfer information between jobs and job journals or job invoices.</span></span> <span data-ttu-id="39e5d-104">Þetta krefst þess að verk hafi verið sett upp svo kveikt sé á **Beita notkunartengli**.</span><span class="sxs-lookup"><span data-stu-id="39e5d-104">This requires that you have set up a job so that the **Apply Usage Link** is turned on.</span></span> <span data-ttu-id="39e5d-105">Frekari upplýsingar eru í [Hvernig á að: Setja upp verk](projects-how-setup-jobs.md).</span><span class="sxs-lookup"><span data-stu-id="39e5d-105">For more information, see [How to: Set Up: Jobs](projects-how-setup-jobs.md).</span></span>  
 
-Til dæmis fyrir áætlunarlínurnar af tegundinni **Áætlun** er hægt að setja inn magn forða og tilgreina hvaða magn á að flytja í verkbókina. Ef gerð áætlunarlínurnar er **Reikningshæft** er hægt að færa inn magn forða og tilgreina hvaða magn á að flytja á reikning. Með því að bera saman magn sem hefur verið flutt í færslubókina eða reikning með eftirstöðvarmagni, er fljótlegt að fara yfir notkunarupplýsingarnar.
+<span data-ttu-id="39e5d-106">Til dæmis fyrir áætlunarlínurnar af tegundinni **Áætlun** er hægt að setja inn magn forða og tilgreina hvaða magn á að flytja í verkbókina.</span><span class="sxs-lookup"><span data-stu-id="39e5d-106">For example, for planning lines of type **Budget**, you can enter the quantity of a resource, and indicate what quantity to transfer to the job journal.</span></span> <span data-ttu-id="39e5d-107">Ef gerð áætlunarlínurnar er **Reikningshæft** er hægt að færa inn magn forða og tilgreina hvaða magn á að flytja á reikning.</span><span class="sxs-lookup"><span data-stu-id="39e5d-107">If the type of the planning line is **Billable**, you can enter the quantity of the resource, and indicate what quantity to transfer to an invoice.</span></span> <span data-ttu-id="39e5d-108">Með því að bera saman magn sem hefur verið flutt í færslubókina eða reikning með eftirstöðvarmagni, er fljótlegt að fara yfir notkunarupplýsingarnar.</span><span class="sxs-lookup"><span data-stu-id="39e5d-108">By comparing the quantity that has been transferred to the journal or invoice with the remaining quantity, you can quickly review usage information.</span></span>
 
-Eftirfarandi leiðbeiningar lýsa því hvernig á að skrá raunverulegt (reikningshæft) eða áætlað verð og kostnað við verk. Upplýsingar um hvernig skal áætla virði við áætlun er að finna í [Hvernig skal: Vinna með verkáætlanir](projects-how-manage-budgets.md).
+<span data-ttu-id="39e5d-109">Eftirfarandi leiðbeiningar lýsa því hvernig á að skrá raunverulegt (reikningshæft) eða áætlað verð og kostnað við verk.</span><span class="sxs-lookup"><span data-stu-id="39e5d-109">The following procedures describe how to record actual (billable) or budgeted job prices and costs.</span></span> <span data-ttu-id="39e5d-110">Upplýsingar um hvernig skal áætla virði við áætlun er að finna í [Hvernig skal: Vinna með verkáætlanir](projects-how-manage-budgets.md).</span><span class="sxs-lookup"><span data-stu-id="39e5d-110">For information about estimating budgeted values during planning, see [How to: Manage Job Budgets](projects-how-manage-budgets.md).</span></span>
 
-## <a name="to-record-usage-for-a-job-planning-line-of-type-budget"></a>Til að skrá notkun fyrir verkáætlunarlínu af gerðinni Áætlun
+## <a name="to-record-usage-for-a-job-planning-line-of-type-budget"></a><span data-ttu-id="39e5d-111">Til að skrá notkun fyrir verkáætlunarlínu af gerðinni Áætlun</span><span class="sxs-lookup"><span data-stu-id="39e5d-111">To record usage for a job planning line of type Budget</span></span>
 
-1. Uppi í hægra horninu skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Verk** og velja svo viðeigandi tengil.  
-2. Veljið viðeigandi verð og veljið svo aðgerðina **Verkáætlunarlínur**.
-3. Veljið verkáætlunarlínu af gerðinni **Áætlun** eða **Bæði fjárhagsáætlun og reikningshæft** sem á að skrá notkun fyrir.
-4. Í reitinn **Magn til flutnings í færslubók** skal skrá fjöldann sem á að flytja. Sjálfgefna gildið er sama magn og það sem er í reitnum **Magn**.
+1. <span data-ttu-id="39e5d-112">Uppi í hægra horninu skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Verk** og velja svo viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="39e5d-112">In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="39e5d-113">Veljið viðeigandi verð og veljið svo aðgerðina **Verkáætlunarlínur**.</span><span class="sxs-lookup"><span data-stu-id="39e5d-113">Select the relevant job, and then choose the **Job Planning Lines** action.</span></span>
+3. <span data-ttu-id="39e5d-114">Veljið verkáætlunarlínu af gerðinni **Áætlun** eða **Bæði fjárhagsáætlun og reikningshæft** sem á að skrá notkun fyrir.</span><span class="sxs-lookup"><span data-stu-id="39e5d-114">Select a job planning line of type **Budget** or **Both Budget and Billable** for which you want to record usage.</span></span>
+4. <span data-ttu-id="39e5d-115">Í reitinn **Magn til flutnings í færslubók** skal skrá fjöldann sem á að flytja.</span><span class="sxs-lookup"><span data-stu-id="39e5d-115">In the **Qty. To Transfer to Journal** field, enter the number that you want to transfer.</span></span> <span data-ttu-id="39e5d-116">Sjálfgefna gildið er sama magn og það sem er í reitnum **Magn**.</span><span class="sxs-lookup"><span data-stu-id="39e5d-116">The default quantity is the value that you enter in the **Quantity** field.</span></span>
 
-    Reiturinn **Eftirstöðvar (magn)** sýnir það magn sem eftir er til að ljúka verkinu og flytja í færslubókina.  
+    <span data-ttu-id="39e5d-117">Reiturinn **Eftirstöðvar (magn)** sýnir það magn sem eftir er til að ljúka verkinu og flytja í færslubókina.</span><span class="sxs-lookup"><span data-stu-id="39e5d-117">The **Remaining Quantity** field shows the quantity that remains to complete the job and be transferred to the journal.</span></span>  
 
-5. Velja skal aðgerðina **Stofna verkbókarlínur**.
-6. Í glugganum **Verkflutningar í áætlunarlínur** skal fylla út reiti eins og þörf krefur. Velja reit til að lesa inn stutta lýsingu á reitnum eða tengil í frekari upplýsingar.
-7. Velja skal aðgerðina **Opna verkbók**.  
-8. Í glugganum **Verkbók** skal velja viðeigandi línu og svo aðgerðina **Bóka**.
-9. Í glugganum **Verkáætlunarlínur** skal fara yfir skráða notkun með því að athuga reitina **Magn**, **Eftirstöðvar (magn)** og **Magn til flutnings í færslubók**.  
-10. Endurtakið skref 3 til 8 til að skrá frekari notkun.  
+5. <span data-ttu-id="39e5d-118">Velja skal aðgerðina **Stofna verkbókarlínur**.</span><span class="sxs-lookup"><span data-stu-id="39e5d-118">Choose the **Create Job Journal Lines** action.</span></span>
+6. <span data-ttu-id="39e5d-119">Í glugganum **Verkflutningar í áætlunarlínur** skal fylla út reiti eins og þörf krefur.</span><span class="sxs-lookup"><span data-stu-id="39e5d-119">In the **Job Transfer Job Planning Line** window, fill in the fields as necessary.</span></span> <span data-ttu-id="39e5d-120">Velja reit til að lesa inn stutta lýsingu á reitnum eða tengil í frekari upplýsingar.</span><span class="sxs-lookup"><span data-stu-id="39e5d-120">Choose a field to read a short description of the field or link to more information.</span></span>
+7. <span data-ttu-id="39e5d-121">Velja skal aðgerðina **Opna verkbók**.</span><span class="sxs-lookup"><span data-stu-id="39e5d-121">Choose the **Open Job Journal** action.</span></span>  
+8. <span data-ttu-id="39e5d-122">Í glugganum **Verkbók** skal velja viðeigandi línu og svo aðgerðina **Bóka**.</span><span class="sxs-lookup"><span data-stu-id="39e5d-122">In the **Job Journal** window, select the relevant line and then choose the **Post** action.</span></span>
+9. <span data-ttu-id="39e5d-123">Í glugganum **Verkáætlunarlínur** skal fara yfir skráða notkun með því að athuga reitina **Magn**, **Eftirstöðvar (magn)** og **Magn til flutnings í færslubók**.</span><span class="sxs-lookup"><span data-stu-id="39e5d-123">In the **Job Planning Lines** window, review the recorded usage by observing the **Quantity**, **Remaining Quantity**, and **Qty. To Transfer to Journal** fields.</span></span>  
+10. <span data-ttu-id="39e5d-124">Endurtakið skref 3 til 8 til að skrá frekari notkun.</span><span class="sxs-lookup"><span data-stu-id="39e5d-124">Repeat steps 3 through 8 to record additional usage.</span></span>  
 
-## <a name="to-record-usage-for-a-job-planning-line-of-type-billable"></a>Til að skrá notkun fyrir verkáætlunarlínu af gerðinni Reikningshæft  
-Í næsta verkefni skal einnig skrá notkun, en fyrir verkáætlunarlínu af gerðinni **Reikningshæft**. Í þessu tilfelli er notkunin yfirleitt reikningsfærð, en einnig er hægt að flytja hana í bók. Þegar það er gert er stofnuð verkáætlunarlína af gerðinni **Áætlun** sem samsvarar reikningshæfu línunni. Nánari upplýsingar eru í [Hvernig á að: Vinna með verkáætlanir](projects-how-manage-budgets.md).
+## <a name="to-record-usage-for-a-job-planning-line-of-type-billable"></a><span data-ttu-id="39e5d-125">Til að skrá notkun fyrir verkáætlunarlínu af gerðinni Reikningshæft</span><span class="sxs-lookup"><span data-stu-id="39e5d-125">To record usage for a job planning line of type Billable</span></span>  
+<span data-ttu-id="39e5d-126">Í næsta verkefni skal einnig skrá notkun, en fyrir verkáætlunarlínu af gerðinni **Reikningshæft**.</span><span class="sxs-lookup"><span data-stu-id="39e5d-126">In the next task, you also record usage, but for a job planning line of type **Billable**.</span></span> <span data-ttu-id="39e5d-127">Í þessu tilfelli er notkunin yfirleitt reikningsfærð, en einnig er hægt að flytja hana í bók.</span><span class="sxs-lookup"><span data-stu-id="39e5d-127">Typically, in this case, you invoice your usage, but you can also transfer it to a journal.</span></span> <span data-ttu-id="39e5d-128">Þegar það er gert er stofnuð verkáætlunarlína af gerðinni **Áætlun** sem samsvarar reikningshæfu línunni.</span><span class="sxs-lookup"><span data-stu-id="39e5d-128">However, when you do that, a job planning line of type **Budget** is created to match the billable line.</span></span> <span data-ttu-id="39e5d-129">Nánari upplýsingar eru í [Hvernig á að: Vinna með verkáætlanir](projects-how-manage-budgets.md).</span><span class="sxs-lookup"><span data-stu-id="39e5d-129">For more information, see [How to: Manage Job Budgets](projects-how-manage-budgets.md).</span></span>
 
-1. Uppi í hægra horninu skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Verk** og velja svo viðeigandi tengil.
-2. Veljið viðeigandi verð og veljið svo aðgerðina **Verkáætlunarlínur**.  
-3. Veljið verkáætlunarlínu af gerðinni **Reikningshæft** sem á að skrá notkun fyrir.
-4. Í reitinn **Magn til flutnings á reikning** skal skrá fjöldann sem á að flytja. Sjálfgefna gildið er sama magn og það sem er í reitnum **Magn**.
+1. <span data-ttu-id="39e5d-130">Uppi í hægra horninu skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Verk** og velja svo viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="39e5d-130">In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs**, and then choose the related link.</span></span>
+2. <span data-ttu-id="39e5d-131">Veljið viðeigandi verð og veljið svo aðgerðina **Verkáætlunarlínur**.</span><span class="sxs-lookup"><span data-stu-id="39e5d-131">Select the relevant job, and then choose the **Job Planning Lines** action.</span></span>  
+3. <span data-ttu-id="39e5d-132">Veljið verkáætlunarlínu af gerðinni **Reikningshæft** sem á að skrá notkun fyrir.</span><span class="sxs-lookup"><span data-stu-id="39e5d-132">Select a job planning line of type **Billable** for which you want to record usage.</span></span>
+4. <span data-ttu-id="39e5d-133">Í reitinn **Magn til flutnings á reikning** skal skrá fjöldann sem á að flytja.</span><span class="sxs-lookup"><span data-stu-id="39e5d-133">In the **Qty. To Transfer to Invoice** field, enter the number that you want to transfer.</span></span> <span data-ttu-id="39e5d-134">Sjálfgefna gildið er sama magn og það sem er í reitnum **Magn**.</span><span class="sxs-lookup"><span data-stu-id="39e5d-134">The default quantity is the value that you enter in the **Quantity** field.</span></span>
 
-    Reiturinn **Magn á reikning** sýnir það magn sem eftir er til að ljúka verkinu og reikningsfæra.  
+    <span data-ttu-id="39e5d-135">Reiturinn **Magn á reikning** sýnir það magn sem eftir er til að ljúka verkinu og reikningsfæra.</span><span class="sxs-lookup"><span data-stu-id="39e5d-135">The **Quantity to Invoice** field shows the quantity that remains to complete the job and be invoiced.</span></span>  
 
-5. Veljið aðgerðina **Stofna sölureikning**.
-6. Í glugganum **Verk - Flytja í sölureikning** skal fylla reiti út eftir þörfum og velja síðan hnappinn **Í lagi**.
-7. Í glugganum **Verkáætlunarlínur** skal velja viðeigandi línu og svo aðgerðina **Bóka**.
-8. Farið yfir skráða notkun með því að skoða reitina **Magn**, **Magn á reikning** og **Magn til flutnings á reikning** og einnig reitinn **Reikningsfært magn** ef sölureikningurinn er bókaður.
-9. Endurtakið skref 3 til 8 til að skrá frekari notkun.  
-10. Til að fara yfir tengdan bókaðan sölureikning skal velja aðgerðina **Sölureikningar/kreditreikningar**.  
-11. Í glugganum **Verkreikningar** skal velja viðeigandi reikning og svo aðgerðina **Opna sölureikning/kreditreikning**.         
+5. <span data-ttu-id="39e5d-136">Veljið aðgerðina **Stofna sölureikning**.</span><span class="sxs-lookup"><span data-stu-id="39e5d-136">Choose the **Create Sales Invoice** action.</span></span>
+6. <span data-ttu-id="39e5d-137">Í glugganum **Verk - Flytja í sölureikning** skal fylla reiti út eftir þörfum og velja síðan hnappinn **Í lagi**.</span><span class="sxs-lookup"><span data-stu-id="39e5d-137">In the **Job Transfer to Sales Invoice** window, fill in the fields as necessary, and then choose the **OK** button.</span></span>
+7. <span data-ttu-id="39e5d-138">Í glugganum **Verkáætlunarlínur** skal velja viðeigandi línu og svo aðgerðina **Bóka**.</span><span class="sxs-lookup"><span data-stu-id="39e5d-138">In the **Job Planning Lines** window, select the relevant line, and then choose the **Post** action.</span></span>
+8. <span data-ttu-id="39e5d-139">Farið yfir skráða notkun með því að skoða reitina **Magn**, **Magn á reikning** og **Magn til flutnings á reikning** og einnig reitinn **Reikningsfært magn** ef sölureikningurinn er bókaður.</span><span class="sxs-lookup"><span data-stu-id="39e5d-139">Review the recorded usage by observing the **Quantity**, **Quantity to Invoice**, **Qty. To Transfer to Invoice** fields, and, if the sales invoice is posted, the **Qty. Invoiced** fields.</span></span>
+9. <span data-ttu-id="39e5d-140">Endurtakið skref 3 til 8 til að skrá frekari notkun.</span><span class="sxs-lookup"><span data-stu-id="39e5d-140">Repeat steps 3 through 8 to record additional usage.</span></span>  
+10. <span data-ttu-id="39e5d-141">Til að fara yfir tengdan bókaðan sölureikning skal velja aðgerðina **Sölureikningar/kreditreikningar**.</span><span class="sxs-lookup"><span data-stu-id="39e5d-141">To review a related posted sales invoice, choose the **Sales Invoices/Credit Memos** action.</span></span>  
+11. <span data-ttu-id="39e5d-142">Í glugganum **Verkreikningar** skal velja viðeigandi reikning og svo aðgerðina **Opna sölureikning/kreditreikning**.</span><span class="sxs-lookup"><span data-stu-id="39e5d-142">In the **Job Invoices** window, select the relevant invoice, and then choose the **Open Sales Invoice/Credit Memo** action.</span></span>         
 
-## <a name="to-create-job-journal-lines-from-job-planning-lines"></a>Til að stofna verkbókarlínur úr áætlunarlínum verks  
-Þegar notandi er tilbúinn að bóka fjárhagslegar upplýsingar fyrir verk, þarf að stofna verkbókarlínur sem hægt er að bóka.
+## <a name="to-create-job-journal-lines-from-job-planning-lines"></a><span data-ttu-id="39e5d-143">Til að stofna verkbókarlínur úr áætlunarlínum verks</span><span class="sxs-lookup"><span data-stu-id="39e5d-143">To create job journal lines from job planning lines</span></span>  
+<span data-ttu-id="39e5d-144">Þegar notandi er tilbúinn að bóka fjárhagslegar upplýsingar fyrir verk, þarf að stofna verkbókarlínur sem hægt er að bóka.</span><span class="sxs-lookup"><span data-stu-id="39e5d-144">When you are ready to post financial information for jobs, you must create job journal lines that you can post.</span></span>
 
-1. Uppi í hægra horninu skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Verk** og velja svo viðeigandi tengil.  
-2. Veljið viðeigandi opið verk og veljið svo aðgerðina **Verkáætlunarlínur**.  
-3. Í glugganum **Verkáætlunarlínur** skal slá inn magnið sem flytja skal í verkbók í reitinn **Magn til flutnings í færslubók** í viðeigandi verkáætlunarlínu.  
-4. Velja skal aðgerðina **Stofna verkbókarlínur**.
-5. Í glugganum **Verkflutningar í áætlunarlínur** skal fylla út reiti eins og þörf krefur.  
-6. Velja hnappinn **Í lagi**. Verkbókarlínur eru stofnaðar.
-7. Til að staðfesta flutninginn skal opna viðeigandi verkbókarkeyrslu og athuga færslurnar.  
-8. Þegar verkbókarlínurnar eru tilbúnar skal velja aðgerðina **Bóka**.  
+1. <span data-ttu-id="39e5d-145">Uppi í hægra horninu skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Verk** og velja svo viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="39e5d-145">In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="39e5d-146">Veljið viðeigandi opið verk og veljið svo aðgerðina **Verkáætlunarlínur**.</span><span class="sxs-lookup"><span data-stu-id="39e5d-146">Select a relevant open job, and then choose the **Job Planning Lines** action.</span></span>  
+3. <span data-ttu-id="39e5d-147">Í glugganum **Verkáætlunarlínur** skal slá inn magnið sem flytja skal í verkbók í reitinn **Magn til flutnings í færslubók** í viðeigandi verkáætlunarlínu.</span><span class="sxs-lookup"><span data-stu-id="39e5d-147">In the **Job Planning Lines** window, on a relevant job planning line, in the **Qty. to Transfer to Journal** field, enter the quantity that you want to transfer to a job journal.</span></span>  
+4. <span data-ttu-id="39e5d-148">Velja skal aðgerðina **Stofna verkbókarlínur**.</span><span class="sxs-lookup"><span data-stu-id="39e5d-148">Choose the **Create Job Journal Lines** action.</span></span>
+5. <span data-ttu-id="39e5d-149">Í glugganum **Verkflutningar í áætlunarlínur** skal fylla út reiti eins og þörf krefur.</span><span class="sxs-lookup"><span data-stu-id="39e5d-149">In the **Job Transfer Job Planning Line** window, fill in the fields as necessary.</span></span>  
+6. <span data-ttu-id="39e5d-150">Velja hnappinn **Í lagi**.</span><span class="sxs-lookup"><span data-stu-id="39e5d-150">Choose the **OK** button.</span></span> <span data-ttu-id="39e5d-151">Verkbókarlínur eru stofnaðar.</span><span class="sxs-lookup"><span data-stu-id="39e5d-151">Job journal lines are created.</span></span>
+7. <span data-ttu-id="39e5d-152">Til að staðfesta flutninginn skal opna viðeigandi verkbókarkeyrslu og athuga færslurnar.</span><span class="sxs-lookup"><span data-stu-id="39e5d-152">To verify the transfer, open the relevant job journal batch and check the entries.</span></span>  
+8. <span data-ttu-id="39e5d-153">Þegar verkbókarlínurnar eru tilbúnar skal velja aðgerðina **Bóka**.</span><span class="sxs-lookup"><span data-stu-id="39e5d-153">When the job journal lines are complete, choose the **Post** action.</span></span>  
 
-## <a name="to-create-job-journal-lines-manually"></a>Til að búa til verkbókarlínur handvirkt  
+## <a name="to-create-job-journal-lines-manually"></a><span data-ttu-id="39e5d-154">Til að búa til verkbókarlínur handvirkt</span><span class="sxs-lookup"><span data-stu-id="39e5d-154">To create job journal lines manually</span></span>  
 
-1. Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Verkbækur** og velja síðan viðeigandi tengil.  
-2. Í reitnum **Heiti keyrslu** skal velja viðeigandi verkbókarkeyrslu.  
-3. Sláið inn skjalanúmer, verknúmer, verkhlutanúmer, tegund og magn tegundarinnar sem verið er að nota í nýja línu.  
-4. Þegar verkbókarlínurnar eru tilbúnar skal velja aðgerðina **Bóka**.  
+1. <span data-ttu-id="39e5d-155">Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Verkbækur** og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="39e5d-155">In the top right corner, choose the **Search for Page or Report** icon, enter **Job Journals**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="39e5d-156">Í reitnum **Heiti keyrslu** skal velja viðeigandi verkbókarkeyrslu.</span><span class="sxs-lookup"><span data-stu-id="39e5d-156">In the **Batch Name** field, choose a relevant job journal batch.</span></span>  
+3. <span data-ttu-id="39e5d-157">Sláið inn skjalanúmer, verknúmer, verkhlutanúmer, tegund og magn tegundarinnar sem verið er að nota í nýja línu.</span><span class="sxs-lookup"><span data-stu-id="39e5d-157">On a new line, enter document number, job number, job task number, type, and the quantity of the type being consumed.</span></span>  
+4. <span data-ttu-id="39e5d-158">Þegar verkbókarlínurnar eru tilbúnar skal velja aðgerðina **Bóka**.</span><span class="sxs-lookup"><span data-stu-id="39e5d-158">When the job journal lines are complete, choose the **Post** action.</span></span>  
 
-## <a name="to-review-planning-lines-for-a-job-ledger-entry"></a>Til að fara yfir áætlunarlínur verkfærslu  
-Þegar verkbókarlínur hafa verið bókaðar er hægt að sjá þær áætlunarlínur sem tengjast þeim verkbókarfærslum sem hafa verið bókaðar.
+## <a name="to-review-planning-lines-for-a-job-ledger-entry"></a><span data-ttu-id="39e5d-159">Til að fara yfir áætlunarlínur verkfærslu</span><span class="sxs-lookup"><span data-stu-id="39e5d-159">To review planning lines for a job ledger entry</span></span>  
+<span data-ttu-id="39e5d-160">Þegar verkbókarlínur hafa verið bókaðar er hægt að sjá þær áætlunarlínur sem tengjast þeim verkbókarfærslum sem hafa verið bókaðar.</span><span class="sxs-lookup"><span data-stu-id="39e5d-160">After you have posted job journal lines, you can see the planning lines that are associated with the job journal entries that have been posted.</span></span>
 
-**Til athugunar**: Þetta krefst þess að hakað hafi verið í gátreitinn **Beita notkunartengli** eða að það sé sjálfgefin stilling fyrir öll verk í fyrirtækinu. Frekari upplýsingar eru í [Hvernig á að: Setja upp verk](projects-how-setup-jobs.md).  
+<span data-ttu-id="39e5d-161">**Til athugunar**: Þetta krefst þess að hakað hafi verið í gátreitinn **Beita notkunartengli** eða að það sé sjálfgefin stilling fyrir öll verk í fyrirtækinu.</span><span class="sxs-lookup"><span data-stu-id="39e5d-161">**Note**: This requires that the **Apply Usage Link** check box has been selected for the job, or is the default setting for all jobs in your organization.</span></span> <span data-ttu-id="39e5d-162">Frekari upplýsingar eru í [Hvernig á að: Setja upp verk](projects-how-setup-jobs.md).</span><span class="sxs-lookup"><span data-stu-id="39e5d-162">For more information, see [How to: Set Up Jobs](projects-how-setup-jobs.md).</span></span>  
 
-1. Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Verkbækur** og velja síðan viðeigandi tengil.  
-2. Veljið viðeigandi verkbók og veljið svo aðgerðina **Færslur**.  
-3. Í glugganum **Verkfærslur** er aðgerðin **Sýna áætlunarlínur verks** valin.
+1. <span data-ttu-id="39e5d-163">Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Verkbækur** og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="39e5d-163">In the top right corner, choose the **Search for Page or Report** icon, enter **Job Journals**, and then choose the related link.</span></span>  
+2. <span data-ttu-id="39e5d-164">Veljið viðeigandi verkbók og veljið svo aðgerðina **Færslur**.</span><span class="sxs-lookup"><span data-stu-id="39e5d-164">Select a relevant job journal, and then choose the **Ledger Entries** action.</span></span>  
+3. <span data-ttu-id="39e5d-165">Í glugganum **Verkfærslur** er aðgerðin **Sýna áætlunarlínur verks** valin.</span><span class="sxs-lookup"><span data-stu-id="39e5d-165">In the **Job Ledger Entries** window, choose **Show Linked Job Planning Lines** action.</span></span>
 
-## <a name="see-also"></a>Sjá einnig
-[Unnið með verkefni](projects-manage-projects.md)  
-[Fjármál](finance-setup.md)  
-[Stjórnun innkaupa](purchasing-manage-purchasing.md)         
-[Stjórna sölu](sales-manage-sales.md)      
-[Unnið með Dynamics NAV](ui-work-product.md)  
+## <a name="see-also"></a><span data-ttu-id="39e5d-166">Sjá einnig</span><span class="sxs-lookup"><span data-stu-id="39e5d-166">See Also</span></span>
+[<span data-ttu-id="39e5d-167">Unnið með verkefni</span><span class="sxs-lookup"><span data-stu-id="39e5d-167">Manage Projects</span></span>](projects-manage-projects.md)  
+[<span data-ttu-id="39e5d-168">Fjármál</span><span class="sxs-lookup"><span data-stu-id="39e5d-168">Finance</span></span>](finance-setup.md)  
+<span data-ttu-id="39e5d-169">[Stjórnun innkaupa](purchasing-manage-purchasing.md)       </span><span class="sxs-lookup"><span data-stu-id="39e5d-169">[Manage Purchasing](purchasing-manage-purchasing.md)       </span></span>  
+<span data-ttu-id="39e5d-170">[Stjórna sölu](sales-manage-sales.md)    </span><span class="sxs-lookup"><span data-stu-id="39e5d-170">[Manage Sales](sales-manage-sales.md)    </span></span>  
+[<span data-ttu-id="39e5d-171">Unnið með Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="39e5d-171">Work With Dynamics NAV</span></span>](ui-work-product.md)  
 

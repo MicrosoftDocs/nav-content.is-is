@@ -9,50 +9,50 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 191a9d0b38425c2e36400050afa4fa89ccd2556a
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 73e0e3a0ad91e6834f69bde098be880903057ddb
 ms.contentlocale: is-is
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="how-to-register-new-customers"></a>Hvernig á að Skrá nýja viðskiptamenn
-Viðskiptamenn eru uppruni tekna. Hver viðskiptamaður sem þú selur til verður að vera skráður sem viðskiptamannaspjald.
+# <a name="how-to-register-new-customers"></a><span data-ttu-id="09486-102">Hvernig á að Skrá nýja viðskiptamenn</span><span class="sxs-lookup"><span data-stu-id="09486-102">How to: Register New Customers</span></span>
+<span data-ttu-id="09486-103">Viðskiptamenn eru uppruni tekna.</span><span class="sxs-lookup"><span data-stu-id="09486-103">Customers are the source of your income.</span></span> <span data-ttu-id="09486-104">Hver viðskiptamaður sem þú selur til verður að vera skráður sem viðskiptamannaspjald.</span><span class="sxs-lookup"><span data-stu-id="09486-104">Each customer who you sell to must be registered as a customer card.</span></span>
 
-Áður en hægt er að skrá nýja viðskiptamenn þarf að setja upp ýmsar sölukóða sem hægt er að velja úr þegar fyllt eru út viðskiptamannaspjöld. Nánari upplýsingar um það eru í [Setja upp sölur](sales-setup-sales.md).
+<span data-ttu-id="09486-105">Áður en hægt er að skrá nýja viðskiptamenn þarf að setja upp ýmsar sölukóða sem hægt er að velja úr þegar fyllt eru út viðskiptamannaspjöld.</span><span class="sxs-lookup"><span data-stu-id="09486-105">Before you can register new customers, you must set up various sales codes that you can select from when you fill customer cards.</span></span> <span data-ttu-id="09486-106">Nánari upplýsingar um það eru í [Setja upp sölur](sales-setup-sales.md).</span><span class="sxs-lookup"><span data-stu-id="09486-106">For more information, see [Set Up Sales](sales-setup-sales.md).</span></span>
 
-Viðskiptamannaspjald inniheldur upplýsingarnar sem þarf til að selja vörur til viðskiptamannsins. Nánari upplýsingar um það eru í [Hvernig á að: Reikningsfæra sölur](sales-how-invoice-sales.md) og [Hvernig á að: Skrá nýjar vörur](inventory-how-register-new-products.md).
+<span data-ttu-id="09486-107">Viðskiptamannaspjald inniheldur upplýsingarnar sem þarf til að selja vörur til viðskiptamannsins.</span><span class="sxs-lookup"><span data-stu-id="09486-107">Customer cards hold the information that is required to sell products to the customer.</span></span> <span data-ttu-id="09486-108">Nánari upplýsingar um það eru í [Hvernig á að: Reikningsfæra sölur](sales-how-invoice-sales.md) og [Hvernig á að: Skrá nýjar vörur](inventory-how-register-new-products.md).</span><span class="sxs-lookup"><span data-stu-id="09486-108">For more information, see [How to: Invoice Sales](sales-how-invoice-sales.md) and [How to: Register New Products](inventory-how-register-new-products.md).</span></span>
 
-**Athugasemd**: Ef viðskiptamannasniðmát eru til fyrir mismunandi tegundir viðskipamanna, þá birtist sjálfkrafa gluggi þar sem búið er til nýtt viðskiptamannaspjald og hægt er að velja viðeigandi sniðmát. Ef aðeins eitt viðskiptamanna sniðmát er fyrir hendi, nota ný viðskiptamannaspjöld alltaf það sniðmát.
+<span data-ttu-id="09486-109">**Athugasemd**: Ef viðskiptamannasniðmát eru til fyrir mismunandi tegundir viðskipamanna, þá birtist sjálfkrafa gluggi þar sem búið er til nýtt viðskiptamannaspjald og hægt er að velja viðeigandi sniðmát.</span><span class="sxs-lookup"><span data-stu-id="09486-109">**Note**: If customer templates exist for different customer types, then a window appears when you create a new customer card from where you can select an appropriate template.</span></span> <span data-ttu-id="09486-110">Ef aðeins eitt viðskiptamanna sniðmát er fyrir hendi, nota ný viðskiptamannaspjöld alltaf það sniðmát.</span><span class="sxs-lookup"><span data-stu-id="09486-110">If only one customer template exists, then new customer cards always use that template.</span></span>
 
-## <a name="to-create-a-new-customer-card"></a>Að stofna nýtt viðskiptamannaspjald
-1. Á heimasíðunni skal velja aðgerðina **Viðskiptamenn** til að opna listann yfir núverandi viðskiptamenn.  
-2. Í glugganum **Viðskiptamenn** skal velja aðgerðina **Nýtt**.
+## <a name="to-create-a-new-customer-card"></a><span data-ttu-id="09486-111">Að stofna nýtt viðskiptamannaspjald</span><span class="sxs-lookup"><span data-stu-id="09486-111">To create a new customer card</span></span>
+1. <span data-ttu-id="09486-112">Á heimasíðunni skal velja aðgerðina **Viðskiptamenn** til að opna listann yfir núverandi viðskiptamenn.</span><span class="sxs-lookup"><span data-stu-id="09486-112">On the Home page, choose the **Customers** action to open the list of existing customers.</span></span>  
+2. <span data-ttu-id="09486-113">Í glugganum **Viðskiptamenn** skal velja aðgerðina **Nýtt**.</span><span class="sxs-lookup"><span data-stu-id="09486-113">In the **Customers** window, choose the **New** action.</span></span>
 
-    Ef aðeins eitt viðskiptamannasniðmát er fyrir hendi, opnast nýtt viðskiptamannaspjald með reiti útfyllta með upplýsingum úr sniðmátinu.
+    <span data-ttu-id="09486-114">Ef aðeins eitt viðskiptamannasniðmát er fyrir hendi, opnast nýtt viðskiptamannaspjald með reiti útfyllta með upplýsingum úr sniðmátinu.</span><span class="sxs-lookup"><span data-stu-id="09486-114">If only one customer template exists, then a new customer card opens with some fields filled with information from the template.</span></span>
 
-    Ef fleiri en eitt viðskiptamannasniðmát er fyrir hendi, þá birtist sjálfkrafa gluggi með tiltækum viðskiptamannasniðmátum. Í því tilviki, fylgið næstu tveimur skrefum.
-3. Í glugganum **Velja sniðmát fyrir nýjan viðskiptamann** skal velja sniðmátið sem á að nota fyrir nýja viðskiptamannaspjaldið.
-4. Velja hnappinn **Í lagi**. Nýtt viðskiptamannaspjald opnast þar sem búið er að fylla upplýsingar úr sniðmátinu inn í reitina.  
-5. Því næst skal færa inn eða breyta reitum á viðskiptamannaspjaldinu eftir þörfum. Velja reit til að lesa inn stutta lýsingu á reitnum eða tengil í frekari upplýsingar.
+    <span data-ttu-id="09486-115">Ef fleiri en eitt viðskiptamannasniðmát er fyrir hendi, þá birtist sjálfkrafa gluggi með tiltækum viðskiptamannasniðmátum.</span><span class="sxs-lookup"><span data-stu-id="09486-115">If more than one customer template exists, then a window opens from which you can select a customer template.</span></span> <span data-ttu-id="09486-116">Í því tilviki, fylgið næstu tveimur skrefum.</span><span class="sxs-lookup"><span data-stu-id="09486-116">In that case, follow the next two steps.</span></span>
+3. <span data-ttu-id="09486-117">Í glugganum **Velja sniðmát fyrir nýjan viðskiptamann** skal velja sniðmátið sem á að nota fyrir nýja viðskiptamannaspjaldið.</span><span class="sxs-lookup"><span data-stu-id="09486-117">In the **Select a template for a new customer** window, choose the template that you want to use for the new customer card.</span></span>
+4. <span data-ttu-id="09486-118">Velja hnappinn **Í lagi**.</span><span class="sxs-lookup"><span data-stu-id="09486-118">Choose the **OK** button.</span></span> <span data-ttu-id="09486-119">Nýtt viðskiptamannaspjald opnast þar sem búið er að fylla upplýsingar úr sniðmátinu inn í reitina.</span><span class="sxs-lookup"><span data-stu-id="09486-119">A new customer card opens with some fields filled with information from the template.</span></span>  
+5. <span data-ttu-id="09486-120">Því næst skal færa inn eða breyta reitum á viðskiptamannaspjaldinu eftir þörfum.</span><span class="sxs-lookup"><span data-stu-id="09486-120">Proceed to fill or change fields on the customer card as necessary.</span></span> <span data-ttu-id="09486-121">Velja reit til að lesa inn stutta lýsingu á reitnum eða tengil í frekari upplýsingar.</span><span class="sxs-lookup"><span data-stu-id="09486-121">Choose a field to read a short description of the field or link to more information.</span></span>
 
-Á flýtiflipanum **Söluverð** er hægt að sjá sérverð eða afslætti sem veittir eru fyrir viðskiptamanninn ef ákveðin skilyrði eru uppfyllt, svo sem vara, lágmarkspöntunarmagn eða lokadagur. Hver lína stendur fyrir sértilboðsverð eða línuafslátt. Hver dálkur táknar viðmiðun sem verða að sækja til að réttlæta sérstakt verð sem þú slærð inn í **Einingaverð** sviði, eða línuafslátt sem þú slærð inn í **Línuafsláttur (%**. Nánari upplýsingar eru í [Skrá söluverð, afslátt og greiðslusamkomulag](sales-how-record-sales-price-discount-payment-agreements.md).
+<span data-ttu-id="09486-122">Á flýtiflipanum **Söluverð** er hægt að sjá sérverð eða afslætti sem veittir eru fyrir viðskiptamanninn ef ákveðin skilyrði eru uppfyllt, svo sem vara, lágmarkspöntunarmagn eða lokadagur.</span><span class="sxs-lookup"><span data-stu-id="09486-122">On the **Sales Prices** FastTab, you can view special prices or discounts that you grant for the customer if certain criteria are met, such as item, minimum order quantity, or ending date.</span></span> <span data-ttu-id="09486-123">Hver lína stendur fyrir sértilboðsverð eða línuafslátt.</span><span class="sxs-lookup"><span data-stu-id="09486-123">Each row represents a special price or line discount.</span></span> <span data-ttu-id="09486-124">Hver dálkur táknar viðmiðun sem verða að sækja til að réttlæta sérstakt verð sem þú slærð inn í **Einingaverð** sviði, eða línuafslátt sem þú slærð inn í **Línuafsláttur (%**.</span><span class="sxs-lookup"><span data-stu-id="09486-124">Each column represents a criterion that must apply to warrant the special price that you enter in the **Unit Price** field, or the line discount that you enter in the **Line Discount %** field.</span></span> <span data-ttu-id="09486-125">Nánari upplýsingar eru í [Skrá söluverð, afslátt og greiðslusamkomulag](sales-how-record-sales-price-discount-payment-agreements.md).</span><span class="sxs-lookup"><span data-stu-id="09486-125">For more information, see [Record Sales Price, Discount, and Payment Agreements](sales-how-record-sales-price-discount-payment-agreements.md).</span></span>
 
-Viðskiptamaðurinn hefur nú verið skráður og viðskiptamannaspjaldið má nú nota í söluskjölum.
+<span data-ttu-id="09486-126">Viðskiptamaðurinn hefur nú verið skráður og viðskiptamannaspjaldið má nú nota í söluskjölum.</span><span class="sxs-lookup"><span data-stu-id="09486-126">The customer is now registered, and the customer card is ready to be used on sales documents.</span></span>
 
-Ef nota á þetta viðskiptamannaspjald sem sniðmát þegar ný viðskiptamannaspjöld eru búin til, vistið það sem sniðmát. Nánari upplýsingar eru í eftirfarandi kafla.
+<span data-ttu-id="09486-127">Ef nota á þetta viðskiptamannaspjald sem sniðmát þegar ný viðskiptamannaspjöld eru búin til, vistið það sem sniðmát.</span><span class="sxs-lookup"><span data-stu-id="09486-127">If you want to use this customer card as a template when you create new customer cards, you can save it as a template.</span></span> <span data-ttu-id="09486-128">Nánari upplýsingar eru í eftirfarandi kafla.</span><span class="sxs-lookup"><span data-stu-id="09486-128">For more information, see the following section.</span></span>
 
-## <a name="to-save-the-customer-card-as-a-template"></a>Til að vista viðskiptamannaspjaldið sem sniðmát
-1. Í glugganum **Viðskiptamannaspjald** skal velja aðgerðina **Vista sem sniðmát**. Glugginn **Viðskiptamannasniðmát** opnast og sýnir viðskiptamannaspjaldið sem sniðmát.
-2. Fyllið inn í svæðin eftir þörfum. Velja reit til að lesa inn stutta lýsingu á reitnum eða tengil í frekari upplýsingar.
-3. Til að endurnota víddir í sniðmátum, veljið aðgerðina **Víddir**. Glugginn **Víddarsniðmát** opnast og sýnir alla víddarkóða sem settir eru upp fyrir viðskiptamanninn.
-4. Breyta eða færa inn víddarkóða sem munu gilda fyrir ný viðskiptamannaspjöld sem stofnuð eru með sniðmátinu.  
-5. Þegar lokið hefur verið við nýja viðskiptamannasniðmátið skal velja hnappinn **Í lagi**.
+## <a name="to-save-the-customer-card-as-a-template"></a><span data-ttu-id="09486-129">Til að vista viðskiptamannaspjaldið sem sniðmát</span><span class="sxs-lookup"><span data-stu-id="09486-129">To save the customer card as a template</span></span>
+1. <span data-ttu-id="09486-130">Í glugganum **Viðskiptamannaspjald** skal velja aðgerðina **Vista sem sniðmát**.</span><span class="sxs-lookup"><span data-stu-id="09486-130">In the **Customer Card** window, choose the **Save as Template** action.</span></span> <span data-ttu-id="09486-131">Glugginn **Viðskiptamannasniðmát** opnast og sýnir viðskiptamannaspjaldið sem sniðmát.</span><span class="sxs-lookup"><span data-stu-id="09486-131">The **Customer Template** window opens showing the customer card as a template.</span></span>
+2. <span data-ttu-id="09486-132">Fyllið inn í svæðin eftir þörfum.</span><span class="sxs-lookup"><span data-stu-id="09486-132">Fill in the fields as necessary.</span></span> <span data-ttu-id="09486-133">Velja reit til að lesa inn stutta lýsingu á reitnum eða tengil í frekari upplýsingar.</span><span class="sxs-lookup"><span data-stu-id="09486-133">Choose a field to read a short description of the field or link to more information.</span></span>
+3. <span data-ttu-id="09486-134">Til að endurnota víddir í sniðmátum, veljið aðgerðina **Víddir**.</span><span class="sxs-lookup"><span data-stu-id="09486-134">To reuse dimensions in templates, choose the **Dimensions** action.</span></span> <span data-ttu-id="09486-135">Glugginn **Víddarsniðmát** opnast og sýnir alla víddarkóða sem settir eru upp fyrir viðskiptamanninn.</span><span class="sxs-lookup"><span data-stu-id="09486-135">The **Dimension Templates** window opens showing any dimension codes that are set up for the customer.</span></span>
+4. <span data-ttu-id="09486-136">Breyta eða færa inn víddarkóða sem munu gilda fyrir ný viðskiptamannaspjöld sem stofnuð eru með sniðmátinu.</span><span class="sxs-lookup"><span data-stu-id="09486-136">Edit or enter dimension codes that will apply to new customer cards created by using the template.</span></span>  
+5. <span data-ttu-id="09486-137">Þegar lokið hefur verið við nýja viðskiptamannasniðmátið skal velja hnappinn **Í lagi**.</span><span class="sxs-lookup"><span data-stu-id="09486-137">When you have completed the new customer template, choose the **OK** button.</span></span>
 
-Viðskiptamannasniðmátinu verður bætt við lista viðskiptamannasniðmáta þannig að hægt er að nota það til að búa til ný viðskiptamannaspjöld.
+<span data-ttu-id="09486-138">Viðskiptamannasniðmátinu verður bætt við lista viðskiptamannasniðmáta þannig að hægt er að nota það til að búa til ný viðskiptamannaspjöld.</span><span class="sxs-lookup"><span data-stu-id="09486-138">The customer template is added to the list of customer templates, so that you can use it to create new customer cards.</span></span>
 
-## <a name="see-also"></a>Sjá einnig  
-[Stjórna sölu](sales-manage-sales.md)    
-[Uppsetning sölu](sales-setup-sales.md)    
-[Unnið með Dynamics NAV](ui-work-product.md)
+## <a name="see-also"></a><span data-ttu-id="09486-139">Sjá einnig</span><span class="sxs-lookup"><span data-stu-id="09486-139">See Also</span></span>  
+<span data-ttu-id="09486-140">[Stjórna sölu](sales-manage-sales.md)  </span><span class="sxs-lookup"><span data-stu-id="09486-140">[Manage Sales](sales-manage-sales.md)  </span></span>  
+<span data-ttu-id="09486-141">[Uppsetning sölu](sales-setup-sales.md)  </span><span class="sxs-lookup"><span data-stu-id="09486-141">[Set Up Sales](sales-setup-sales.md)  </span></span>  
+[<span data-ttu-id="09486-142">Unnið með Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="09486-142">Work with Dynamics NAV</span></span>](ui-work-product.md)
 

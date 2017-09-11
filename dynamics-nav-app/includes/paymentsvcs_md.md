@@ -1,1 +1,1 @@
-Greiðsluþjónusta fyrir Microsoft Dynamics ERP
+<span data-ttu-id="69d62-101">Greiðsluþjónusta fyrir Microsoft Dynamics ERP</span><span class="sxs-lookup"><span data-stu-id="69d62-101">Payment Services for Microsoft Dynamics ERP</span></span>
