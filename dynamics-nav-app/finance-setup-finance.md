@@ -1,38 +1,50 @@
 ---
-title: "Setja upp kjarnafjárhagsferli"
+title: "Setja upp fjárhagsferli"
+description: "Kynntu þér verkhlutana í því að setja upp fjármál í fyrirtækinu sem hentar öllum þínum þörfum tengdum bókhaldi, endurskoðun eða bókunum."
+documentationcenter: 
 author: edupont04
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: b911f3701f7a326e5812f13c8528a4719c25241a
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: accounting, auditing, bookkeeping
+ms.date: 08/10/2017
+ms.author: edupont
+ms.translationtype: HT
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: f3d7c01b079b6af60505fc232faf0d9c5ac393cd
 ms.contentlocale: is-is
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/23/2017
 
 ---
+# <a name="setting-up-finance"></a>Uppsetning Fjármála
+Til að hjálpa þér að komast að komast fljótt af stað inniheldur [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)] eru venjulegar stillingar fyrir flestar fjárhagslegar ferðir. Ef þú þarft að breyta stillingum til að henta fyrirtækinu þínu skaltu fara strax. Til dæmis, á heimasíðunni er hægt að nota aðstoðarmaður uppsetningarleiðbeiningar til að setja upp söluskatt fyrir staðsetningu þína.  
 
-#<a name="set-up-core-financial-processes"></a>Setja upp kjarnafjárhagsferli
-Dynamics NAV felur í sér staðlaða grunnstillingu á flestum fjárhagsferlum en hægt er að breyta stillingum í samræmi við þarfir fyrirtækisins.
-Hægt er að nálgast leiðarvísi fyrir uppsetningu með hjálp frá aðalsíðunni, sem hjálpar t.d. við að setja upp söluskatt í samræmi við staðsetningu, svo dæmi sé tekið. Aðra fjárhagsuppsetningarstjórnun verður notandi að setja upp sjálfur, t.d. með hliðsjón af því hvort eigi að nota víddir.  
+Hins vegar eru nokkrir hlutir sem þú þarft til að setja upp sjálfan þig. Til dæmis, ef þú vilt nota mál sem grundvöll fyrir viðskipti upplýsingaöflun.  
 
 Eftirfarandi tafla lýsir röð verkefna með tenglum í efnisatriði þar sem þeim er lýst.
 
-| Til                                                                  | Sjá                      |
-|---------------------------------------------------------------------|--------------------------|
-|Velja skal hvernig meðhöndla á greiðslur lánardrottna.|[Greiðslumáti](finance-setup-payment-methods.md)|
-|Uppsetning fjárhagstímabila.|[Hvernig á að opna Nýtt reikningsár](finance-setup-how-open-new-fiscal-year.md)|
-|Setja upp aðra gjaldmiðla ef viðskipti eru alþjóðleg.|[Uppsetning gjaldmiðla](finance-setup-setup-currencies.md)|
-|Bæta við víddum fyrir meiri viðskiptagreind.|[Setja upp víddir](finance-setup-setup-dimensions.md)|
-|Bæta nýjum reikningum við eldri bókhaldslykil.|[Uppsetning bókhaldslykla](finance-setup-setup-chart-accounts.md)|
+| Til | Sjá |
+| --- | --- |
+| Veldu hvernig þú borgar lánardrottnum þínum. |[Skilgreina Greiðsluhætti](finance-payment-methods.md) |
+| Tilgreinið bókunarhópa sem kortleggja aðila eins og viðskiptavini, seljendur, atriði, auðlindir og sölu- og kaupskjöl til almennra reikninga. |[Uppsetning bókunarflokka](finance-posting-groups.md)|
+|Hægt er að setja upp vikmörk þannig að kerfið loki reikningi jafnvel þótt greiðsla, að meðteknum afslætti, nái ekki upp í fulla upphæð á reikningnum.|[Hvernig skal: Vinna með Greiðsluvikmörk og greiðsluafsláttarvikmörk](finance-payment-tolerance-and-payment-discount-tolerance.md)|
+| Uppsetning fjárhagstímabila. |[Hvernig á að opna Nýtt reikningsár](finance-how-open-new-fiscal-year.md) |
+| Skilgreinið hvernig VSK upphæðir, sem fengnar eru fyrir sölu, eru sendar inn til skattayfirvalda. |[Hvernig á að: Senda VSK skýrslu inn til skattayfirvalda](finance-how-report-vat.md)|
+| Settu eiginleika sölu og innkaupa upp þannig að hægt sé að vinna með erlenda gjaldmiðla.|[Hvernig á að: Leyfa jöfnun fjárhagsfærslna í mismunandi gjaldmiðlum](finance-how-enable-application-ledger-entries-different-currencies.md)
+| Bæta nýjum reikningum við eldri bókhaldslykil. |[Uppsetning bókhaldslykilsins](finance-setup-chart-accounts.md) |
+| Setjið upp viðskiptaupplýsingar (BI) töflur til að greina sjóðstreymi. |[Setja upp sjóðstreymisgreiningu](finance-setup-cash-flow-analyses.md) |
+|Gera virka reikningsfærslu viðskiptamanns sem er ekki uppsettur í kerfið.|[Hvernig á að setja upp staðgreiðsluviðskiptamenn](finance-how-to-set-up-cash-customers.md)|
+| Uppsetning á Intrastat skýrslugerð, og senda inn skýrsluna til yfirvalda. | [Hvernig skal: Setja upp og skrá Intrastat](finance-how-setup-report-intrastat.md)|
 
+## <a name="see-also"></a>Sjá einnig
+[Fjármál](finance.md)  
+[Stjórna bankareikningum](bank-manage-bank-accounts.md)  
+[Unnið með víddir](finance-dimensions.md)  
+[Innflutningur viðskiptagagna úr öðrum fjárhagskerfum](upload-data.md)  
+[Greining á sjóðstreymi í fyrirtækinu þínu](finance-analyze-cash-flow.md)  
+[Unnið með [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 
-
-##<a name="see-also"></a>Sjá einnig
-[Stjórna bankareikningum](bank-manage-bank-accounts.md)    
-[Víddir](finance-setup-dimensions.md)  
+##
 

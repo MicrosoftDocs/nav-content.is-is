@@ -1,45 +1,67 @@
 ---
-title: "Fjárhagur og bókhaldslyklar"
+title: "Frekari upplýsingar um fjárhag bókhaldslykla"
+description: "Lýsir fjárhag og bókhaldslyklar, sem og reikningsflokkum."
+documentationcenter: 
 author: edupont04
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 9965ddcad214e97c5e4858824395d6f651b3c003
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: analysis, history, track
+ms.date: 06/02/2017
+ms.author: edupont
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 348a1bcbe6908c7bfd84e99245363e733414aeae
 ms.contentlocale: is-is
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
-# <a name="the-general-ledger-and-the-chart-of-accounts"></a>Fjárhagur og bókhaldslyklar
-Fjárhagur geymir fjárhagsgögn,  og bókhaldslykill birtir reikningana sem allar fjárhagsfærslur eru bókaðar í. Dynamics NAV innifelur staðlaðan bókhaldslykil sem er tilbúin til að styðja þitt fyrirtæki.
+# <a name="understanding-the-general-ledger-and-the-coa"></a>Skilja fjárhag og bókhaldslykil
+Fjárhagur geymir fjárhagsgögn,  og bókhaldslykill birtir reikningana sem allar fjárhagsfærslur eru bókaðar í. [!INCLUDE[d365fin](includes/d365fin_md.md)] inniheldur staðlaðan bókhaldslykil sem er tilbúin til að styðja þitt fyrirtæki.
 
 ## <a name="general-ledger-setup-and-general-posting-setup"></a>Uppsetning Uppsetning fjárhags og uppsetning almenns bókunargrunnur
-Kjarninn í þínum viðskiptaferlum er fjárhagurinn og grunnstilling á því hvernig gögn eru bókuð í fjárhag.
-Glugginn **uppsetning fjárhags** er notaður til að færa inn upplýsingar um hvernig eigi að fara með ákveðin bókhaldsmál innan fyrirtækisins. Þetta innifelur reikningssléttunarupplýsingar aðseturssnið, og hvort nota eigi annan skýrslugjaldmiðil, til dæmis.
-Á sama hátt er í glugganum **almennur bókunargrunnur** er tilgreint hvernig á að setja upp samsetningar almennra viðskiptabókunarflokka og almenna vörubókunarflokka. Ein lína er fyllt út fyrir hverja samsetningu viðskiptabókunarflokks og vörubókunarflokks.  
+Uppsetning aðalbókarinnar er kjarninn í fjárhagslegum ferlum vegna þess að það skilgreinir hvernig þú sendir gögn.  
+
+Í gluggann **Uppsetning aðalbókarinnar** tilgreinir þú hvernig á að meðhöndla tiltekin reikningsskilaboð í fyrirtækinu þínu, svo sem:  
+
+* Sléttunarnákvæmni reikninga  
+* Snið aðseturs  
+* Fjárhagsskýrslugerð  
+
+Á sama hátt er í glugganum **almennur bókunargrunnur** er tilgreint hvernig á að setja upp samsetningar almennra viðskiptabókunarflokka og almenna vörubókunarflokka. Staða hópar korta aðila eins og viðskiptavini, seljendur, atriði, auðlindir og sölu- og kaupskjöl til almennra reikninga. Ein lína er fyllt út fyrir hverja samsetningu viðskiptabókunarflokks og vörubókunarflokks. Nánari upplýsingar eru í [Uppsetning bókunarflokka](finance-posting-groups.md).  
 
 ## <a name="the-chart-of-accounts"></a>Bókhaldslykillinn
-Bókhaldslykill sýnir alla reikninga. Héðan má opna hinum ýmsu skýrslum sem sýna fjárhagsfærslur og stöðu, og hægt er að loka rekstrarreikningi. Fyrir hvern reikning er hægt að opna fjárhagsspjald og bæta við eða breyta stillingum. Einnig er hægt að skoða lista yfir bókunarflokka sem bóka á þann reikning.  
+Skýringin á reikningum sýnir allar almennar bókhaldsreikningar. Úr bókhaldslyklinum geturðu gert hluti eins og:  
 
-Dynamics NAV kemur í veg fyrir að fjárhagsreikningi sé eytt sem geymir gögn sem þarf í bókhaldslyklinum.  
+* Skoða skýrslur sem sýna aðalbókaratriði og jafnvægi.  
+* Lokaðu rekstrarreikningi þínum.  
+* Opnið fjárhagsreikningskortið til að bæta við eða breyta stillingum.  
+* Sjá lista yfir pósthópa sem senda á þann reikning.
+* Skoða debet- og kreditstöður fyrir einstakan fjárhagsreikning  
+
+Þú getur bætt við, breytt eða eytt almennum bókhaldsreikningum. Til að koma í veg fyrir misræmi geturðu þó ekki eytt almennri aðalbókareikning ef gögnin eru notuð í töflureikningi.  
 
 ## <a name="account-categories"></a>tegundir reikninga
-Með flokkum reikninga er hægt að varpa fjárhagsreikninga á flokka sem sérstillingu á uppbyggingu þinna fjárhagsskýrslna.  
+Þú getur sérsniðið uppbyggingu reikningsskila þinnar með því að kortleggja aðalbókarreikninga í reikningsflokkum.  
 
-**Fjárhagsreikningsflokkar** glugginn sýnir fyrirliggjandi aðalflokka og undirflokka og fjárhagsreikninga sem þú hefur úthlutað hverjum flokki. Hægt er að stofna nýja undirflokka og úthluta þeim á fyrirliggjandi reikninga.  
+**Fjárhagsreikningsflokkar** glugginn sýnir flokka og undirflokka og fjárhagsreikninga sem eru úthlutað þeim. Hægt er að stofna nýja undirflokka og úthluta þeim á fyrirliggjandi reikninga.  
 
-Þú getur flokkað reikningsflokka með því að draga inn einstaka undirflokka. Það gerir það auðveldara fyrir þig að fá yfirlit, því hver flokkur sýnir heildarstöðu. Til dæmis er hægt að stofna undirflokka fyrir mismunandi tegundir eigna og síðan stofna tegundaflokka fyrir fastafjármunir miðað við veltufjármunir, til dæmis. Þú stofnar tegundaflokk með því að draga inn aðra undirflokka undir línu í **flokkar fjárhagsreikninga** glugga.  
+Þú stofnar tegundaflokk með því að draga inn aðra undirflokka undir línu í **flokkar fjárhagsreikninga** glugga. Það gerir það auðveldara fyrir þig að fá yfirlit, því hver flokkur sýnir heildarstöðu. Til dæmis er hægt að stofna undirflokka fyrir mismunandi tegundir eigna og síðan stofna tegundaflokka fyrir fastafjármunir miðað við veltufjármunir.  
 
-Fyrir hverja undirtegund geturðu tilgreint hvort reikningar af þessum flokki verði að vera innifaldir í tilteknum gerðum fjárhagsskýrslna. Þú getur notað lykiltegundir til hjálpa til við að skilgreina snið fjárhagsskýrslna. Til dæmis hin sjálfgefna stöðuyfirlit hefur eina færslu fyrir reiðufé í eignum. Ef þú vilt að stöðuyfirlitið sé með undirfærslur fyrir sjóði og ávísanareikninga, þá er hægt að bæta við tveimur nýjum undirflokka, tilgreina frekari skýrsluskilgreiningu fyrir hverja þeirra, og draga þau inn undir undirflokknum reiðufé. Síðan, þegar þú hefur stofnað fjárhagsskema byggt á breytingum þínum, sýnir næsta stöðuyfirlit þitt heildarstöðu fyrir reiðufé og tvær línur með stöður fyrir sjóð og ávísanareikning.     
+Þú getur tilgreint hvort reikningarnir í hverjum undirflokki skuli innifalinn í tilteknum tegundum skýrslna. Þú getur notað lykiltegundir til hjálpa til við að skilgreina snið fjárhagsskýrslna.  
 
-##<a name="see-also"></a>Sjá einnig
-[Fjármál](finance-setup.md)  
-[Setja upp eða breyta bókhaldslyklum](finance-setup-setup-chart-accounts.md)  
-[Fjárhagsskemu](finance-setup-account-schedule.md)  
+Til dæmis hin sjálfgefna stöðuyfirlit hefur undirflokk fyrir reiðufé í eignum. Ef þú vilt jafnvægisyfirlitið skaltu íhuga smápeninga og stöðva getur þú:  
+
+1. Bættu við tveimur nýjum undirflokkum. Einn fyrir sjóð og einn fyrir reikninginn þinn.  
+2. Tilgreindu viðbótarskýrslugerðina **Reiðufé** fyrir þessar undirflokka.  
+3. Haltu þeim í undirflokknum **Handbært fé**.  
+
+Í næsta skipti sem þú stofnar reikningaskipta birtist efnahagsreikningur þín í heildarjöfnuði fyrir peninga og tvær línur með jafnvægi fyrir smáskatta og eftirlitsreikning.  
+
+## <a name="see-also"></a>Sjá einnig
+[Fjármál](finance.md)  
+[Uppsetning eða breyting á bókhaldslykli](finance-setup-chart-accounts.md)  
+[Viðskiptaupplýsingar](bi.md)  
 

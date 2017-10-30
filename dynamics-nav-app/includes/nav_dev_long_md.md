@@ -1,1 +1,1 @@
-Microsoft Dynamics NAV Development Environment
+Microsoft Dynamics NAV Þróunarumhverfi

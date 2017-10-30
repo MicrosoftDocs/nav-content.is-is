@@ -1,1 +1,1 @@
-Microsoft Dynamics NAV Web biðlari
+Microsoft Dynamics NAV Vefbiðlari

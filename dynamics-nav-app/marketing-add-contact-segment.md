@@ -1,25 +1,28 @@
 ---
-title: "Hvernig á að bæta tengiliðum við hluta:"
+title: "Skilgreina tengiliði í Hluta"
+description: "Eftir að hafa stofnað hluta, geturðu bætt tengiliðum við hlutann, t.d. sem hluta af markaðsherferð sem beint er að tilteknum viðskiptavinum eða biðlara."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: bf44103fef00d3fb96de8f7770f07383e10e265c
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: marketing, campaign, promo, prospect, contact, client, customer
+ms.date: 06/06/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: f77963080e3bd01b0854e45396174801a92e30b9
 ms.contentlocale: is-is
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 # <a name="how-to-add-contacts-to-segments"></a>Hvernig á að bæta tengiliðum við hluta:
 Þegar hluti hefur verið stofnaður og gunnupplýsingar um hann færðar inn er tengiliðum gjarnan bætt við hlutann. Það er hægt að gera það handvirkt í glugganum **Hluti** en það er auðveldara og fljótlegra að nota aðgerðina **Bæta við tengiliðum**.
 
 ## <a name="to-add-a-contact-to-a-segment"></a>Til að bæta tengilið við hluta
-1. Á upphafssíðunni skal velja **Virkir hlutar**. Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Hlutar**, og velja síðan viðeigandi tengil.  
+1. Á upphafssíðunni skal velja **Virkir hlutar**. Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn  **Hutar** og velja svo viðeigandi tengil.  
 2. Veljið hlutann og veljið svo aðgerðina **Bæta við tengiliðum**. Runuvinnsluglugginn **Bæta við tengiliðum** opnast.
 3. Í hlutanum **Tengiliður** skal setja upp afmarkanir til að tilgreina þær upplýsingar sem á að nota til að velja tengiliði.
 
@@ -40,17 +43,18 @@ Hægt er að fínstilla hluta eins oft og óskað er eftir. Smellt er á aðger�
 Hægt er að sjá lista yfir þær hlutunarviðmiðanir sem notaðar hafa verið með því að velja svæðið **Fjöldi viðmiðunaraðgerða** á svæðinu **Almennt**.
 
 ## <a name="to-reduce-the-number-of-contacts"></a>Til að minnka fjölda tengiliða
-Þegar tengiliðir hafa verið valdir í hluta gæti þurft að fjarlægja einhverja af þeim. Hægt er að gera þetta með því að fjarlæga þær handvirkt úr línunum í glugganum **Hluti**, en einfaldast og fljótlegast er að nota aðgerðina **Fækka tengiliðum** til að tilgreina hvaða tengiliði á að fjarlægja og nota aðgerðina **Fínstilla tengiliði** til að tilgreina hvaða tengiliðum á að halda.
+Þegar tengiliðir hafa verið valdir í hluta gæti þurft að fjarlægja einhverja af þeim. Hægt er að gera þetta með því að fjarlæga þær handvirkt úr línunum í glugganum Hluti, en einfaldast og fljótlegast er að nota aðgerðina Fækka tengiliðum til að tilgreina hvaða tengiliði á að fjarlægja og nota aðgerðina Fínstilla tengiliði til að tilgreina hvaða tengiliðum á að halda.
 
 1. Opnið hlutann.
-2. Veljið **Tengiliðir**, og veljið svo aðgerðina **Fækka tengiliðum**. Glugginn **Fjarlægja tengiliði - Fækka** opnast.
+2. Veldu tengiliði og veldu síðan aðgerðina **Minnka tengiliði**. Glugginn **Fjarlægja tengiliði - Fækka** opnast.
 3. Í hlutanum **Tengiliður** eru færðar inn afmarkanir til að tilgreina þær upplýsingar sem nota á til að velja tengiliðina sem fjarlægja á úr hlutanum.
 4. Bætið við öðrum afmörkunum eftir þörfum, og veljið svo hnappinn **Í lagi**.
 
 Hægt er að fækka í hlutum eins oft og óskað er eftir. Smellt er á aðgerðina **Fara til baka** hafi hlutinn verið fínstilltur fyrir misgáning og fara á til baka um eitt þrep.
 
-##<a name="see-also"></a>Sjá einnig
+## <a name="see-also"></a>Sjá einnig
 [Hvernig á að: Stofna hluta](marketing-how-create-segment.md)   
-[Stjórna hlutum](marketing-segments.md)  
+[Umsjón hluta](marketing-segments.md)  
 [Umsjón sölutækifæra](marketing-manage-sales-opportunities.md)  
+[Unnið með [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 

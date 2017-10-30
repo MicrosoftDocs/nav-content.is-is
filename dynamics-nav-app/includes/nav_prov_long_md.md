@@ -1,1 +1,1 @@
-Úthlutunarverkfæri fyrir Microsoft Dynamics NAV fyrir Microsoft Azure
+Microsoft Dynamics NAV Úthlutunarverkfæri fyrir Microsoft Azure

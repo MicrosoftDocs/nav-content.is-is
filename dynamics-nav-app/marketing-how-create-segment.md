@@ -1,25 +1,28 @@
 ---
-title: "Hvernig á að stofna hluta"
+title: Stofna hluta
+description: "Lýsir því hvernig skal stofna hluta fyrir hóp tengiliða í Dynamics NAV, t.d. til að ná í nokkra tengiliði með beinum tölvupóstsendingum."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 62b9e2c54e7229e9c9e8fdd51f56ee874b34ab40
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: relationship, prospect
+ms.date: 06/06/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 930f03d18612cd161137c92121e91b91aa1a21ac
 ms.contentlocale: is-is
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 # <a name="how-to-create-segments"></a>Hvernig á að stofna hluta
 Hægt er að stofna hluta til að velja saman flokk tengiliða til dæmis ef stofna á samskipti sem varða marga tengiliði eins og póstsendingar.
 
 ## <a name="to-create-a-segment"></a>Hlutar stofnaðir:
-1. Á upphafssíðunni skal velja **Virkir hlutar**. Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Hlutar**, og velja síðan viðeigandi tengil.
+1. Á upphafssíðunni skal velja **Virkir hlutar**. Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn  **Hutar** og velja svo viðeigandi tengil.
 2. Valið er **Nýtt** aðgerð.
 3. Í hlutanum **Almennt** , í á reitnum **númer** er fært inn númer fyrir hlutann.
 
@@ -28,7 +31,8 @@ Hægt er að stofna hluta til að velja saman flokk tengiliða til dæmis ef sto
 
 Nú er hægt að bæta tenglum við hlutann. Sjá frekari upplýsingar hér [Hvernig á að bæta tengiliðum við hluta:](marketing-add-contact-segment.md)
 
-##<a name="see-also"></a>Sjá einnig
-[Stjórna hlutum](marketing-segments.md)  
+## <a name="see-also"></a>Sjá einnig
+[Umsjón hluta](marketing-segments.md)  
 [Umsjón sölutækifæra](marketing-manage-sales-opportunities.md)  
+[Unnið með [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 

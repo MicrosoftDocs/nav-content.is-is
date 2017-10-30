@@ -1,21 +1,24 @@
 ---
-title: Samskipti og hlutar
+title: "Vera upplýst(ur) um hluta og samskipti þeim tengdum"
+description: "Kynntu þér hvernig skal stofna hluta og skilgreina hópa tengiliða og tiltaka samskipti fyrir hluta."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: c66dff69fa31458e94f7de5fa4b524656141a5f6
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: relationship, prospect
+ms.date: 06/06/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: b4fb4abfdfe69856d0e26e20d30f3adcaf2fd665
 ms.contentlocale: is-is
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="interactions-and-segments"></a>Samskipti og hlutar
+# <a name="managing-interactions-for-segments"></a>Vinna með samskipti fyrir hluta
 Glugginn **Hluti** er eins konar vinnublað þar sem hægt er að:
 
 * stofna hluta.
@@ -40,12 +43,12 @@ Upplýsingar um samskiptin sem varða hlutann geta birst á **hlutahausnum**. Ti
 
 Í glugganum **Skráðir hlutar** er hægt ákveða að stofna eftirfylgnihluta með sömu tengiliðum og í skráða hlutanum.
 
-
-##<a name="see-also"></a>Sjá einnig
+## <a name="see-also"></a>Sjá einnig
 [Hvernig á að stofna hluta](marketing-how-create-segment.md)  
 [Hvernig á að stofna Samskipti fyrir hluta](marketing-how-create-interactions.md)  
-[Stjórna hlutum](marketing-segments.md)  
+[Umsjón hluta](marketing-segments.md)  
 [Skrá samskipti við tengiliði](marketing-interactions.md)  
 [Umsjón sölutækifæra](marketing-manage-sales-opportunities.md)  
-[Stofna og vinna með tengiliði](marketing-contacts.md)
+[Stofnun og stjórnun tengiliða](marketing-contacts.md)  
+[Unnið með Dynamics NAV](ui-work-product.md)
 

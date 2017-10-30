@@ -7,12 +7,12 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: ba67e7e09f4375cbdbf53f401fd0f3d83450c9ec
+ms.prod: dynamics-nav-2017
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 5a072d9b0984adf8bf4ab89fb26d658cb13f50f0
 ms.contentlocale: is-is
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 
@@ -27,9 +27,9 @@ Hægt er að nota eitt af sjálfgefnum sniðum fyrir fjárhagsskema eða setja u
 Þetta þýðir að hægt er að búa til eins margar sérsniðnar fjárhagsskýrslur og óskað er. Glugginn **Fjárhagsskema** er notaður til að setja upp fjárhagsskemu.  
 
 ## <a name="account-categories-and-account-schedules"></a>Lykiltegundir og fjárhagsskemu
-Hægt er að nota lykiltegundir til að breyta sniði fjárhagsskýrslna. Þegar lykiltegundir hafa verið settar upp í glugganum **Flokkar fjárhagsreikninga** og aðgerðin **Mynda fjárhagsskemu** er valin, eru undirliggjandi fjárhagsskemu fyrir kjarnaviðskiptaskýrslur uppfærð. næst þegar einhver af þessum skýrslum er keyrð, eins og stöðuyfirlit, er nýjum samtölum og undirfærslum bætt við, samkvæmt þeim breytingum sem gerðar voru. Frekari upplýsingar er að finna í [Fjárhagur og bókhaldslyklar](finance-setup-general-ledger.md).    
+Hægt er að nota lykiltegundir til að breyta sniði fjárhagsskýrslna. Þegar lykiltegundir hafa verið settar upp í glugganum **Flokkar fjárhagsreikninga** og aðgerðin **Mynda fjárhagsskemu** er valin, eru undirliggjandi fjárhagsskemu fyrir kjarnaviðskiptaskýrslur uppfærð. næst þegar einhver af þessum skýrslum er keyrð, eins og stöðuyfirlit, er nýjum samtölum og undirfærslum bætt við, samkvæmt þeim breytingum sem gerðar voru. Frekari upplýsingar er að finna í [Fjárhagur og bókhaldslyklar](finance-general-ledger.md).    
 ## <a name="see-also"></a>Sjá einnig
-[Fjármál](finance-setup.md)  
-[Uppsetning fjármála](finance-setup-setup-finance-setup.md)  
-[Fjárhagur og bókhaldslyklar](finance-setup-general-ledger.md)  
+[Fjármál](finance.md)  
+[Uppsetning fjármála](finance-setup-finance.md)  
+[Fjárhagur og bókhaldslyklar](finance-general-ledger.md)  
 

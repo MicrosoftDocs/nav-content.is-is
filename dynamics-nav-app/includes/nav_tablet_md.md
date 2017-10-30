@@ -1,1 +1,1 @@
-Microsoft Dynamics NAV Table biðlari
+Microsoft Dynamics NAVSpjaldtölvubiðlari

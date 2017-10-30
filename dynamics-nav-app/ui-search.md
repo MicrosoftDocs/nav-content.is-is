@@ -8,20 +8,24 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: f5e529fe09859432e96c1171bf56f2fb9c7db052
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 85904d4cbe69b82eb79963d4afadfe6db2b7c3f1
 ms.contentlocale: is-is
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 
 # <a name="using-search-for-page-or-report"></a>Að nota leit að síðu eða skýrslu
-Finna má hvaða síðu, færslu eða yfirlit sem er með því að nota **leita að síðu eða skýrslu** táknið efst í hægra horni slóðarstikunnar.
-Þegar byrjað er að slá stafi , birtist fellilisti með síðuheitum með stöfunum sem slegnir eru inn. Fellilistinn breytist eftir því sem fleiri stafir eru slegnir inn og hægt er að velja réttu síðuna úr listanum þegar hún birtist. Annar reiturinn í fellilistanum sýnir slóðina á síðurnar sem finnast.
+Finna má síður og skýrslur með því að nota **Leit að síðu eða skýrslu** reitinn efst í hægra horni aðseturslínunnar.
 
-**Athuga skal að**: **leita að Síða eða Skýrsla** ekki leita í gegnum gögn, svo sem heiti viðskiptamannsins, aðsetur eða færslur. Til að leita að gögnum er hægt að nota leitina sem tengjast síðunni; útlistaðar með stækkunarglerstákninu sem er efsta hægra horni. Fyrir upplýsingar´ um að nota þessa tegund leitar, sjá [færa inn skilyrði í síum](ui-enter-criteria-filters.md)
+Ef þú notar [!INCLUDE[d365fin](includes/d365fin_md.md)] í vafra skaltu leita að **Leit að síðu eða skýrslu** tákninu þess í stað.
+
+Þegar byrjað er að slá stafi , birtist fellilisti með síðuheitum með stöfunum sem slegnir eru inn. Fellilistinn breytist eftir því sem fleiri stafir eru slegnir inn og hægt er að velja réttu síðuna úr listanum þegar hún birtist. Annar reiturinn í fellilistanum sýnir slóðina á síðurnar sem finnast. Einnig er til staðar tengill sem hægt er að nota til að leita í hjálparefni að stöfunum sem slegnir voru inn.
+
+> [!NOTE]  
+>   Valkosturinn **Leita að síðu eða skýrslu** leitar ekki í gögnum, líkt og heitum viðskiptamanna, aðsetri eða færslum. Í staðinn er hægt að leita að gögnum á listasíðum með því að velja stækkunarglerstáknið í hægra horninu á listahausnum. Leitin á aðeins við um listann sem verið er að skoða. Frekari upplýsingar eru í [Skilyrði í afmörkunum](ui-enter-criteria-filters.md).  
 
 ## <a name="see-also"></a>Sjá einnig
-[Unnið með Dynamics NAV](ui-work-product.md)
+[Vinna með Dynamics NAV](ui-work-product.md)
 

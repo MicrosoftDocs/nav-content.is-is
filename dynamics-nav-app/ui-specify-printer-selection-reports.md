@@ -1,40 +1,51 @@
 ---
-title: "Tilgreina prentaraval fyrir skýrslur"
+title: "Setja upp skýrslur til að prenta á sérstökum prenturum"
+description: "Kynntu þér hvernig skal tilgreina prentara fyrir skýrslu og nota gluggann prentaraval."
+documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 55b48aef2bc108ced7f581f0ff6c11263ee467df
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: online printing
+ms.date: 03/29/2017
+ms.author: solsen
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 4c31738da8ca833c06d976d26b9cb170a05fd46e
 ms.contentlocale: is-is
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-    
 # <a name="specify-printer-selection-for-reports"></a>Tilgreina prentaraval fyrir skýrslur
-Hægt er að setja upp skýrslur þannig að það þurfi að prenta þær út á tilteknum prentara Hér á eftir koma nokkur dæmi um notkun prentaravals: 
+Þessi síða er auð vegna þess að ekki er hægt að setja upp ákveðnar prentara fyrir tilteknar skýrslur. Við erum að vinna að því að leysa þetta.
 
-- Hægt er að prenta skýrslur á sérstakt bréfsefni fyrirtækis.
-- Hægt er að prenta færslur á mismunandi pappírstærðir.
-- Hægt er að prenta skýrslur á sjálfgefnum prentara tiltekins starfsmanns.
+Í millitíðinni þarf að hlaða niður skýrslu sem á að prenta sem PDF-skjali fyrst með því að velja **Senda til** hnappinn. Þá er tegund skráar valin til að hlaða niður skýrslunni eins og **PDF-skjal** valið. Nú er hægt að opna PDF-skjalið strax og prenta það, eða vista það og prentað það síðar.
 
-Nota gluggann **prentaraval** til að stilla mismunandi gildi til að fá ólíka útkomu. Ef sértækt prentaraval er stillt hefur það forgang fram yfir almennt prentaraval. Til dæmis er hægt að stilla á prentaraval sem hefur gildi í reitunum **Kenni notanda**, **Kenni skýrslu** og **Prentaraheiti**. Þetta prentaraval hefur forgand yfir prentaraval með eyður í reitunum **Kenni notanda** eða **Kenni skýrslu**. 
+<!--
 
-Eftirfarandi tafla lýsir samsetningu gilda til að tilgreina hvenær eigi að setja upp prentaraval fyrir skýrslu.
+You can set up reports so that they must be printed on a specific printer. The following are some uses of printer selection:
 
-|Til að                                                 |Stilla eftirfarandi gildi:                                             |
+- You can print reports on special company letterhead.
+- You can print reports on different paper sizes.
+- You can print reports on the default printer of a specified employee.
+
+You use the **Printer Selections** window to set different values to obtain different output. If you set a specific printer selection, then it takes precedence over a more general printer selection. For example, you can set a printer selection that has values in the **User ID**, **Report ID**, and **Printer Name** fields. This printer selection takes precedence over a printer selection that has blank entries in the **User ID** or **Report ID** fields.
+
+The following table describes the combination of values to specify when you set up printer selections for a report.
+
+|To                                                 |Set the following values                                             |
 |---------------------------------------------------|---------------------------------------------------------------------|
-|Prenta skýrslu í tilteknum prentara fyrir alla notendur |Tilgreinið gildi í reitunum **Kenni skýrslu** og **Prentaraheiti** og skiljið reitinn **Kenni notanda** eftir auðan.|
-|Prenta allar skýrslur í tilteknum prentara fyrir tiltekinn notanda|Tilgreinið gildi í reitunum **Kenni notanda** og **Prentaraheiti** og skiljið reitinn **Kenni skýrslu** eftir auðan.|
-|Stilla sjálfgefinn prentara fyrir allar skýrslur|Tilgreinið gildi í reitnum **Prentaraheiti** og skiljið reitina **Kenni notanda** og **Kenni skýrslu** eftir auða.|
-|Prenta tiltekna skýrslu í sjálfgefnum prentara notandans|Tilgreinið gildi í reitnum **Kenni skýrslu** og skiljið reitina **Prentaraheiti** og **Kenni notanda** eftir auða.|
-|Prenta tiltekna skýrslu í tilteknum prentara fyrir tiltekinn notanda|Tilgreinið gildi í öllum þremur reitunum.|
+|Print a report to a specific printer for all users |Specify values in the **Report ID** and **Printer Name** fields and leave the **User ID** field blank.|
+|Print all reports to a specific printer for a specific user|Specify values in the **User ID** and **Printer Name** fields and leave the **Report ID** field blank.|
+|Set the default printer for all reports|Specify a value in the **Printer Name** field and leave the **User ID** and **Report ID** fields blank.|
+|Print a specific report to the user’s default printer|Specify a value in the **Report ID** field and leave the **Printer Name** and **User ID** fields blank.|
+|Print a specific report to a specific printer for a specific user|Specify values in all three fields.|
+-->
 
 ## <a name="see-also"></a>Sjá einnig
-[Unnið með Dynamics NAV](ui-work-product.md)
+[Unnið með [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Hvernig á að: Keyra runuvinnslur](ui-how-run-batch-jobs.md)  
+[Hvernig á að: Senda skjöl í tölvupósti](ui-how-send-documents-email.md)  
 

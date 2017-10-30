@@ -1,62 +1,65 @@
 ---
-title: "Loka tímabili"
+title: "Valfrjálsar aðgerðir fyrir lokun tímabila"
+description: "Þetta efnisatriði útskýrir valfrjáls ferli og aðgerðir fyrir lokun fjárhagstímabila í Dynamics NAV."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: ac1ed2d1dcf8bf780bda91fbf0a04e5c5e8d106a
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: year closing, close accounting period, close fiscal year, aging, creditor payments, vendor payments
+ms.date: 06/19/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: ca22e72552c69d3bcb0b85101b586796ff026896
 ms.contentlocale: is-is
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="close-periods"></a>Loka tímabili
-Jöfnunin þvingar notanda ekki til að loka tímabilum, hins vegar eru margar lokatímabilaaðgerðir (mánaðarlok) sem hægt er að gera í jöfnuninni ef óskað er eftir. Í þessu efnisatriði er veitt yfirsýn yfir þessar vinnslur og aðgerðir sem kunna að vera nauðsynlegar í fyrirtæki notanda.
+# <a name="overview-of-tasks-to-close-accounting-periods"></a>Yfirlit yfir verkhluta sem felur í sér lokun fjárhagstímabila
+[!INCLUDE[d365fin](includes/d365fin_md.md)] þvingar þig ekki til að loka tímabilum, en það eru margar aðgerðir í lokunartíma (lok mánaðar) sem þú getur gert. Þetta efni gefur yfirlit yfir valfrjáls ferli og starfsemi fyrir lokunartímabil.  
 
 ## <a name="general-ledger"></a>Fjárhagur
-* Tilgreina notandaskilgreind bókunardagsetningatímabil fyrir allt kerfið.
+* Tilgreindu kerfisbundið og notendasértækt bókunartímabil.  
 
-    Þetta tilgreinir það dagsetningabil sem bókanir eru leyfðar. Hugsanlega þarf að takmarka notandabókuð dagsetningabil við upphaf vinnslu lokatímabila, eða nær lokum tímabilsins, allt eftir þörfum fyrirtækisins. Nánari upplýsingar eru í [Hvernig á að tilgreina bókunartímabil](finance-setup-how-specify-posting-periods.md).
-* Allar nauðsynlegar fjárhagsleiðréttingar eru framkvæmdar.
-* Ítrekunarbækur eru uppfærðar og bókaðar.
-<!--* Process Consolidations-->
-* Fjárhagsskema keyrt sem hér segir:
-  1. Glugginn **Fjárhagsskema** er opnaður og smellt á aðgerðina **Prenta**.
-  2. Fyllið inn í beiðnagluggann **Fjárhagsskema** og smellið á aðgerðina **Prenta**.
+    Þetta tilgreinir dagsetningar þar sem hægt er að bóka. Þú gætir viljað leyfa bókun í byrjun tímabilsins eða í lok tímabilsins, allt eftir fyrirtækinu. Nánari upplýsingar eru í [Hvernig á að tilgreina bókunartímabil](finance-how-specify-posting-periods.md).  
+* Allar nauðsynlegar fjárhagsleiðréttingar eru framkvæmdar.  
+* Ítrekunarbækur eru uppfærðar og bókaðar.  
+  <!--* Process Consolidations-->
+* Fjárhagsskema keyrt sem hér segir:  
+  * Glugginn **Fjárhagsskema** er opnaður og smellt á aðgerðina **Prenta**.  
 
-## <a name="sales--receivables"></a>Sala
-* Allar sölupantanir, reikningar, kreditreikningar og vöruskilapantanir eru bókaðar.
-* Inngreiðslubókin er bókuð.
-* Ítrekunarfærslubækur tengdar sölugrunni eru uppfærðar og bókaðar.
-* Afstemma viðskiptakröfur við færslubók.
-* Runuvinnslan **Eyða reikningsf. sölupöntunum** er keyrð.
+## <a name="sales-and-receivables"></a>Sala and útistandandi
+* Allar sölupantanir, reikningar, kreditreikningar og vöruskilapantanir eru bókaðar.  
+* Inngreiðslubókin er bókuð.  
+* Uppfæra og birta bækur tímarit sem tengjast sölu og útistandandi.  
+* Afstemma viðskiptakröfur við færslubók.  
+* Runuvinnslan **Eyða reikningsf. sölupöntunum** er keyrð.  
 
-## <a name="purchases--payables"></a>Innkaup
-* Allar pantanir, reikningar, kreditreikningar og vöruskilapantanir eru bókaðar.
-* Allar greiðslubækur eru bókaðar.
-* Ítrekunarfærslubækur tengdar innkaupum og viðskiptaskuldum eru uppfærðar og bókaðar.
-* Skýrslan **Aldursgreindar skuldir** er keyrð og skuldir stemmdar af við fjárhaginn.
-* Runuvinnslan **Eyða reikningsf. innk.pöntunum** er keyrð.
+## <a name="purchases-and-payables"></a>Innkaup og viðskiptaskuldir
+* Allar pantanir, reikningar, kreditreikningar og vöruskilapantanir eru bókaðar.  
+* Allar greiðslubækur eru bókaðar.  
+* Ítrekunarfærslubækur tengdar innkaupum og viðskiptaskuldum eru uppfærðar og bókaðar.  
+* Skýrslan **Aldursgreindar skuldir** er keyrð og skuldir stemmdar af við fjárhaginn.  
+* Runuvinnslan **Eyða reikningsf. innk.pöntunum** er keyrð.  
 
-<!-- ### Fixed Assets
-* Post all maintenance costs have been posted through the fixed asset journals or invoices.
-* Post adjustments.
-* Post appreciation.
-* Post depreciation.
-* Update and post the recurring fixed asset journal.-->
+Eignir
+* Allur viðhaldskostnaður hefur verið bókaður í gegnum Eignabók eða Reikningar
+* Leiðréttingar eru bókaðar
+* Uppfærsla er bókuð
+* Afskriftir eru bókaðar
+* Ítrekunarbók eigna er uppfærð og bókuð.
 
-<!--### Intercompany
-* Process Intercompany Postings.-->
+Milli fyrirtækja
+* Vinna úr færslum á milli fyrirtækja
 
 ## <a name="calculate-and-process-sales-tax"></a>VSK er reiknaður og unninn
-*  Lokið er við skattyfirlit.
+* Lokið er við skattyfirlit.  
 
 ## <a name="see-also"></a>Sjá einnig
 [Lokaár og Tímabil](year-close-years-periods.md)  
-[Loka bókum](year-close-books.md)
+[Bókum lokað](year-close-books.md)  
+[Unnið með [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

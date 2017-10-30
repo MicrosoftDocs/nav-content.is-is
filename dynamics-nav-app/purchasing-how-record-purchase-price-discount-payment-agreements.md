@@ -1,59 +1,64 @@
 ---
-title: "Hvernig á að: Skrá söluverð og afslætti"
+title: "Setja upp sérstaka varaverðlagningu og afslætti fyrir lánardrottna"
+description: "Þú getur skilgreint mismunandi varaverð og afsláttarsamninga og úthlutað þeim til innkaupaskjala fyrir lánardrottna."
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: f99bb0aeef2c25048b0da3e0476ae2d612bff562
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: special price, alternate price, pricing
+ms.date: 07/03/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: cc4240ea4201bd68b3c2c9c27ab91dc49583e6a6
 ms.contentlocale: is-is
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
-#<a name="how-to-record-purchase-prices-and-discounts"></a>Hvernig á að: Skrá söluverð og afslætti
+# <a name="how-to-record-special-purchase-prices-and-discounts"></a>Hvernig á að: Skrá sérstakt söluverð og sérstaka afslætti
 Skilgreina verður mismunandi verð- og afsláttarsamninga sem gilda þegar vörur eru keyptar frá mismunandi lánardrottnum svo að þeim reglum og gildum sem samkomulag hefur náðst um sé beitt á innkaupaskjöl sem gerð eru fyrir lánardrottininn.
+
+Þegar notandi hefur skráð sérstakt verð og línuafslætti vegna sölu eða innkaupa tryggir [!INCLUDE[d365fin](includes/d365fin_md.md)] að hagnaður notanda af viðskiptum með vöru sé alltaf hámarkaður með því að reikna sjálfkrafa besta verð á sölu- og innkaupaskjölum og á færslubókarlínum fyrir verk og vörur. Nánari upplýsingar, sjá: „Útreikningur besta verðs“ hlutann.
 
 Hvað varðar verð, er hægt að hafa sérstakt söluverð í sölulínunum ef tiltekin samsetning á viðskiptamanni, vöru, lágmarksmagni, mælieiningu, eða upphafs-/ lokadagsetningu er til staðar.
 
 Hvað varðar afslátt, er hægt að setja upp og nota tvær tegundir innkaupaafsláttar:
 
-|Afsláttargerð |Lýsing |
-|--------------|------------|
-|**Innkaupalínuafsláttur**|Afsláttarupphæð sem er sett inn í sölulínur ef tiltekin samsetning á lánardrottni, vöru, lágmarksmagni, mælieiningu, eða upphafs-/ lokadagsetningu er til staðar. Þetta virkar á sama háttog fyrir innkaupsverð.|
-|**Reikningsafsláttur**|Hlutfallsafsláttur sem er dreginn frá heildarupphæð skjalsins ef upphæðin í öllum línum í söluskjali fer fram yfir ákveðið lágmark.|
+| Afsláttargerð | Lýsing |
+| --- | --- |
+| **Innkaupalínuafsláttur** |Afsláttarupphæð sem er sett inn í sölulínur ef tiltekin samsetning á lánardrottni, vöru, lágmarksmagni, mælieiningu, eða upphafs-/ lokadagsetningu er til staðar. Þetta virkar á sama háttog fyrir innkaupsverð. |
+| **Reikningsafsláttur** |Hlutfallsafsláttur sem er dreginn frá heildarupphæð skjalsins ef upphæðin í öllum línum í söluskjali fer fram yfir ákveðið lágmark. |
 
-Vegna þess að innkaupalínuafslættir og innkaupaverð byggjast á samsetningu vöru og lánardrottins er einnig hægt að færa þessa grunnstillingu inn af birgðaspjaldinu, þar sem reglurnar og gildin eru skilgreind. Nánari upplýsingar eru í [Hvernig á að: Skrá nýjar vörur](inventory-how-register-new-products.md).
+Vegna þess að innkaupalínuafslættir og innkaupaverð byggjast á samsetningu vöru og lánardrottins er einnig hægt að færa þessa grunnstillingu inn af birgðaspjaldinu, þar sem reglurnar og gildin eru skilgreind. Nánari upplýsingar eru í [Hvernig á að: Skrá nýjar vörur](inventory-how-register-new-items.md).
 
 ## <a name="to-set-up-a-special-purchase-price-for-a-vendor"></a>Að setja upp sérstakt innkaupsverð fyrir lánardrottin
-1. Í efra hægra horni, veldu **leita að síðu eða skýrslu**, færðu inn **lánardrottnar** og velja síðan viðkomandi tengil.
+1. Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn **lánardrottnar** og velja svo viðeigandi tengil.
 2. Opna skal viðeigandi lánardrottnaspjald og velja síðan aðgerðina **Verð**.
 
     Reiturinn **Tegund innkaupa** er fylltur út fyrirfram með **Lánardrottinn**og í reitnum **Innkaupakóði**er númer lánardrottins.
-3. Fyllið út reitina í línunni eins og þörf er á. Velja reit til að lesa inn stutta lýsingu á reitnum eða tengil í frekari upplýsingar.
+3. Fyllið út reitina í línunni eins og þörf er á. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 4. Fyllt er út lína fyrir hverja samsetningu sem lánardrottinn veitir innkaupalínuafsláttur fyrir.
 
 ## <a name="to-set-up-a-line-discount-for-a-vendor"></a>Að setja upp línuafslátt fyrir lánardrottin
-1. Í efra hægra horni, veldu **leita að síðu eða skýrslu**, færðu inn **lánardrottnar** og velja síðan viðkomandi tengil.
+1. Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn **lánardrottnar** og velja svo viðeigandi tengil.
 2. Opna skal viðeigandi lánardrottinsspjald og veljið síðan aðgerðina **Línuafslættir**.
 
     Reiturinn **Tegund innkaupa** er fylltur út fyrirfram með **Lánardrottinn**og í reitnum **Innkaupakóði**er númer lánardrottins.
-3. Fyllið út reitina í línunni eins og þörf er á. Velja reit til að lesa inn stutta lýsingu á reitnum eða tengil í frekari upplýsingar.
+3. Fyllið út reitina í línunni eins og þörf er á. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 4. Fyllt er út lína fyrir hverja samsetningu sem lánardrottinn veitir innkaupalínuafsláttur fyrir.
 
 ## <a name="to-set-up-an-invoice-discount-for-a-vendor"></a>Að setja upp reikningsafslátt fyrir lánardrottin
 Þegar lánardrottnar þínir hafa veitt þér upplýsingar um hvaða reikningsafslætti þeir veita eru færðir inn reikningsafsláttarkóðar á lánardrottnaspjöldin og sett upp skilyrði fyrir hvern kóða.
 
-1. Í efra hægra horni, veldu **leita að síðu eða skýrslu**, færðu inn **lánardrottnar** og velja síðan viðkomandi tengil.
+1. Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn **lánardrottnar** og velja svo viðeigandi tengil.
 2. Opna skal spjald lánardrottins sem getur veitt reikningsafslátt.
 3. Í reitnum **Reikningsafsláttarkóði** er valinn kóði fyrir viðeigandi reikningsafsláttarskilmála sem forritið notar til að reikna reikningsafslátt fyrir lánardrottin.
 
-    **Athugasemd**: Fyrirliggjandi lánardrottnaspjöld standa fyrir reikningsafsláttarkóða. Þetta gerir kleift að úthluta reikningsafsláttarskilmálum hratt og örugglega til lánardrottna með því að velja nafn annars lánardrottins sem hefur sömu skilmála.
+    > [!NOTE]  
+>   Fyrirliggjandi lánardrottnaspjöld standa fyrir reikningsafsláttarkóða. Þetta gerir kleift að úthluta reikningsafsláttarskilmálum hratt og örugglega til lánardrottna með því að velja nafn annars lánardrottins sem hefur sömu skilmála.
 
     Næsta skref er að setja upp nýja skilmála fyrir reikningsafslátt.
 4. Í glugganum **Lánardrottnaspjald** er aðgerðin **Reikningsafslættir** valin. Glugginn **Reikningsafsláttur lánardr.** opnast.
@@ -64,7 +69,61 @@ Vegna þess að innkaupalínuafslættir og innkaupaverð byggjast á samsetningu
 
 Reikningsafsláttur er nú settur upp og úthlutað á umræddan lánardrottin. Þegar valinn er lánardrottinskóði í reitnum **Kóði reikningsafsláttar** á öðrum lánardrottnaspjöldum er sama reikningsafslætti úthlutað þeim lánardrottini.
 
-## <a name="see-also"></a>Sjá einnig  
-[Setja upp innkaup](purchasing-setup-purchasing.md)  
-[Stjórnun innkaupa](purchasing-manage-purchasing.md)
+## <a name="to-choose-a-principle-for-posting-purchase-discounts"></a>Regla valin fyrir bókun á innkaupaafslætti:  
+Þegar innkaupareikningur er bókaður sem hefur að geyma eina eða fleiri tegundir afsláttar er hægt að velja á milli tveggja reglna til að bóka afsláttarupphæðir. Hægt er að bóka afslátt sérstaklega eða hægt er að draga afslátt frá reikningsafslætti.  
+
+Áður en hægt er að gera þetta verður að vera búið að setja upp nauðsynlega reikninga til að bóka afsláttarupphæðir í bókhaldslyklinum. Einnig verður að gæta þess að rétt reikningsnúmer hafi verið sett í almennu bókunaruppsetninguna í reitunum **Afsláttarreikningur Innkaupalínu** og **Afsláttarreikningur Innkaupabirgða**.
+
+1. Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn **Uppsetning innkaupa og viðskiptaskulda** og velja svo viðeigandi tengil.
+2. Í reitnum **Afsláttarbókun** er valin ein af eftirfarandi reglum fyrir bókun afsláttar.
+
+|**Afsláttarbókunarregla**|**Reikningsafsláttur**|**Línuafsláttur**|  
+|------------------------------------|--------------------------|-----------------------|  
+|**Allur afsláttur**|Bókað sérstaklega|Bókað sérstaklega|  
+|**Reikningsafsláttur**|Bókað sérstaklega|Dregið frá|  
+|**Línuafslættir**|Dregið frá|Bókað sérstaklega|  
+|**Enginn afsláttur**|Dregið frá|Dregið frá|  
+
+# <a name="purchase-invoice-discounts-and-service-charges"></a>Afslættir Innkaupareiknings og Þjónustugjöld
+Hafi skilyrði fyrir reikningsafslátt fyrir lánardrottna verið ákveðinn er hægt að færa þau inn. Þá verður afslátturinn reiknaður út þegar innkaupareikningur er fylltur út.  
+
+ Áður en hægt er að nota reikningsafslátt í innkaupum verður að tilgreina hjá hvaða lánardrottnum er hægt að fá afslátt.  
+
+ Afsláttarprósentur eru tengdar við ákveðnar reikningsupphæðir í glugganum **Reikn.afsl. lánardr.**. Hægt er að færa inn hvaða prósentutölu sem er inn í hvern glugga. Hver lánardrottinn getur haft sinn eigin glugga, eða hægt er að tengja nokkra lánardrottna saman í glugga.  
+
+ Til viðbótar við afsláttarprósentu er hægt að tengja ákveðið þjónustugjald við ákveðna reikningsupphæð.  
+
+ Skilmála um reikningsafslátt innlendra lánardrottna má tilgreina í SGM og í erlendum gjaldmiðli hjá erlendum lánardrottnum.  
+
+ Hægt er að láta [!INCLUDE[d365fin](includes/d365fin_md.md)] reikna sjálfkrafa út reikningsafslátt fyrir beiðnir, standandi pantanir, pantanir, reikninga eða kreditreikninga.  
+
+> [!TIP]  
+>  Áður en hafist er handa við að setja upplýsingarnar inn í forritið er gott að útbúa uppkast af því afsláttarformi sem á að nota. Þetta gerir auðveldara að átta sig á því hvaða lánardrottna er hægt að tengja við sama reikningsafsláttarglugga. Eftir því sem setja þarf upp færri glugga, þeim mun fljótlegra er að færa inn grunnupplýsingarnar.
+
+## <a name="best-price-calculation"></a>Útreikningur besta verðs
+Þegar notandi hefur skráð sérstakt verð og línuafslætti vegna sölu eða innkaupa tryggir [!INCLUDE[d365fin](includes/d365fin_md.md)] að hagnaður notanda af viðskiptum með vöru sé alltaf hámarkaður með því að reikna sjálfkrafa besta verð á sölu- og innkaupaskjölum og á færslubókarlínum fyrir verk og vörur.
+
+Besta verð er lægsta leyfilega verð með hæsta leyfilega línuafslættinum þennan tiltekna dag. [!INCLUDE[d365fin](includes/d365fin_md.md)] reiknar þetta sjálfkrafa þegar það setur einingarverð og línuafsláttarprósentuna fyrir vörur í nýja skjalinu og í færslubókarlínum.
+
+> [!NOTE]  
+>   Eftirfarandi lýsir því hvernig besta verð er reiknað fyrir sölu. Útreikningurinn er sá sami fyrir innkaup.
+
+1. [!INCLUDE[d365fin](includes/d365fin_md.md)]kannar samsetningu reikningsfærslu á viðskiptamann og vöru og velur svo rétt viðeigandi verð og afslátt samkvæmt eftirfarandi skilyrðum:
+
+    - Er þessi viðskiptamaður með sérstakan samning um verð eða línuafslætti, eða tilheyrir viðskiptamaðurinn hóp með slíkan samning?
+    - Fellur varan eða vöruafsláttarflokkurinn á línunni undir þessa samninga?
+    - Er pöntunardagsetningin (eða bókunardagsetning reikningsins og kreditreikningsins) á milli upphafs- og lokadagsetningar verðs/línuafsláttar?
+    - Er mælieiningarkóti tilgreindur? Ef svo er leitar [!INCLUDE[d365fin](includes/d365fin_md.md)] að verði/línuafslætti með sama mælieiningarkóða og verði/afslætti án mælieiningarkóða.
+
+2. [!INCLUDE[d365fin](includes/d365fin_md.md)] kannar hvort einhverjir samningar um verð/afslátt í eiga við um skjalið eða færslubókarlínuna og bætir svo við viðeigandi einingaverði og prósentu línuafsláttar samkvæmt eftirfarandi skilyrðum:
+
+    - Er krafa um lágmarksmagn til staðar í samningi um verð/afslátt sem er uppfyllt?
+    - Er krafa um gjaldmiðil til staðar í samningi um verð/afslátt sem er uppfyllt? Ef svo er, er lægsta verðið og hæsti línuafsláttur fyrir þann gjaldmiðil bætt við, jafnvel þótt SGM myndi veita betra verð. Ef ekkert verð/línuafsláttur er til í tilgreindum gjaldmiðilskóða, setur [!INCLUDE[d365fin](includes/d365fin_md.md)] inn lægsta verðið og hæsta línuafsláttinn í SGM.
+
+Ef ekkert verð finnst fyrir vörurnar á línunni er síðasta innkaupsverð eða einingaverð sótt af birgðaspjaldinu eða birgðahaldseiningarspjaldinu.
+
+## <a name="see-also"></a>Sjá einnig
+[Uppsetning innkaupa](purchasing-setup-purchasing.md)  
+[Innkaup](purchasing-manage-purchasing.md)  
+[Unnið með [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

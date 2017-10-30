@@ -1,35 +1,41 @@
 ---
-title: QuickBooks gagnaflutningur
+title: "Notkun á QuickBooks Flutningsviðbót"
+description: "Lýsir því hvernig skal nota viðbæturnar til að flytja inn viðskiptamenn, lánardrottna, vörur og reikninga frá QuickBooks Desktop til Dynamics NAV."
 author: edupont04
-ms.custom: na
-ms.date: 09/23/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 0724faf08dce7de533c380f4212b67f6e730e0cd
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms. search.keywords: app, add-in, manifest, customize, import, implement
+ms.date: 03/29/2017
+ms.author: edupont
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 7b8cf77369a2073f746aebdca5d4cbeba80283ec
 ms.contentlocale: is-is
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
 # <a name="the-quickbooks-data-migration-extension-for-dynamics-nav"></a>Viðbótin QuickBooks gagnaflutningar í Dynamics NAV
-Þessi viðbót auðveldar flutning viðskiptamanna, lánardrottna og vara úr QuickBooks yfir í Dynamics NAV. Ef fyrirtækið notar QuickBooks er hægt að flytja út viðeigandi upplýsingar og opna síðan leiðarvísi fyrir uppsetningu með hjálp til að hlaða gögnunum upp í Dynamics NAV.  
+Þessi viðbót auðveldar flutning viðskiptamanna, lánardrottna og vara og reikninga úr QuickBooks Desktop í [!INCLUDE[d365fin](includes/d365fin_md.md)]. Ef fyrirtækið notar QuickBooks er hægt að flytja út viðeigandi upplýsingar og opna síðan leiðarvísi fyrir uppsetningu með hjálp til að hlaða gögnunum upp í [!INCLUDE[d365fin](includes/d365fin_md.md)].  
+Nánari upplýsingar eru í [Innflutningur viðskiptagagna úr öðrum fjárhagskerfum](upload-data.md).
 
-## <a name="exporting-data-from-quickbooks"></a>Útflutningur gagna frá QuickBooks
-Það þarf að vera búið að flytja suma eða alla viðskiptamenn, lánardrottna og birgðavörur sem fyrir eru yfir í skrá á Intuit Interchange sniði (IIF). Viðbótin QuickBooks gagnaflutningar inniheldur sjálfgefna vörpun gagna QuickBooks þannig að þau gögn má nota til að prófa nýja fyrirtækið í Dynamics NAV. Sjálfgefin vörpun er nægileg í langflestum tilfellum en hægt er að breyta vörpun í leiðarvísi fyrir uppsetningu með hjálp.  
-Í QuickBooks felur skráarvalmyndin í sér þann möguleika að flytja út lista. Fyrir Dynamics NAV er hægt að flytja út eftirfarandi lista:
-- Viðskiptamannalisti
-- Lánardrottnalisti
-- Birgðalisti
-- Reikningalisti  
+## <a name="exporting-data-from-quickbooks-desktop"></a>Útflutningur gagna frá QuickBooks Desktop
+Það þarf að vera búið að flytja suma eða alla viðskiptamenn, lánardrottna og birgðavörur og reikninga sem fyrir eru yfir í skrá á Intuit Interchange sniði (IIF). Viðbótin QuickBooks gagnaflutningar inniheldur sjálfgefna vörpun gagna QuickBooks þannig að þau gögn má nota til að prófa nýja [!INCLUDE[d365fin](includes/d365fin_md.md)] fyrirtækið. Sjálfgefin vörpun er nægileg í langflestum tilfellum en hægt er að breyta vörpun í leiðarvísi fyrir uppsetningu með hjálp.  
+Í QuickBooks felur skráarvalmyndin í sér þann möguleika að flytja út lista. Fyrir [!INCLUDE[d365fin](includes/d365fin_md.md)] er hægt að flytja út eftirfarandi lista:
 
-Útfluttu gögnin eru vistuð sem IIF-skrá sem síðan er hægt að hlaða upp í Dynamics NAV.
+* Viðskiptamannalisti  
+* Lánardrottnalisti  
+* Birgðalisti  
+* Reikningalisti  
 
-## <a name="see-also"></a>Sjá einnig  
-[Sérstilling Dynamics NAV með viðbótum ](ui-extensions.md)  
-[Gögn flutt inn úr öðrum fjárhagskerfum](upload-data.md)  
+Útfluttu gögnin eru vistuð sem IIF-skrá sem síðan er hægt að hlaða upp í [!INCLUDE[d365fin](includes/d365fin_md.md)].
+
+## <a name="finding-the-quickbooks-data-migration-extension"></a>Finna viðbótin QuickBooks gagnaflutningar
+Viðbótin QuickBooks gagnaflutningar er sett upp og tilbúin til keyrslu sem samþættur hluti af Gagnaflutningar uppsetningarleiðbeiningar með aðstoð. Ef þú ert tilbúin(n) til hefjast handa, og hefur flutt út þín gögn frá QuickBooks, skal velja ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn **Uppsetning með hjálp** og velja svo viðeigandi tengil. Veljið **Flytja viðskiptagögn** og fara síðan eftir skrefunum í leiðbeiningunum.  
+
+## <a name="see-also"></a>Sjá einnig
+[Innflutningur viðskiptagagna úr öðrum fjárhagskerfum](upload-data.md)  
+[Sérstilling [!INCLUDE[d365fin](includes/d365fin_md.md)] með viðbótum ](ui-extensions.md)  
 

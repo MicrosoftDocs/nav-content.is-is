@@ -1,1 +1,1 @@
-Microsoft Dynamics NAV-vefþjónsíhlutir
+Microsoft Dynamics NAV Íhlutir vefþjóns

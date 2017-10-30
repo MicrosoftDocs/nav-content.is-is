@@ -1,21 +1,24 @@
 ---
-title: "Loka bókum"
+title: "Yfirlit yfir verkhluta lokun bóka"
+description: "Kynntu þér ferlið þegar bókum er lokað fyrir fjárhagsárið eða tímabilið og hvað gerist eftir að þú lokar við enda árs."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: ad75bfd18936df07e0fe9dcc5ed6bb94360ea965
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: year closing, close accounting period, close fiscal year, bank account detailed trial balance
+ms.date: 03/29/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: d709f8bfb5da3a0ebf5b44f3246fa3ccaa69c77f
 ms.contentlocale: is-is
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="close-books"></a>Loka bókum
+# <a name="closing-the-books"></a>Bókum lokað
 Þegar búið er að ganga úr skugga um að allir reikningar séu uppfærðir og búið er að úthluta kostnaði og tekjum, má loka bókunum fyrir reikningsárið eða tímabilið.
 
 Það er ekki nauðsynlegt að loka ári en sé það gert verður auðveldara að nota þær hentugu afmarkanir sem eru í boði. Ekki þarf að óttast að missa færslugögn þegar lokað er því allar upplýsingar eru geymdar, einnig eftir að árinu hefur verið lokað.
@@ -25,14 +28,12 @@ Ferli þess að loka bókum felur í sér þessi aðalverk:
 
 1. Lokun reikningstímabilsins.
 
-    Reikningsár er skilgreint sem eitt eða fleiri opin tímabil á listanum á síðunni **Reikningstímabil**. Venjulegt reikningsár inniheldur 12 tímabil sem er einn mánuður hvert, en einnig er hægt að velja aðra aðferð við að skilgreina árið.
+    Reikningsár er skilgreint sem einn eða fleiri opinn tímabil eins og skilgreint er í glugganum **Reikningstímabil**. Venjulegt reikningsár inniheldur 12 tímabil sem er einn mánuður hvert, en einnig er hægt að velja aðra aðferð við að skilgreina árið.
 
     Nánari upplýsingar sjá [Hvernig á að: Loka reikningstímabilum](year-close-account-periods.md).
-
 2. Skráning á færslum fyrra árs.
 
     Þegar reikningsári er lokað þarf að færa inn fjölda stjórnunaraðgerða (eins og fyrirframgreiddar og uppsafnaðar vörur). Slíkar aðgerðir kallast leiðréttingar á færslum. Engar sérstakar reglur gilda um bókanir slíkra færslna og innihalda þær (líkt og aðrar færslur) gátmerkisreitinn **Seinfærsla** ef þær eru bókaðar á dagsetningu í lokuðu reikningsári. Enda þótt reikningsári hafi verið lokað er enn hægt að bóka fjárhagsfærslur á það.
-
 3. Flytja færslur af rekstrarreikningi yfir á efnahagsreikning.
 
     Þegar reikningsári er lokað og allar seinfærslur bókaðar þarf að loka rekstrarreikningum og nettótekjur ársins færðar yfir á reikning undir eigið fé á efnahagsreikningi. Notið keyrsluna Loka efnahagsreikningi í þessum tilgangi. Keyrslan vinnur úr öllum fjárhagsreikningum af gerðinni Rekstrarreikningar og býr til færslur sem bakfærir stöðu þeirra. Færslurnar eru settar í færslubók þar sem má bóka þær. Keyrslan bókar þær ekki sjálfkrafa, nema þegar annar skýrslugjaldmiðill er notaður. Þegar annar skýrslugjaldmiðill er notaður, bókar keyrslan beint í færslubókina.
@@ -52,5 +53,6 @@ Kerfið býr svo til lokunarfærslu, en bókar færsluna ekki sjálfkrafa. Hægt
 Hægt er að bóka á fyrra reikningsár jafnvel eftir lokun rekstrarreiknings ef keyrslan Loka rekstrarreikningi er keyrð aftur síðar.
 
 ## <a name="see-also"></a>Sjá einnig
-[Hvernig á að opna Nýtt reikningsár](finance-setup-how-open-new-fiscal-year.md)
+[Hvernig á að opna Nýtt reikningsár](finance-how-open-new-fiscal-year.md)  
+[Unnið með [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

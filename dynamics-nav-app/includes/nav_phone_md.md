@@ -1,1 +1,1 @@
-Microsoft Dynamics NAV símabiðlari
+Microsoft Dynamics NAV Símabiðlari

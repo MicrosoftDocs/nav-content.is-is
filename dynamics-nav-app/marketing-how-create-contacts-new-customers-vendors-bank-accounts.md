@@ -1,27 +1,30 @@
 ---
-title: "Stofna viðskiptamanni, lánadrottni eða bankareikning úr tengilið"
+title: "Stofna viðskiptamann eða lánardrottinn út frá tengilið"
+description: "Hægt er að skrá fyrirliggjandi tengilið sem viðskiptamann, lánadrottinn eða bankareikninga með því að nota fyrirliggjandi upplýsingar og tiltaka eðli viðskiptasambands."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 2a0252743c4f6ce8a85c7aaf2d0751351a6d4251
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: relationship, client, prospect
+ms.date: 06/06/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: f28d313d64fc6ace01eb74596f6c8bfec42ca7aa
 ms.contentlocale: is-is
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="create-a-customer-vendor-or-bank-account-from-a-contact"></a>Stofna viðskiptamanni, lánadrottni eða bankareikning úr tengilið
+# <a name="how-to-create-a-customer-vendor-or-bank-account-from-a-contact"></a>Hvernig skal: Stofna viðskiptamann, lánadrottinn eða bankareikning úr tengilið
 Suma fyrirliggjandi tengiliði er ef til vill æskilegt að skrá sem viðskiptamenn, lánadrottna eða bankareikninga. Stofna viðskiptamanni, lánadrottni eða bankareikning úr tengilið gerir þér kleift að nota fyrirliggjandi gögn. Þegar þú stofnar viðskiptavin, lánardrottinn, eða bankareikning á þennan hátt er það samstillt við tengiliðinn. Samstilling gerir upplýsingarnar sem eru sameiginleg tengiliði og viðskiptamenn, lánardrottna eða bankareikninga þær sömu.
 
 áður en þú getur skráð tengiliði á þennan hátt, verðurðu að tilgreina viðskiptatengslakóða fyrir viðskiptavini, lánardrottna, og bankareikninga í glugganum **uppsetning markaðssetningar** Ef þú munt skrá tengiliði sem bankareikning verður einnig að tilgreina númeraraðir fyrir bankareikninga í glugganum **Fjárhagsgrunnur**.
 
 ## <a name="to-create-a-contact-as-a-customer-vendor-or-bank-account"></a>Tengiliðir stofnaðir sem viðskiptamenn, lánadrottnar eða bankareikningar:
-1. Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **tengiliðir**, og velja síðan viðeigandi tengil.
+1. Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn  **Tengiliðir** og velja svo viðeigandi tengil.
 2. Velja skal tengiliðinn sem stofna á sem viðskiptamann, lánadrottinn eða bankareikning.
 3. Veldu aðgerðina **Stofna sem** og síðan valinn annað hvort **Viðskiptamaður**, **Lánadrottinn** eða **Banki**.
 4. Staðfesta þarf eftirfarandi skilaboð.
@@ -29,10 +32,11 @@ Suma fyrirliggjandi tengiliði er ef til vill æskilegt að skrá sem viðskipta
 Tengslaupplýsingarnar eru fluttar úr spjaldinu **Tengiliður** yfir í spjaldið **Bankareikningur**, spjaldið **Viðskiptamaður**, eða spjaldið **Lánardrottinn**. Hugsanlega þarf að bæta við tilteknum upplýsingum við hvert spjald, svo sem um reikningsfærslu og greiðsluupplýsingar.
 
 ## <a name="see-also"></a>Sjá einnig
-[Hvernig á að stofna Fyrirtækjatengilið](marketing-create-contact-companies.md)  
+[Hvernig á að stofna tengiliðafyrirtæki](marketing-create-contact-companies.md)  
 [Hvernig á að stofna Einstaklingstengilið](marketing-create-contact-persons.md)  
-[Setja Upp Markaðssetning og Tengiliði](marketing-setup-marketing.md)  
+[Uppsetning tengslastjórnunar](marketing-setup-marketing.md)  
 [Samstilla tengiliði við viðskiptavini, seljendur og bankareikninga](marketing-synchronize-contacts-customers-vendors-bank-accounts.md)  
 [Hvernig á að: Tengja tengiliði við núverandi viðskiptavini, seljendur eða bankareikninga](marketing-how-link-contact.md)  
-[Úthluta viðskiptatengslum á tengilið](marketing-business-relations.md#assign-business-relations-to-a-contact)
+[Úthluta viðskiptatengslum á tengilið](marketing-business-relations.md#AssignBusRelContact)  
+[Unnið með Dynamics NAV](ui-work-product.md)
 

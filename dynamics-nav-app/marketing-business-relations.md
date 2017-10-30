@@ -1,34 +1,38 @@
 ---
-title: "Setja Upp Viðskiptatengsl í tengiliðafyrirtækjum."
+title: "Skilgreina kóða viðskiptatengsla á tengiliði"
+description: "Notaðu viðskiptatengsl í Dynamics NAV til að hjálpa til við markaðssetningu og tilgreina þau viðskiptatengsl sem þú hefur við viðföng, biðlara og viðskiptavini, t.d. banka eða þjónustuaðila."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 20abe2f08fc726a008719f94389579d02ecbd275
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: marketing, prospect, contact, client, customer
+ms.date: 06/06/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 36e77c794e7aa92d5d323d93a7703359018efd39
 ms.contentlocale: is-is
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="set-up-business-relations-on-contact-companies"></a>Setja Upp Viðskiptatengsl í tengiliðafyrirtækjum.
+# <a name="setting-up-business-relations-on-contact-companies"></a>Uppsetning viðskiptatengsla í tengiliðafyrirtækjum
 Þú getur notað Viðskiptatengsl til að tilgreina þau viðskiptatengsl sem eru við tengiliðina, til dæmis viðföng, banka, ráðgjafa eða þjónustuaðila, og svo framvegis.
 
 Notkun viðskiptatengsla á tengiliði er tveggja þrepa ferli. Fyrst skilgreinirðu kóða viðskiptatengsla. Aðeins þarf að framkvæma þetta skref í eitt skipti fyrir hver viðskiptatengsl. Þegar kominn er viðskiptatengslakóði, er hægt að byrja að úthluta kóðanum til tengiliðafyrirtækja.
 
-**Athugasemd:** Ef á að samstilla tengiliði við lánardrottna, viðskiptamenn eða bankareikninga í öðrum hlutum kerfisins er ráðlegt að setja upp viðskiptatengsl fyrir þá.
+> [!NOTE]  
+>   Ef á að samstilla tengiliði við lánardrottna, viðskiptamenn eða bankareikninga í öðrum hlutum kerfisins er ráðlegt að setja upp viðskiptatengsl fyrir þá.
 
-## <a name="define-a-business-relation-code"></a>Skilgreina viðskiptatengslakóða
-Viðskiptatengslakóðinn tilgreinir flokk eða tegund viðskiptatengsla, svo sem BANKA eða LÖG. Hægt er að hafa nokkrar viðskiptatengslakóða. Til að skilgreina viðskiptatengslin er að nota gluggann **Viðskiptatengsl** .
+## <a name="to-define-a-business-relation-code"></a>Til að skilgreina viðskiptatengslakóða
+Viðskiptatengslarkóðinn skilgreinir flokk eða tegund viðskiptasambandsins, svo sem banka eða lög. Hægt er að hafa nokkrar viðskiptatengslakóða. Til að skilgreina viðskiptatengslin er að nota gluggann **Viðskiptatengsl** .
 
-1. Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **viðskiptatengsl**, og velja síðan viðeigandi tengil.
+1. Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn **viðskiptatengsl** og velja svo viðeigandi tengil.
 2. Valið er **Nýtt** aðgerð og fyllt er inn kóði og lýsing. Kóðinn má vera mest 11 stafir, og getur verið hvaða samasetning sem er af tölustafir og bókstafir.
 
-## <a name="assign-business-relations-to-a-contact"></a>Úthluta viðskiptatengslum á tengilið.
+## <a name="AssignBusRelContact"></a> Til að úthluta viðskiptatengslum á tengilið
 Þú getur ekki Úthluta viðskiptatengslum á tengilið - aðeins fyrirtæki.
 
 1. Tengiliðurinn er opnaður.
@@ -43,6 +47,7 @@ Fjöldi viðskiptatengsla sem tengiliðnum hefur verið úthlutað er birtur í 
 
 Þegar tengiliðum hefur verið úthlutað viðskiptatengslum er hægt að nota þessar upplýsingar til að velja tengiliði í hluta. Sjá frekari upplýsingar hér [Hvernig á að bæta tengiliðum við hluta:](marketing-add-contact-segment.md)
 
-##<a name="see-also"></a>Sjá einnig
-[Stofna fyrirtækjatengilið](marketing-create-contact-companies.md)
+## <a name="see-also"></a>Sjá einnig
+[Fyrirtækjatengiliðir stofnaðir](marketing-create-contact-companies.md)  
+[Unnið með [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

@@ -8,11 +8,11 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: a2268d8454af761c40b11d89b01778a3f92090fb
+ms.translationtype: HT
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 15f30a03c3e7ccc865ef527a707794c2c6428b2f
 ms.contentlocale: is-is
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 
@@ -26,7 +26,7 @@ Til að Virkja greiðslur viðskiptamanna gegnum PayPal verðurðu að gera efti
 1. Setja upp PayPal Payments Standard sem greiðsluþjónustu í glugganum **GreiðslÞjónusta** .
 2. Velja PayPal Payments Standard í á **Greiðsluþjónustu** reit á viðkomandi söluskjal.
 
-Paypal Payments Standard er uppsett sem viðbót við Dynamics NAV og tilbúin til að láta virkja sig. Frekari upplýsingar skoða [Sérstilling Dynamics NAV með viðbótum ](ui-extensions.md).
+PayPal-greiðslustaðalþjónusta er uppsett sem viðbót við Dynamics NAV og tilbúin til virkjunar. Frekari upplýsingar skoða [Sérstilla Dynamics NAV Nota viðbætur](ui-extensions.md).
 
 ## <a name="to-enable-the-paypal-payments-standard-service"></a>Virkja PayPal Payments Standard þjónustuna
 1. Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, **greiðsluþjónusta**, og velja síðan viðeigandi tengil.  

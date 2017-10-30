@@ -1,21 +1,24 @@
 ---
-title: "Skrá samskipti við tengiliði sjálfkrafa"
+title: "Setja upp sjálfvirka skráningu af samskiptum"
+description: "Hægt er að setja forritið upp til að skrá sjálfkrafa samskipti við viðskiptavini eða biðlara, t.d. dæmis vegna sölu, innkaupa- og þjónustuskjöl og símtöl."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 7a9415be6417758213575625c7af964cc0f9e9af
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: marketing, relationship, prospect, contact, client, customer
+ms.date: 06/06/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 36f783d27cfc7306f15d086a3dc25a56591d0f1e
 ms.contentlocale: is-is
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="automatically-record-interactions-with-contacts"></a>Skrá samskipti við tengiliði sjálfkrafa
+# <a name="recording-interactions-with-contacts-automatically"></a>Skrá sjálfvirkt samskipti við tengiliði
 Hægt er að setja forritið upp til að skrá sjálfkrafa samskipti vegna sölu, innkaupa- og þjónustuskjöl, forsíður, tölvupóst og símtöl, eins og:
 
 * Prenta sölu- eða innkaupatilboð, pantanir, reikninga, kreditreikninga, forsíður.
@@ -24,8 +27,10 @@ Hægt er að setja forritið upp til að skrá sjálfkrafa samskipti vegna sölu
 * Senda tölvupóst til tengiliða.
 * Hringja í tengiliði, að því gefnu að TAPI-samhæfur símabúnaður og rétt uppsetning séu fyrir hendi.
 
-Til að setja upp sjálfvirka skráningu þessara samskipta þarf að tilgreina samskiptasniðmát fyrir þau skjöl og aðgerðir með því að nota gluggann **Uppsetning samskiptasniðmáts**. Til að opna gluggann **Uppsetning samskiptasniðmáts** skal, í efra hægra horni, velja táknið **Leita að síðu eða skýrslu**, slá inn **Uppsetning samskiptasniðmáts** og velja síðan viðeigandi tengil.
+Til að setja upp sjálfvirka skráningu þessara samskipta þarf að tilgreina samskiptasniðmát fyrir þau skjöl og aðgerðir með því að nota gluggann **Uppsetning samskiptasniðmáts**.  
+Til að opna gluggann **Uppsetning samskiptasniðmáts** skal velja ![Leita að síðu eða skýrslu](media/ui-search/search_small.png "Leita að síðu eða skýrslu tákn") táknið, slá inn **Uppsetning samskiptasniðmáts** og velja síðan viðeigandi tengil.
 
 ## <a name="see-also"></a>Sjá einnig
 [Skrá samskipti við tengiliði](marketing-interactions.md)  
+[Unnið með [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 

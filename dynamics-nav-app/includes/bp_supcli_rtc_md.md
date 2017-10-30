@@ -1,1 +1,1 @@
-Microsoft Dynamics NAV aðeins fyrir Windows biðlara
+Microsoft Dynamics NAV Windows aðeins biðlari

@@ -7,18 +7,18 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 18237c4b755926222a36bc97dec5d6783c11454d
+ms.prod: dynamics-nav-2017
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 1b7a293982dfc7ff73c163ad1711e2bce098e98e
 ms.contentlocale: is-is
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 
 # <a name="set-up-dimensions"></a>Uppsetning vídda
 Skilgreina þarf hvaða víddir og víddargildi eigi að nota í fyrirtækinu. Einnig ætti að skilgreina víddirnar sem nota á sem altækar víddir og flýtivísanir í víddir. Huga skal vel að því hvaða víddir komi að mestu gagni sem altækar víddir og flýtivísanir í víddir í fyrirtækinu.  
-Allar víddir sem á að rekja eru settar upp í glugganum **Víddir**. Í glugganum er ein lína fyrir hverja vídd, svo sem *Verkefni*, *Deild*, *Svæði *og *Sölumaður*.  
+Allar víddir sem á að rekja eru settar upp í glugganum **Víddir**. Í glugganum er ein lína fyrir hverja vídd, svo sem *Verkefni*, *Deild*, *Svæði* og *Sölumaður*.  
 
 Fyrir hverja vídd þarf að setja upp víddargildi, t.d. allar deildirnar í fyrirtækinu. Hægt er að setja víddir upp í stigveldisröð, svipað og bókhaldslykilinn, svo að hægt verði að stigskipta gögnunum og taka saman milliniðurstöður.  
 
@@ -34,6 +34,6 @@ Einnig geturðu sett upp sjálfgefna vídd fyrir hverja tegund reiknings svo þe
 Að lokum, Einnig er hægt að gera víddir áskildar, þannig að ekki sé hægt að bóka færslu með ákveðna tegund reiknings nema reikningnum hafi verið úthlutað víddargildi.
 
 ## <a name="see-also"></a>Sjá einnig
-[Víddir](finance-setup-dimensions.md)  
-[Setja upp kjarnafjárhagsferli](finance-setup-setup-finance-setup.md)
+[Unnið með víddir](finance-dimensions.md)  
+[Setja upp kjarnafjárhagsferli](finance-setup-finance.md)
 

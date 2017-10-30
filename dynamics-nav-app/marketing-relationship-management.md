@@ -1,33 +1,39 @@
 ---
-title: "Tengslastjórnun"
+title: "Umsjón með venslum"
+description: "Tengslastjórnunareiginleikarnir í Dynamics NAV styðja við sölutilburði þína og veita þér aðgang að upplýsingum um tengiliði og viðföng svo þú getir sinnt viðskiptamönnum svo vel sé."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 1444d49cdd3d51a1adc9f2f999b564ef4aa3ff22
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: contact, prospect, client
+ms.date: 06/06/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: bf85a4fd44590eea3b4866d63601f0b2aa3fcfb2
 ms.contentlocale: is-is
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="relationship-management"></a>Tengslastjórnun
-Tengslastjórnunareiginleikar Dynamics NAV auðvelda stjórnun og stuðning við markaðssetningu og sölu. Þessir eiginleikar veita aðgang að fullkomnum og nákvæmum upplýsingum svo hægt sé að einbeita sér að þeim viðskiptamönnum/tengiliðum sem ná á til.
+# <a name="managing-relationships"></a>Stjórnun tengsla
+Tengslastjórnunareiginleikar [!INCLUDE[d365fin](includes/d365fin_md.md)] auðvelda stjórnun og stuðning við markaðssetningu og sölu. Þessir eiginleikar veita aðgang að fullkomnum og nákvæmum upplýsingum svo hægt sé að einbeita sér að þeim viðskiptamönnum/tengiliðum sem ná á til.
 
-Góðar sölu- og markaðssetningaraðferðir snúast um að taka réttar ákvarðanir á réttum tíma. Dynamics NAV veitir nákvæmt og tímanlegt yfirlit yfir tengiliðaupplýsingar svo hægt sé að þjónusta væntanlega viðskiptamenn og auka ánægju viðskiptamanna.
+Góðar sölu- og markaðssetningaraðferðir snúast um að taka réttar ákvarðanir á réttum tíma. [!INCLUDE[d365fin](includes/d365fin_md.md)] veitir nákvæmt og tímanlegt yfirlit yfir tengiliðaupplýsingar svo hægt sé að þjónusta væntanlega viðskiptamenn og auka ánægju viðskiptamanna.
 
 Til að hefjast handa skal skoða eftirfarandi efnisatriði:
 
-[Stjórna tengiliðum](marketing-contacts.md)  
-[Stjórna hlutum](marketing-segments.md)  
+[Vinna með tengiliði](marketing-contacts.md)  
+[Umsjón hluta](marketing-segments.md)  
 [Samskipti skráð](marketing-interactions.md)  
+[Stjórnun markaðsherferða](marketing-campaigns.md)  
 [Umsjón sölutækifæra](marketing-manage-sales-opportunities.md)
 
-##<a name="see-also"></a>Sjá einnig
-[Stjórna sölu](sales-manage-sales.md)  
-[Setja Upp Markaðssetning og Tengiliði](marketing-setup-marketing.md)
+## <a name="see-also"></a>Sjá einnig
+[Sala](sales-manage-sales.md)  
+[Uppsetning tengslastjórnunar](marketing-setup-marketing.md)  
+[Umsjón með viðskiptatengslum með Dynamics 365 for Sales innan [!INCLUDE[d365fin](includes/d365fin_md.md)]](marketing-integrate-dynamicscrm.md)  
+[Unnið með [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 

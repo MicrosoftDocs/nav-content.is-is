@@ -1,39 +1,61 @@
 ---
-title: "Setja upp eigið Dynamics NAV"
-author: SorenGP
-ms.custom: na
-ms.date: 09/23/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+title: "Yfirlit yfir verkefni til að setja upp Dynamics NAV"
+description: "Útskýrir hvernig skal setja upp, forsníða og frumstilla Dynamics NAV eftir þínum þörfum."
+author: edupont04
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 7facfd820a6a555ccf57ef04fd7207939238f3ae
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: configure, initialize
+ms.date: 09/01/2017
+ms.author: edupont
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 6426940765b8de876957d5a9d50998dc7615a19d
 ms.contentlocale: is-is
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
+# <a name="setting-up-dynamics-nav"></a>Setur upp Dynamics NAV
+[!INCLUDE[d365fin](includes/d365fin_md.md)] inniheldur staðlaðar grunnstillingar á flestum viðskiptaferlum en hægt er að breyta stillingum í samræmi við þarfir fyrirtækisins.
 
-# <a name="set-up-your-dynamics-nav"></a>Setja upp eigið Dynamics NAV
-Dynamics NAV felur í sér staðlaða grunnstillingu á flestum viðskiptaferlum en hægt er að breyta stillingum í samræmi við þarfir fyrirtækisins.
-Úr á heimasíðu fæst aðgangur uppsetningarleiðbeiningum með hjálp sem hjálpa þér að grunnstilla tilteknar sviðsmyndir. Nánari upplýsingar eru í [Velkomin í Dynamics NAV](across-get-started.md).  
+Til dæmis er yfirlit yfir reikninga áfyllt með fjölda pósthólf sem eru tilbúnar til notkunar. Að sjálfsögðu geturðu breytt bókhaldslyklinum til að uppfylla þarfir þínar. Frekari upplýsingar eru í  [Fjármál](finance.md).
 
-Eftirfarandi tafla lýsir röð verkefna með tenglum í efnisatriði þar sem þeim er lýst.
+Frá heimasíðunni þinni er hægt að fá aðgang að hjálpargögnum um leiðsögn sem hjálpar þér að stilla ákveðnar aðstæður og bæta við eiginleikum við [!INCLUDE[d365fin](includes/d365fin_md.md)]. Upplýsingar um það hvernig aðgangur fæst að öllum uppsetningargluggum með hjálp og handvirkum eru í [Undirbúðu þig fyrir að gera viðskipti](ui-get-ready-business.md).
 
-| Til                                                                  | Sjá                      |
-|---------------------------------------------------------------------|--------------------------|
-|Setja upp kjarnafjárhagsferli|[Fjármál](finance-setup-setup-finance-setup.md)|
-|Uppsetning bankaþjónustu|[Uppsetning bankaþjónustu](bank-setup-banking.md)|
-|Setja upp söluferli|[Uppsetning sölu](sales-setup-sales.md)|
-|Setja upp innkaupaferli|[Setja upp innkaup](purchasing-setup-purchasing.md)|
-|Setja upp viðbætur|[Sérstilling Dynamics NAV með viðbótum](ui-extensions.md)|
-|Fáðu aðgang að Azure-þjónustu með því að skrá Dynamics NAV|[Hvernig á að: Skrá Dynamics NAV í Azure stjórnunargáttinni](ui-how-register-dynamics-nav-azure.md)|
+Hægt er að setja upp nokkrar aðgerðir, annaðhvort almennar eða fyrir tilteknar viðskiptaferðir, handvirkt í viðbót við aðstoðaruppsetninguna. Eftirfarandi sýnir nokkrar aðgerðir sem hægt er að setja upp handvirkt.
 
-##<a name="see-also"></a>Sjá einnig
-[Fjármál](finance-setup.md)  
+| Til | Sjá |
+| --- | --- |
+| Setjið upp greiðsluaðferðir, gjaldmiðla og töflureikninginn og skilgreindu reglur og vanskil fyrir stjórnun fjármálafyrirtækja. |[Uppsetning Fjármála](finance-setup-finance.md) |
+| Setjið upp bankareikninga þína og bankareikninga þína og virkjaðu þjónustu til að flytja inn og flytja út bankaskrár. |[Uppsetning bankaþjónustu](bank-setup-banking.md) |
+| Stilla reglur og gildi sem skilgreina sölu stefnu fyrirtækisins, skrá nýja viðskiptavini og setja upp hvernig þú átt samskipti við viðskiptavini. |[Uppsetning sölu](sales-setup-sales.md) |
+| Stilla reglur og gildi sem skilgreina innkaupastefnu fyrirtækisins, skrá nýja lánardrottna og forgangsraða lánardrottnum þínum til greiðsluvinnslu. |[Uppsetning innkaupa](purchasing-setup-purchasing.md) |
+| Stilla reglur og gildi sem skilgreina birgðastjórnun fyrirtækisins, setja upp staði ef þú geymir birgðir í mörgum vörugeymslum og flokka hlutina þína til að bæta leit og flokka. |[Uppsetning birgða](inventory-setup-inventory.md) |
+| Setja upp auðlindir, tímasetningar og störf til að stjórna verkefnum. |[Setja upp verkefnastjórnun](projects-setup-projects.md) |
+| Stilla hvernig á að tryggja, viðhalda og afskrifa eignir og hvernig þú skráir kostnað eigna í bókum fyrirtækisins. |[Uppsetning eigna](fa-setup.md) |
+|Tilgreina almennar reglur og gildi fyrir vöruhúsaferla og tiltekna meðhöndlun í hverri birgðageymslu.|[Vöruhúsastjórnun sett upp](warehouse-setup-warehouse.md)|
+|Undirbúa framleiðsluuppskrift og leiðir til að skilgreina hvernig endanlegar vörur eru framleiddar og undirbúa véla- og vinnustöðvar fyrir að framkvæma nauðsynlegar aðgerðir.|[Uppsetning framleiðslu](production-configure-production-processes.md)|
+| Setjið upp einstaka kennitölu fyrir skrár, svo sem kort, skjöl og dagbókarlínur, til að fylgjast með þeim í kerfinu. |[Stofnun númeraraða](ui-create-number-series.md) |
+| Settu upp **Uppsetning SMTP-pósts** gluggann til að senda og taka á móti tölvupósti úr skjölum innan [!INCLUDE[d365fin](includes/d365fin_md.md)]. |[Hvernig á að: Setja upp tölvupóst](madeira-how-setup-email.md) |
+| Setjið upp einkvæman auðkenniskóða. |[Hvernig á að: Stofnun númeraraða](ui-create-number-series.md) |
+
+Sum svæði krefjast þess að þú sért stjórnandi í [!INCLUDE[d365fin](includes/d365fin_md.md)] áskrift þinni. Frekari upplýsingar, sjá [Uppsetning og stjórnun í Dynamics NAV](admin-setup-and-administration.md).  
+
+## <a name="see-also"></a>Sjá einnig
+[Fjármál](finance.md)  
 [Sala](sales-manage-sales.md)  
 [Innkaup](purchasing-manage-purchasing.md)  
-[Velkomin í Dynamics NAV](across-get-started.md)  
+[Birgðir](inventory-manage-inventory.md)    
+[Verkefnastjórnun](projects-manage-projects.md)  
+[Eignir](fa-manage.md)    
+[Samsetningardeild](assembly-assemble-items.md)  
+[Framleiðsla](production-manage-manufacturing.md)  
+[Vöruhúsastjórnun](warehouse-manage-warehouse.md)  
+[Unnið með [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Uppsetning og stjórnun í [!INCLUDE[d365fin](includes/d365fin_md.md)]](admin-setup-and-administration.md)  
+[Velkomin(n) í [!INCLUDE[d365fin](includes/d365fin_md.md)]](index.md)  
+
+##
 

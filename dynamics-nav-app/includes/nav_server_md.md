@@ -1,1 +1,1 @@
-Microsoft Dynamics NAV Server
+Microsoft Dynamics NAV Netþjónn

@@ -1,31 +1,35 @@
 ---
-title: "Hvernig á að stofna Samskipti á tengiliðum og hlutum"
+title: "Búa til samskipti á tengiliði og hluta"
+description: "Lýsir hvernig á að stofna samskipti á milli þín og tengiliða og hluta í Dynamics NAV, eins og til dæmis beint tölvupóstsamband."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 459a86ad9674e0d61b045743cbcc99ffdb5cacd9
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: relationship, prospect
+ms.date: 06/15/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 4ef0a5f683657f4725b04d7a231336419ea90f48
 ms.contentlocale: is-is
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 # <a name="how-to-create-interactions-on-contacts-and-segments"></a>Hvernig á að stofna Samskipti á tengiliðum og hlutum
 Hægt er að stofna samskipti til að skrá öll samskipti við viðskiptavinina og hlutana, til dæmis markpóstur.
 
-Áður en hægt er að stofna samskipti þarf að setja upp samskiptasniðmát. Til að fá nánari upplýsingar sjá  [Setja upp samskiptasniðmát](marketing-interactions.md#set-up-interaction-templates).
+Áður en hægt er að stofna samskipti þarf að setja upp samskiptasniðmát. Til að fá nánari upplýsingar sjá  [Setja upp samskiptasniðmát](marketing-interactions.md).
 
 ## <a name="to-create-an-interaction"></a>Til að stofna samskipti
 1. Opna færslu um tengilið, sölumann eða samskiptaskráningarfærslu.
 2. Valið er **Stofna samskipti** aðgerð.
 3. Fyllið út reitina og smellið á hnappinn **Í lagi**.
 
-**Athugasemd**: Ef framkvæma þarf annað verk áður en samskiptunum lýkur er hægt velja **hætta við** og velja að ljúka samskiptunum síðar. Þetta frestar samskiptunum.
+> [!NOTE]  
+>   Ef framkvæma þarf annað verk áður en samskiptunum lýkur er hægt velja **hætta við** og ljúka samskiptunum síðar. Þetta frestar samskiptunum.
 
 ## <a name="to-finish-and-delete-postponed-interactions"></a>ljúka og eyða frestuðum samskiptum
 1. Opna færslu um tengilið, sölumann eða samskiptaskráningarfærslu.
@@ -33,10 +37,10 @@ Hægt er að stofna samskipti til að skrá öll samskipti við viðskiptavinina
 3. Veljið samskiptin sem á að ljúka og veldu svo aðgerðina **halda áfram**.
 
 ## <a name="to-create-an-interaction-on-a-segment"></a>Til að stofna samskipti á hluta.
-1. Á heimasíðunni, veldu **virkir hlutar**, eða Í efra hægra horni skal velja táknið **Leita að síðu eða skýrslu**, slá inn **Hlutar**, og velja síðan viðeigandi tengil.
+1. Á heimasíðunni skal velja **Virkir hlutar** eða veljið ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn **Hlutar** og velja svo viðeigandi tengil.
 2. Á **hlutaglugganum** í hlutanum **samskipti** er fyllt í reitina til að tilgreina hvers konar samskiptum eigi að úthluta á hlutann.
 
-  Þegar samskiptum hefur verið úthlutað á hluta er hægt að sérsníða samskiptin fyrir hvern einstakan tengilið innan hlutans, til dæmis með því að velja annað samskiptasniðmát í línunum í glugganum **Hluti**.
+    Þegar samskiptum hefur verið úthlutað á hluta er hægt að sérsníða samskiptin fyrir hvern einstakan tengilið innan hlutans, til dæmis með því að velja annað samskiptasniðmát í línunum í glugganum **Hluti**.  
 3. Til að skrá hlutann og samskiptin veldu aðgerðina **kladdi**. Glugginn **Skrá hluta** opnast.
 4. Ef stofna á nýjan hluta með sömu tengiliðum skal velja gátreitinn **Stofna eftirfylgnihluta**. Ef forritið á að geta stofnað eftirfylgnihluta verður að tilgreina númeraraðir fyrir hluta í glugganum **Tengslastjórnunargrunnur**.
 
@@ -46,7 +50,8 @@ Ef gátreiturinn **Stofna eftirfylgnihluta** er valinn verður nýr hluti búinn
 
 ## <a name="see-also"></a>Sjá einnig
 [Samskipti skráð](marketing-interactions.md)  
-[Stjórna tengiliðum](marketing-contacts.md)  
+[Vinna með tengiliði](marketing-contacts.md)  
 [Umsjón sölutækifæra](marketing-manage-sales-opportunities.md)  
-[Setja Upp Markaðssetning og Tengiliði](marketing-setup-marketing.md)
+[Uppsetning tengslastjórnunar](marketing-setup-marketing.md)  
+[Unnið með Dynamics NAV](ui-work-product.md)
 
