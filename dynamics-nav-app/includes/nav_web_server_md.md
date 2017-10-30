@@ -1,1 +1,1 @@
-<span data-ttu-id="a0037-101">Microsoft Dynamics NAV-vefþjónsíhlutir</span><span class="sxs-lookup"><span data-stu-id="a0037-101">Microsoft Dynamics NAV Web Server components</span></span>
+<span data-ttu-id="947e2-101">Microsoft Dynamics NAV Íhlutir vefþjóns</span><span class="sxs-lookup"><span data-stu-id="947e2-101">Microsoft Dynamics NAV Web Server components</span></span>

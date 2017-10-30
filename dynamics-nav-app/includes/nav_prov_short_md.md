@@ -1,1 +1,1 @@
-<span data-ttu-id="71749-101">úthlutunarverkfæri</span><span class="sxs-lookup"><span data-stu-id="71749-101">provisioning tools</span></span>
+<span data-ttu-id="dd90f-101">úthlutunarverkfæri</span><span class="sxs-lookup"><span data-stu-id="dd90f-101">provisioning tools</span></span>

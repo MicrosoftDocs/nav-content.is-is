@@ -1,1 +1,1 @@
-<span data-ttu-id="46796-101">CRONUS-sýnigagnagrunnur</span><span class="sxs-lookup"><span data-stu-id="46796-101">CRONUS demonstration database</span></span>
+<span data-ttu-id="b931c-101">CRONUS-sýnigagnagrunnur</span><span class="sxs-lookup"><span data-stu-id="b931c-101">CRONUS demonstration database</span></span>

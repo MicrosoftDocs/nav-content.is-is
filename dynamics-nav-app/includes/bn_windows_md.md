@@ -1,1 +1,1 @@
-<span data-ttu-id="e1153-101">Til að skoða gluggaefnisatriðin í þessum hluta skal velja undirfærslurnar í efnisyfirlitinu.</span><span class="sxs-lookup"><span data-stu-id="e1153-101">To see the window topics in this section, choose the subentries in the table of contents.</span></span>
+<span data-ttu-id="e5cc9-101">Til að skoða gluggaefnisatriðin í þessum hluta skal velja undirfærslurnar í efnisyfirlitinu.</span><span class="sxs-lookup"><span data-stu-id="e5cc9-101">To see the window topics in this section, choose the subentries in the table of contents.</span></span>

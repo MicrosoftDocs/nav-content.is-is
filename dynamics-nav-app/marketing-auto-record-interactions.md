@@ -1,31 +1,36 @@
 ---
-title: "Skrá samskipti við tengiliði sjálfkrafa"
+title: "Setja upp sjálfvirka skráningu af samskiptum"
+description: "Hægt er að setja forritið upp til að skrá sjálfkrafa samskipti við viðskiptavini eða biðlara, t.d. dæmis vegna sölu, innkaupa- og þjónustuskjöl og símtöl."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
-ms.openlocfilehash: 0b94b7a0186623d481dd86846e51080ee4d7f700
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: marketing, relationship, prospect, contact, client, customer
+ms.date: 06/06/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 36f783d27cfc7306f15d086a3dc25a56591d0f1e
 ms.contentlocale: is-is
-ms.lasthandoff: 07/19/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="automatically-record-interactions-with-contacts"></a><span data-ttu-id="a41b9-102">Skrá samskipti við tengiliði sjálfkrafa</span><span class="sxs-lookup"><span data-stu-id="a41b9-102">Automatically Record Interactions with Contacts</span></span>
-<span data-ttu-id="a41b9-103">Hægt er að setja forritið upp til að skrá sjálfkrafa samskipti vegna sölu, innkaupa- og þjónustuskjöl, forsíður, tölvupóst og símtöl, eins og:</span><span class="sxs-lookup"><span data-stu-id="a41b9-103">You can set up the application to automatically record interactions for sales, purchase and service documents, cover sheets, e-mails, phone calls, such as:</span></span>
+# <a name="recording-interactions-with-contacts-automatically"></a><span data-ttu-id="95c8e-103">Skrá sjálfvirkt samskipti við tengiliði</span><span class="sxs-lookup"><span data-stu-id="95c8e-103">Recording Interactions with Contacts Automatically</span></span>
+<span data-ttu-id="95c8e-104">Hægt er að setja forritið upp til að skrá sjálfkrafa samskipti vegna sölu, innkaupa- og þjónustuskjöl, forsíður, tölvupóst og símtöl, eins og:</span><span class="sxs-lookup"><span data-stu-id="95c8e-104">You can set up the application to automatically record interactions for sales, purchase and service documents, cover sheets, e-mails, phone calls, such as:</span></span>
 
-* <span data-ttu-id="a41b9-104">Prenta sölu- eða innkaupatilboð, pantanir, reikninga, kreditreikninga, forsíður.</span><span class="sxs-lookup"><span data-stu-id="a41b9-104">Print sales or purchase quotes, orders, invoices, credit memos, cover sheets.</span></span>
-* <span data-ttu-id="a41b9-105">Stofna söluþjónustubeiðnir.</span><span class="sxs-lookup"><span data-stu-id="a41b9-105">Create sales service orders.</span></span>
-* <span data-ttu-id="a41b9-106">Bóka söluþjónustubeiðnir.</span><span class="sxs-lookup"><span data-stu-id="a41b9-106">Post sales service orders.</span></span>
-* <span data-ttu-id="a41b9-107">Senda tölvupóst til tengiliða.</span><span class="sxs-lookup"><span data-stu-id="a41b9-107">Send e-mails to your contacts.</span></span>
-* <span data-ttu-id="a41b9-108">Hringja í tengiliði, að því gefnu að TAPI-samhæfur símabúnaður og rétt uppsetning séu fyrir hendi.</span><span class="sxs-lookup"><span data-stu-id="a41b9-108">Call your contacts, if you have a TAPI-compliant telephone and the correct installation.</span></span>
+* <span data-ttu-id="95c8e-105">Prenta sölu- eða innkaupatilboð, pantanir, reikninga, kreditreikninga, forsíður.</span><span class="sxs-lookup"><span data-stu-id="95c8e-105">Print sales or purchase quotes, orders, invoices, credit memos, cover sheets.</span></span>
+* <span data-ttu-id="95c8e-106">Stofna söluþjónustubeiðnir.</span><span class="sxs-lookup"><span data-stu-id="95c8e-106">Create sales service orders.</span></span>
+* <span data-ttu-id="95c8e-107">Bóka söluþjónustubeiðnir.</span><span class="sxs-lookup"><span data-stu-id="95c8e-107">Post sales service orders.</span></span>
+* <span data-ttu-id="95c8e-108">Senda tölvupóst til tengiliða.</span><span class="sxs-lookup"><span data-stu-id="95c8e-108">Send e-mails to your contacts.</span></span>
+* <span data-ttu-id="95c8e-109">Hringja í tengiliði, að því gefnu að TAPI-samhæfur símabúnaður og rétt uppsetning séu fyrir hendi.</span><span class="sxs-lookup"><span data-stu-id="95c8e-109">Call your contacts, if you have a TAPI-compliant telephone and the correct installation.</span></span>
 
-<span data-ttu-id="a41b9-109">Til að setja upp sjálfvirka skráningu þessara samskipta þarf að tilgreina samskiptasniðmát fyrir þau skjöl og aðgerðir með því að nota gluggann **Uppsetning samskiptasniðmáts**.</span><span class="sxs-lookup"><span data-stu-id="a41b9-109">To set up the automatic recording of these interactions, you specify interaction templates for these documents and actions by using the **Interaction Template Setup** window.</span></span> <span data-ttu-id="a41b9-110">Til að opna gluggann **Uppsetning samskiptasniðmáts** skal, í efra hægra horni, velja táknið **Leita að síðu eða skýrslu**, slá inn **Uppsetning samskiptasniðmáts** og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="a41b9-110">To open the **Interaction Template Setup** window, in the top right corner, choose the **Search for Page or Report** icon, enter **Interaction Template Setup**, and then choose the related link.</span></span>
+<span data-ttu-id="95c8e-110">Til að setja upp sjálfvirka skráningu þessara samskipta þarf að tilgreina samskiptasniðmát fyrir þau skjöl og aðgerðir með því að nota gluggann **Uppsetning samskiptasniðmáts**.</span><span class="sxs-lookup"><span data-stu-id="95c8e-110">To set up the automatic recording of these interactions, you specify interaction templates for these documents and actions by using the **Interaction Template Setup** window.</span></span>  
+<span data-ttu-id="95c8e-111">Til að opna gluggann **Uppsetning samskiptasniðmáts** skal velja ![Leita að síðu eða skýrslu](media/ui-search/search_small.png "Leita að síðu eða skýrslu tákn") táknið, slá inn **Uppsetning samskiptasniðmáts** og velja síðan viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="95c8e-111">To open the **Interaction Template Setup** window, choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Interaction Template Setup**, and then choose the related link.</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="a41b9-111">Sjá einnig</span><span class="sxs-lookup"><span data-stu-id="a41b9-111">See Also</span></span>
-[<span data-ttu-id="a41b9-112">Skrá samskipti við tengiliði</span><span class="sxs-lookup"><span data-stu-id="a41b9-112">Recording Interactions With Contacts</span></span>](marketing-interactions.md)  
+## <a name="see-also"></a><span data-ttu-id="95c8e-112">Sjá einnig</span><span class="sxs-lookup"><span data-stu-id="95c8e-112">See Also</span></span>
+[<span data-ttu-id="95c8e-113">Skrá samskipti við tengiliði</span><span class="sxs-lookup"><span data-stu-id="95c8e-113">Recording Interactions With Contacts</span></span>](marketing-interactions.md)  
+<span data-ttu-id="95c8e-114">[Unnið með [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="95c8e-114">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
 

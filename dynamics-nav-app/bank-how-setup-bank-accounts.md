@@ -1,31 +1,57 @@
 ---
-title: "Hvernig á að setja upp Bankareikninga lánardrottna"
+title: Bankareikningar settir upp
+description: "Hægt er að afstemma bankareikninga í Dynamics NAV við yfirlit frá bankanum."
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
-ms.openlocfilehash: 10fe32d2153d92aea0f9e6db8ebfb0e465fc04f4
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: feed, stream
+ms.date: 09/26/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 3581615fe94006aa9245f5e66fe6cf475b22acfb
 ms.contentlocale: is-is
-ms.lasthandoff: 07/19/2017
+ms.lasthandoff: 10/16/2017
 
 ---
+# <a name="how-to-set-up-bank-accounts"></a><span data-ttu-id="255c3-103">Hvernig á að setja upp Bankareikninga lánardrottna</span><span class="sxs-lookup"><span data-stu-id="255c3-103">How to: Set Up Bank Accounts</span></span>
+<span data-ttu-id="255c3-104">Þú notar bankareikninga í [!INCLUDE[d365fin](includes/d365fin_md.md)] til að fylgjast með bankafærslunum þínum.</span><span class="sxs-lookup"><span data-stu-id="255c3-104">You use bank accounts in the [!INCLUDE[d365fin](includes/d365fin_md.md)] to keep track of your banking transactions.</span></span> <span data-ttu-id="255c3-105">Hægt er að hafa reikninga í SGM eða erlendum gjaldmiðli.</span><span class="sxs-lookup"><span data-stu-id="255c3-105">Accounts can be denominated in your local currency or in a foreign currency.</span></span> <span data-ttu-id="255c3-106">Þegar bankareikningar hafa verið settir upp er einnig hægt að nota valkostinn prentskoðun.</span><span class="sxs-lookup"><span data-stu-id="255c3-106">After you have set up bank accounts, you can also use the check printing option.</span></span>
 
-# <a name="how-to-set-up-bank-accounts"></a><span data-ttu-id="8c823-102">Hvernig á að setja upp Bankareikninga lánardrottna</span><span class="sxs-lookup"><span data-stu-id="8c823-102">How to: Set Up Bank Accounts</span></span>
-<span data-ttu-id="8c823-103">Bankareikningar eru notaðir í Dynamics NAV til að fylgjast með bankafærslum.</span><span class="sxs-lookup"><span data-stu-id="8c823-103">You use bank accounts in the Dynamics NAV to keep track of your banking transactions.</span></span> <span data-ttu-id="8c823-104">Hægt er að hafa reikninga í SGM eða erlendum gjaldmiðli.</span><span class="sxs-lookup"><span data-stu-id="8c823-104">Accounts can be denominated in your local currency or in a foreign currency.</span></span> <span data-ttu-id="8c823-105">Þegar bankareikningar hafa verið settir upp er einnig hægt að nota valkostinn prentskoðun.</span><span class="sxs-lookup"><span data-stu-id="8c823-105">After you have set up bank accounts, you can also use the check printing option.</span></span>
+## <a name="to-set-up-bank-accounts"></a><span data-ttu-id="255c3-107">Bankareikningar settir upp</span><span class="sxs-lookup"><span data-stu-id="255c3-107">To set up bank accounts</span></span>
+1. <span data-ttu-id="255c3-108">Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn **bankareikningar** og velja svo viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="255c3-108">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Bank Accounts**, and then choose the related link.</span></span>
+2. <span data-ttu-id="255c3-109">Í glugganum **bankareikningar** skal velja aðgerðina **Nýtt**.</span><span class="sxs-lookup"><span data-stu-id="255c3-109">In the **Bank Accounts** window, choose the **New** action.</span></span>
+3. <span data-ttu-id="255c3-110">Fyllið inn í reitina eftir þörfum.</span><span class="sxs-lookup"><span data-stu-id="255c3-110">Fill in the fields as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
-1. <span data-ttu-id="8c823-106">Í efra hægra horni, veldu **leita að síðu eða skýrslu**, færðu inn **bankareikning** og velja síðan viðkomandi tengil.</span><span class="sxs-lookup"><span data-stu-id="8c823-106">In the top right corner, choose the **Search for Page or Report** icon, enter **Bank Accounts**, and then choose the related link.</span></span>
-2. <span data-ttu-id="8c823-107">Í glugganum **bankareikningar** skal velja aðgerðina **Nýtt**.</span><span class="sxs-lookup"><span data-stu-id="8c823-107">In the **Bank Accounts** window, choose the **New** action.</span></span>
-3. <span data-ttu-id="8c823-108">Fyllið inn í svæðin eftir þörfum.</span><span class="sxs-lookup"><span data-stu-id="8c823-108">Fill in the fields as necessary.</span></span> <span data-ttu-id="8c823-109">Velja reit til að lesa inn stutta lýsingu á reitnum eða tengil í frekari upplýsingar.</span><span class="sxs-lookup"><span data-stu-id="8c823-109">Choose a field to read a short description of the field or link to more information.</span></span>
+> [!NOTE]
+> <span data-ttu-id="255c3-111">Til að fylla út í reitinn **Staða** með onunarstöðu verður þú að bóka fjárhagsfærslu bankareiknings með upphæðinni.</span><span class="sxs-lookup"><span data-stu-id="255c3-111">To fill in the **Balance** field with an opening balance, you must post a bank account ledger entry with the amount in question.</span></span> <span data-ttu-id="255c3-112">Hægt er að gera þetta með því að framkvæma afstemmingu bankareiknings.</span><span class="sxs-lookup"><span data-stu-id="255c3-112">You can do this by performing a bank account reconciliation.</span></span> <span data-ttu-id="255c3-113">Frekari upplýsingar í [hvernig á að: Afstemma Bankareikninga Sérstaklega](bank-how-reconcile-bank-accounts-separately.md).</span><span class="sxs-lookup"><span data-stu-id="255c3-113">For more information, see [How to: Reconcile Bank Accounts Separately](bank-how-reconcile-bank-accounts-separately.md).</span></span> <span data-ttu-id="255c3-114">Einnig er hægt að tiltaka opnunarstöðu sem hluta af almennri gagnamyndun í nýjum fyrirtækjum með því að nota hjálpina fyrir **Flytja viðskiptagögn**.</span><span class="sxs-lookup"><span data-stu-id="255c3-114">Alternatively, you can implement the opening balance as a part of general data creation in new companies by using the **Migrate Business Data** assisted setup.</span></span> <span data-ttu-id="255c3-115">Nánari upplýsingar sjá í [Velkomin í [!INCLUDE[d365fin](includes/d365fin_md.md)](index.md).</span><span class="sxs-lookup"><span data-stu-id="255c3-115">For more information, see [Welcome to [!INCLUDE[d365fin](includes/d365fin_md.md)](index.md).</span></span>
 
-<span data-ttu-id="8c823-110">**Athuga skal að**: reitir á **Millifærsla** Flýtiflipanum tengjast innflutnings/útflutningi á bankastreymi og skrám.</span><span class="sxs-lookup"><span data-stu-id="8c823-110">**Note**: Fields on the **Transfer** FastTab are related to import/export of bank feeds and files.</span></span> <span data-ttu-id="8c823-111">Nánari upplýsingar er að finna í [Hvernig á að: Setja upp umreikningsþjónustu fyrir bankagögn](bank-how-setup-bank-data-conversion-service.md).</span><span class="sxs-lookup"><span data-stu-id="8c823-111">For more information, see [How to: Set Up the Bank Data Conversion Service](bank-how-setup-bank-data-conversion-service.md).</span></span>
+## <a name="to-set-up-your-bank-account-for-import-or-export-of-bank-files"></a><span data-ttu-id="255c3-116">Til að setja upp bankareikning þinn til að flytja inn eða flytja út bankaskrár</span><span class="sxs-lookup"><span data-stu-id="255c3-116">To set up your bank account for import or export of bank files</span></span>
+<span data-ttu-id="255c3-117">Reitir á **Flutningur** flýtiflipanum í **Bankareikningsspjald** glugganum eru tengdir innflutningi og útflutningi á banka straumum og skrám.</span><span class="sxs-lookup"><span data-stu-id="255c3-117">Fields on the **Transfer** FastTab in the **Bank Account Card** window are related to import and export of bank feeds and files.</span></span> <span data-ttu-id="255c3-118">Nánari upplýsingar er að finna í [Hvernig á að: Setja upp umreikningsþjónustu fyrir bankagögn](bank-how-setup-bank-data-conversion-service.md).</span><span class="sxs-lookup"><span data-stu-id="255c3-118">For more information, see [How to: Set Up the Bank Data Conversion Service](bank-how-setup-bank-data-conversion-service.md).</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="8c823-112">Sjá einnig</span><span class="sxs-lookup"><span data-stu-id="8c823-112">See Also</span></span>  
-[<span data-ttu-id="8c823-113">Uppsetning bankaþjónustu</span><span class="sxs-lookup"><span data-stu-id="8c823-113">Set Up Banking</span></span>](bank-setup-banking.md)  
-[<span data-ttu-id="8c823-114">Stjórna bankareikningum</span><span class="sxs-lookup"><span data-stu-id="8c823-114">Manage Bank Accounts</span></span>](bank-manage-bank-accounts.md)
+1. <span data-ttu-id="255c3-119">Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn **bankareikningar** og velja svo viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="255c3-119">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Bank Accounts**, and then choose the related link.</span></span>
+2. <span data-ttu-id="255c3-120">Opnaðu kortið fyrir bankareikning sem þú vilt flytja út eða flytja inn bankaskrár fyrir.</span><span class="sxs-lookup"><span data-stu-id="255c3-120">Open the card for a bank account that you will export or import bank files for.</span></span>
+3. <span data-ttu-id="255c3-121">Fyllt er út í reiti eftir því sem við á í flýtiflipanum **Flytja**.</span><span class="sxs-lookup"><span data-stu-id="255c3-121">On the **Transfer** FastTab, fill in the fields as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
+
+> [!NOTE]  
+>   <span data-ttu-id="255c3-122">Mismunandi útflutningsþjónusta skráa og snið þeirra þurfa mismunandi uppsetningargildi í glugganum **Bankareikningsspjald**.</span><span class="sxs-lookup"><span data-stu-id="255c3-122">Different file export services and their formats require different setup values in the **Bank Account Card** window.</span></span> <span data-ttu-id="255c3-123">Þú færð að vita um uppsetningargildi sem eru röng eða sem vantar þegar þú reynir að flytja út skrána.</span><span class="sxs-lookup"><span data-stu-id="255c3-123">You will be informed about wrong or missing setup values as you try to export the file.</span></span> <span data-ttu-id="255c3-124">Svo lestu stuttar lýsingar á reitunum vandlega eða vísaðu til viðkomandi efnisferlis.</span><span class="sxs-lookup"><span data-stu-id="255c3-124">So read the short descriptions of the fields carefully or refer to the related procedure topics.</span></span> <span data-ttu-id="255c3-125">Til dæmis, við útflutning greiðsluskráar fyrir kortamillifærslu NA (EFT) þarf að fylla út reitina **Síðasta greiðslutilkynningarnúmer** og **Kenninúmer**.</span><span class="sxs-lookup"><span data-stu-id="255c3-125">For example, exporting a payment file for North American electronic funds transfer (EFT) requires that both the **Last Remittance Advice No.** field and the **Transit No.** field are filled in.</span></span> <span data-ttu-id="255c3-126">Nánari upplýsingar sjá [Hvernig: Flytja Greiðslur í bankaskrá](payables-how-export-payments-bank-file.md).</span><span class="sxs-lookup"><span data-stu-id="255c3-126">For more information, see [How to: Export Payments to a Bank File](payables-how-export-payments-bank-file.md).</span></span>
+
+## <a name="to-set-up-vendor-bank-accounts-for-export-of-bank-files"></a><span data-ttu-id="255c3-127">Til að setja upp bankareikninga lánardrottna fyrir útflutning bankaskráa</span><span class="sxs-lookup"><span data-stu-id="255c3-127">To set up vendor bank accounts for export of bank files</span></span>
+<span data-ttu-id="255c3-128">Reitir á **Flutningur** flýtiflipanum í **Bankareikningsspjald lánardrottins** glugganum eru tengdir innflutningi og útflutningi á banka straumum og skrám.</span><span class="sxs-lookup"><span data-stu-id="255c3-128">Fields on the **Transfer** FastTab in the **Vendor Bank Account Card** window are related to export of bank feeds and files.</span></span> <span data-ttu-id="255c3-129">Nánari upplýsingar er að finna í [Hvernig á að: Setja upp umreikningsþjónustu fyrir bankagögn](bank-how-setup-bank-data-conversion-service.md) og [Hvernig á að: Flytja út greiðslur í bankaskrá](payables-how-export-payments-bank-file.md).</span><span class="sxs-lookup"><span data-stu-id="255c3-129">For more information, see [How to: Set Up the Bank Data Conversion Service](bank-how-setup-bank-data-conversion-service.md) and [How to: Export Payments to a Bank File](payables-how-export-payments-bank-file.md).</span></span>
+
+1. <span data-ttu-id="255c3-130">Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn **lánardrottnar** og velja svo viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="255c3-130">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Vendors**, and then choose the related link.</span></span>
+2. <span data-ttu-id="255c3-131">Opnaðu kortið fyrir lánardrottinn með bankareikning sem þú sendir út greiðslubankaskrár til.</span><span class="sxs-lookup"><span data-stu-id="255c3-131">Open the card for a vendor whose bank account you will export payment bank files to.</span></span>
+3. <span data-ttu-id="255c3-132">Veldu aðgerðina **Bankareikningar**.</span><span class="sxs-lookup"><span data-stu-id="255c3-132">Choose the **Bank Accounts** action.</span></span>
+3. <span data-ttu-id="255c3-133">Í glugganum **Bankareikn.spjald lánardr** á flipanum **Flutningur** fylltu inn reitina eftir því sem þörf er á.</span><span class="sxs-lookup"><span data-stu-id="255c3-133">In the **Vendor Bank Account Card** window, on the **Transfer** FastTab, fill in the fields as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
+
+## <a name="to-set-the-opening-balance-on-new-bank-accounts"></a><span data-ttu-id="255c3-134">Til að stilla opnunarstöðuna á nýjum bankareikningum</span><span class="sxs-lookup"><span data-stu-id="255c3-134">To set the opening balance on new bank accounts</span></span>
+
+
+## <a name="see-also"></a><span data-ttu-id="255c3-135">Sjá einnig</span><span class="sxs-lookup"><span data-stu-id="255c3-135">See Also</span></span>
+[<span data-ttu-id="255c3-136">Uppsetning bankaþjónustu</span><span class="sxs-lookup"><span data-stu-id="255c3-136">Setting Up Banking</span></span>](bank-setup-banking.md)  
+[<span data-ttu-id="255c3-137">Stjórna bankareikningum</span><span class="sxs-lookup"><span data-stu-id="255c3-137">Managing Bank Accounts</span></span>](bank-manage-bank-accounts.md)  
+<span data-ttu-id="255c3-138">[Unnið með [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="255c3-138">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>
 

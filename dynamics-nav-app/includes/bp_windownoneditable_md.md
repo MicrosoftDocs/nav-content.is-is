@@ -1,1 +1,1 @@
-<span data-ttu-id="de9b5-101">Ekki er hægt að breyta innihaldi þessa glugga.</span><span class="sxs-lookup"><span data-stu-id="de9b5-101">You cannot change the contents of this window.</span></span>
+<span data-ttu-id="8674e-101">Ekki er hægt að breyta innihaldi þessa glugga.</span><span class="sxs-lookup"><span data-stu-id="8674e-101">You cannot change the contents of this window.</span></span>

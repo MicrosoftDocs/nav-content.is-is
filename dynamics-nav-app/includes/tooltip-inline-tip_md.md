@@ -1,0 +1,1 @@
+<span data-ttu-id="d7ee2-101">Velja reit til að lesa inn stutta lýsingu á reitnum eða tengil í frekari upplýsingar.</span><span class="sxs-lookup"><span data-stu-id="d7ee2-101">Choose a field to read a short description of the field or link to more information.</span></span>

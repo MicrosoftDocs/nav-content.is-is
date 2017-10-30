@@ -1,1 +1,1 @@
-<span data-ttu-id="193b9-101">Microsoft Dynamics NAV Development Environment</span><span class="sxs-lookup"><span data-stu-id="193b9-101">Microsoft Dynamics NAV Development Environment</span></span>
+<span data-ttu-id="d960a-101">Microsoft Dynamics NAV Þróunarumhverfi</span><span class="sxs-lookup"><span data-stu-id="d960a-101">Microsoft Dynamics NAV Development Environment</span></span>

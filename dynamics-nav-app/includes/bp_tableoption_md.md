@@ -1,1 +1,1 @@
-<span data-ttu-id="97fcf-101">Valkostur</span><span class="sxs-lookup"><span data-stu-id="97fcf-101">Option</span></span>
+<span data-ttu-id="413ac-101">Valkostur</span><span class="sxs-lookup"><span data-stu-id="413ac-101">Option</span></span>

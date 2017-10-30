@@ -1,30 +1,31 @@
 ---
-title: "Röðun"
+title: "Skipuleggja gögn með því að nota aðgerðina Röðun"
+description: "Hægt er að nota aðgerðina Röðun til þess að fá yfirlit yfir gögnin þín. Þú getur t.d. raðað viðskiptamönnum eftir gjaldmiðilskóða til að fá sérvalið úrtak af viðskiptamönnum."
+documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
-ms.openlocfilehash: 4954c63b068a5ba9a74253a47c80983fcabfa0b3
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.date: 02/07/2017
+ms.author: solsen
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: d73f17a026046ecaae0bd451b412d2d58460f74b
 ms.contentlocale: is-is
-ms.lasthandoff: 07/19/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-    
-# <a name="sorting"></a><span data-ttu-id="96992-102">Röðun</span><span class="sxs-lookup"><span data-stu-id="96992-102">Sorting</span></span>
-<span data-ttu-id="96992-103">Með aðgerðinni Röðun er auðvelt og fljótlegt að fá yfirsýn yfir gögnin.</span><span class="sxs-lookup"><span data-stu-id="96992-103">The sorting function makes it easy for you to get a quick overview of your data.</span></span> <span data-ttu-id="96992-104">Uppraðaðan lista er hægt að vista með aðgerðinni **Vista yfirlit** aðgerina sem má finna með því að velja titill síðu</span><span class="sxs-lookup"><span data-stu-id="96992-104">A sorted list can be saved using the **Save View As** functionality which is found by choosing the page title.</span></span> <span data-ttu-id="96992-105">Ef þú ert með marga viðskiptamenn til dæmis, er hægt að velja að raða þeim eftir **númeri Viðskiptamanns**, **Bókunarflokkum viðskiptavinar**, **Gjaldmiðilskóði**, **LandsSvæðiskóða**, eða **skráningarnúmer Söluskatts**</span><span class="sxs-lookup"><span data-stu-id="96992-105">If you have many customers, for example, you can choose to sort them by **Customer No.**, **Customer Posting Group**, **Currency Code**, **Country Region Code**, or **Sales Tax Registration No.**</span></span> <span data-ttu-id="96992-106">til að fá yfirlit sem þarf.</span><span class="sxs-lookup"><span data-stu-id="96992-106">to get the overview you need.</span></span>
+# <a name="sorting"></a><span data-ttu-id="97bbf-104">Röðun</span><span class="sxs-lookup"><span data-stu-id="97bbf-104">Sorting</span></span>
+<span data-ttu-id="97bbf-105">Með aðgerðinni Röðun er auðvelt og fljótlegt að fá yfirsýn yfir gögnin.</span><span class="sxs-lookup"><span data-stu-id="97bbf-105">The sorting function makes it easy for you to get a quick overview of your data.</span></span> <span data-ttu-id="97bbf-106">Ef þú ert með marga viðskiptamenn til dæmis, er hægt að velja að raða þeim eftir **númeri Viðskiptamanns**, **Bókunarflokkum viðskiptavinar**, **Gjaldmiðilskóði**, **LandsSvæðiskóða**, eða **skráningarnúmer Söluskatts** til að fá það yfirlit sem þú þarft.</span><span class="sxs-lookup"><span data-stu-id="97bbf-106">If you have many customers, for example, you can choose to sort them by **Customer No.**, **Customer Posting Group**, **Currency Code**, **Country Region Code**, or **Sales Tax Registration No.** to get the overview you need.</span></span>
 
-<span data-ttu-id="96992-107">Velja skal dálkahaus og litlu örina til að raða hækkandi eða lækkandi.</span><span class="sxs-lookup"><span data-stu-id="96992-107">Choose a column heading and use the small arrow to sort ascending or descending.</span></span>  
+<span data-ttu-id="97bbf-107">Velja skal dálkahaus og litlu örina til að raða hækkandi eða lækkandi.</span><span class="sxs-lookup"><span data-stu-id="97bbf-107">Choose a column heading and use the small arrow to sort ascending or descending.</span></span>  
 
-<span data-ttu-id="96992-108">**Athugasemd**: röðun er ekki studd myndir , BLOB-reitir, FlowFilters og reitir sem tilheyra ekki töflu.</span><span class="sxs-lookup"><span data-stu-id="96992-108">**Note**: Sorting is not supported images, BLOB fields, FlowFilters, and fields that do not belong to a table.</span></span>
+> [!NOTE]  
+>   <span data-ttu-id="97bbf-108">Röðun er ekki studd myndir, BLOB-reitir, FlowFilters og reitir sem tilheyra ekki töflu.</span><span class="sxs-lookup"><span data-stu-id="97bbf-108">Sorting is not supported images, BLOB fields, FlowFilters, and fields that do not belong to a table.</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="96992-109">Sjá einnig</span><span class="sxs-lookup"><span data-stu-id="96992-109">See Also</span></span>
-[<span data-ttu-id="96992-110">Unnið með Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="96992-110">Work with Dynamics NAV</span></span>](ui-work-product.md)  
-[<span data-ttu-id="96992-111">Skilgreining skilyrða í síum</span><span class="sxs-lookup"><span data-stu-id="96992-111">Entering Criteria in Filters</span></span>](ui-enter-criteria-filters.md)
-
+## <a name="see-also"></a><span data-ttu-id="97bbf-109">Sjá einnig</span><span class="sxs-lookup"><span data-stu-id="97bbf-109">See Also</span></span>
+<span data-ttu-id="97bbf-110">[Unnið með [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="97bbf-110">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
+[<span data-ttu-id="97bbf-111">Skilgreining skilyrða í síum</span><span class="sxs-lookup"><span data-stu-id="97bbf-111">Entering Criteria in Filters</span></span>](ui-enter-criteria-filters.md)
 

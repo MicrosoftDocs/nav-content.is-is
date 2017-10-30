@@ -1,1 +1,1 @@
-<span data-ttu-id="edf57-101">RapidStart-þjónusta</span><span class="sxs-lookup"><span data-stu-id="edf57-101">RapidStart Services</span></span>
+<span data-ttu-id="da2fb-101">RapidStart-þjónusta</span><span class="sxs-lookup"><span data-stu-id="da2fb-101">RapidStart Services</span></span>

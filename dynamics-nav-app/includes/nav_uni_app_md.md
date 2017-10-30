@@ -1,1 +1,1 @@
-<span data-ttu-id="ceaaa-101">Microsoft Dynamics NAV Universal App</span><span class="sxs-lookup"><span data-stu-id="ceaaa-101">Microsoft Dynamics NAV Universal App</span></span>
+<span data-ttu-id="f2214-101">Microsoft Dynamics NAV Fjöltækja forrit</span><span class="sxs-lookup"><span data-stu-id="f2214-101">Microsoft Dynamics NAV Universal App</span></span>

@@ -1,1 +1,1 @@
-<span data-ttu-id="26604-101">Microsoft Dynamics NAV símabiðlari</span><span class="sxs-lookup"><span data-stu-id="26604-101">Microsoft Dynamics NAV Phone client</span></span>
+<span data-ttu-id="68434-101">Microsoft Dynamics NAV Símabiðlari</span><span class="sxs-lookup"><span data-stu-id="68434-101">Microsoft Dynamics NAV Phone client</span></span>

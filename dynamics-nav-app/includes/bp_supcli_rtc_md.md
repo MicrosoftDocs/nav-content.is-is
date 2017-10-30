@@ -1,1 +1,1 @@
-<span data-ttu-id="456c5-101">Microsoft Dynamics NAV aðeins fyrir Windows biðlara</span><span class="sxs-lookup"><span data-stu-id="456c5-101">Microsoft Dynamics NAV Windows client only</span></span>
+<span data-ttu-id="c7652-101">Microsoft Dynamics NAV Windows aðeins biðlari</span><span class="sxs-lookup"><span data-stu-id="c7652-101">Microsoft Dynamics NAV Windows client only</span></span>
