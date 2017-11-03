@@ -12,18 +12,18 @@ ms.search.keywords: online payment
 ms.date: 07/07/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 71ff4af2fa3c0d1020a24de4325aafe17978f715
+ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
+ms.openlocfilehash: f56df1759d375548b7415234c9b303a49e50687d
 ms.contentlocale: is-is
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/26/2017
 
 ---
 # <a name="how-to-enable-customer-payments-through-payment-services"></a>Hvernig á að: Virkja greiðslur viðskiptamanna um greiðsluþjónustur
-Í stað þess að innheimta með millifærslu eða kreditkorti geta viðskiptavinir þínir greitt þér af reikningnum sínum með greiðsluþjónustu, svo sem Microsoft Pay, PayPal eða WorldPay.  
+Í stað þess að innheimta með millifærslu eða kreditkorti geta viðskiptavinir þínir greitt þér af reikningnum sínum með greiðsluþjónustu, svo sem PayPal og WorldPay.  
 
 Eftir að þú hefur virkjað greiðsluþjónustu í [!INCLUDE[d365fin](includes/d365fin_md.md)] er tengill í þjónustuna í boði á söluskjölum sem þú sendir með tölvupósti til viðskiptavina þinna. Viðskiptamenn geta notað tengilinn til að fara í greiðsluþjónustu og greiða reikninginn beint úr söluskjalinu. Ef þú vilt ekki hafa tengilinn með, til dæmis ef viðskiptamaður greiðir með peningum, getur þú fjarlægt greiðsluþjónustu af reikningnum áður en þú sendir hann.  
 
-Microsoft Pay, PayPal-greiðslustaðals- og WorldPay-greiðslustaðalsviðbætur eru settar upp í [!INCLUDE[d365fin](includes/d365fin_md.md)], og eru tilbúin fyrir þig til að virkja.  
+PayPal-greiðslustaðalls- og WorldPay-greiðslustaðalsviðbætur eru settar upp í [!INCLUDE[d365fin](includes/d365fin_md.md)], og eru tilbúin fyrir þig til að virkja.  
 
 ## <a name="to-enable-a-payment-service-in-included365finincludesd365finmdmd"></a>Til að virkja greiðsluþjónustu í [!INCLUDE[d365fin](includes/d365fin_md.md)]
 1. Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn **Greiðsluþjónusta** og velja svo viðeigandi tengil.  

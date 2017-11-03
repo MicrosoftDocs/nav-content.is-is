@@ -12,24 +12,29 @@ ms.search.keywords: integration, synchronize, map
 ms.date: 06/06/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: f3c9cff4094395a1f06ba04ba2476de76c4a04a1
+ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
+ms.openlocfilehash: 3f26a80427a2a1c38949ca94848751527383d7f9
 ms.contentlocale: is-is
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/26/2017
 
 ---
-# <a name="managing-your-customer-relationships-using-dynamics-365-for-sales-from-inside-dynamics-nav"></a>Merking viðskiptatengsla með Using Dynamics 365 for Sales úr Dynamics NAV
+# <a name="managing-customers-and-sales-created-in-dynamics-365-for-sales"></a>Umsjón með viðskiptamönnum og sölum sem stofnuð eru í Dynamics 365 for Sales
 Ef þú notar Dynamics 365 for Sales til að taka þátt í viðskiptum, getur þú notað [!INCLUDE[d365fin](includes/d365fin_md.md)] til þess að panta vinnslu og fjármál og hafa óaðfinnanlegur samþættingu í framhaldi af peningum.
 
 Þegar umsóknin þín er sett upp til að samþætta við Dynamics 365 for Sales, hefur þú aðgang að söluupplýsingum frá [!INCLUDE[d365fin](includes/d365fin_md.md)] og öfugt í sumum tilfellum. Þessi samþætting gerir þér kleift að vinna með og samstilla gagnategundir sem eru algengar fyrir bæði þjónustu, svo sem viðskiptavini, tengiliði og söluupplýsingar og halda gögnunum uppfærðar á báðum stöðum.  
 
-Til dæmis getur sölumaðurinn í Dynamics 365 for Sales notað verðlista frá [!INCLUDE[d365fin](includes/d365fin_md.md)] þegar þeir búa til sölufyrirmæli. Þegar þeir bæta hlutnum við sölulínuna í Dynamics 365 for Sales, geta þeir einnig séð birgðahæð (framboð) hlutarins frá [!INCLUDE[d365fin](includes/d365fin_md.md)]. Þessar upplýsingar eru gefin út sem hluti af hjálpargögnum um uppsetningu, **Uppsetning Dynamics 365-tengingar**.  
+Til dæmis getur sölumaðurinn í Dynamics 365 for Sales notað verðlista frá [!INCLUDE[d365fin](includes/d365fin_md.md)] þegar þeir búa til sölufyrirmæli. Þegar þeir bæta hlutnum við sölulínuna í Dynamics 365 for Sales, geta þeir einnig séð birgðahæð (framboð) hlutarins frá [!INCLUDE[d365fin](includes/d365fin_md.md)].
+
+Á móti kemur að pantanavinnslur í [!INCLUDE[d365fin](includes/d365fin_md.md)] geta afgreitt sérkenni sölupantana sem eru fluttar sjálfkrafa eða handvirkt úr Dynamics 365 for Sales, eins og að stofna og bóka sjálfkrafa gildar sölupantanalínur fyrir vörur eða forða sem var fært inn í Sölu sem innskriftarvörur. Frekari upplýsingar er að finna í hlutanum „Afgreiðsla sérstakra sölupöntunargagna“.  
+
+> [!NOTE]
+> Áður en þú getur samþætt við Dynamics 365 for Sales verður þú að sinna ýmsum tæknilegum undirbúningi. Nánari upplýsingar er að finna í [Hvernig á að: setja upp Dynamics CRM tengingu](https://msdn.microsoft.com/en-us/dynamics-nav/how-to-set-up-a-dynamics-crm-connection) og [Hvernig á að: undirbúa Dynamics CRM fyrir samþættingu](https://msdn.microsoft.com/en-us/dynamics-nav/how-to-prepare-dynamics-crm-for-integration) í MSDN.
 
 ## <a name="setting-up-the-connection"></a>Uppsetning tengingarinnar
-Frá Heimili geturðu nálgast uppsetningarleiðbeiningar um **Uppsetning Dynamics 365-tengingar** sem hjálpar þér að setja upp tengingu. Þegar það er gert verður þú að hafa óaðfinnanlega tengingu við Dynamics 365 for Sales færslur með [!INCLUDE[d365fin](includes/d365fin_md.md)] skrám.  
+Á upphafssíðunni geturðu nálgast leiðbeiningar um uppsetningu með hjálp fyrir **uppsetningu tengingar Dynamics 365 for Sales** sem hjálpar þér að setja tenginguna upp. Þegar það er gert verður þú að hafa óaðfinnanlega tengingu við Dynamics 365 for Sales færslur með [!INCLUDE[d365fin](includes/d365fin_md.md)] skrám.  
 
 > [!NOTE]  
->   Eftirfarandi útskýrir uppsetningu með aðstoð, en þú getur framkvæmt sömu verkhluta handvirkt í glugganum **Uppsetning Dynamics 365-tengingar**.
+> Eftirfarandi útskýrir uppsetningu með aðstoð, en þú getur framkvæmt sömu verkhluta handvirkt í glugganum **Uppsetning tengingar Dynamics 365 for Sales**.
 
 Í aðstoðarsamskipunarleiðbeiningunni geturðu valið hvaða gögn eru samstillt á milli tveggja þjónustunnar. Þú getur einnig tilgreint að þú viljir flytja inn núverandi Dynamics 365 for Sales lausnina þína. Í því tilviki verður þú að tilgreina stjórnsýslu notendareikning.
 
@@ -75,6 +80,13 @@ Dynamics 365 for Sales sölutilboð veltur á viðbótarupplýsingum eins og vi�
 Til að kanna framvindu einstakra starfa í fullri samstillingu, skal fara á **Staða verkraðarfærslu**, **Í innri vinnslustöðu töflu**, eða **Úr innri vinnslustöðu töflu** í glugganum **Yfirferð á fullri samstillingu tengslastjórnunar**.
 
 Frá gluggann í **Uppsetning Dynamics 365 for Sales-tengingar** er hægt að fá upplýsingar um fulla samstillingu hvenær sem er. Héðan er einnig hægt að opna gluggann **Vörpun samþættingartöflu** til að sjá upplýsingar um töflurnar í Dynamics NAV og í Dynamics 365 for Sales lausninni sem þarf að samstilla.
+
+## <a name="handling-special-sales-order-data"></a>Afgreiðsla sérstakra sölupöntunargagna
+Sölupantanir í Dynamics 365 for Sales verða fluttar sjálfkrafa í [!INCLUDE[d365fin](includes/d365fin_md.md)] ef gátreiturinn **Stofna sölupantanir sjálfkrafa** í glugganum **Uppsetning tengingar Microsoft Dynamics 365 for Sales** er valinn. Á slíkum sölupöntunum er reiturinn **Heiti** í upprunalegu pöntuninni fluttur og honum varpað í reitinn **Utanaðkomandi fylgiskjalsnúmer** á sölupöntuninni í [!INCLUDE[d365fin](includes/d365fin_md.md)].
+
+Þetta getur líka virkað ef upprunalega sölupöntunin inniheldur innskriftarvörur, þ.e.a.s. vörur eða forða sem er skráður í hvorugri vörunni. Í því tilviki verður þú að fylla út reitina **Gerð innskriftarvöru** og **Nr. innskriftarvöru** í glugganum **Sölugrunnur**, til þess að slíkri óskráðri vörusölu sé varpað í tiltekið vöru-/forðanúmer fyrir fjárhagsgreiningu.
+
+Ef vörulýsingin í upprunalegu sölupöntuninni er mjög löng er stofnuð ný sölupöntunarlína af gerðinni Athugasemd til þess að rúma allan texta sölupöntunarinnar í [!INCLUDE[d365fin](includes/d365fin_md.md)].
 
 ## <a name="see-also"></a>Sjá einnig
 [Umsjón með venslum](marketing-relationship-management.md)  
