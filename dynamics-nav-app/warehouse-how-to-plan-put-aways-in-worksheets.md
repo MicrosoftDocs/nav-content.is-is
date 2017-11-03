@@ -57,7 +57,7 @@ Ef gátmerki er ekki sett í þennan reit eru frágangsleiðbeiningar stofnaðar
 
     -   Hægt er að úthluta fráganginum á tiltekinn starfsmann.  
     -   Hægt er að raða frágangsleiðbeiningalínum eins og gert var á vinnublaðinu eða eftir flokkun hólfa. Þegar raðað er eftir flokkun hólfa birtast Taka-línurnar fyrst þar sem flestar móttökulínurnar hafa hólfaflokkunina 0 og Setja línurnar birtast síðast í hækkandi röð eftir hólfaflokkun. Hafi vöruhúsið verið skipulagt þannig að hólf með svipaða flokkun séu næst hvert öðru, sparar röðun með þessum hætti starfsmönnunum sporin.  
-    -   Hægt er að fela millilínurnar sem stofnaðar eru þegar kerfið skiptir stórri mælieiningu í smærri mælieiningar með því að velja reitinn **Setja einingaskiptaafmörkun**. Frekari upplýsingar, sjá [Hvernig skal: Virkja sjálfvirk einingaskipti með beinum frágangi og tínslu] (vöruhús_virkja_sjálfvirk_einingaskipti_með_beinum_frágangi_og_tínslum_md).  
+    -   Hægt er að fela millilínurnar sem stofnaðar eru þegar kerfið skiptir stórri mælieiningu í smærri mælieiningar með því að velja reitinn **Setja einingaskiptaafmörkun**. Frekari upplýsingar, sjá [Hvernig skal: Virkja sjálfvirk einingaskipti með beinum frágangi og tínslu] (warehouse-enable-automatic-breaking-bulk-with-directed-put-away-and-pick.md).  
     -   Hægt er að velja að ekki sé sjálfkrafa fyllt út í reitinn **Magn til afgreiðslu** í frágangsleiðbeiningunum.  
     -   Hægt er að prenta skjalið strax.  
 
