@@ -1,6 +1,6 @@
 ---
-title: "Nota GetAddress.io UK Postcodes viÃ°bÃ¦tur"
-description: "SÃ¦kja heimilisfÃ¶ng aÃ°ila Ã¡ borÃ° viÃ° viÃ°skiptamenn, lÃ¡nardrottna, starfsmann og bankastofnanir Ã­ Bretlandi meÃ° GetAddress.io Ã¾jÃ³nustunni."
+title: "Nota GetAddress.io UK Postcodes viğbætur"
+description: "Sækja heimilisföng ağila á borğ viğ viğskiptamenn, lánardrottna, starfsmann og bankastofnanir í Bretlandi meğ GetAddress.io şjónustunni."
 documentationcenter: 
 author: bholtorf
 ms.prod: dynamics-nav-2017
@@ -19,21 +19,19 @@ ms.lasthandoff: 10/16/2017
 
 ---
 
-# <a name="the-getaddressio-uk-postcodes-extension-to-microsoft-dynamics-nav"></a>GetAddress.io UK Postcodes viÃ°bÃ³tin Ã­ Microsoft Dynamics NAV
-GetAddress.io UK Postcodes viÃ°bÃ³tin getur sparaÃ° tÃ­ma og komiÃ° Ã­ veg fyrir mistÃ¶k Ã¾egar Ã¾Ãº slÃ¦rÃ° inn heimilisfÃ¶ng fyrir aÃ°ila eins og viÃ°skiptamenn, lÃ¡nardrottna, bankareikninga og starfsmenn. Ãegar Ã¾Ãº ert til dÃ¦mis aÃ° bÃºa til viÃ°skiptamann velurÃ°u einfaldlega pÃ³stnÃºmer og [!INCLUDE[d365fin](includes/d365fin_md.md)] sÃ½nir lista yfir heimilisfÃ¶ng. Veldu heimilisfangiÃ° sem Ã¾Ãº vilt heimilisfangareitir eru fylltir Ãºt.  
+# <a name="the-getaddressio-uk-postcodes-extension-to-microsoft-dynamics-nav"></a>GetAddress.io UK Postcodes viğbótin í Microsoft Dynamics NAV
+GetAddress.io UK Postcodes viğbótin getur sparağ tíma og komiğ í veg fyrir mistök şegar şú slærğ inn heimilisföng fyrir ağila eins og viğskiptamenn, lánardrottna, bankareikninga og starfsmenn. Şegar şú ert til dæmis ağ búa til viğskiptamann velurğu einfaldlega póstnúmer og [!INCLUDE[d365fin](includes/d365fin_md.md)] sınir lista yfir heimilisföng. Veldu heimilisfangiğ sem şú vilt heimilisfangareitir eru fylltir út.  
 
-##<a name="to-use-the-getaddressio-uk-postcodes-extension-when-you-enter-an-address"></a>Til aÃ° nota GetAddress.io UK Postcodes viÃ°bÃ³tina Ã¾egar Ã¾Ãº slÃ¦rÃ° inn heimilisfang
-1. Ã **AÃ°setur** skal velja **Leit aÃ° aÃ°setri Ãºt frÃ¡ pÃ³stnÃºmeri**.  
+##<a name="to-use-the-getaddressio-uk-postcodes-extension-when-you-enter-an-address"></a>Til ağ nota GetAddress.io UK Postcodes viğbótina şegar şú slærğ inn heimilisfang
+1. Í **Ağsetur** skal velja **Leit ağ ağsetri út frá póstnúmeri**.  
 
     > [!NOTE]  
->   Valkosturinn **Leit aÃ° aÃ°setri Ãºt frÃ¡ pÃ³stnÃºmeri** er aÃ°eins Ã­ boÃ°i ef svÃ¦Ã°iÃ° **Lands-/svÃ¦Ã°iskÃ³Ã°i** er auÃ°ur eÃ°a inniheldur **GB**.
-2. Ã **Leit aÃ° pÃ³stnÃºmeri** glugganum Ã­ reitnum **PÃ³stnÃºmer** slÃ¦rÃ°u inn eÃ°a velur pÃ³stnÃºmeriÃ°.  
-3. Ã glugganum **Val aÃ°seturs** er aÃ°setur valiÃ°.  
+>   Valkosturinn **Leit ağ ağsetri út frá póstnúmeri** er ağeins í boği ef svæğiğ **Lands-/svæğiskóği** er auğur eğa inniheldur **GB**.
+2. Í **Leit ağ póstnúmeri** glugganum í reitnum **Póstnúmer** slærğu inn eğa velur póstnúmeriğ.  
+3. Í glugganum **Val ağseturs** er ağsetur valiğ.  
 
 > [!TIP]  
->   Ef Ã¾Ãº Ã¾ekkir gÃ¶tunÃºmeriÃ° geturÃ°u sÃ­aÃ° heimilisfÃ¶ngin meÃ° Ã¾vÃ­ aÃ° slÃ¡ inn sum eÃ°a Ã¶ll nÃºmerin Ã­ **AfhendingarstaÃ°ur**.
+>   Ef şú şekkir götunúmeriğ geturğu síağ heimilisföngin meğ şví ağ slá inn sum eğa öll númerin í **Afhendingarstağur**.
 
 
-## <a name="see-also"></a>SjÃ¡ einnig
-[Setja upp GetAddress.io UK Postal Code viÃ°bÃ³tina](LocalFunctionality/UnitedKingdom/uk-setup-postal-code-service.md)
 

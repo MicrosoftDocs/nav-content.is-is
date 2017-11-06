@@ -1,6 +1,6 @@
 ---
-title: "Uppsetning viÃ°bÃ³ta til aÃ° sÃ©rstilla Dynamics NAV"
-description: "Kynntu Ã¾Ã©r hvernig skal bÃ¦ta virkni og sÃ©rstilla Dynamics NAV meÃ° Ã¾vÃ­ aÃ° setja upp viÃ°bÃ¦tur."
+title: "Uppsetning viğbóta til ağ sérstilla Dynamics NAV"
+description: "Kynntu şér hvernig skal bæta virkni og sérstilla Dynamics NAV meğ şví ağ setja upp viğbætur."
 documentationcenter: 
 author: edupont04
 ms.prod: dynamics-nav-2017
@@ -18,57 +18,57 @@ ms.contentlocale: is-is
 ms.lasthandoff: 10/26/2017
 
 ---
-# <a name="customizing-dynamics-nav-using-extensions"></a>SÃ©rstillir Dynamics NAV meÃ° viÃ°bÃ³tum
-ÃÃº getur breytt [!INCLUDE[d365fin](includes/d365fin_md.md)] meÃ° Ã¾vÃ­ aÃ° setja viÃ°bÃ¦tur sem bÃ¦ta viÃ° virkni, breyta hegÃ°un eÃ°a gefa Ã¾Ã©r aÃ°gang aÃ° nÃ½jum netÃ¾jÃ³nustu, til dÃ¦mis.
-Ãegar Ã¾Ãº fyrst rÃ¦sir [!INCLUDE[d365fin](includes/d365fin_md.md)], eru nokkrar viÃ°bÃ¦tur Ã¾egar settar upp fyrir Ã¾ig. MeÃ° tÃ­manum verÃ°a fleiri viÃ°bÃ¦tur tiltÃ¦kar fyrir Ã¾ig, og Ã¾Ãº getur sÃ­Ã°an valiÃ° hvort Ã¾Ãº viljir nota viÃ°bÃ³tina eÃ°a ekki.
+# <a name="customizing-dynamics-nav-using-extensions"></a>Sérstillir Dynamics NAV meğ viğbótum
+Şú getur breytt [!INCLUDE[d365fin](includes/d365fin_md.md)] meğ şví ağ setja viğbætur sem bæta viğ virkni, breyta hegğun eğa gefa şér ağgang ağ nıjum netşjónustu, til dæmis.
+Şegar şú fyrst ræsir [!INCLUDE[d365fin](includes/d365fin_md.md)], eru nokkrar viğbætur şegar settar upp fyrir şig. Meğ tímanum verğa fleiri viğbætur tiltækar fyrir şig, og şú getur síğan valiğ hvort şú viljir nota viğbótina eğa ekki.
 
-Til dÃ¦mis veitir Microsoft viÃ°bÃ³t sem veitir samÃ¾Ã¦ttingu viÃ° PayPal Payments Standard. Ãessi viÃ°bÃ³t er uppsett sjÃ¡lfgefiÃ°
-En ef Ã¶nnur viÃ°bÃ³t er gerÃ° sem veitir samÃ¾Ã¦ttingu viÃ° aÃ°ra greiÃ°sluÃ¾jÃ³nusta, geturÃ°u sett inn nÃ½ja viÃ°bÃ³t og sÃ­Ã°an valiÃ° hvaÃ°a af Ã¾essum tveimur Ã¾jÃ³nustum Ã¾Ãº notar.  
+Til dæmis veitir Microsoft viğbót sem veitir samşættingu viğ PayPal Payments Standard. Şessi viğbót er uppsett sjálfgefiğ
+En ef önnur viğbót er gerğ sem veitir samşættingu viğ ağra greiğsluşjónusta, geturğu sett inn nıja viğbót og síğan valiğ hvağa af şessum tveimur şjónustum şú notar.  
 
-ÃÃº stjÃ³rnar viÃ°bÃ³tum Ã­ **viÃ°bÃ³tastjÃ³rnun** glugganum. HÃ¦gt er aÃ° opna Ã¾ennan glugga Ãºr heimasvÃ¦Ã°inu. Einnig er hÃ¦gt aÃ° velja **Leit aÃ° sÃ­Ã°u eÃ°a skÃ½rslu** tÃ¡kniÃ° ![Leit aÃ° sÃ­Ã°u eÃ°a skÃ½rslu](media/ui-search/search_small.png "Leit aÃ° sÃ­Ã°u eÃ°a skÃ½rslu") efst Ã­ hÃ¦gra horninu, slÃ¡ inn **ViÃ°bÃ³t** og velja svo tengdan tengil.  
+Şú stjórnar viğbótum í **viğbótastjórnun** glugganum. Hægt er ağ opna şennan glugga úr heimasvæğinu. Einnig er hægt ağ velja **Leit ağ síğu eğa skırslu** tákniğ ![Leit ağ síğu eğa skırslu](media/ui-search/search_small.png "Leit ağ síğu eğa skırslu") efst í hægra horninu, slá inn **Viğbót** og velja svo tengdan tengil.  
 
 > [!NOTE]  
->   Ef Ã¾Ãº telur aÃ° Ã¾Ãº Ã¦ttir aÃ° hafa aÃ°gang aÃ° viÃ°bÃ³t en finnur ekki virknina sem Ã­ henni felst, skaltu athuga gluggann **ViÃ°bÃ³tarstjÃ³rnun** - ef viÃ°bÃ³tin er ekki skrÃ¡Ã° Ã¾ar getur Ã¾Ãº sett hana upp eins og lÃ½st er Ã­ eftirfarandi kafla.  
+>   Ef şú telur ağ şú ættir ağ hafa ağgang ağ viğbót en finnur ekki virknina sem í henni felst, skaltu athuga gluggann **Viğbótarstjórnun** - ef viğbótin er ekki skráğ şar getur şú sett hana upp eins og lıst er í eftirfarandi kafla.  
 
-## <a name="installing-an-extension"></a>Uppsetning viÃ°bÃ³tar
-HÃ©r getur Ã¾Ãº fengiÃ° nÃ½jar viÃ°bÃ¦tur frÃ¡ markaÃ°storginu Ã¡ [AppSource.microsoft.com](https://appsource.microsoft.com/en-us/marketplace/apps?product=dynamics-365%3Bdynamics-365-for-financials&page=1). HÃ©r getur Ã¾Ãº sÃ©Ã° allar tiltÃ¦kar viÃ°bÃ¦tur fyrir [!INCLUDE[d365fin](includes/d365fin_md.md)], og Ã¾Ãº getur fengiÃ° forrit, viÃ°bÃ¦tur og innihaldsefni fyrir aÃ°rar Microsoft vÃ¶rur. Stilltu viÃ°eigandi sÃ­ur, skoÃ°aÃ°u upplÃ½singar um hverja viÃ°bÃ³t og fÃ¡Ã°u viÃ°bÃ³t fyrir Ã¾inn [!INCLUDE[d365fin](includes/d365fin_md.md)].  
+## <a name="installing-an-extension"></a>Uppsetning viğbótar
+Hér getur şú fengiğ nıjar viğbætur frá markağstorginu á [AppSource.microsoft.com](https://appsource.microsoft.com/en-us/marketplace/apps?product=dynamics-365%3Bdynamics-365-for-financials&page=1). Hér getur şú séğ allar tiltækar viğbætur fyrir [!INCLUDE[d365fin](includes/d365fin_md.md)], og şú getur fengiğ forrit, viğbætur og innihaldsefni fyrir ağrar Microsoft vörur. Stilltu viğeigandi síur, skoğağu upplısingar um hverja viğbót og fáğu viğbót fyrir şinn [!INCLUDE[d365fin](includes/d365fin_md.md)].  
 > [!NOTE]  
->   SkrÃ¡Ã°u Ã¾ig inn Ã¡ [AppSource.microsoft.com](https://appsource.microsoft.com/) meÃ° Ã¾vÃ­ aÃ° nota netfangiÃ° sem Ã¾Ãº notar fyrir [!INCLUDE[d365fin](includes/d365fin_md.md)]. Nota sama tÃ¶lvupÃ³streikning fyrir aÃ°ra Ã¾jÃ³nustu og vÃ¶rur fyrir er hnÃ¶kralausa upplifun.  
+>   Skráğu şig inn á [AppSource.microsoft.com](https://appsource.microsoft.com/) meğ şví ağ nota netfangiğ sem şú notar fyrir [!INCLUDE[d365fin](includes/d365fin_md.md)]. Nota sama tölvupóstreikning fyrir ağra şjónustu og vörur fyrir er hnökralausa upplifun.  
 
-Einnig er hÃ¦gt aÃ° fÃ¡ aÃ° markaÃ°storgiÃ° Ãºr [!INCLUDE[d365fin](includes/d365fin_md.md)]. Ã **framlengingarstjÃ³rnun** geturÃ°u sÃ©Ã° eftirnafnin sem eru Ã­ uppsettri rÃ¶Ã° og Ã¾Ãº getur opnaÃ° **FramlengingarmarkaÃ°** sÃ­Ã°u sem sÃ½nir [!INCLUDE[d365fin](includes/d365fin_md.md)] viÃ°bÃ¦tur sem eru Ã­ boÃ°i Ã­ AppSource. Ef valiÃ° er *Fleiri Ã¶pp* tengilinn, er fariÃ° meÃ° Ã¾ig Ã¡ [AppSource.microsoft.com](https://appsource.microsoft.com/en-us/marketplace/apps?product=dynamics-365%3Bdynamics-365-for-financials&page=1).  
+Einnig er hægt ağ fá ağ markağstorgiğ úr [!INCLUDE[d365fin](includes/d365fin_md.md)]. Í **framlengingarstjórnun** geturğu séğ eftirnafnin sem eru í uppsettri röğ og şú getur opnağ **Framlengingarmarkağ** síğu sem sınir [!INCLUDE[d365fin](includes/d365fin_md.md)] viğbætur sem eru í boği í AppSource. Ef valiğ er *Fleiri öpp* tengilinn, er fariğ meğ şig á [AppSource.microsoft.com](https://appsource.microsoft.com/en-us/marketplace/apps?product=dynamics-365%3Bdynamics-365-for-financials&page=1).  
 
-Ef Ã¾Ãº velur viÃ°bÃ³t geturÃ°u lesiÃ° um hvaÃ° viÃ°bÃ³tin gerir, og Ã¾Ãº getur fengiÃ° aÃ°gang aÃ° hjÃ¡lp fyrir viÃ°bÃ³tinni til aÃ° lÃ¦ra meira. Ãegar valiÃ° er aÃ° fÃ¡ viÃ°bÃ³t, verÃ°urÃ°u aÃ° samÃ¾ykkja skilmÃ¡la um notkun. Ef Ã¾Ãº fÃ¦rÃ° framlengingu frÃ¡ AppSource vefsÃ­Ã°u verÃ°ur Ã¾Ãº skrÃ¡Ã° (ur) inn Ã­ [!INCLUDE[d365fin](includes/d365fin_md.md)] til aÃ° ljÃºka uppsetningunni.  
+Ef şú velur viğbót geturğu lesiğ um hvağ viğbótin gerir, og şú getur fengiğ ağgang ağ hjálp fyrir viğbótinni til ağ læra meira. Şegar valiğ er ağ fá viğbót, verğurğu ağ samşykkja skilmála um notkun. Ef şú færğ framlengingu frá AppSource vefsíğu verğur şú skráğ (ur) inn í [!INCLUDE[d365fin](includes/d365fin_md.md)] til ağ ljúka uppsetningunni.  
 
-Ãegar Ã¾Ãº setur upp viÃ°bÃ³t gÃ¦tirÃ°u Ã¾urft aÃ° setja Ã¾aÃ° upp, svo sem aÃ° tilgreina reikning til notkunar meÃ° **PayPal-greiÃ°slustaÃ°all fyrir [!INCLUDE[d365fin](includes/d365fin_md.md)]** framlengingu.
-AÃ°rar viÃ°bÃ¦tur bÃ¦ta einfaldlega reitum viÃ° fyrirliggjandi sÃ­Ã°u, eÃ°a Ã¾eir bÃ¦ta viÃ° nÃ½jum sÃ­Ã°um, til dÃ¦mis.   
+Şegar şú setur upp viğbót gætirğu şurft ağ setja şağ upp, svo sem ağ tilgreina reikning til notkunar meğ **PayPal-greiğslustağall fyrir [!INCLUDE[d365fin](includes/d365fin_md.md)]** framlengingu.
+Ağrar viğbætur bæta einfaldlega reitum viğ fyrirliggjandi síğu, eğa şeir bæta viğ nıjum síğum, til dæmis.   
 
-Ef Ã¾Ãº fjarlÃ¦gir viÃ°bÃ³t og skiptir um skoÃ°un geturÃ°u sett hana inn aftur. Ãegar Ã¾Ãº fjarlÃ¦gir viÃ°bÃ³t sem Ã¾Ãº hefur veriÃ° aÃ° nota, eru gÃ¶gnin geymd svo aÃ° ef Ã¾Ãº setur Ã¾au upp aftur, eru gÃ¶gnin Ã¾Ã­nn enn tiltÃ¦k.  
+Ef şú fjarlægir viğbót og skiptir um skoğun geturğu sett hana inn aftur. Şegar şú fjarlægir viğbót sem şú hefur veriğ ağ nota, eru gögnin geymd svo ağ ef şú setur şau upp aftur, eru gögnin şínn enn tiltæk.  
 
-Sumar viÃ°bÃ¦tur eru veittar af Microsoft, og aÃ°rar viÃ°bÃ¦tur eru veittar af [Ã¶Ã°rum fyrirtÃ¦kjum.](ui-extensions-other.md) Allar viÃ°bÃ¦tur eru prÃ³faÃ°ar Ã¡Ã°ur en Ã¾Ã¦r eru gerÃ°ar tiltÃ¦kar til Ã¾in, en viÃ° mÃ¦lum meÃ° aÃ° Ã¾Ãº farir Ã­ gegnum tenglana sem eru veittir meÃ° hverri viÃ°bÃ³t til aÃ° lÃ¦ra meira um viÃ°bÃ³tina Ã¡Ã°ur en Ã¾Ãº setur hana upp.  
+Sumar viğbætur eru veittar af Microsoft, og ağrar viğbætur eru veittar af [öğrum fyrirtækjum.](ui-extensions-other.md) Allar viğbætur eru prófağar áğur en şær eru gerğar tiltækar til şin, en viğ mælum meğ ağ şú farir í gegnum tenglana sem eru veittir meğ hverri viğbót til ağ læra meira um viğbótina áğur en şú setur hana upp.  
 
-Microsoft veitir eftirfarandi viÃ°bÃ¦tur:  
+Microsoft veitir eftirfarandi viğbætur:  
 
-* [Dynamics GP GagnafÃ¦rsla](ui-extensions-dynamicsgp-data-migration.md)  
+* [Dynamics GP Gagnafærsla](ui-extensions-dynamicsgp-data-migration.md)  
 * [PayPal Payments Standard](ui-extensions-paypal-payments-standard.md)  
 * [QuickBooks gagnaflutningur](ui-extensions-quickbooks-data-migration.md)  
-* [SpÃ¡ um sÃ¶lu og birgÃ°ir](ui-extensions-sales-forecast.md)  
+* [Spá um sölu og birgğir](ui-extensions-sales-forecast.md)  
 * [Ceridian Payroll](ui-extensions-ceridian-payroll.md)  
-* [Quickbooks-viÃ°bÃ³tin fyrir innflutning Ã¡ launaskrÃ¡](ui-extensions-quickbooks-payroll.md)  
-* [WorldPay-greiÃ°slustaÃ°all](ui-extensions-worldpay-payments-standard.md)
+* [Quickbooks-viğbótin fyrir innflutning á launaskrá](ui-extensions-quickbooks-payroll.md)  
+* [WorldPay-greiğslustağall](ui-extensions-worldpay-payments-standard.md)
 * [GetAddress.io UK Postcodes](ui-extensions-getaddressio.md)
-* [QuickBooks gagnaflutningur Ã¡ netinu](ui-extensions-quickbooks-online-data-migration.md)
-* [EndurskoÃ°andagÃ¡tt](ui-extensions-accountant-portal.md)  
+* [QuickBooks gagnaflutningur á netinu](ui-extensions-quickbooks-online-data-migration.md)
+* [Endurskoğandagátt](ui-extensions-accountant-portal.md)  
 * [Myndgreinandi](ui-extensions-image-analyzer.md)
 
 > [!NOTE]  
->  NÃ½jar viÃ°bÃ¦tur eru ekki tiltÃ¦kar Ã­ AppSource strax eftir aÃ° viÃ° tilkynnum um uppfÃ¦rslu. ÃÃº getur fylgst meÃ° viÃ°bÃ³tum Ã¡ [AppSource.microsoft.com](https://appsource.microsoft.com/en-us/marketplace/apps?product=dynamics-365%3Bdynamics-365-for-financials&page=1).
+>  Nıjar viğbætur eru ekki tiltækar í AppSource strax eftir ağ viğ tilkynnum um uppfærslu. Şú getur fylgst meğ viğbótum á [AppSource.microsoft.com](https://appsource.microsoft.com/en-us/marketplace/apps?product=dynamics-365%3Bdynamics-365-for-financials&page=1).
 
-## <a name="see-also"></a>SjÃ¡ einnig
-[Hvernig Ã¡ aÃ°: Virkja greiÃ°slur viÃ°skiptamanna gegnum PayPal](sales-how-enable-payment-service-extensions.md)  
-[YfirfÃ¦ra viÃ°skiptagÃ¶gn Ãºr Ã¶Ã°rum fjÃ¡rhagskerfum](upload-data.md)  
-[Setja upp GetAddress.io UK Postal Code viÃ°bÃ³tina](LocalFunctionality/UnitedKingdom/uk-setup-postal-code-service.md)  
-[[!INCLUDE[d365fin](includes/d365fin_md.md)] ViÃ°bÃ¦tur frÃ¡ Ã¶Ã°rum veitum](ui-extensions-other.md)  
-[Velkomin(n) Ã­ [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
+## <a name="see-also"></a>Sjá einnig
+[Hvernig á ağ: Virkja greiğslur viğskiptamanna gegnum PayPal](sales-how-enable-payment-service-extensions.md)  
+[Yfirfæra viğskiptagögn úr öğrum fjárhagskerfum](upload-data.md)    
+[[!INCLUDE[d365fin](includes/d365fin_md.md)] Viğbætur frá öğrum veitum](ui-extensions-other.md)  
+[Velkomin(n) í [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
 
 ##
+
 
