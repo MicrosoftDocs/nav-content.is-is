@@ -60,12 +60,6 @@ Ertu að hugsa um að gerast áskrifandi? Auðveldlega er hægt að fara út úr
 
 Til að stofna fyrirtæki til að prufukeyra hluti, farðu á **Mínar stillingar** valmyndina efst í hægra horninu og breyttu fyrirtækinu yfir í **Mitt fyrirtæki**. Til að breytingin taki gildi þarf að skrá sig út úr [!INCLUDE[d365fin](includes/d365fin_md.md)] og svo inn aftur. Uppsetningarleiðsögn með hjálp mun hjálpa þér að veita grunnupplýsingar um fyrirtækið. Þegar það hefur verið gert skalut skoða heimasíða og finna **Uppsetning með hjálp** aðgerðina.  
 
-## <a name="ready-to-subscribe"></a>Tilbúinn að gerast áskrifandi?
-Í hvert sinn sem þú skráir þig inn á prufu tímabilinu, mun tilkynning á blátt flettistiku efst á skjánum sýna eftirstöðvar tíma. Ef þú ákveður að gerast áskrifandi, skaltu nota tengilinn í tilkynningunni til að hafa samand við Microsoft. Einnig er hægt að hafa samband við [!INCLUDE[d365fin](includes/d365fin_md.md)] Söluteymið í [Microsoft Dynamics NAV](https://go.microsoft.com/fwlink/?linkid=828707).  
-
-## <a name="other-dynamics-nav-apps"></a>Önnur Dynamics NAV forrit
-Fara á innihald um önnur Dynamics NAV forrit með því að velja [Dynamics NAV](https://docs.microsoft.com/dynamics365) hlekkinn á bláa borðanum efst á þessari síðu. Einnig er hægt að læra meira á [Dynamics NAV vefsíðunni ](https://www.microsoft.com/en-us/dynamics365/).
-
 ## <a name="see-also"></a>Sjá einnig
 [Unnið með [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 [Uppsetning [!INCLUDE[d365fin](includes/d365fin_md.md)]](setup.md)  
@@ -73,9 +67,3 @@ Fara á innihald um önnur Dynamics NAV forrit með því að velja [Dynamics NA
 [Sérstilling [!INCLUDE[d365fin](includes/d365fin_md.md)] með viðbótum](ui-extensions.md)  
 [Nota [!INCLUDE[d365fin](includes/d365fin_md.md)] sem mitt viðskiptainnhólf í Outlook](madeira-outlook.md)  
 [Fáðu [!INCLUDE[d365fin](includes/d365fin_md.md)] í farsímann þinn](install-mobile-app.md)  
-[Microsoft Dynamics NAV fylgiskjöl](https://docs.microsoft.com/en-us/dynamics365/#pivot=solutions&panel=solutions_financials)  
-[roadmap.dynamics.com](https://roadmap.dynamics.com/#edition=1#application=a56e2c12-2a92-e611-80dc-c4346bac0910#status=3a708a86-ae97-e611-80df-c4346baceb68)  
-[Microsoft Dynamics NAV](https://go.microsoft.com/fwlink/?linkid=828707)  
-
-##
-
