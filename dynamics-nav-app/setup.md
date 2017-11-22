@@ -57,5 +57,3 @@ Sum svæði krefjast þess að þú sért stjórnandi í [!INCLUDE[d365fin](incl
 [Uppsetning og stjórnun í [!INCLUDE[d365fin](includes/d365fin_md.md)]](admin-setup-and-administration.md)  
 [Velkomin(n) í [!INCLUDE[d365fin](includes/d365fin_md.md)]](index.md)  
 
-##
-
