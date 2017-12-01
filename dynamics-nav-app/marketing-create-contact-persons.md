@@ -3,7 +3,7 @@ title: "Stofna einstaklingstengilið"
 description: "Útskýrir hvað felst í verkhlutanum að setja upp tengiliðaspjald fyrir einstakling, til dæmis viðfang eða birgja, og hjálpar til við að skilgreina sambandið og móta samskiptin."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

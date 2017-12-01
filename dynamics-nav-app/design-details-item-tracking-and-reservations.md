@@ -3,7 +3,7 @@ title: "Hönnunarupplýsingar - vörurakning og frátekningar"
 description: "Þetta efnisatriði fjallar um vörurakningu og frátekningar, og lýsir heildarhugmyndinni á bak við þetta tvennt."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

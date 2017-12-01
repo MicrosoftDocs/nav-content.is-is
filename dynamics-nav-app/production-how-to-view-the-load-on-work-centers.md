@@ -3,7 +3,7 @@ title: "Hvernig á að: skoða álag á vinnu- og vélastöðvar"
 description: "Á spjaldinu **Vinnustöð** er hægt að sjá álag á vinnustöðvarnar sem afleiðingu útgefinna framleiðslupantana."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

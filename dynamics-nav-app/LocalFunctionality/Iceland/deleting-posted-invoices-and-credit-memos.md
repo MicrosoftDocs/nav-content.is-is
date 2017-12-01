@@ -3,7 +3,7 @@ title: "Eyðing bókaðra reikninga og kreditreikninga"
 description: "Á Íslandi, í samræmi við löggjöf, [!INCLUDE[navnow](../../includes/navnow_md.md)] hefur verið breytt til að hindra það að þú getir eytt bókuðum reikningum og kreditreikningum."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

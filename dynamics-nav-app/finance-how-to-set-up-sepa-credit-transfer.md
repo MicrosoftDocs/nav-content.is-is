@@ -3,7 +3,7 @@ title: "Setja upp SEPA-kreditfærslur"
 description: "Kynntu þér hvernig á að setja upp SEPA-kreditfærslur í Dynamics NAV."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

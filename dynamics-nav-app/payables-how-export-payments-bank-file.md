@@ -3,7 +3,7 @@ title: "Flytja út greiðslur í rafræna greiðsluskrá"
 description: "Til að framkvæma greiðslur lánardrottins, þarf að virkja umskráningarþjónustu fyrir bankagögn, og hlaða upp skránni á netbankanum þínum til að millifæra fjármunina."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

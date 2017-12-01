@@ -3,7 +3,7 @@ title: "Hönnunarupplýsingar - vörurakning framboð"
 description: "Þetta efnisatriði fjallar um hvernig skal ganga úr skugga um að fólkið sem vinnur pantanir geti stólað á tiltækileika rað- eða lotunúmera."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

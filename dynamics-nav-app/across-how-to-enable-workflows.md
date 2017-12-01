@@ -3,7 +3,7 @@ title: "Hvernig á að Virkja verkflæði"
 description: "Þegar verkflæði hefur verið stofnað og það á örugglega að ræsast verður að virkja verkflæðið."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

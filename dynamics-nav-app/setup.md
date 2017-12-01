@@ -2,7 +2,7 @@
 title: "Yfirlit yfir verkefni til að setja upp Dynamics NAV"
 description: "Útskýrir hvernig skal setja upp, forsníða og frumstilla Dynamics NAV eftir þínum þörfum."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

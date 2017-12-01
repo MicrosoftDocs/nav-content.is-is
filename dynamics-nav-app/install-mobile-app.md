@@ -3,7 +3,7 @@ title: "Nota Dynamics NAV á fartækinu þínu"
 description: "Þú getur skoðað og breytt Dynamics NAV gögnum í símanum þínum eða spjaldtölvu."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na

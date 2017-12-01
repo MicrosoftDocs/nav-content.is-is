@@ -3,7 +3,7 @@ title: "Uppsetning starfsábyrgða fyrir tengiliði"
 description: "Hægt er að skilgreina starfsábyrgðarkóða og úthluta honum til tengiliðs til að gefa til kynna hvaða verkhluta tengiliður þinn ber ábyrgð á í sínu fyrirtæki, t.d. upplýsingatækni eða framleiðslu."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

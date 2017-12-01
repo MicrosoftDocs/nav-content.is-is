@@ -3,7 +3,7 @@ title: "Tengiliðir samstilltir við viðskiptamenn og lánardrottnar"
 description: "Hægt er að tengja eða samstilla tengiliðaupplýsingar frá tengiliðum sem líka eru viðskiptamenn, lánardrottnar eða bankareikningar, þannig að þú uppfærir upplýsingarnar aðeins á einum stað."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

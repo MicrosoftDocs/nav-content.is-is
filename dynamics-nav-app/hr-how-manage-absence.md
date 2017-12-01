@@ -3,7 +3,7 @@ title: "Hvernig á að: Halda utan um fjarveru starfsmanna"
 description: "Lýsir því hvernig á að skrá fjarveru starfsmanna og greina upplýsingar um fjarveru."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

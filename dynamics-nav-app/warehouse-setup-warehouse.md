@@ -3,7 +3,7 @@ title: "Grunnstilling vöruhúsaferlis"
 description: "Dreifingaráætlun fyrirtækis endurspeglast í grunnstillingu á vinnslum vöruhúss. Í henni felst skilgreining á því hvernig mismunandi vörur eru meðhöndlaðar í mismunandi vöruhúsum, til dæmis stig hólfastýringar og umfang nauðsynlegs verkflæðis á milli vöruhúsaaðgerða."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

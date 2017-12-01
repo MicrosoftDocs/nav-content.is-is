@@ -2,7 +2,7 @@
 title: "Stjórnunarverk í Dynamics NAV"
 description: "Sumir verkhlutar í [!INCLUDE[d365fin](includes/d365fin_md.md)] krefjast miðlægrar stjórnunar og uppsetningar. Sjáðu hverjir þeir eru og lærðu hvað skal gera."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

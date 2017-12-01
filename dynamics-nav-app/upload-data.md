@@ -2,7 +2,7 @@
 title: "Flytja eldri viðskiptagögn þín inn í Dynamics NAV"
 description: "Hægt er að flytja gögn fyrir viðskiptamenn, lánardrottna og birgðir, til dæmis frá Excel, QuickBooks, eða Dynamics GP inn í Dynamics NAV."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

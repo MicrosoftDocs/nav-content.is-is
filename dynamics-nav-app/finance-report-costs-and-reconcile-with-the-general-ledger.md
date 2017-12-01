@@ -3,7 +3,7 @@ title: "Tilkynna kostnað og afstemma við fjárhag"
 description: "Við lok mánaðarlegra, árlegra eða annarra bókhaldstímabila þarf að framkvæma röð kostnaðarstjórnunar- og endurskoðunarverkhluta til að tilkynna rétt og jafnað birgðavirði til fjármáladeildarinnar. Fyrir utan bókunarferlið sem færir einstakar vöruvirðisfærslur í sérstaka fjárhagsreikninga eru tiltækar margar skýrslur, rakningaraðgerðir og sérstakt afstemmingarverkfæri fyrir endurskoðandann eða stjórnandann sem ber ábyrgð á þessu mikilvæga verki."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

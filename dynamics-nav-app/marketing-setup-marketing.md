@@ -3,7 +3,7 @@ title: "Setja upp upplýsingar um markaðssetningu og tengiliðastjórnun"
 description: "Hægt er að setja upp markaðssetningu og tengiliðastjórnun í Dynamics NAV til að hámarka ávinning sambanda við viðskiptamenn og viðföng, og bæta herferðir og kynningar."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Úthluta öðru aðsetri til tengiliðs"
 description: "Útskýrir hvernig skal úthluta öðru aðsetri til tengiliðs eða viðfangs, þangað sem stundum eru sendar upplýsingar til þeirra."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

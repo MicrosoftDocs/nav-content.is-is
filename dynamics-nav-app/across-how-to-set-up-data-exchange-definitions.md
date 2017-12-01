@@ -2,7 +2,7 @@
 title: "Skilgreina hvernig rafræn gagnaskipti fara fram"
 description: "Hægt er að nota ytri veitu, sem býður OCR-þjónustu, til að breyta PDF eða myndaskrám í rafræn skjöl."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

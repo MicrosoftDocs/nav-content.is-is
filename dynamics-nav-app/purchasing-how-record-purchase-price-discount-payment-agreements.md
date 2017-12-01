@@ -3,7 +3,7 @@ title: "Setja upp sérstaka varaverðlagningu og afslætti fyrir lánardrottna"
 description: "Þú getur skilgreint mismunandi varaverð og afsláttarsamninga og úthlutað þeim til innkaupaskjala fyrir lánardrottna."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

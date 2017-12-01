@@ -3,7 +3,7 @@ title: "Hvernig á að Eyða verkflæðum"
 description: "Óhætt er að eyða verkflæði ef ljóst er að það sé ekki lengur í notkun. Öll verkflæðistilvik sem eru skilgreind í verkflæði verða að hafa stöðuna **Lokið**."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

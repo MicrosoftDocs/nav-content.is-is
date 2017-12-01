@@ -3,7 +3,7 @@ title: "Setja upp sjóðstreymisgreiningu"
 description: "Setja upp myndritin á Reikningar Mitt hlutverk til að hjálpa til við að greina sjóðstreymi í fyrirtækinu, þar á meðal útgjöld og tekjur, greiðslugetu og inngreiðslur mínus staðgreiðslur."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

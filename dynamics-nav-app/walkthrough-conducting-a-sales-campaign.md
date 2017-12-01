@@ -3,7 +3,7 @@ title: "Kynning - Framkvæmd söluherferðar"
 description: "Herferð er hver sú aðgerð sem hefur með marga tengiliði að gera. Mikilvægur þáttur í uppsetningu herferðar hefur með val á markhópi hennar að gera. Í þessum tilgangi í [!INCLUDE[d365fin](includes/d365fin_md.md)], er búinn til í  hluti eða hópur tengiliða með afmörkunum."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

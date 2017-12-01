@@ -3,7 +3,7 @@ title: "Stofna reikninga eða kreditreikninga fyrir þjónustu"
 description: "Læra hvernig á að stofna reikninga svo þú getir fengið borgað fyrir þjónustu sem þú veitir."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

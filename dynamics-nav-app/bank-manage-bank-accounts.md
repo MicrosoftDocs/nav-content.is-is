@@ -3,7 +3,7 @@ title: "Stjórna bankareikningum"
 description: "Með reglulegu millibili þarf að afstemma bankafjárahagsfærslur í Dynamics NAV við viðkomandi bankafærslur á bankareikningunum þínum."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

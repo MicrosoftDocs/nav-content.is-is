@@ -3,7 +3,7 @@ title: "Hvernig á að bóka handvirkt úrkast"
 description: "Ef úrkast er framleitt við vinnsluna er einnig hægt að færa það inn í afkastabókina. Bent er á að úrkastsmagnið eykur ekki afkastamagnið."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

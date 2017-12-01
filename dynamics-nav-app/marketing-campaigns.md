@@ -3,7 +3,7 @@ title: "Setja upp markaðsherferðir í Dynamics NAV"
 description: "Lýsir hvernig hægt er að setja upp og stunda markaðssetningarherferðir í Dynamics NAV til að hjálpa þér að koma auga á og laða að viðföng og varðveita viðskiptamenn."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

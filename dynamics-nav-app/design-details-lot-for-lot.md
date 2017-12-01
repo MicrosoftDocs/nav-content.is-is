@@ -3,7 +3,7 @@ title: "Hönnunarupplýsingar - lota fyrir lotu"
 description: "Lærið að nota lota fyrir lotu regluna til að gera upp pöntunarmagn á grunni eftispurnar."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

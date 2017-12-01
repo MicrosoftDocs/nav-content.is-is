@@ -3,7 +3,7 @@ title: "Hvernig á að gera skjótt upp Innkaupareikninga"
 description: "Ef greiða þarf lánardrottni með peningum eða ávísun er hægt að láta gera nauðsynlega bókun um leið og reikningurinn er bókaður."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

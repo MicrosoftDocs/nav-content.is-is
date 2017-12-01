@@ -3,7 +3,7 @@ title: "Hönnunarupplýsingarn: Færslur víddarsamstæða"
 description: "Þessi fylgiskjöl veita nákvæmar tæknilegar upplýsingar yfir hugtökin og reglurnar sem eru notaðar til að endurhanna víddarfærsluvistun og bókunareiginleika."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

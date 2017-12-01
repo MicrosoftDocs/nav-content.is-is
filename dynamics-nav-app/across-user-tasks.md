@@ -2,7 +2,7 @@
 title: "Úthlutun og stjórnun verkefna"
 description: "Lærðu hvernig verkefnum er úthlutað á notendur, þar á meðal endurskoðandann þinn, í Dynamics NAV"
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

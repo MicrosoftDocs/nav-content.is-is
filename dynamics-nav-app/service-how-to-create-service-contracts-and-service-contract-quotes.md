@@ -3,7 +3,7 @@ title: "Hvernig á að: Vinna með þjónustusamninga og þjónustusamningstilbo
 description: "Hægt er að stofna þjónustusamning annað hvort handvirkt eða úr þjónustusamningstilboði. Hægt er að stofna samning út frá samningstilboði."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

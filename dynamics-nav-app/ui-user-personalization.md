@@ -3,7 +3,7 @@ title: "Sérstilla hvernig upplýsingar birtast á notandareikningi"
 description: "Lýsir því hvernig skal sérstilla útlit og stemningu í Dynamics NAV fyrir þinn notandareikning."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

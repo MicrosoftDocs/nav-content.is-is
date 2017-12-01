@@ -3,7 +3,7 @@ title: "Uppsetning starfsmanna og breytingar á upplýsingum"
 description: "Lýsir hvernig á að skrá nýja Starfsmenn eða breyta upplýsingum fyrir núverandi starfsmenn."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

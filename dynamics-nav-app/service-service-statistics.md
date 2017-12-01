@@ -3,7 +3,7 @@ title: "Þjónustuupplýsingar"
 description: "Fáðu snöggt yfirlit yfir innihald alls þjónustuskjalsins, þ.m.t. pantanir, tilboð, reikninga eða kreditreikninga, sundurliðun á ákveðnum þjónustulínum og þjónustuvörur."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

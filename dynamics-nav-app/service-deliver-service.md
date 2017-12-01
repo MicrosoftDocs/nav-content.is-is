@@ -3,7 +3,7 @@ title: "Yfirlit yfir verkhluta þjónustuafhendingar"
 description: "Útlistar verkhluta að setja upp vera viss um gæði þjónustuafhendingar og uppfylla samkomulag við viðskiptamenn."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

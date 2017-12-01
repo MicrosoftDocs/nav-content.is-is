@@ -3,7 +3,7 @@ title: "Finna úrræðaleiðir eða vinna í kringum vandamál með innskráning
 description: "Kynntu þér algengustu ástæðurnar fyrir því af hverju þú getur hugsanlega ekki klárað innskráningu í Dynamics NAV, og hvernig hægt er að vinna í kringum þær."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

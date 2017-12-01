@@ -3,7 +3,7 @@ title: "Úthlutun kostnaðarauka á sölu og innkaup"
 description: "Ef þú vilt að birgðavörurnar beri aukinn kostnað, eind og t.d. farmur, efnisleg meðhöndlun, tryggingar og flutningar sem viðskipti þín með vörurnar hafa í för með sér, geturðu notað eiginleikann Kostnaðarauki."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

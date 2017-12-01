@@ -3,7 +3,7 @@ title: "Flytja inn og út skýrslu- og skjalaútlit"
 description: "Hægt er að flytja inn og út fyrirliggjandi sérsniðin skýrsluútlit sem skrá í og úr staðsetningu á tölvu og neti."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

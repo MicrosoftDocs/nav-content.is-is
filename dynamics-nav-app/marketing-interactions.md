@@ -3,7 +3,7 @@ title: "Vinna með samskipti við tengiliði"
 description: "Hægt er að vinna með hvers kyns samskipti milli fyrirtækisins og tengiliða þess, t.d. bréf, símtöl, fundir og þess háttar."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

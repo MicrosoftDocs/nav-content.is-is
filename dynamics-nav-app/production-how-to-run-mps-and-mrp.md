@@ -3,7 +3,7 @@ title: "Hvernig á að: keyra fulla áætlun, MPS og MRP"
 description: "Skilmálarnir \"sem keyra áætlunarvinnublaðið\" eða \"MRP\" eiga við útreikning aðalframleiðsluáætlunar og efnisþarfa samkvæmt raunverulegri eftirspurn og eftirspurn samkvæmt spá. Áætlunarkerfið getur reiknað MPS og MRP samkvæmt beiðni eða reiknað bæði á sama tíma."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

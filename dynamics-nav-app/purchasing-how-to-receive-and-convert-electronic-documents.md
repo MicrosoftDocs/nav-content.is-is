@@ -2,7 +2,7 @@
 title: "Taka við og umbreyta rafræn skjölum"
 description: "Þú getur fengið rafræn skjöl beint frá viðskiptafélögum eða frá OCR þjónustu."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

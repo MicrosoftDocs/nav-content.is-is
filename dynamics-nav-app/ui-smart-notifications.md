@@ -3,7 +3,7 @@ title: "Vinna með snjalltilkynningar og tilgreina hvenær þær eiga að birtas
 description: "Þú getur fengið tilkynningar sem upplýsa þig um stöðubreytingar eða atburði, t.d. gjaldfallna stöðu eða lága birgðastöðu."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

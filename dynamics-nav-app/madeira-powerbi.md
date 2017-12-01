@@ -2,7 +2,7 @@
 title: Dynamics NAV og power BI Content Packs
 description: "Það er auðvelt að fá innsýn, viðskiptaupplýsingar og afkastavísi (KPI) í Dynamics NAV gögnum með Power BI og Dynamics NAV efnispökkunum."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na

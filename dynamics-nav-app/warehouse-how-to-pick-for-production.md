@@ -3,7 +3,7 @@ title: "Hvernig á að tína fyrir framleiðslu með einföldum vörhúsagrunnst
 description: "Þegar vöruhúsið krefst tínsluvinnslu en ekki afhendingarvinnslu er glugginn **Birgðatínsla** notaður til að skipuleggja og skrá tínslu íhluta."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

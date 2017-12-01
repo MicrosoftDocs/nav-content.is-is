@@ -2,7 +2,7 @@
 title: "Reitavörpun fyrir útflutning bankagreiðsluskráa"
 description: "Þegar þú flytur út greiðsluskrár með umskráningarþjónusta fyrir bankagögn, mun sá sem veitir umskráningarþjónusta fyrir bankagögn geta séð eitthvað af gögnunum."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

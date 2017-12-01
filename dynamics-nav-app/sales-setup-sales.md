@@ -3,7 +3,7 @@ title: "Yfirlit yfir verkhluta grunnstillingar söluferla"
 description: "Útskýrir verkhluta sem felur í sér uppsetningu á reglum og gildum til skilgreiningar á sölustefnu og söluferlum."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

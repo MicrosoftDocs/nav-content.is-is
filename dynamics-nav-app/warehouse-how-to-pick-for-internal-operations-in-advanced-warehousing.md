@@ -3,7 +3,7 @@ title: "Hvernig á að tína fyrir innri starfsemi með ítarlegum vöruhúsaski
 description: "Í ítarlegri vöruhúsagrunnstillingu þar sem birgðageymslan notar tínslu auk afhendingar eru íhlutir tíndir fyrir framleiðslu- og samsetningarverkþætti með glugganum **Vöruhúsatínsla**."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

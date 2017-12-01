@@ -3,7 +3,7 @@ title: "Viðbætur Dynamics NAV frá öðrum fyrirtækjum"
 description: "Telur upp forrit og viðbætur sem stérstilla Dynamics NAV frá öðrum fyritækjum."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

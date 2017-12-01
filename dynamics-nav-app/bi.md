@@ -3,7 +3,7 @@ title: "Viðskiptaupplýsingar"
 description: "Hægt er að ná í og greina viðskiptagögn, eins og t.d. sölutölur, innkaup, rekstrarkostnað, laun starfsmanna og fjárhagsáætlanir, sem geta verið verðmætar viðskiptaupplýsingar eða hjálpað til við ákvarðanatöku."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

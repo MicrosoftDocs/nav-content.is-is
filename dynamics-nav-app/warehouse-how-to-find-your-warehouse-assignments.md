@@ -3,7 +3,7 @@ title: "Hvernig á að finna vöruhúsaúthlutanir"
 description: "Til að finna vöruhúsaúthlutanir þínar skaltu opna spjaldgluggann fyrir valda vöru. Gluggi valins atriðis er opnaður Hafi vöruhúsaleiðbeiningar verið stofnaðar eru Taka- og Setja-línur sjáanlegar og hægt er að byrja á úthlutun. Í sumum vöruhúsum gæti yfirmaður verið búinn að úthluta tilteknum leiðbeiningum á hvern starfsmann."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

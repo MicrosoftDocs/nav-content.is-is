@@ -2,7 +2,7 @@
 title: "Hönnunarupplýsingar - Meðalkostnaður"
 description: "Meðalkostnaður vöru er reiknaður með reglubundnu vegnu meðaltali, miðað við meðalkostnaðartímabil sem er sett upp í Dynamics NAV."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

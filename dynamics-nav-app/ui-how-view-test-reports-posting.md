@@ -3,7 +3,7 @@ title: "Endurskoða prófunarskýrslu áður sölu- eða innkaupaskjal er bóka�
 description: "Áður en þú bókar skjal, til dæmis pöntun eða kreditreikning, geturðu prófað og endurskoðað það til að leita að villum sem gætu hindrað bókun."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

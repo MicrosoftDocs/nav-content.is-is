@@ -3,7 +3,7 @@ title: "Stofna kostnaðaráætlanir"
 description: "Í þessu efnisatriði er að finna yfirlit yfir hvar skal stofna og greina kostnaðaráætlanir."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

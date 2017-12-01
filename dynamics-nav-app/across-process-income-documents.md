@@ -3,7 +3,7 @@ title: "Vinnsla skjala á innleið"
 description: "Til að skrá ytra skjal, eins og t.d. PDF, í Dynamics NAV, verður fyrst að stofna eða ljúka við færslu skjals á innleið."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

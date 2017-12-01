@@ -2,7 +2,7 @@
 title: Um gagnaskiptaramma
 description: "Snið fyrir skrár vegna skipta á gögnum í skrám banka, rafræn skjöl, gengi gjaldmiðla og önnur með ERP-kerfi eru breytileg eftir gagnagjafa gagnaskrár og landi/svæði."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

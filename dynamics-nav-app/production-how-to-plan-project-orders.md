@@ -3,7 +3,7 @@ title: "Hvernig á að áætla verkefnispantanir"
 description: "Þessi áætlanagerð byrjar í sölupöntun og nýtir gluggann **Áætlun sölupöntunar**. Þegar framleiðslupöntun verkefnis er stofnuð er hægt að skipuleggja hana frekar með því að nota gluggann **Pantanaáætlun**."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Meðhöndla birgða- og framleiðslukostnað"
 description: "Þótt margar aðgerðir kostnaðarbókhalds felist í innri ferlum sem notandinn kemur ekki nálægt, til dæmis jöfnun færslna og sjálfvirk kostnaðarleiðrétting, eru nokkrir reitir, gluggar og skýrslur sem ætluð eru notendum sem vinna beint eða óbeint með kostnað vara eða aðgerða."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

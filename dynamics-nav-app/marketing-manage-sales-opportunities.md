@@ -3,7 +3,7 @@ title: "Umsjón sölutækifæra og ábendinga"
 description: "Lýsir hvernig stjórna má í Dynamics NAV ábendingum eða sölutækifærum sem birtast, og tengja tækifærin við sölumann svo hægt sé að fylgjast með hugsanlegri sölu."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

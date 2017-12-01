@@ -2,7 +2,7 @@
 title: "Hvernig á að breyta Árlegri upphæð þjónustusamnings eða samningstilboðs"
 description: "Hægt er að breyta upphæðinni sem verður reiknuð árlega á þjónustusamningum eða þjónustusamningstilboðum."
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

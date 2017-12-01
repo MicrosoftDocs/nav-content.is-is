@@ -3,7 +3,7 @@ title: "Setja upp forða, vinnuskýrslur og verk"
 description: "Lýsir hvernig á að setja upp forða, vinnuskýrslur og verk til að stjórna verkefnum."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

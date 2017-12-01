@@ -2,7 +2,7 @@
 title: "Bæta upplýsingum við færslur fyrir sjálfa(n) þig"
 description: "Bæta athugasemd við hvaða færslur sem er í forritinu. Vilji notandi til dæmis koma á framfæri upplýsingum um sölupöntun sem ekki á heima í neinum reitanna á sölupöntuninni er hægt að gera það í athugasemd."
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

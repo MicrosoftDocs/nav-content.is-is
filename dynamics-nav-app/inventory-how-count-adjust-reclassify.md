@@ -3,7 +3,7 @@ title: "Talning, breytingar og endurflokkun birgða"
 description: "Lýsir því hvernig skal framkvæma rauntalningu, gera neikvæðar eða jákvæðar leiðréttingar, og hvernig skal breyta upplýsingum, eins og t.d. staðsetningu eða lotunúmer, á birgðahöfuðbókafærslum eða vöruhúsafærslum. "
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Setja upp sjálfvirka skráningu af samskiptum"
 description: "Hægt er að setja forritið upp til að skrá sjálfkrafa samskipti við viðskiptavini eða biðlara, t.d. dæmis vegna sölu, innkaupa- og þjónustuskjöl og símtöl."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

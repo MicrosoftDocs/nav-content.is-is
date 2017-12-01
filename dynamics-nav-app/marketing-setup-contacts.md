@@ -3,7 +3,7 @@ title: "Setja upp upplýsingar fyrir tengiliði"
 description: "Útskýrir hvernig skal tilgreina upplýsingar og kóða, t.d. um starfsgreinahópa og viðskiptasambönd, áður en þú setur upp tengiliði."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

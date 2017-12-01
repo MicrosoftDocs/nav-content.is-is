@@ -3,7 +3,7 @@ title: "Hvernig á að Breyta fyrirliggjandi staðsetningum í vöruhúsastaðse
 description: "Hægt er að láta birgðageymslu sem til er nota svæði og hólf og vinna sem vöruhúsastað."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

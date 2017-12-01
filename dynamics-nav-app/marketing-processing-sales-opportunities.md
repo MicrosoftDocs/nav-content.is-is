@@ -3,7 +3,7 @@ title: "Vinnsla sölutækifæra í söluferli"
 description: "Hægt er að skoða, loka eða eyða sölutækifærum, og líka stofna tilboð og sölupantanir fyrir tækifæri, og færa tækifæri á milli þrepa í söluferlinu."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

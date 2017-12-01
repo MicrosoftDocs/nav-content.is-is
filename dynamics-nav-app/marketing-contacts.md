@@ -3,7 +3,7 @@ title: "Stofna og viðhalda tengiliðum fyrirtækis"
 description: "Settir eru upp sem tengiliðir allir ytri aðilar sem fyrirtækið hefur viðskiptatengsl við (til dæmis viðföng, viðskiptamenn, lánadrottnar og ráðgjafar)."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

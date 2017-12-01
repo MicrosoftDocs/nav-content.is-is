@@ -3,7 +3,7 @@ title: "Hvernig á að búa til framleiðsluspá"
 description: "Sölu- og framleiðsluspár eru búnar til í glugganum **Framleiðsluspá**."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

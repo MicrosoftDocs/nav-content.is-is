@@ -3,7 +3,7 @@ title: "Hvernig á að tína vörur með birgðatínslu"
 description: "Ef birgðageymsla er sett upp þannig að krafist sé tínsluvinnslu en ekki afhendingarvinnslu skal nota birgðatínsluskjöl til að skrá og bóka tínslu og afhendingarupplýsingar fyrir upprunaskjöl."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

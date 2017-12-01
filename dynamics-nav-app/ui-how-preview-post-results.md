@@ -3,7 +3,7 @@ title: "Forskoða færslur áður en þú bókar skjöl eða færslubók"
 description: "Þú getur gengið úr skugga um að færslur fyrir skjöl og færslubækur séu réttar áður en þær eru bókaðar í fjárhag."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

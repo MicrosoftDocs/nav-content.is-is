@@ -3,7 +3,7 @@ title: "Hvernig á að Afgreiða vörur"
 description: "Út frá grunngerð vöruhússins, geturðu annað hvort skráð afhendingu á tengt viðskiptaskjal á útleið, eins og t.d. sölupöntun, beint, eða þú getur notað vöruhúsaafhendingarskjöl sem virða verkflæði og samlagast ýmsum vöruhúsaaðgerðum."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

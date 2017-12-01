@@ -3,7 +3,7 @@ title: "Kröfur fyrir rafræna reikningsfærslu við útgáfu reikninga í einri
 description: "Á Íslandi þarf að senda skýrslu til hins opinbera ef reikningur er prentaður oftar en einu sinni."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

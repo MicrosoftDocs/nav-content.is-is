@@ -3,7 +3,7 @@ title: "Stilla fjölda smáatriða sem birtast á listum"
 description: "Hægt er að birta listana sundurliðaða og fá þannig fram frekari upplýsingar, eða sem reiti sem auðvelt er að skanna sjónrænt."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

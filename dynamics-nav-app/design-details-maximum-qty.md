@@ -3,7 +3,7 @@ title: "Hönnunarupplýsingar - Hámarksmagn"
 description: "Reglan um hámarksmag er ein leið til að viðhalda birgðum með því að nota endurpöntunarmark."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

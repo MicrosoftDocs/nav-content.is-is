@@ -3,7 +3,7 @@ title: "Yfirlit yfir verkhluta lokun fjárhagsárs og fjárhagstímabila"
 description: "Útskýrir verkhlutana sem felast í því að loka fjárhagsári og fjárhagstímabili, til dæmis að ganga úr skugga um að skjöl og færslubækur séu bókuð og staðfesta bankareikningsstöðu."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

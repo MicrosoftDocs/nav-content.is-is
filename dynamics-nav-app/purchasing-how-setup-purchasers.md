@@ -3,7 +3,7 @@ title: "Setja upp innkaupaaðila og úthluta innkaupaaðilum til lánardrottna"
 description: "Ef nokkrir innkaupaaðilar vinna hjá fyrirtækinu þínu, getur þú skipulagt þá til tölfræðilegrar greiningar."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

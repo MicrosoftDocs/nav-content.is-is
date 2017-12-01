@@ -3,7 +3,7 @@ title: "Yfirlit yfir skýrslur fyrir lokun til að sannreyna nákvæmni reikning
 description: "Veitir yfirsýn yfir skýrslurnar sem þú getur notað til að sannreyna nákvæmni reikninga áður en bókum er lokað við lok árs eða tímabils."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

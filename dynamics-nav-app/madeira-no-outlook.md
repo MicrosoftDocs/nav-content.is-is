@@ -3,7 +3,7 @@ title: "Nota Dynamics NAV án Outlook"
 description: "Þú getur notað Dynamics NAV sem viðstkiptainnhólf þitt í Outlook því það er samþætt við Office 365. Þú getur líka unnið án Outlook í vafra eða á fartækinu þínu."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na

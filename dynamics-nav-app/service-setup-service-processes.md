@@ -3,7 +3,7 @@ title: "Setja upp þjónustustýringarferli"
 description: "Lærið hvernig á að setja upp ferli sem hjálpar til við að skapa ánægju meðal viðskiptamanna með þjónustudeildina."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

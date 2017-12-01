@@ -3,7 +3,7 @@ title: "Hvernig á að: Tilgreina hvenær og hvernig á að fá tilkynningar"
 description: "Þegar notendur eru settir upp í samþykktarverkflæði verður að tilgreina í gluggunum Tilkynningagrunnur og Tilkynningaáætlun hvenær og hvernig hver notandi fær tilkynningar um skref í samþykktarverkflæði. Einstakir notendur geta einnig breytt tilkynningastillingum sínum með þí að velja hnappinn Breyta tilkynningastillingum á hverri tilkynningu."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

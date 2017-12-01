@@ -3,7 +3,7 @@ title: "Hvernig á að prenta VSK-yfirlit á skjölum"
 description: "Ef virðisaukaskattur er reiknaður eru upplýsingar um samantekt VSK-upplýsinga yfirleitt prentaðar á sölu- og innkaupaskjöl."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

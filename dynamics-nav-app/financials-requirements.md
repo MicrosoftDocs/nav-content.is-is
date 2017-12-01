@@ -3,7 +3,7 @@ title: "Lágmarkskröfur fyrir notkun Dynamics NAV"
 description: "Lærðu um lágmarks kerfis- og útgáfukröfur til að nota Dynamics NAV."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na

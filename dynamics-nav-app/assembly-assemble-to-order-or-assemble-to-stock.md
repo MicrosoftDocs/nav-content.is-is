@@ -3,7 +3,7 @@ title: "Skilja hvernig skal setja saman í pöntun eða setja saman í birgðir"
 description: "Samsetningarvörur er hægt að veita annað hvort með því að setja þær saman í pöntun eða setja þær saman í birgðir til að geyma þar til þeirra er óskað í sölupöntun."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -18,13 +18,13 @@ ms.contentlocale: is-is
 ms.lasthandoff: 10/16/2017
 
 ---
-# Skilja hvernig skal setja saman í pöntun eða setja saman í birgðir
+# <a name="understanding-assemble-to-order-and-assemble-to-stock"></a>Skilja hvernig skal setja saman í pöntun eða setja saman í birgðir
 Samsetningarvörur geta verið veittar í eftirfarandi tvo ferla:  
 
 -   Setja saman í pöntun.  
 -   Setja saman í birgðir.  
 
-## Samsetning til pöntunar  
+## <a name="assemble-to-order"></a>Samsetning til pöntunar  
 Yfirleitt er *setja saman í pöntun* notað fyrir vörur sem ekki á að setja í birgðir þar sem búist er við að þær verði sérsniðnar að þörfum viðskiptavinar eða vegna þess að lágmarka á birgðakostnað sem því að veita þær rétt í tíma. Stuðningsaðgerðirnar eru meðal annars:  
 
 -   Hæfni til að sérstilla samsetningarvörur þegar tekið er við sölupöntun.  
@@ -44,7 +44,7 @@ Yfirleitt er *setja saman í pöntun* notað fyrir vörur sem ekki á að setja 
 
  Til að virkja þetta ferli er verður reiturinn **Samsetningarregla** á birgðaspjaldinu að vera **Sameina í pöntun**.  
 
-## Setja saman í birgðir  
+## <a name="assemble-to-stock"></a>Setja saman í birgðir  
  Yfirleitt er *setja saman í birgðir* notað fyrir vörur sem á að setja saman á undan sölu, s.s. þegar söluherferð fyrir sett er undirbúin og þau geymd í birgðum áður en þær eru pantaðar. Þessar vörur eru yfirleitt staðlaðar vörur eins og innpökkuð sett sem þú býður ekki upp á að séu sérsniðin eftir beiðni viðskiptavina.  
 
  Í sameina á lager vinnslunni, er varan sett saman án sölueftirspurnar og er geymd á lager í vöruhúsinu sem birgðavara fyrir seinni sölu eða notkun sem millivara. Frekari upplýsingar, sjá [Hvernig skal: Setja saman vörur](assembly-how-to-assemble-items.md). Frá þessum tímapunkti er varan tínd og unnin sem stök vara og meðhöndluð sem fullunnin framleiðsluvara.  
@@ -56,7 +56,7 @@ Yfirleitt er *setja saman í pöntun* notað fyrir vörur sem ekki á að setja 
 
  Til að virkja þetta ferli er verður reiturinn **Samsetningarregla** á birgðaspjaldinu að vera **Setja saman í birgðir**.  
 
-## Samsetningaraðstæður  
+## <a name="combination-scenarios"></a>Samsetningaraðstæður  
  Almenn reglu í samsetningarstjórnun er að þegar samsetningarpöntunarmagn er sameinað í sölupöntunarlínu, verður að afhenda það á undan birgðamagninu.  
 
  Ef samsetningarpöntun tengist sölupöntunarlínu verður gildið í reitnum **Magn sett saman í pöntun** í sölupöntunarlínunni afritað í reitinn **Magn sett saman** í gegnum **Magn** í haus samsetningarpöntunarinnar. Frekari upplýsingar, sjá [Hvernig skal: Selja vörur sem eru settar saman í pöntun](assembly-how-to-sell-items-assembled-to-order.md).  
@@ -84,7 +84,7 @@ Yfirleitt er *setja saman í pöntun* notað fyrir vörur sem ekki á að setja 
 -   Lágmarksmagn sem hægt er að færa inn er 1. Það er vegna þess að það verður í það minnsta að setja saman eina einingu svo hægt sé að selja fjórar einingar, að því gefnu að þær þrjár sem eftir standa séu tiltækar sem birgðir.  
 -   Hámarksmagn sem hægt er að færa inn er 4. Þetta er til að tryggja það að ekki sé meira af þessari Samsetning til pöntunar vöru framleitt en það sem vantar fyrir söluna.  
 
-## Sjá einnig  
+## <a name="see-also"></a>Sjá einnig  
 [Samsetningardeild](assembly-assemble-items.md)  
 [Hvernig á að: Vinna með uppskriftir](inventory-how-work-BOMs.md)  
 [Birgðir](inventory-manage-inventory.md)  

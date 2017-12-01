@@ -3,7 +3,7 @@ title: "Bóka milli-fyrirtækjaskjöl og færslubækur"
 description: "Notaðu milli-fyrirtækjaskjöl til að bóka viðskipti við MF-félaga."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

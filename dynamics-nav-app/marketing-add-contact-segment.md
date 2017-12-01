@@ -3,7 +3,7 @@ title: "Skilgreina tengiliði í Hluta"
 description: "Eftir að hafa stofnað hluta, geturðu bætt tengiliðum við hlutann, t.d. sem hluta af markaðsherferð sem beint er að tilteknum viðskiptavinum eða biðlara."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Þjónustuverðstjórnun"
 description: "Þetta efnisatriði lýsir því hvernig skal nota besta verðið á þjónustupantanir, setja upp sérsniðna þjónustuverðsamninga fyrir viðskiptavini, bæta skilvirkni þjónustustarfsmanna og hraða reikningaferlinu."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

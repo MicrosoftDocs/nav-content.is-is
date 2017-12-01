@@ -3,7 +3,7 @@ title: "Hvernig á að Taka frá vörur"
 description: "Hægt er að taka vörur frá fyrir sölu-, innkaupa- og framleiðslupantanir. Hægt er að taka frá vörur í birgðum eða á innleið í opnum skjalalínum."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

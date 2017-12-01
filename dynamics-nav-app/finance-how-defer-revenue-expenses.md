@@ -3,7 +3,7 @@ title: "Fresta tekjum og öðrum útgjöldum"
 description: "Til að skrá tekjur og útgjöld á öðru tímabili en því sem færslan var bókuð á, geturðu sjálfkrafa seinkað eða frestað þeim fram yfir tiltekna áætlun."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

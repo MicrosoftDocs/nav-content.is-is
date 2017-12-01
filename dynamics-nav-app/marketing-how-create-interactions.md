@@ -3,7 +3,7 @@ title: "Búa til samskipti á tengiliði og hluta"
 description: "Lýsir hvernig á að stofna samskipti á milli þín og tengiliða og hluta í Dynamics NAV, eins og til dæmis beint tölvupóstsamband."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

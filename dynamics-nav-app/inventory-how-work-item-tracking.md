@@ -3,7 +3,7 @@ title: "Hvernig á að úthluta rað- eða lotunúmera til vara fyrir rakningu"
 description: "Hægt er að úthluta rað- og lotunúmer við hvaða útleiðarskjal eða innleiðarskjal sem er og bókaðar vörurakningarfærslur þess er síðan hægt að skoða í viðkomandi birgðabókarfærslum."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

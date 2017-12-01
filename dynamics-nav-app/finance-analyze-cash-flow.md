@@ -3,7 +3,7 @@ title: "Greina sjóðsstreymi"
 description: "Lýsir hvernig á að nota feril bundins reiðufés, tekjur og útgjöld, sjóðstreymi og sjóðstreymisspá myndrit til að greina fortíð og framtíð streymi peninga inn og út úr fyrirtækinu þínu."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

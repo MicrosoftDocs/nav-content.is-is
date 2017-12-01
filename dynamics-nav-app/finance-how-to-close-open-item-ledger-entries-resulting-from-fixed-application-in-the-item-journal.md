@@ -3,7 +3,7 @@ title: "Hvernig á að loka opnum færslum birgðahöfuðbókar vegna fastrar j�
 description: "Hægt er að nota reitinn **Jafnað frá færslu** í glugganum **Birgðabók** til að stofna fasta jöfnun milli færslu á innleið og upphaflegrar færslu á útleið. Til dæmis til að leiðrétta viðskipti á útleið eða til að vinna úr skilum þeirra."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

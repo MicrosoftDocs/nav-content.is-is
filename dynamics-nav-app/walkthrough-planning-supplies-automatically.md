@@ -3,7 +3,7 @@ title: "Kynning - Sjálfvirk áætlun birgða"
 description: "Hugtök eins og \"keyra áætlun\" eða \"keyra MRP\" vísa í útreikninga á aðalframleiðsluáætluninni (MPS) og efnisþarfaáætluninni (MRP) útfrá raunverulegri eftirspurn og eftirspurn samkvæmt spá."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Hvernig á að setja upp lánsbúnað"
 description: "Þú getur sett upp lánsbúnað sem lána má viðskiptamönnum í stað þjónustuvöru á meðan hún er í þjónustu."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Skilgreina kóða viðskiptatengsla á tengiliði"
 description: "Notaðu viðskiptatengsl í Dynamics NAV til að hjálpa til við markaðssetningu og tilgreina þau viðskiptatengsl sem þú hefur við viðföng, biðlara og viðskiptavini, t.d. banka eða þjónustuaðila."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Stofna viðskiptamann eða lánardrottinn út frá tengilið"
 description: "Hægt er að skrá fyrirliggjandi tengilið sem viðskiptamann, lánadrottinn eða bankareikninga með því að nota fyrirliggjandi upplýsingar og tiltaka eðli viðskiptasambands."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

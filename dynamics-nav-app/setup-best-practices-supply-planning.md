@@ -3,7 +3,7 @@ title: "Uppsetning bestu venjur - Framboðsáætlun"
 description: "Framboðsáætlun er mikilvægt rekstrarsvið. Þegar birgðaáætlun er sett upp og notuð rétt hjálpar hún fyrirtæki að forðast útskipun og minnka bæði pöntunar- og birgðakostnað."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

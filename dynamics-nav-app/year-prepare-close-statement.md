@@ -3,7 +3,7 @@ title: "Yfirlit yfir skýrslur til að aðstoða undirbúning lokayfirlits"
 description: "Færir þér yfirlit yfir skýrslurnar svo þú getir safnað saman upplýsingum til að undirbúa lokayfirlit fyrirtækisins þegar fjárhagsárinu er lokað."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

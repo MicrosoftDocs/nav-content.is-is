@@ -2,7 +2,7 @@
 title: "Setja upp sérstakt söluverð og afslætti fyrir viðskiptamenn"
 description: "Lýsir því hvernig skal skilgreina varaverðlagningu og aflsáttarsamkomulag sem þú vilt að sé í söluskjölunum þegar verið er að selja til mismunandi viðskiptamanna."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

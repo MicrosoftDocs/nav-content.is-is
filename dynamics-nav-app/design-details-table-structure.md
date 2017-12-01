@@ -3,7 +3,7 @@ title: "Hönnunarupplýsingar - töfluuppbygging"
 description: "Til að skilja hvernig víddafærsla vistun og bókun er endurhannað, það er mikilvægt að skilja töflu uppbyggingu."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Hvernig á að Skoða verkflæðisskrefstilvik í skráasafni"
 description: "Öll lokin tilvik verkflæðisskrefa eru vistuð í glugganum **Safn verkflæðisskrefstilvika**."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

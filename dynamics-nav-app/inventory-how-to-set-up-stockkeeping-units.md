@@ -3,7 +3,7 @@ title: "Hvernig á að setja upp birgðaeiningar"
 description: "Hægt er að nota birgðaeiningar til að skrá upplýsingar um vörur fyrir tiltekna birgðageymslu eða tiltekinn afbrigðiskóta."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -18,12 +18,12 @@ ms.contentlocale: is-is
 ms.lasthandoff: 10/16/2017
 
 ---
-# Hvernig á að setja upp birgðaeiningar
+# <a name="how-to-set-up-stockkeeping-units"></a>Hvernig á að setja upp birgðaeiningar
 Hægt er að nota birgðaeiningar til að skrá upplýsingar um vörur fyrir tiltekna birgðageymslu eða tiltekinn afbrigðiskóta.  
 
  Birgðahaldseiningar eru viðbót við birgðaspjöldin. Þær koma ekki í staðinn fyrir þau þótt tengsl séu á milli þeirra. Með notkun birgðaeininga er hægt að aðgreina upplýsingar um vöru fyrir tilteknar birgðageymslur (svo sem vöruhús eða dreifingarmiðstöð) eða tiltekin afbrigði (svo sem mismunandi hillunúmer og mismunandi áfyllingarupplýsingar) fyrir sömu vöruna.  
 
-## Uppsetning birgðaeininga  
+## <a name="to-set-up-a-stockkeeping-unit"></a>Uppsetning birgðaeininga  
 
 1.  Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn **Birgðahaldseiningar** og velja svo viðeigandi tengil.  
 2.  Valið er **Nýtt** aðgerð.  
@@ -36,7 +36,7 @@ Ef búa á til nokkrar birgðaeiningar fyrir vöru er keyrslan **Stofna birgðah
 > [!NOTE]  
 >  Upplýsingarnar á spjaldinu **Birgðaeining er til** hafa forgang á spjaldið **Vara**.  
 
-## Sjá einnig  
+## <a name="see-also"></a>Sjá einnig  
 [Hvernig á að Skrá nýjar vörur](inventory-how-register-new-items.md)  
 [Vöruhúsastjórnun sett upp](warehouse-setup-warehouse.md)  
 [Vöruhúsastjórnun](warehouse-manage-warehouse.md)  

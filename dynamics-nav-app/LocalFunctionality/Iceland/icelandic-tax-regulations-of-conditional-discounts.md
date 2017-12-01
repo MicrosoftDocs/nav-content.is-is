@@ -3,7 +3,7 @@ title: "Íslenskar reglugerðir fyrir skilyrtan afslátt"
 description: "Á Íslandi er þess krafist samkvæmt lögum að gefa út kreditreikning ef skilyrtur afsláttur er veittur."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Tengiliðir samstilltir við viðskiptamenn og lánardrottna"
 description: "Lýsir því hvernig skal samstilla tengilið við viðskiptamann, lánardrottinn eða bankareikning úr sama fyrirtæki, svo hægt sé að samræma sameiginleg gögn."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

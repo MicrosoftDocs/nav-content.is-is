@@ -3,7 +3,7 @@ title: "Setja upp og skrá Intrastat"
 description: "Lærið hvernig skal setja upp skráningareiginleika Intrastat og hvernig skal skrá viðskipti við fyrirtæki í öðrum ESB löndum."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

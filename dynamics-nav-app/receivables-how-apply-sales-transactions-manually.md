@@ -2,7 +2,7 @@
 title: "Jafna færslur í viðskiptamannabók til að afstemma greiðslur viðskiptamanna handvirkt"
 description: "Lýsir því hvernig skal jafna inngreiðslur eða endurgreiðslur við eina eða fleiri opnar færslur í viðskiptamannabók og afstemma greiðslur viðskiptamanna."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

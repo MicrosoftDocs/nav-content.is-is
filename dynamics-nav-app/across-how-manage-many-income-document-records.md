@@ -3,7 +3,7 @@ title: "Skilgreina hvaða skjöl á innleið skal skoða"
 description: "Stilla hvaða skjöl á innleið skuli birtast sjálfgefið, eins og t.d. rafrænir reikningar, til að bæta yfirsýn yfir færslur sem búið er að vinna og færslur sem á eftir að vinna."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

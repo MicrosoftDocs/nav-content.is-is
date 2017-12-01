@@ -3,7 +3,7 @@ title: "Kynningar á viðskiptaferli"
 description: "Þessi kynning fjallar skref-fyrir-skref viðskiptaferla sem framkvæma má með því að nota CRONUS International Ltd. sýnifyrirtæki. Leiðbeiningarnar samanstanda af mörgum ferlum sem sum hver eru venjulega framkvæmd af einum notanda, meðan önnur fela í sér mörg ólík notandahlutverk. Til að líkja eftir vinnuumhverfinu innihalda sumar kynningarnar uppsetningarskref sem þarf að ljúka til að ljúka æfingunum eins og lýst er. Þessi skref leggja til innsýn inní hvers konar upplýsingum notendur þurfa að deila með sérfræðingum fyrirtækis síns."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

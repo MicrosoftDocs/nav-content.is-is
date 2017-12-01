@@ -3,7 +3,7 @@ title: "Hvernig á að stofna Framleiðslupantanir í sölupöntunum"
 description: "Hægt er að búa til framleiðslupantanir í sölupöntunum í deild Sölu og markaðssetningar."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

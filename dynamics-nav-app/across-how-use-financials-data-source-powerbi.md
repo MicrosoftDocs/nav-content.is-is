@@ -2,7 +2,7 @@
 title: "Búa til Power BI gagnaveitu með Dynamics NAV"
 description: "Notandi getur gert Dynamics NAV-gögnin sín aðgengileg sem gagnaveitu í Power BI og byggt upp öflugar skýrslur um stöðu síns reksturs."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

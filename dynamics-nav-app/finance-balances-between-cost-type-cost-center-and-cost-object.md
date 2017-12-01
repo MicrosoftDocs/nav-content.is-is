@@ -3,7 +3,7 @@ title: "Stöður milli kostnaðartegundar , kostnaðarstaðar og kostnaðarliða
 description: "Þegar kostnaðarbókhald er settur upp ætti að ganga úr skugga um að allar færslur séu skráðar á kostnaðartegund sem og kostnaðarstað eða kostnaðarhlut. Það þýðir að hver kostnaðarfærsla verður að hafa úthlutaða kostnaðartegund og kostnaðarstöðvarkóta eða kostnaðarhlut úthlutaðan. Þessi regla tryggir að hver kostnaðarfærsla birtist í annaðhvort kostnaðarstöðunum eða kostnaðarhlutunum, en aldrei á báðum stöðum."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

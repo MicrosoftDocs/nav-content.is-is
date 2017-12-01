@@ -3,7 +3,7 @@ title: "Skipuleggja gögn með því að nota aðgerðina Röðun"
 description: "Hægt er að nota aðgerðina Röðun til þess að fá yfirlit yfir gögnin þín. Þú getur t.d. raðað viðskiptamönnum eftir gjaldmiðilskóða til að fá sérvalið úrtak af viðskiptamönnum."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -2,7 +2,7 @@
 title: "Setja upp SEPA-beingreiðslur"
 description: "Kynntu þér hvernig á að setja upp SEPA-beingreiðslur í Dynamics NAV."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

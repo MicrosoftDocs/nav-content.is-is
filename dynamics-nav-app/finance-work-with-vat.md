@@ -3,7 +3,7 @@ title: "Hvernig á að vinna með VSK í sölu og innkaupum"
 description: "Þetta efnisatriði lýsir því hvernig framkvæma skal verk á borð leiðréttingu bókaðs VSK í ESB-löndum/svæðum, allar sölu- og innkaupafærslur falla undir VSK-útreikning. Í þessu efnisatriði er því lýst hvernig það er gert."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

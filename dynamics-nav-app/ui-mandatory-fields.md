@@ -3,7 +3,7 @@ title: "Nauðsynlegir reitir til að klára vinnslur"
 description: "Kynntu þér reiti sem eru merktir með rauðri stjörnu, sem gefur til kynna að þeir eru nauðsynlegir og það verður að fylla þá út til að klára vinnslu."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Stofna innkaupareikning og skrá innkaup"
 description: "Lýst hvernig á að kaupa birgðir og þjónustuvörur með því að stofna og bóka innkaupareikninga eða -pantanir."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

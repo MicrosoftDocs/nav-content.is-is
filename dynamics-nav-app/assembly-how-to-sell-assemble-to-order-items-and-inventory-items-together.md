@@ -3,7 +3,7 @@ title: "Hvernig á að selja samsetningarpöntunarvörur og birgðavörur saman"
 description: "Ef samsetningarvara er sett upp fyrir samsetningu á lager gerir sjálfgefna sölupöntunarvinnslan ráð fyrir því að varan sé nú þegar samsett og að tína megi hana úr birgðum ef hún er til ráðstöfunar. Ef hluti magnsins (eða allt magnið) er ekki tiltækt er hægt að stofna samsetningarpöntun fyrir eftirstandandi magn á fljótlegan hátt."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

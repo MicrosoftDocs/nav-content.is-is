@@ -3,7 +3,7 @@ title: "Bæta við auka línum til að skilgreina lengdan texta fyrir vörulýsi
 description: "Þú getur bætt við auka línum til að lengja staðlaðan texta sem lýsir vöru."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

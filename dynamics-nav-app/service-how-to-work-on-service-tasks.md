@@ -3,7 +3,7 @@ title: "Hvernig á að vinna með þjónustuverkhluta"
 description: "Þegar búið er að stofna þjónustupöntun eða þjónustutilboð, skrá þjónustuvörulínur og úthluta forða til þjónustuvöru í pöntuninni eða tilboðinu má byrja að gera við þjónustuvöru og halda henni við."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Hvernig á að setja upp vinnu- og vélastöðvar"
 description: "**Vinnustöðvar** spjald skipuleggur föst gildi og skilyrði viðkomandi framleiðsluforða og stjórnar þannig afköstum framleiðslu þeirrar vinnustöðvar."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
