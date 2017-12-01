@@ -3,7 +3,7 @@ title: "Uppsetning afmarkanir fyrir Kvik úthlutunargrunnar."
 description: "Kvika úthlutunaraðferðin byggist á breytanlegum gildum. Til dæmis fjöldi starfsmenn í kostnaðarstöð eða seldar vörur af kostnaðarhlut á tilteknu tímabili. Níu forskilgreindir úthlutunargrunnar og tólf kvik dagsetningarsvið eru í boði. Mismunandi afmarkanir eru settar á grundvelli úthlutunargrunns."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 8372f855cfaa19456ab597e163006ae20411defd
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: f15de3adada59878e899d3375d5054e89f0d011a
 ms.contentlocale: is-is
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="setting-filters-for-dynamic-allocation-bases"></a><span data-ttu-id="797c3-106">Uppsetning afmarkanir fyrir Kvik úthlutunargrunnar.</span><span class="sxs-lookup"><span data-stu-id="797c3-106">Setting Filters for Dynamic Allocation Bases</span></span>

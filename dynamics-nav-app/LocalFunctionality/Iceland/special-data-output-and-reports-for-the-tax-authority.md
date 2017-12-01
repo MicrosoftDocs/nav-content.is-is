@@ -3,7 +3,7 @@ title: "Sérstök gögn og skýrslur fyrir skattyfirvöld"
 description: "Þess er krafist í lögum að skattyfirvöldum sé send gagnaskrá á tilteknu sniði."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 64183092fd095df5a228e9c0a7915e728ab493b0
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: a59e2cd58f2472929e481ceb82f036daaf012d21
 ms.contentlocale: is-is
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="special-data-output-and-reports-for-the-tax-authority"></a><span data-ttu-id="87476-103">Sérstök gögn og skýrslur fyrir skattyfirvöld</span><span class="sxs-lookup"><span data-stu-id="87476-103">Special Data Output and Reports for the Tax Authority</span></span>

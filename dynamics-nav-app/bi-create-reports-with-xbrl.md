@@ -3,7 +3,7 @@ title: "Hvernig á að Stofna skýrslur með XBRL"
 description: "XBRL (eXtensible Business Reporting Language) er XML-miðað tölvumál fyrir viðskiptaskýrslugerð og gerir fyrirtækjum kleift að vinna úr og deila gögnum sínum á árangursríkan og nákvæman hátt."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/16/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: fceccd8dbeb391176f888bccbc3e24f7e2a4b0b6
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: ea9b1e192386324ed6ca52e77111a8dbf5142b2f
 ms.contentlocale: is-is
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-create-reports-with-xbrl"></a><span data-ttu-id="1e5a1-103">Hvernig skal: Stofna skýrslur með XBRL</span><span class="sxs-lookup"><span data-stu-id="1e5a1-103">How to: Create Reports with XBRL</span></span>

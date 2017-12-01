@@ -3,7 +3,7 @@ title: "Viðskiptaupplýsingar"
 description: "Hægt er að ná í og greina viðskiptagögn, eins og t.d. sölutölur, innkaup, rekstrarkostnað, laun starfsmanna og fjárhagsáætlanir, sem geta verið verðmætar viðskiptaupplýsingar eða hjálpað til við ákvarðanatöku."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: bi, power BI, analysis, KPI
 ms.date: 06/16/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 0f0624843a925a105420ebbe9b87b34abe73d7ee
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 50d4458b3a044f7c65c29b9b3960ba3f10cba8d4
 ms.contentlocale: is-is
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="business-intelligence"></a><span data-ttu-id="63aa3-103">Viðskiptaupplýsingar</span><span class="sxs-lookup"><span data-stu-id="63aa3-103">Business Intelligence</span></span>

@@ -3,7 +3,7 @@ title: "Hönnunarupplýsingar: vöruhúsaflæði á innleið"
 description: "Flæði á útleið í vöruhúsinu hefst með beiðni úr losuðum upprunaskjölum um að flytja vöruna af staðsetningu vörushússins, annað hvort til að flytja hana til þriðja aðila eða á aðra staðsetningu fyrirtækisins. Úr geymslusvæðinu eru vöruhúsaaðgerðir framkvæmdar á mismunandi flækjustigi til að koma vörunum af afhendingarsvæðinu."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: ee539eab52ab81720cc705be3840b725bc3ab502
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: b7894d2da114e5b7a6a0b7ac2411beb91cb91048
 ms.contentlocale: is-is
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-outbound-warehouse-flow"></a><span data-ttu-id="03bfb-104">Hönnunarupplýsingar: vöruhúsaflæði á innleið</span><span class="sxs-lookup"><span data-stu-id="03bfb-104">Design Details: Outbound Warehouse Flow</span></span>

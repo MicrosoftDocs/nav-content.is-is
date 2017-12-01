@@ -2,7 +2,7 @@
 title: "Búa til Power BI gagnaveitu með Dynamics NAV"
 description: "Notandi getur gert Dynamics NAV-gögnin sín aðgengileg sem gagnaveitu í Power BI og byggt upp öflugar skýrslur um stöðu síns reksturs."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords: business intelligence, KPI, Odata, Power App, SOAP, analysis
 ms.date: 06/06/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: b1beb7286eb221e5df3e7d5b2050ddcb389a0a07
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 9e88f1f3ba1b9e2801fcaa69380be28f37c3b5d3
 ms.contentlocale: is-is
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="using-included365finincludesd365finmdmd-as-a-power-bi-data-source"></a><span data-ttu-id="3d734-103">Nota [!INCLUDE[d365fin](includes/d365fin_md.md)] sem Power BI gagnaveitu</span><span class="sxs-lookup"><span data-stu-id="3d734-103">Using [!INCLUDE[d365fin](includes/d365fin_md.md)] as a Power BI Data Source</span></span>

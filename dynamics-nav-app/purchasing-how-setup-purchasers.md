@@ -3,7 +3,7 @@ title: "Setja upp innkaupaaðila og úthluta innkaupaaðilum til lánardrottna"
 description: "Ef nokkrir innkaupaaðilar vinna hjá fyrirtækinu þínu, getur þú skipulagt þá til tölfræðilegrar greiningar."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: purchasing agent
 ms.date: 03/29/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 9368509b8892f23a25acaaf74410ff9279ba52d7
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: adf316cb8966fd25bead8cc0edab3a3fa011e2af
 ms.contentlocale: is-is
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-purchasers"></a><span data-ttu-id="a7de6-103">Hvernig á að setja upp Innkaupaaðila</span><span class="sxs-lookup"><span data-stu-id="a7de6-103">How to: Set Up Purchasers</span></span>

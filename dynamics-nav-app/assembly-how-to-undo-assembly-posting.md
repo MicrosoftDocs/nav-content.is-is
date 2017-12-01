@@ -3,7 +3,7 @@ title: "Hvernig á að afturkalla samsetningarbókun"
 description: "Stundum gæti þurft að afturkalla bókaða samsetningarpöntun, til dæmis ef pöntunin var bókuð með mistökum sem þarf að leiðrétta, eða vegna þess að hana hefði ekki átt að bóka til að byrja með og verður því að afturkalla."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/15/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 3ba93dd182aa1591f5d24398d4b749942d38bb4b
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 696f0e4a355f58f2f9413f20450a18639dd4cdea
 ms.contentlocale: is-is
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-undo-assembly-posting"></a><span data-ttu-id="1bdb7-103">Hvernig á að afturkalla samsetningarbókun</span><span class="sxs-lookup"><span data-stu-id="1bdb7-103">How to: Undo Assembly Posting</span></span>

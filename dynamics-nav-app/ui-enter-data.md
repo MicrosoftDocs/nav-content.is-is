@@ -2,7 +2,7 @@
 title: "Hvernig á að færa inn gögn í reiti"
 description: "Það eru margar grunnaðgerðir sem auðvelda og flýta fyrir gagnainnfærslu. Öllum grunnaðgerðum við gagnainnslátt er lýst í þessu efnisatriði."
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 09/19/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 79606a152d67ed24c00b3e9d93ccd4fc670b2a5b
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 52c033218a0a3ebae41b4acb689059fb35b69f0c
 ms.contentlocale: is-is
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="entering-data"></a><span data-ttu-id="ab654-104">Gagnainnfærsla</span><span class="sxs-lookup"><span data-stu-id="ab654-104">Entering Data</span></span>

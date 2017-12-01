@@ -3,7 +3,7 @@ title: "Hönnunarupplýsingar - jöfnun framboðs og eftirspurnar"
 description: "Kjarni áætlanakerfisins felst í jafnvægi á milli eftirspurn og framboð með því að leggja til notandaaðgerðir til að endurskoða framboðspantanir við ójafnvægi. Þetta á sér stað á blöndu af afbrigði og staðsetningu."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: e7115deb1d6e84b92584443892f6e3a323b226f2
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: f829c6af215b19b516a51e8c18dd7a7b2d58dd34
 ms.contentlocale: is-is
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-balancing-supply-with-demand"></a><span data-ttu-id="f55b3-104">Hönnunarupplýsingar: jöfnun framboðs og eftirspurnar</span><span class="sxs-lookup"><span data-stu-id="f55b3-104">Design Details: Balancing Supply with Demand</span></span>

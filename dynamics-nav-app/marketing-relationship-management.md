@@ -3,7 +3,7 @@ title: "Umsjón með venslum"
 description: "Tengslastjórnunareiginleikarnir í Dynamics NAV styðja við sölutilburði þína og veita þér aðgang að upplýsingum um tengiliði og viðföng svo þú getir sinnt viðskiptamönnum svo vel sé."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: contact, prospect, client
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: e48a11b73cd844b4eacf157bb90228617d4dc53d
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 4f2bd57bbc043789efcae560c0d3e96d3414f19f
 ms.contentlocale: is-is
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="managing-relationships"></a><span data-ttu-id="307f1-103">Stjórnun tengsla</span><span class="sxs-lookup"><span data-stu-id="307f1-103">Managing Relationships</span></span>

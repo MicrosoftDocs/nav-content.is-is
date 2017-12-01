@@ -3,7 +3,7 @@ title: "Meðhöndla birgða- og framleiðslukostnað"
 description: "Þótt margar aðgerðir kostnaðarbókhalds felist í innri ferlum sem notandinn kemur ekki nálægt, til dæmis jöfnun færslna og sjálfvirk kostnaðarleiðrétting, eru nokkrir reitir, gluggar og skýrslur sem ætluð eru notendum sem vinna beint eða óbeint með kostnað vara eða aðgerða."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/09/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: e7173c243a1603a54cca2362b9a4faea3fc4e00e
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: bd6fd393a08f0258d3a07270bf91e2ea2c836a07
 ms.contentlocale: is-is
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="handling-inventory-and-manufacturing-costs"></a><span data-ttu-id="359cb-103">Meðhöndla birgða- og framleiðslukostnað</span><span class="sxs-lookup"><span data-stu-id="359cb-103">Handling Inventory and Manufacturing Costs</span></span>

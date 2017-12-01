@@ -2,7 +2,7 @@
 title: "Senda viðskiptamönnum innheimtubréf eða sekt vegna gjaldfallinna greiðslna"
 description: "Lýsir því hvernig skal senda innheimtubréf til viðskiptamanns varðandi gjaldfallinnar greiðslu og bæta kostnaði eða þóknun við greiðsluna vegna tafarinnar."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords: payment due, debt, overdue, fee, charge, reminder
 ms.date: 09/08/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: e7543ab169a1a6ab16c9fdf0afdec88b7749d717
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 26a72c24a1bbe94470c0c45d2e55710bb1bc5929
 ms.contentlocale: is-is
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-collect-outstanding-balances"></a><span data-ttu-id="97965-103">Hvernig á að: Innheimta útistandandi skuldir</span><span class="sxs-lookup"><span data-stu-id="97965-103">How to: Collect Outstanding Balances</span></span>

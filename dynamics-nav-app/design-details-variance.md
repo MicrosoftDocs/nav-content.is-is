@@ -3,7 +3,7 @@ title: "Hönnunarupplýsingar - Frávik"
 description: "Frávik er skilgreint sem mismunurinn á raunverulegum kostnaði og staðalkostnað, eins og lýst er í eftirfarandi formúlu."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 63032d592b5fe9e58c52e64ed0a30ceeda2532fe
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 476fc10f8ab88c2d08df35a774d3c73f3a34014d
 ms.contentlocale: is-is
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-variance"></a><span data-ttu-id="6e746-103">Hönnunarupplýsingar Frávik</span><span class="sxs-lookup"><span data-stu-id="6e746-103">Design Details: Variance</span></span>

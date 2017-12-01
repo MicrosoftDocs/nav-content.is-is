@@ -3,7 +3,7 @@ title: "Hvernig á að áætla frágang á vinnublöðum"
 description: "Ef birgðageymslan krefst bæði frágangs- og móttökuvinnslu og áætla á frágangsleiðbeiningar fyrir margar móttökur, í stað þess að fara eftir leiðbeiningum sem stofnaðar eru fyrir einstakar bókaðar móttökur, er hægt að nota frágangsvinnublaðið."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/16/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: a868a1cb2e03d736aa6edb6ab9cb145efce79c11
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 645333d05b3c93526a1852271ded77812266c66c
 ms.contentlocale: is-is
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-plan-put-aways-in-worksheets"></a><span data-ttu-id="7e601-103">Hvernig á að áætla frágang á vinnublöðum</span><span class="sxs-lookup"><span data-stu-id="7e601-103">How to: Plan Put-aways in Worksheets</span></span>

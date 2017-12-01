@@ -3,7 +3,7 @@ title: "Vinna með samskipti við tengiliði"
 description: "Hægt er að vinna með hvers kyns samskipti milli fyrirtækisins og tengiliða þess, t.d. bréf, símtöl, fundir og þess háttar."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: relationship, prospect
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 82ba8bc54a94b866b9adb1babc37b45f0a463050
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 343103b909ef6d91d96e1f255b825bdfa4b5ad84
 ms.contentlocale: is-is
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="managing-interactions-with-contacts"></a><span data-ttu-id="0eed3-103">Unnið með Samskipti Við Tengiliði</span><span class="sxs-lookup"><span data-stu-id="0eed3-103">Managing Interactions With Contacts</span></span>

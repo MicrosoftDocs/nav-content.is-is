@@ -3,7 +3,7 @@ title: "Um framleiðslupantanir"
 description: "Framleiðslupantanir eru notaðar til að sjá um umbreytingu keypts efnis yfir í framleiddar vörur. Framleiðslupantanir (vinnu- eða verkpantanir) leiða verk í gegnum ýmsar aðgerðir (vinnu- eða vélastöðvar) í vinnusalnum."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/26/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: ac2003a77453024bbe227bc02e74bb3f3b2d7fb7
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: aa9234d33e17ab5ccf16f4331005d35bda3eb8de
 ms.contentlocale: is-is
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="about-production-orders"></a><span data-ttu-id="f0113-104">Um framleiðslupantanir</span><span class="sxs-lookup"><span data-stu-id="f0113-104">About Production Orders</span></span>

@@ -3,7 +3,7 @@ title: "Hvernig á að Setja upp vinnustundir og þjónustustundir"
 description: "Þú getur tilgreint venjulegan þjónustuvinnustundir í fyrirtækinu. Stuðst er við þessar þjónustustundir við útreikning á svardagsetningu og tíma vegna þjónustupantana og tilboða og til að senda viðvörunarboð vegna svartíma."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 7b4d813f734fbaa53bc185e2477ca73705872097
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 9c325af29d5ffd0f0e52b65318d88c48cdba80d4
 ms.contentlocale: is-is
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-work-hours-and-service-hours"></a><span data-ttu-id="7ddf9-104">Hvernig skal: Setja upp vinnustundir og þjónustustundir</span><span class="sxs-lookup"><span data-stu-id="7ddf9-104">How to: Set Up Work Hours and Service Hours</span></span>

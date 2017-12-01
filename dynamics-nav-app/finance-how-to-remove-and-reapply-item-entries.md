@@ -3,7 +3,7 @@ title: "Hvernig á að fjarlægja og endurjafna birgðafærslur"
 description: "Hægt er að skoða og breyta handvirkt tilteknum birgðajöfnunarfærslum sem eru stofnaðar sjálfkrafa við birgðafærslur."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/07/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 400a30ab196d2015bd9caae3fcb38dfdceea53ca
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 779d7527d04af5ecf9f2475fdfccdf097eec8eae
 ms.contentlocale: is-is
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-remove-and-reapply-item-ledger-entries"></a><span data-ttu-id="4a8f0-103">Hvernig á að: fjarlægja og endurjafna birgðabókafærslur</span><span class="sxs-lookup"><span data-stu-id="4a8f0-103">How to: Remove and Reapply Item Ledger Entries</span></span>

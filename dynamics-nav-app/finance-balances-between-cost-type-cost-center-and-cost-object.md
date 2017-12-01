@@ -3,7 +3,7 @@ title: "Stöður milli kostnaðartegundar , kostnaðarstaðar og kostnaðarliða
 description: "Þegar kostnaðarbókhald er settur upp ætti að ganga úr skugga um að allar færslur séu skráðar á kostnaðartegund sem og kostnaðarstað eða kostnaðarhlut. Það þýðir að hver kostnaðarfærsla verður að hafa úthlutaða kostnaðartegund og kostnaðarstöðvarkóta eða kostnaðarhlut úthlutaðan. Þessi regla tryggir að hver kostnaðarfærsla birtist í annaðhvort kostnaðarstöðunum eða kostnaðarhlutunum, en aldrei á báðum stöðum."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 46b480caf8195b7cf1cad0f37780ccaccb8ffb6f
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 323fffa5d63fa682a378928733680917b44d9188
 ms.contentlocale: is-is
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="balances-between-cost-type-cost-center-and-cost-object"></a><span data-ttu-id="1c157-105">Stöður milli kostnaðartegundar , kostnaðarstaðar og kostnaðarliðar</span><span class="sxs-lookup"><span data-stu-id="1c157-105">Balances Between Cost Type, Cost Center, and Cost Object</span></span>

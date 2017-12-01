@@ -3,7 +3,7 @@ title: "Forskoða færslur áður en þú bókar skjöl eða færslubók"
 description: "Þú getur gengið úr skugga um að færslur fyrir skjöl og færslubækur séu réttar áður en þær eru bókaðar í fjárhag."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.workload: na
 ms.date: 05/12/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 928bcc8a02fd88a0499dfcffbee3cf944facdc48
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: a5889b0e860faded7ed355af87b6eb50924b8d67
 ms.contentlocale: is-is
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-preview-posting-results"></a><span data-ttu-id="87fa2-103">Hvernig: Forskoða BókunarNiðurstöður </span><span class="sxs-lookup"><span data-stu-id="87fa2-103">How to: Preview Posting Results</span></span>

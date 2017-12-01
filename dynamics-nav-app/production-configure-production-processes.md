@@ -3,7 +3,7 @@ title: "Grunnstilling framleiðsluferlis"
 description: "Til að geta umbreytt efni í tilbúna vöru þarf framleiðsluforði, líkt og uppskriftir, leiðir, vélar og starfsmenn á vélum, að vera settur upp í kerfinu."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/04/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: b22fe53cc9a9ce6bb357f9eaf54fc37c4e1242b9
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: d3d873409a2e03fa51f3637453e9ac60dfbce522
 ms.contentlocale: is-is
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="setting-up-manufacturing"></a><span data-ttu-id="82274-103">Uppsetning framleiðslu</span><span class="sxs-lookup"><span data-stu-id="82274-103">Setting Up Manufacturing</span></span>

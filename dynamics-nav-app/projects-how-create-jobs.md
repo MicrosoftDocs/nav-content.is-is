@@ -3,7 +3,7 @@ title: Stofna verkspjald fyrir verk og tilgreina verkhluta
 description: "Í nýju verkefni skal stofna verkspjald sem inniheldur verkhluta starfsins og áætlunarlínur, til að auðvelda þér að stjórna framvindu og fjárhagsáætlunum."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: project management, task
 ms.date: 06/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 2ba145cd15e7d7e87796b159c5d4617b39ab76c7
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: c0cb407dc8e3ee2d07488d2e2df870a8ced46f40
 ms.contentlocale: is-is
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-create-jobs"></a><span data-ttu-id="16f53-103">Hvernig á að: Stofna verk</span><span class="sxs-lookup"><span data-stu-id="16f53-103">How to: Create Jobs</span></span>

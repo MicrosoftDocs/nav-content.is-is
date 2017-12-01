@@ -3,7 +3,7 @@ title: "Eyðing bókaðra reikninga og kreditreikninga"
 description: "Á Íslandi, í samræmi við löggjöf, [!INCLUDE[navnow](../../includes/navnow_md.md)] hefur verið breytt til að hindra það að þú getir eytt bókuðum reikningum og kreditreikningum."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 092e6993a4c19d380788b60c2159248898cd62f1
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: a7217c5fd0d89adfb87472423de064383b8abb2c
 ms.contentlocale: is-is
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="deleting-posted-invoices-and-credit-memos"></a><span data-ttu-id="f98d5-103">Eyðing bókaðra reikninga og kreditreikninga</span><span class="sxs-lookup"><span data-stu-id="f98d5-103">Deleting Posted Invoices and Credit Memos</span></span>

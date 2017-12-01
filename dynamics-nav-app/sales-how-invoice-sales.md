@@ -3,7 +3,7 @@ title: "Stofna sölureikning eða sölupöntun"
 description: "Lýsir því hvernig skal búa til söluvíxil, eða sölureikning eða sölupöntun, til að skrá samkomulag við viðskiptamann um að selja tilteknar vörur með tilteknum skilmálum."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: bill, sale, invoice, order
 ms.date: 10/11/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 7da07d1491fde4e555ea259f61babc02664094a8
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 7080c1d4190434d7809b2560183d7c7831e2bbf0
 ms.contentlocale: is-is
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-invoice-sales"></a><span data-ttu-id="66b39-103">Hvernig er reikningsfært</span><span class="sxs-lookup"><span data-stu-id="66b39-103">How to: Invoice Sales</span></span>
