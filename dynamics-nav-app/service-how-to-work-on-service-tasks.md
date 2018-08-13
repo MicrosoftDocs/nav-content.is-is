@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 5ad936ce7af986ca9a9fdb7d401bb742235ee091
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: cbca2b55ed69e6b568ac2ac267f0b4dabbb3e35e
 ms.contentlocale: is-is
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-work-on-service-tasks"></a><span data-ttu-id="689a1-103">Hvernig á að vinna með þjónustuverkhluta</span><span class="sxs-lookup"><span data-stu-id="689a1-103">How to: Work on Service Tasks</span></span>
@@ -58,7 +58,7 @@ ms.lasthandoff: 12/01/2017
 5. <span data-ttu-id="689a1-136">Í reitnum **númer**</span><span class="sxs-lookup"><span data-stu-id="689a1-136">In the **No.**</span></span> <span data-ttu-id="689a1-137">veljið viðeigandi varahlut.</span><span class="sxs-lookup"><span data-stu-id="689a1-137">field, choose the relevant spare part.</span></span>  
 6. <span data-ttu-id="689a1-138">Í reitinn **Magn** er fært magn vara sem á að nota.</span><span class="sxs-lookup"><span data-stu-id="689a1-138">In the **Quantity** field, enter the quantity of items you want to use.</span></span>  
   
- <span data-ttu-id="689a1-139">Hægt er að nota svipaða aðferð til að skrá varahluti í síðuna **Þjónustulínur** sem hægt er að opna frá síðunni **Þjónustupöntun**.</span><span class="sxs-lookup"><span data-stu-id="689a1-139">You can use a similar procedure to register the spare parts on the **Service Lines** page, which you can open from the **Service Order** page.</span></span>  
+   <span data-ttu-id="689a1-139">Hægt er að nota svipaða aðferð til að skrá varahluti í síðuna **Þjónustulínur** sem hægt er að opna frá síðunni **Þjónustupöntun**.</span><span class="sxs-lookup"><span data-stu-id="689a1-139">You can use a similar procedure to register the spare parts on the **Service Lines** page, which you can open from the **Service Order** page.</span></span>  
   
 ## <a name="to-register-spare-parts-from-a-service-order"></a><span data-ttu-id="689a1-140">Til að skrá varahluti úr þjónustupöntun</span><span class="sxs-lookup"><span data-stu-id="689a1-140">To register spare parts from a service order</span></span>  
 1. <span data-ttu-id="689a1-141">Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn  **Þjónustupantanir** og velja svo viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="689a1-141">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Service Orders**, and then choose the related link.</span></span>  
@@ -99,8 +99,8 @@ ms.lasthandoff: 12/01/2017
 2. <span data-ttu-id="689a1-180">Valin er línan sem inniheldur viðeigandi þjónustuvöru og síðan skal velja **Vörublað** aðgerðin.</span><span class="sxs-lookup"><span data-stu-id="689a1-180">Choose the line that includes the relevant service item, and then choose the **Item Worksheet** action.</span></span>  
 3. <span data-ttu-id="689a1-181">Á síðunni **Þjónustuvörublað** er valið **Tengsl úrlausnar-/bilanakóða**.</span><span class="sxs-lookup"><span data-stu-id="689a1-181">On the **Service Item Worksheet** page, choose **Fault/Resol. Codes Relationships**.</span></span> <span data-ttu-id="689a1-182">Þá birtist glugginn **Tengsl bilunar/úrlausnarkóta**.</span><span class="sxs-lookup"><span data-stu-id="689a1-182">The **Fault/Resolution Codes Relationships** window opens.</span></span>  
   
-  >  [!Note]
-  >  <span data-ttu-id="689a1-183">Afmarkanir eru settar á tengslin sem birtast í glugganum með því að afrita þjónustuvöruflokkinn og bilanakótana úr glugganum **Þjónustuvörublað**.</span><span class="sxs-lookup"><span data-stu-id="689a1-183">Filters are set on the relationships that are shown in the window by copying the service item group and the fault codes from the **Service Item Worksheet** window.</span></span>  
+   > [!Note]
+   >  <span data-ttu-id="689a1-183">Afmarkanir eru settar á tengslin sem birtast í glugganum með því að afrita þjónustuvöruflokkinn og bilanakótana úr glugganum **Þjónustuvörublað**.</span><span class="sxs-lookup"><span data-stu-id="689a1-183">Filters are set on the relationships that are shown in the window by copying the service item group and the fault codes from the **Service Item Worksheet** window.</span></span>  
   
 4. <span data-ttu-id="689a1-184">Línan er fyllt út.</span><span class="sxs-lookup"><span data-stu-id="689a1-184">Fill out the line.</span></span> <span data-ttu-id="689a1-185">Valin er samsetning bilana- og úrlausnarkóta og svo smellt á **Í lagi** til að afrita hana í þjónustuvöruna.</span><span class="sxs-lookup"><span data-stu-id="689a1-185">Choose the combination of fault and resolution codes, and then choose **OK** to copy it to the service item.</span></span> <span data-ttu-id="689a1-186">Ef ekki finnst heppileg samsetning má búa til nýja í glugganum.</span><span class="sxs-lookup"><span data-stu-id="689a1-186">If an appropriate combination cannot be found, you can create a new combination in the window.</span></span>  
 

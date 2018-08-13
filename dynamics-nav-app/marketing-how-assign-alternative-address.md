@@ -9,10 +9,10 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2018
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 235b19a9b0771c2b4bd7e758cf5ac3b58b84e869
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 4bf657824e9553d1f46e5f6f8ffecfc66b4cae72
 ms.contentlocale: is-is
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-set-up-alternative-addresses-for-contacts"></a><span data-ttu-id="94ecb-102">Hvernig á að: Setja upp önnur aðsetur fyrir viðskiptamenn</span><span class="sxs-lookup"><span data-stu-id="94ecb-102">How to: Set Up Alternative Addresses for Contacts</span></span>
@@ -35,6 +35,6 @@ ms.lasthandoff: 12/01/2017
 
 <span data-ttu-id="94ecb-119">Skrefin eru endurtekin til að úthluta eins mörgum dagsetningasviðum og óskað er.</span><span class="sxs-lookup"><span data-stu-id="94ecb-119">Repeat these steps to assign as many date ranges as you want.</span></span>
 
-##<a name="see-also"></a><span data-ttu-id="94ecb-120">Sjá einnig</span><span class="sxs-lookup"><span data-stu-id="94ecb-120">See Also</span></span>
+## <a name="see-also"></a><span data-ttu-id="94ecb-120">Sjá einnig</span><span class="sxs-lookup"><span data-stu-id="94ecb-120">See Also</span></span>
 [<span data-ttu-id="94ecb-121">Stofna fyrirtækjatengilið</span><span class="sxs-lookup"><span data-stu-id="94ecb-121">Create Contact Companies</span></span>](marketing-create-contact-companies.md)
 

@@ -12,10 +12,10 @@ ms.search.keywords: undo, credit memo, return
 ms.date: 08/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 3c2d1725daae7d4d82647a61f5a50ea5d2fd6bf3
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 61e7d374b28845f0fcfea3c6e9924e5ccb41b5fc
 ms.contentlocale: is-is
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-correct-or-cancel-unpaid-purchase-invoices"></a><span data-ttu-id="09ffd-103">Leiðrétta eða afturkalla ógreidda innkaupareikninga</span><span class="sxs-lookup"><span data-stu-id="09ffd-103">How to: Correct or Cancel Unpaid Purchase Invoices</span></span>
@@ -30,7 +30,7 @@ ms.lasthandoff: 12/01/2017
 2. <span data-ttu-id="09ffd-115">Veljið bókaða innkaupareikninginn sem á að leiðrétta.</span><span class="sxs-lookup"><span data-stu-id="09ffd-115">Select the posted purchase invoice that you want to correct.</span></span>  
 
     > [!NOTE]  
->   <span data-ttu-id="09ffd-116">Ef gátreiturinn **Hætta við** er valinn, er ekki hægt að leiðrétta þennan bókaða sölureikning þar sem hann hefur þegar verið leiðréttur eða afturkallaður.</span><span class="sxs-lookup"><span data-stu-id="09ffd-116">If the **Canceled** check box is selected, then you cannot correct the posted purchase invoice because it has already been corrected or canceled.</span></span>
+   >   <span data-ttu-id="09ffd-116">Ef gátreiturinn **Hætta við** er valinn, er ekki hægt að leiðrétta þennan bókaða sölureikning þar sem hann hefur þegar verið leiðréttur eða afturkallaður.</span><span class="sxs-lookup"><span data-stu-id="09ffd-116">If the **Canceled** check box is selected, then you cannot correct the posted purchase invoice because it has already been corrected or canceled.</span></span>
 3. <span data-ttu-id="09ffd-117">Í glugganum **Bókaður innkaupareikningur** skal velja **Rétt**.</span><span class="sxs-lookup"><span data-stu-id="09ffd-117">In the **Posted Purchase Invoice** window, choose **Correct**.</span></span>
 
     <span data-ttu-id="09ffd-118">Nýr sölureikningur með sömu upplýsingum er stofnaður þar sem hægt er að gera leiðréttinguna.</span><span class="sxs-lookup"><span data-stu-id="09ffd-118">A new purchase invoice with the same information is created where you can make the correction.</span></span> <span data-ttu-id="09ffd-119">Nánari upplýsingar eru í [Hvernig á að: Skrá innkaup](purchasing-how-record-purchases.md).</span><span class="sxs-lookup"><span data-stu-id="09ffd-119">For more information, see [How to: Record Purchases](purchasing-how-record-purchases.md).</span></span> <span data-ttu-id="09ffd-120">Reiturinn **Hætt við** á hinum upphaflega bókaða sölureikningi er breytt í **Já**.</span><span class="sxs-lookup"><span data-stu-id="09ffd-120">The **Canceled** field on the initial posted purchase invoice is changed to **Yes**.</span></span>
@@ -43,7 +43,7 @@ ms.lasthandoff: 12/01/2017
 2. <span data-ttu-id="09ffd-125">Veljið bókaða innkaupareikninginn sem á að afturkalla.</span><span class="sxs-lookup"><span data-stu-id="09ffd-125">Select the posted purchase invoice that you want to cancel.</span></span>
 
     > [!NOTE]  
->   <span data-ttu-id="09ffd-126">Ef gátreiturinn **Afturkalla** er valinn, er ekki hægt að afturkalla þennan bókaða sölureikning þar sem hann hefur þegar verið leiðréttur eða afturkallaður.</span><span class="sxs-lookup"><span data-stu-id="09ffd-126">If the **Canceled** check box is selected, then you cannot cancel the posted purchase invoice because it has already been canceled or corrected.</span></span>
+   >   <span data-ttu-id="09ffd-126">Ef gátreiturinn **Afturkalla** er valinn, er ekki hægt að afturkalla þennan bókaða sölureikning þar sem hann hefur þegar verið leiðréttur eða afturkallaður.</span><span class="sxs-lookup"><span data-stu-id="09ffd-126">If the **Canceled** check box is selected, then you cannot cancel the posted purchase invoice because it has already been canceled or corrected.</span></span>
 3. <span data-ttu-id="09ffd-127">Í glugganum **Bókaður innkaupareikningur** skal velja **Afturkalla**.</span><span class="sxs-lookup"><span data-stu-id="09ffd-127">In the **Posted Purchase Invoice** window, choose **Cancel**.</span></span>
 
     <span data-ttu-id="09ffd-128">Leiðréttur sölukreditreikningur er búinn til sjálfkrafa og bókaður til að ógilda upphaflega bókaða sölureikninginn.</span><span class="sxs-lookup"><span data-stu-id="09ffd-128">A purchase credit memo is automatically created and posted to void the initial posted purchase invoice.</span></span> <span data-ttu-id="09ffd-129">Reiturinn **Hætt við** á hinum upphaflega bókaða sölureikningi er breytt í **Já**.</span><span class="sxs-lookup"><span data-stu-id="09ffd-129">The **Canceled** field on the initial posted purchase invoice is changed to **Yes**.</span></span>

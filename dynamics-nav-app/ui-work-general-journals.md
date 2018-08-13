@@ -11,10 +11,10 @@ ms.workload: na
 ms.date: 07/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 9c1eaec9c0a74d280de118c649d37d9b44ef8591
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 9778f8d18d45a7b86ae7f54b4246277117a72ca6
 ms.contentlocale: is-is
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="working-with-general-journals"></a><span data-ttu-id="7ab1c-103">Vinna í færslubókum</span><span class="sxs-lookup"><span data-stu-id="7ab1c-103">Working with General Journals</span></span>
@@ -79,12 +79,12 @@ ms.lasthandoff: 12/01/2017
     <span data-ttu-id="7ab1c-164">Ef ekki var merkt við reitinn **Vista ein.upphæð** í keyrslunni **Vista sem staðlaða birgðabók** er reiturinn **Ein.upphæð** í línum sem settar eru inn úr stöðluðu birgðabókinni sjálfkrafa fylltur út með gildandi virði vörunnar, afrituðu úr reitnum **Ein.kostnaður** á birgðaspjaldinu.</span><span class="sxs-lookup"><span data-stu-id="7ab1c-164">If you did not check the **Save Unit Amount** field when you used the **Save as Standard Item Journal** function job, then the **Unit Amount** field on lines that are inserted from the standard journal is automatically filled with the item’s current value, copied from the **Unit Cost** field on the item card.</span></span>
 
     > [!NOTE]  
->   <span data-ttu-id="7ab1c-165">Ef merkt var við reitina **Vista ein.upphæð** eða **Vista magn** skal nú ganga úr skugga um að gildin sem færð voru inn séu rétt fyrir þessa tilteknu birgðaleiðréttingu áður en birgðabókin er bókuð.</span><span class="sxs-lookup"><span data-stu-id="7ab1c-165">If you selected the **Save Unit Amount** or **Save Quantity** fields, you should now make sure the inserted values are correct for this particular inventory adjustment before you post the item journal.</span></span>
+   >   <span data-ttu-id="7ab1c-165">Ef merkt var við reitina **Vista ein.upphæð** eða **Vista magn** skal nú ganga úr skugga um að gildin sem færð voru inn séu rétt fyrir þessa tilteknu birgðaleiðréttingu áður en birgðabókin er bókuð.</span><span class="sxs-lookup"><span data-stu-id="7ab1c-165">If you selected the **Save Unit Amount** or **Save Quantity** fields, you should now make sure the inserted values are correct for this particular inventory adjustment before you post the item journal.</span></span>
 
     <span data-ttu-id="7ab1c-166">Ef birgðabókarlínurnar sem settar eru inn innihalda vistaðar einingaupphæðir sem ekki á að bóka er fljótlegt að breyta þeim í gildandi virði vörunnar eins og hér er lýst.</span><span class="sxs-lookup"><span data-stu-id="7ab1c-166">If the inserted item journal lines contain saved unit amounts that you do not want to post, you can quickly adjust it to the current value of the item as follows.</span></span>
 
-6. <span data-ttu-id="7ab1c-167">Velja skal birgðabókarlínur sem á að leiðrétta, og svo velja **Endurreikna einingaupphæð** aðgerðina.</span><span class="sxs-lookup"><span data-stu-id="7ab1c-167">Select the item journal lines you want to adjust, and then choose the **Recalculate Unit Amount** action.</span></span> <span data-ttu-id="7ab1c-168">Það uppfærir reitinn Ein.upphæð með gildandi kostnaðarverði vörunnar.</span><span class="sxs-lookup"><span data-stu-id="7ab1c-168">This will update the Unit Amount field with the current unit cost of the item.</span></span>
-7. <span data-ttu-id="7ab1c-169">Valið er **bóka** aðgerð.</span><span class="sxs-lookup"><span data-stu-id="7ab1c-169">Choose the **post** action.</span></span>
+5. <span data-ttu-id="7ab1c-167">Velja skal birgðabókarlínur sem á að leiðrétta, og svo velja **Endurreikna einingaupphæð** aðgerðina.</span><span class="sxs-lookup"><span data-stu-id="7ab1c-167">Select the item journal lines you want to adjust, and then choose the **Recalculate Unit Amount** action.</span></span> <span data-ttu-id="7ab1c-168">Það uppfærir reitinn Ein.upphæð með gildandi kostnaðarverði vörunnar.</span><span class="sxs-lookup"><span data-stu-id="7ab1c-168">This will update the Unit Amount field with the current unit cost of the item.</span></span>
+6. <span data-ttu-id="7ab1c-169">Valið er **bóka** aðgerð.</span><span class="sxs-lookup"><span data-stu-id="7ab1c-169">Choose the **post** action.</span></span>
 
 ## <a name="to-renumber-document-numbers-in-journals"></a><span data-ttu-id="7ab1c-170">Endurraða númerum fylgiskjals í færslubókum</span><span class="sxs-lookup"><span data-stu-id="7ab1c-170">To renumber document numbers in journals</span></span>
 <span data-ttu-id="7ab1c-171">Til að ganga úr skugga um að þú fáir ekki bókunarvillur vegna fylgiskjalsnúmers pöntunar, geturðu notað aðgerðina **Endurraða númerum fylgiskjals** áður en þú bókar færslubókina.</span><span class="sxs-lookup"><span data-stu-id="7ab1c-171">To make sure that you do not receive posting errors because of the document number order, you can use the **Renumber Document Numbers** function before you post a journal.</span></span>

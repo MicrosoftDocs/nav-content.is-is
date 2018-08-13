@@ -12,10 +12,10 @@ ms.search.keywords: repair, service
 ms.date: 06/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 1be0129888f60c6fbf795ec36ef88375cff26278
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: ea97daf733b91443b9b3d19290b3dbb9183130fd
 ms.contentlocale: is-is
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-maintain-fixed-assets"></a><span data-ttu-id="7d61d-103">Hvernig á að: Viðhalda Eignir</span><span class="sxs-lookup"><span data-stu-id="7d61d-103">How to: Maintain Fixed Assets</span></span>
@@ -42,7 +42,7 @@ ms.lasthandoff: 12/01/2017
 7. <span data-ttu-id="7d61d-124">Valið er **Setja inn mótreikn. eigna** aðgerð.</span><span class="sxs-lookup"><span data-stu-id="7d61d-124">Choose the **Insert FA Bal. Account** action.</span></span> <span data-ttu-id="7d61d-125">Seinni færslubókarlína er búin til fyrir mótreiknings sem er sett upp fyrir bókun viðhalds.</span><span class="sxs-lookup"><span data-stu-id="7d61d-125">A second journal line is created for the balancing account that is set up for maintenance posting.</span></span>
 
     > [!NOTE]  
->   <span data-ttu-id="7d61d-126">Skref 7 virkar eingöngu ef búið er að setja upp eftirfarandi: Í **Eignabókunarflokksspjald** glugganum fyrir bókunarflokkur eigna, inniheldur reiturinn **Viðhaldsreikningur** debetreikning fjárhags og reiturinn **Mótreikningur viðhalds** inniheldur fjárhagsreikninginn sem á að bóka mótfærslur í fyrir uppfærslu.</span><span class="sxs-lookup"><span data-stu-id="7d61d-126">Step 7 only works if you have set up the following: In the **FA Posting Group Card** window for the posting group of the fixed asset, the **Maintenance Account** field contains the general ledger debit account and the **Maintenance Bal. Account** field contains the general ledger account to which you want to post balancing entries for appreciation.</span></span> <span data-ttu-id="7d61d-127">Nánari upplýsingar eru í "setja upp bókunarflokka eigna" hlutanum í [Hvernig: Setja Upp almennar upplýsingar um eignir](fa-how-setup-general.md).</span><span class="sxs-lookup"><span data-stu-id="7d61d-127">For more information, see the "To set up fixed asset posting groups" section in [How to: Set Up General Fixed Asset Information](fa-how-setup-general.md).</span></span>
+   >   <span data-ttu-id="7d61d-126">Skref 7 virkar eingöngu ef búið er að setja upp eftirfarandi: Í **Eignabókunarflokksspjald** glugganum fyrir bókunarflokkur eigna, inniheldur reiturinn **Viðhaldsreikningur** debetreikning fjárhags og reiturinn **Mótreikningur viðhalds** inniheldur fjárhagsreikninginn sem á að bóka mótfærslur í fyrir uppfærslu.</span><span class="sxs-lookup"><span data-stu-id="7d61d-126">Step 7 only works if you have set up the following: In the **FA Posting Group Card** window for the posting group of the fixed asset, the **Maintenance Account** field contains the general ledger debit account and the **Maintenance Bal. Account** field contains the general ledger account to which you want to post balancing entries for appreciation.</span></span> <span data-ttu-id="7d61d-127">Nánari upplýsingar eru í "setja upp bókunarflokka eigna" hlutanum í [Hvernig: Setja Upp almennar upplýsingar um eignir](fa-how-setup-general.md).</span><span class="sxs-lookup"><span data-stu-id="7d61d-127">For more information, see the "To set up fixed asset posting groups" section in [How to: Set Up General Fixed Asset Information](fa-how-setup-general.md).</span></span>
 8. <span data-ttu-id="7d61d-128">Valið er **bóka** aðgerð.</span><span class="sxs-lookup"><span data-stu-id="7d61d-128">Choose the **Post** action.</span></span>
 
 ## <a name="to-follow-up-on-fixed-assets-service-visits"></a><span data-ttu-id="7d61d-129">Til að fylgja eftir þjónustuheimsóknum eigna:</span><span class="sxs-lookup"><span data-stu-id="7d61d-129">To follow up on fixed assets service visits</span></span>

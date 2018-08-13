@@ -12,10 +12,10 @@ ms.search.keywords: bi, power BI, analysis, KPI
 ms.date: 06/16/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 82c4c7f449600a1336502d9f67f9b8bdb1d3694d
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 0c0eb08efbd40f7e761c1aed1185357ebc7034a0
 ms.contentlocale: is-is
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 #  <a name="how-to-create-analysis-reports"></a><span data-ttu-id="1d43d-103">Hvernig skal: Stofna greiningarskýrslur</span><span class="sxs-lookup"><span data-stu-id="1d43d-103">How to: Create Analysis Reports</span></span>
@@ -69,10 +69,10 @@ ms.lasthandoff: 12/01/2017
 4. <span data-ttu-id="1d43d-154">Í glugganum **Greiningardálkar** eru reitirnir fylltir út til að tilgreina dálkana sem eiga að vera með í greiningarskýrslunni.</span><span class="sxs-lookup"><span data-stu-id="1d43d-154">In the **Analysis Columns** window, fill in the fields to specify the columns that you want to include in your analysis report.</span></span>  
 
     > [!NOTE]  
->   <span data-ttu-id="1d43d-155">Ef skilgreina á dálk þarf að fylla út reitinn  **Kóti greiningartegundar** (fyrir allar tegundir dálka nema **Reikniregla**).</span><span class="sxs-lookup"><span data-stu-id="1d43d-155">To define a column, you must fill in the **Analysis Type Codes** field for all column types except **Formula**.</span></span> <span data-ttu-id="1d43d-156">Kóði fyrir greiningartegund er settur upp í glugganum **Greiningartegund**.</span><span class="sxs-lookup"><span data-stu-id="1d43d-156">Set up the analysis type codes in the **Analysis Types** window.</span></span>  
+   >   <span data-ttu-id="1d43d-155">Ef skilgreina á dálk þarf að fylla út reitinn  **Kóti greiningartegundar** (fyrir allar tegundir dálka nema **Reikniregla**).</span><span class="sxs-lookup"><span data-stu-id="1d43d-155">To define a column, you must fill in the **Analysis Type Codes** field for all column types except **Formula**.</span></span> <span data-ttu-id="1d43d-156">Kóði fyrir greiningartegund er settur upp í glugganum **Greiningartegund**.</span><span class="sxs-lookup"><span data-stu-id="1d43d-156">Set up the analysis type codes in the **Analysis Types** window.</span></span>  
 
     <span data-ttu-id="1d43d-157">**Athugasemd**</span><span class="sxs-lookup"><span data-stu-id="1d43d-157">**Note**.</span></span> <span data-ttu-id="1d43d-158">Ef **Birgðafærslur** eru valdar í reitnum **Færslutegund** eru rauntölurnar afritaðar úr birgðafærslunni.</span><span class="sxs-lookup"><span data-stu-id="1d43d-158">In the **Ledger Entry Type** field, if you select **Item Entries**, the actual figures from the item ledger entry are copied.</span></span> <span data-ttu-id="1d43d-159">Ef valdar eru **Birgðaáætlunarfærslur** eru áætlaðar tölur úr fjárhagsáætluninni afritaðar.</span><span class="sxs-lookup"><span data-stu-id="1d43d-159">If you select **Item Budget Entries**, the budgeted figures from the budget are copied.</span></span>  
-5.  <span data-ttu-id="1d43d-160">Velja hnappinn **Í lagi** til að vista breytingarnar.</span><span class="sxs-lookup"><span data-stu-id="1d43d-160">Choose the **OK** button to save your changes.</span></span>  
+5. <span data-ttu-id="1d43d-160">Velja hnappinn **Í lagi** til að vista breytingarnar.</span><span class="sxs-lookup"><span data-stu-id="1d43d-160">Choose the **OK** button to save your changes.</span></span>  
 
 ## <a name="to-set-up-analysis-line-templates"></a><span data-ttu-id="1d43d-161">Uppsetning greingarlínusniðmáta</span><span class="sxs-lookup"><span data-stu-id="1d43d-161">To set up analysis line templates</span></span>  
 <span data-ttu-id="1d43d-162">Eftirfarandi ferli byggist á greiningarskýrslum fyrir sölu.</span><span class="sxs-lookup"><span data-stu-id="1d43d-162">The following procedure is based on analysis reports for sales.</span></span> <span data-ttu-id="1d43d-163">Skrefin eru svipuð fyrir innkaup og birgðagreiningarskýrslur.</span><span class="sxs-lookup"><span data-stu-id="1d43d-163">The steps are similar for purchase and inventory analysis reports.</span></span>

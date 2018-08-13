@@ -12,10 +12,10 @@ ms.search.keywords: Ceridian, Quickbooks, salary
 ms.date: 06/16/2017
 ms.author: SorenGP
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 6ba2934efabf76917c43ab3852dd251ae87fae2d
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: dbae2065fd8135eabf68a530cbf16a3ae03ebf8d
 ms.contentlocale: is-is
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-import-payroll-transactions"></a><span data-ttu-id="55892-103">Hvernig á að: Flytja inn launafærslur</span><span class="sxs-lookup"><span data-stu-id="55892-103">How to: Import Payroll Transactions</span></span>
@@ -30,7 +30,7 @@ ms.lasthandoff: 12/01/2017
 3. <span data-ttu-id="55892-115">Fylgdu skrefunum í glugganum **Flytja inn launafærslur**.</span><span class="sxs-lookup"><span data-stu-id="55892-115">Follow the steps in the **Import Payroll Transactions** window.</span></span>
 
     > [!TIP]  
->   <span data-ttu-id="55892-116">Í liðnum þar sem ytri launaskrám er varpað í fjárhagsreikningana þína man kerfið þá vörpun næst þegar sömu skýrslur eru fluttar inn.</span><span class="sxs-lookup"><span data-stu-id="55892-116">In the step about mapping the external payroll records to your G/L accounts, the mappings that you make will be remembered next time the same records are imported.</span></span> <span data-ttu-id="55892-117">Þetta sparar tíma því ekki þarf að fylla handvirkt inn svæðið **Reikningnúmer** í færslubókinni í hvert skipti sem þú hefur flutt inn ítrekaða launafærslu.</span><span class="sxs-lookup"><span data-stu-id="55892-117">This will save you time as you do not have to manually fill in the **Account No.** field in the general journal every time you have imported recurring payroll transactions.</span></span>   
+   >   <span data-ttu-id="55892-116">Í liðnum þar sem ytri launaskrám er varpað í fjárhagsreikningana þína man kerfið þá vörpun næst þegar sömu skýrslur eru fluttar inn.</span><span class="sxs-lookup"><span data-stu-id="55892-116">In the step about mapping the external payroll records to your G/L accounts, the mappings that you make will be remembered next time the same records are imported.</span></span> <span data-ttu-id="55892-117">Þetta sparar tíma því ekki þarf að fylla handvirkt inn svæðið **Reikningnúmer** í færslubókinni í hvert skipti sem þú hefur flutt inn ítrekaða launafærslu.</span><span class="sxs-lookup"><span data-stu-id="55892-117">This will save you time as you do not have to manually fill in the **Account No.** field in the general journal every time you have imported recurring payroll transactions.</span></span>   
 
     <span data-ttu-id="55892-118">Þegar hnappurinn **Í lagi** er valinn í uppsetningu með leiðsögn er glugginn **Almenn færslubók** fullur af línum sem tákna færslurnar sem launaskráin innheldur og búið er að fylla út tilheyrandi lykla í reitunum **Fjárhagsreikningur** í samræmi við þá vörpun sem gerð var í leiðsögninni.</span><span class="sxs-lookup"><span data-stu-id="55892-118">When you choose the **OK** button in the assisted setup guide, the **General Journal** window is filled with lines representing the transactions that the payroll file contains and with the relevant accounts prefilled in the **G/L Account** fields according to mappings you made in the guide.</span></span>
 4. <span data-ttu-id="55892-119">Breyta skal eða bóka færslubókarlínur líkt og fyrir allar aðrar færslur í fjárhag.</span><span class="sxs-lookup"><span data-stu-id="55892-119">Edit or post the journal lines as for any other general ledger transactions.</span></span> <span data-ttu-id="55892-120">Frekari upplýsingar, sjá [Hvernig skal: Bóka færslu beint yfir í Fjárhag](finance-how-post-transactions-directly.md)</span><span class="sxs-lookup"><span data-stu-id="55892-120">For more information, see [How to: Post Transactions Directly to the General Ledger](finance-how-post-transactions-directly.md).</span></span>   

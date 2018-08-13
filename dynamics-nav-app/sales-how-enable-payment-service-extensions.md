@@ -12,10 +12,10 @@ ms.search.keywords: online payment
 ms.date: 07/07/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: ed26ab9e5f1f3c374a6dd15fbed5917720c3010b
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: af737eba44e28c4a60a89efc8af86fe952b9a868
 ms.contentlocale: is-is
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-enable-customer-payments-through-payment-services"></a><span data-ttu-id="988e2-103">Hvernig á að: Virkja greiðslur viðskiptamanna um greiðsluþjónustur</span><span class="sxs-lookup"><span data-stu-id="988e2-103">How to: Enable Customer Payments Through Payment Services</span></span>
@@ -39,7 +39,7 @@ ms.lasthandoff: 12/01/2017
 3. <span data-ttu-id="988e2-119">Í reitnum **Greiðsluþjónusta** er greiðsluþjónustan valin.</span><span class="sxs-lookup"><span data-stu-id="988e2-119">In the **Payment Service** field, choose the payment service.</span></span>  
 
     > [!NOTE]  
->   <span data-ttu-id="988e2-120">**Greiðsluþjónustu** reiturinn er aðeins tiltækur greiðsluþjónustan hefur verið virkjuð.</span><span class="sxs-lookup"><span data-stu-id="988e2-120">The **Payment Service** field is available only if you've enabled the payment service.</span></span>  
+   >   <span data-ttu-id="988e2-120">**Greiðsluþjónustu** reiturinn er aðeins tiltækur greiðsluþjónustan hefur verið virkjuð.</span><span class="sxs-lookup"><span data-stu-id="988e2-120">The **Payment Service** field is available only if you've enabled the payment service.</span></span>  
 
 ## <a name="see-also"></a><span data-ttu-id="988e2-121">Sjá einnig</span><span class="sxs-lookup"><span data-stu-id="988e2-121">See Also</span></span>  
 [<span data-ttu-id="988e2-122">Uppsetning sölu</span><span class="sxs-lookup"><span data-stu-id="988e2-122">Setting Up Sales</span></span>](sales-setup-sales.md)  

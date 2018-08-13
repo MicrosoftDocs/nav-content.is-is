@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/21/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: e6d15db1e58d7774640bf6a2ae0cf11b057f9afc
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: ab52961ec151e2e6df71a3ee6596bb1e6e351c90
 ms.contentlocale: is-is
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-pick-for-production-or-assembly"></a><span data-ttu-id="2ce58-103">Hvernig skal: Taka til fyrir framleiðslu eða samsetningu.</span><span class="sxs-lookup"><span data-stu-id="2ce58-103">How to: Pick for Production or Assembly</span></span>
@@ -27,11 +27,11 @@ ms.lasthandoff: 12/01/2017
 
 <span data-ttu-id="2ce58-109">Í ítarlegri vöruhúsagrunnstillingu þar sem staðsetningar þarfnast bæði tínslu og afhendingar er **Vöruhúsatínsla** glugginn notaður til að færa íhluti til framleiðslu eða samsetningarpantana.</span><span class="sxs-lookup"><span data-stu-id="2ce58-109">In advanced warehouse configurations where locations require both picks and shipments, you use the **Warehouse Pick** window to bring components to production or assembly orders.</span></span>
 
-> [!NOTE]  
+> [!NOTE]
 >  <span data-ttu-id="2ce58-110">Hér á eftir er mikilvægur mismunur sem er á milli birgðatínslu og birgðahreyfinga.</span><span class="sxs-lookup"><span data-stu-id="2ce58-110">The following important differences exist between inventory picks and inventory movements:</span></span>  
->   
->  -   <span data-ttu-id="2ce58-111">Þegar birgðatínsla er skráð fyrir innri aðgerð, s.s. framleiðslu, er notkun fyrir tínda hluti bókuð samhliða.</span><span class="sxs-lookup"><span data-stu-id="2ce58-111">When you register an inventory pick for an internal operation, such as production, the consumption of the picked components is posted at the same time.</span></span> <span data-ttu-id="2ce58-112">Þegar birgðahreyfing er skráð fyrir innri aðgerð þarf aðeins að skrá raunverulegan flutning nauðsynlegs íhlutar að hólfi í rekstrarsvæðinu án þess að bóka notkun.</span><span class="sxs-lookup"><span data-stu-id="2ce58-112">When you register an inventory movement for an internal operation, you only record the physical movement of the required components to a bin in the operation area without posting the consumption.</span></span>  
-> -   <span data-ttu-id="2ce58-113">Þegar birgðatínsla er notuð skilgreinir reiturinn **Hólfkóti** á íhlutalínu framleiðslupöntunar hólfið *taka* hvaðan íhlutir eru minnkaðir þegar notkun er bókuð.</span><span class="sxs-lookup"><span data-stu-id="2ce58-113">When you use inventory picks, the **Bin Code** field on a production order component line defines the *take* bin from where components are decreased when posting consumption.</span></span> <span data-ttu-id="2ce58-114">Þegar birgðahreyfingar eru notaðar, skilgreinir reiturinn **Hólfkóti** í framleiðslupöntunaríhlutalínum hólfið *setja* í aðgerðasvæðinu þar sem starfsmaður í vöruhúsi verður setja íhlutina.</span><span class="sxs-lookup"><span data-stu-id="2ce58-114">When you use inventory movements, the **Bin Code** field on production order component lines defines the *place* bin in the operation area where the warehouse worker must place the components.</span></span>  
+> 
+> - <span data-ttu-id="2ce58-111">Þegar birgðatínsla er skráð fyrir innri aðgerð, s.s. framleiðslu, er notkun fyrir tínda hluti bókuð samhliða.</span><span class="sxs-lookup"><span data-stu-id="2ce58-111">When you register an inventory pick for an internal operation, such as production, the consumption of the picked components is posted at the same time.</span></span> <span data-ttu-id="2ce58-112">Þegar birgðahreyfing er skráð fyrir innri aðgerð þarf aðeins að skrá raunverulegan flutning nauðsynlegs íhlutar að hólfi í rekstrarsvæðinu án þess að bóka notkun.</span><span class="sxs-lookup"><span data-stu-id="2ce58-112">When you register an inventory movement for an internal operation, you only record the physical movement of the required components to a bin in the operation area without posting the consumption.</span></span>  
+>   -   <span data-ttu-id="2ce58-113">Þegar birgðatínsla er notuð skilgreinir reiturinn **Hólfkóti** á íhlutalínu framleiðslupöntunar hólfið *taka* hvaðan íhlutir eru minnkaðir þegar notkun er bókuð.</span><span class="sxs-lookup"><span data-stu-id="2ce58-113">When you use inventory picks, the **Bin Code** field on a production order component line defines the *take* bin from where components are decreased when posting consumption.</span></span> <span data-ttu-id="2ce58-114">Þegar birgðahreyfingar eru notaðar, skilgreinir reiturinn **Hólfkóti** í framleiðslupöntunaríhlutalínum hólfið *setja* í aðgerðasvæðinu þar sem starfsmaður í vöruhúsi verður setja íhlutina.</span><span class="sxs-lookup"><span data-stu-id="2ce58-114">When you use inventory movements, the **Bin Code** field on production order component lines defines the *place* bin in the operation area where the warehouse worker must place the components.</span></span>  
 
 <span data-ttu-id="2ce58-115">Áður en hægt er að tína eða færa íhluti fyrir upprunaskjöl, gildir sú kerfisforsenda að vöruhúsabeiðni á útleið sé til staðar til að tilkynna vöruhúsasvæðinu um íhlutsþörfina.</span><span class="sxs-lookup"><span data-stu-id="2ce58-115">A system precondition for picking, or moving, components for source documents is that an outbound warehouse request exists to notify the warehouse area of the component need.</span></span> <span data-ttu-id="2ce58-116">Vöruhúsabeiðnin út er stofnuð hvenær sem framleiðslupöntunarstaðan breytist í Útgefin eða þegar útgefna framleiðslupöntunin er stofnuð.</span><span class="sxs-lookup"><span data-stu-id="2ce58-116">The outbound warehouse request is created whenever the production order status is changed to Released or when a released production order is created.</span></span>  
 

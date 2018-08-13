@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/14/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: abce7ea2dcc1127cab802899611495680b986add
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 4fb6c2e1661f8a61050b3f1e88876144575e752a
 ms.contentlocale: is-is
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-combine-shipments-on-a-single-invoice"></a><span data-ttu-id="a0290-103">Hvernig á að sameina afhendingar í einn reikning</span><span class="sxs-lookup"><span data-stu-id="a0290-103">How to: Combine Shipments on a Single Invoice</span></span>
@@ -30,11 +30,11 @@ ms.lasthandoff: 12/01/2017
 4. <span data-ttu-id="a0290-114">Á flýtiflipanum **Línur** skal velja **Sækja afhendingarlínur** aðgerðina.</span><span class="sxs-lookup"><span data-stu-id="a0290-114">On the **Lines** FastTab, choose the **Get Shipment Lines** action.</span></span>  
 5. <span data-ttu-id="a0290-115">Afhendingarlínan sem á að vera á reikningnum er valin:</span><span class="sxs-lookup"><span data-stu-id="a0290-115">Select the shipment line that you want to include in the invoice:</span></span>  
 
-    - <span data-ttu-id="a0290-116">Til að setja allar línur inn eru allar línur valda og svo smellt á **Í lagi**.</span><span class="sxs-lookup"><span data-stu-id="a0290-116">To insert all lines, select all lines and choose the **OK** button.</span></span>  
-    - <span data-ttu-id="a0290-117">Til að setja sérstakar línur inn eru línurnar valdar og svo smellt á **Í lagi**.</span><span class="sxs-lookup"><span data-stu-id="a0290-117">To insert specific lines, select the lines and choose the **OK** button.</span></span> <span data-ttu-id="a0290-118">Hægt er að nota Ctrl-takkanum til að velja margar línur sem ekki eru samliggjandi.</span><span class="sxs-lookup"><span data-stu-id="a0290-118">You can use the Ctrl key to select multiple nonsequential lines.</span></span>  
+   - <span data-ttu-id="a0290-116">Til að setja allar línur inn eru allar línur valda og svo smellt á **Í lagi**.</span><span class="sxs-lookup"><span data-stu-id="a0290-116">To insert all lines, select all lines and choose the **OK** button.</span></span>  
+   - <span data-ttu-id="a0290-117">Til að setja sérstakar línur inn eru línurnar valdar og svo smellt á **Í lagi**.</span><span class="sxs-lookup"><span data-stu-id="a0290-117">To insert specific lines, select the lines and choose the **OK** button.</span></span> <span data-ttu-id="a0290-118">Hægt er að nota Ctrl-takkanum til að velja margar línur sem ekki eru samliggjandi.</span><span class="sxs-lookup"><span data-stu-id="a0290-118">You can use the Ctrl key to select multiple nonsequential lines.</span></span>  
 
-    <span data-ttu-id="a0290-119">Ef röng afhendingarlína var valin eða byrja á aftur er línunum einfaldlega eytt í reikningnum aðgerðin **Sækja afhendingarlínur** keyrð aftur.</span><span class="sxs-lookup"><span data-stu-id="a0290-119">If an incorrect shipment line was selected or you want to start over, you can simply delete the lines on the invoice and re-run the **Get Shipment Lines** function.</span></span>  
-7. <span data-ttu-id="a0290-120">Til að bóka reikningur er valið aðgerðin **bóka**.</span><span class="sxs-lookup"><span data-stu-id="a0290-120">To post the invoice, choose the **Post** action.</span></span>  
+     <span data-ttu-id="a0290-119">Ef röng afhendingarlína var valin eða byrja á aftur er línunum einfaldlega eytt í reikningnum aðgerðin **Sækja afhendingarlínur** keyrð aftur.</span><span class="sxs-lookup"><span data-stu-id="a0290-119">If an incorrect shipment line was selected or you want to start over, you can simply delete the lines on the invoice and re-run the **Get Shipment Lines** function.</span></span>  
+6. <span data-ttu-id="a0290-120">Til að bóka reikningur er valið aðgerðin **bóka**.</span><span class="sxs-lookup"><span data-stu-id="a0290-120">To post the invoice, choose the **Post** action.</span></span>  
 
 ## <a name="to-automatically-combine-shipments-on-a-single-invoice"></a><span data-ttu-id="a0290-121">Til að sameina afhendingar sjálfkrafa á einn reikning</span><span class="sxs-lookup"><span data-stu-id="a0290-121">To automatically combine shipments on a single invoice</span></span>  
 1. <span data-ttu-id="a0290-122">Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn **Sameina afhendingu** og velja svo viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="a0290-122">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Combine Shipments**, and then choose the related link.</span></span> <span data-ttu-id="a0290-123">Keyrslubeiðnaglugginn  opnast.</span><span class="sxs-lookup"><span data-stu-id="a0290-123">The batch job request window opens.</span></span>  

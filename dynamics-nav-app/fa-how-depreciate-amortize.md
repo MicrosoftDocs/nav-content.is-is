@@ -12,10 +12,10 @@ ms.search.keywords: write down
 ms.date: 06/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 6bdb2a1029990d5b45bdcb1dd817fca2b136cf46
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: a38ca853cff89761a9b8685d718309691ba1bbba
 ms.contentlocale: is-is
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-depreciate-or-amortize-fixed-assets"></a><span data-ttu-id="77cb4-103">Hvernig á að: afskrifa eða greiða af eignum</span><span class="sxs-lookup"><span data-stu-id="77cb4-103">How to: Depreciate or Amortize Fixed Assets</span></span>
@@ -82,11 +82,11 @@ ms.lasthandoff: 12/01/2017
 5. <span data-ttu-id="77cb4-159">Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn **eignabækur** og velja svo viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="77cb4-159">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **FA Journals**, and then choose the related link.</span></span>  
 
     > [!NOTE]  
->   <span data-ttu-id="77cb4-160">Glugginn **Eignabók** inniheldur nýjar línur fyrir mismunandi afskriftabækur samkvæmt afritunarlista.</span><span class="sxs-lookup"><span data-stu-id="77cb4-160">The **Fixed Asset Journal** window contains new lines for different depreciation books according to the duplication list.</span></span>  
+   >   <span data-ttu-id="77cb4-160">Glugginn **Eignabók** inniheldur nýjar línur fyrir mismunandi afskriftabækur samkvæmt afritunarlista.</span><span class="sxs-lookup"><span data-stu-id="77cb4-160">The **Fixed Asset Journal** window contains new lines for different depreciation books according to the duplication list.</span></span>  
 6. <span data-ttu-id="77cb4-161">Skoða eða breyta línunum og síðan valið **Bóka** aðgerð.</span><span class="sxs-lookup"><span data-stu-id="77cb4-161">Review or edit the lines, and then choose the **Post** action.</span></span>  
 
     > [!NOTE]  
->   <span data-ttu-id="77cb4-162">Einnig er hægt að afrita færslu í aðra bók með því að rita afskriftabókarkóta í reitinn **Afrit í afskriftabók** þegar bókarlína er fyllt út.</span><span class="sxs-lookup"><span data-stu-id="77cb4-162">Another way to duplicate an entry in a separate book is to enter a depreciation book code in the **Duplicate in Depreciation Book** field when you fill in a journal line.</span></span>  
+   >   <span data-ttu-id="77cb4-162">Einnig er hægt að afrita færslu í aðra bók með því að rita afskriftabókarkóta í reitinn **Afrit í afskriftabók** þegar bókarlína er fyllt út.</span><span class="sxs-lookup"><span data-stu-id="77cb4-162">Another way to duplicate an entry in a separate book is to enter a depreciation book code in the **Duplicate in Depreciation Book** field when you fill in a journal line.</span></span>  
 
 <span data-ttu-id="77cb4-163">Hægt er að nota runuvinnsluna **Afrita afskriftabók** til að afrita færslur úr einni afskriftabók í aðra.</span><span class="sxs-lookup"><span data-stu-id="77cb4-163">You can copy entries from one depreciation book to another by using the **Copy Depreciation Book** batch job.</span></span> <span data-ttu-id="77cb4-164">Við keyrsluna verða til bókarlínur í bókarkeyrslunni sem tilgreind var í glugganum **Eignabókaruppsetning** fyrir afskriftabókina sem á að afrita í.</span><span class="sxs-lookup"><span data-stu-id="77cb4-164">The batch job creates journal lines in the journal batch that you have specified in the **FA Journal Setup** window for the depreciation book that you want to copy to.</span></span> <span data-ttu-id="77cb4-165">Nánari upplýsingar má finna hér á eftir.</span><span class="sxs-lookup"><span data-stu-id="77cb4-165">For more information, see the following procedure.</span></span>  
 

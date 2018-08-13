@@ -11,10 +11,10 @@ ms.search.keywords: special price, alternate price, pricing
 ms.date: 09/08/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 346513b40d3eec3de828124dbd07cb59f89412c9
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: cc016d6ad6103ddc7e45c332d4c6a06651606cbb
 ms.contentlocale: is-is
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-record-special-sales-prices-and-discounts"></a><span data-ttu-id="f81e8-103">Hvernig á að: Skrá sérstök söluverð og afslætti</span><span class="sxs-lookup"><span data-stu-id="f81e8-103">How to: Record Special Sales Prices and Discounts</span></span>
@@ -55,7 +55,7 @@ ms.lasthandoff: 12/01/2017
 3. <span data-ttu-id="f81e8-133">Í reitinn **Reikningsafsláttarkóði** er færður inn kóði fyrir viðeigandi reikningsafsláttarskilmála sem forritið notar til að reikna reikningsafslátt fyrir viðskiptamanninn.</span><span class="sxs-lookup"><span data-stu-id="f81e8-133">In the **Invoice Disc. Code** field, select a code for the relevant invoice discount terms to use to calculate invoice discounts for the customer.</span></span>
 
     > [!NOTE]  
->   <span data-ttu-id="f81e8-134">Fyrirliggjandi viðskiptamannaspjöld standa fyrir reikningsafsláttarkóða.</span><span class="sxs-lookup"><span data-stu-id="f81e8-134">Invoice discount codes are represented by existing customer cards.</span></span> <span data-ttu-id="f81e8-135">Þetta gerir kleift að úthluta reikningsafsláttarskilmálum hratt og örugglega til viðskiptamanna með því að velja nafn annars viðskiptamanns sem hefur sömu skilmála.</span><span class="sxs-lookup"><span data-stu-id="f81e8-135">This enables you to quickly assign invoice discount terms to customers by picking the name of another customer who will have the same terms.</span></span>
+   >   <span data-ttu-id="f81e8-134">Fyrirliggjandi viðskiptamannaspjöld standa fyrir reikningsafsláttarkóða.</span><span class="sxs-lookup"><span data-stu-id="f81e8-134">Invoice discount codes are represented by existing customer cards.</span></span> <span data-ttu-id="f81e8-135">Þetta gerir kleift að úthluta reikningsafsláttarskilmálum hratt og örugglega til viðskiptamanna með því að velja nafn annars viðskiptamanns sem hefur sömu skilmála.</span><span class="sxs-lookup"><span data-stu-id="f81e8-135">This enables you to quickly assign invoice discount terms to customers by picking the name of another customer who will have the same terms.</span></span>
 
     <span data-ttu-id="f81e8-136">Næsta skref er að setja upp nýja skilmála fyrir sölureikningsafslætti.</span><span class="sxs-lookup"><span data-stu-id="f81e8-136">Proceed to set up new the sales invoice discount terms.</span></span>
 4. <span data-ttu-id="f81e8-137">Í glugganum **Viðskiptamannaspjald** er aðgerðin **Reikningsafsláttur** valin.</span><span class="sxs-lookup"><span data-stu-id="f81e8-137">In the **Customer Card** window, choose the **Invoice Discounts** action.</span></span> <span data-ttu-id="f81e8-138">Glugginn **Reikningsafsláttur viðskm.** opnast.</span><span class="sxs-lookup"><span data-stu-id="f81e8-138">The **Cust. Invoice Discounts** window opens.</span></span>

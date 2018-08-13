@@ -12,14 +12,15 @@ ms.search.keywords: supply planning, sales demand, replenish
 ms.date: 05/16/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 0ba1fa771a0853c2a2cabe4d368cc09902496b01
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: b0830c8d0e064125310923082befaa4e06dbc103
 ms.contentlocale: is-is
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-purchase-items-for-a-sale"></a><span data-ttu-id="b04e9-103">Hvernig á að: Kaupa vörur fyrir sölu.</span><span class="sxs-lookup"><span data-stu-id="b04e9-103">How to: Purchase Items for a Sale</span></span>
 <span data-ttu-id="b04e9-104">Frá sölupöntunum og sölureikningum geturðu notað aðgerð til stofna á skjótan hátt innkaupaskjöl fyrir vörumagn sem vantar en er krafist við söluna.</span><span class="sxs-lookup"><span data-stu-id="b04e9-104">From sales orders and sales invoices, you can use functions to quickly create purchase documents for missing item quantities that are required by the sale.</span></span> <span data-ttu-id="b04e9-105">Hægt er að nota tvær mismunandi aðgerðir, eftir gerð skjalsins.</span><span class="sxs-lookup"><span data-stu-id="b04e9-105">You can use two different functions depending on the document type.</span></span>
+
 |<span data-ttu-id="b04e9-106">Virkni</span><span class="sxs-lookup"><span data-stu-id="b04e9-106">Function</span></span>|<span data-ttu-id="b04e9-107">Description</span><span class="sxs-lookup"><span data-stu-id="b04e9-107">Description</span></span>|
 |--------|-----------|
 |<span data-ttu-id="b04e9-108">**Stofna innkaupapantanir**</span><span class="sxs-lookup"><span data-stu-id="b04e9-108">**Create Purchase Orders**</span></span>|<span data-ttu-id="b04e9-109">Frá sölupöntun, stofnar þessi aðgerð innkaupapöntun fyrir hvern lánardrottinn vöru á sölupöntuninni.</span><span class="sxs-lookup"><span data-stu-id="b04e9-109">From a sales order, this function creates a purchase order for each vendor of items on the sales order.</span></span> <span data-ttu-id="b04e9-110">Þú getur breytt innkaupamagninu áður en þú stofnar innkaupapantanirnar.</span><span class="sxs-lookup"><span data-stu-id="b04e9-110">You can edit the purchase quantity before you create the purchase orders.</span></span> <span data-ttu-id="b04e9-111">Aðeins er ótiltækt sölumagn lagt til.</span><span class="sxs-lookup"><span data-stu-id="b04e9-111">Only unavailable sales quantities are suggested.</span></span>
@@ -38,11 +39,11 @@ ms.lasthandoff: 12/01/2017
 4. <span data-ttu-id="b04e9-124">Til að kaupa annað magn en ótiltækt sölumagn, skal breyta gildinu í **Magn til innkaupa** reitnum.</span><span class="sxs-lookup"><span data-stu-id="b04e9-124">To purchase another quantity than the unavailable sales quantity, edit the value in the **Quantity to Purchase** field.</span></span>
 
     > [!NOTE]  
->   <span data-ttu-id="b04e9-125">Þú getur líka breytt **Magn til innkaupa** reitnum á grámuðum línum jafnvel þótt þær sýni fullkomlega tiltækt sölumagn.</span><span class="sxs-lookup"><span data-stu-id="b04e9-125">You can also change the **Quantity to Purchase** field on grayed lines even though they represent fully available sales quantities.</span></span>
+   >   <span data-ttu-id="b04e9-125">Þú getur líka breytt **Magn til innkaupa** reitnum á grámuðum línum jafnvel þótt þær sýni fullkomlega tiltækt sölumagn.</span><span class="sxs-lookup"><span data-stu-id="b04e9-125">You can also change the **Quantity to Purchase** field on grayed lines even though they represent fully available sales quantities.</span></span>
 5. <span data-ttu-id="b04e9-126">Velja hnappinn **Í lagi**.</span><span class="sxs-lookup"><span data-stu-id="b04e9-126">Choose the **OK** button.</span></span>
 
     <span data-ttu-id="b04e9-127">Innkaupapöntun er stofnuð fyrir hvern lánardrottinn vöru á sölupöntuninni, og í henni eru allar magnbreytingar sem þú kannt að hafa gert í **Stofna innkaupapöntun** glugganum.</span><span class="sxs-lookup"><span data-stu-id="b04e9-127">A purchase order is created for each vendor of items on the sales order, including any quantity changes that you made in the **Create Purchase Orders** window.</span></span>
-7. <span data-ttu-id="b04e9-128">Halda áfram að vinna innkaupapöntun eða pantanir, til dæmis með því að breyta eða bæta við innkaupareikningslínum.</span><span class="sxs-lookup"><span data-stu-id="b04e9-128">Proceed to process the purchase order or orders, for example, by editing or adding purchase order lines.</span></span> <span data-ttu-id="b04e9-129">Nánari upplýsingar eru í [Hvernig á að: Skrá innkaup](purchasing-how-record-purchases.md).</span><span class="sxs-lookup"><span data-stu-id="b04e9-129">For more information, see [How to: Record Purchases](purchasing-how-record-purchases.md).</span></span>
+6. <span data-ttu-id="b04e9-128">Halda áfram að vinna innkaupapöntun eða pantanir, til dæmis með því að breyta eða bæta við innkaupareikningslínum.</span><span class="sxs-lookup"><span data-stu-id="b04e9-128">Proceed to process the purchase order or orders, for example, by editing or adding purchase order lines.</span></span> <span data-ttu-id="b04e9-129">Nánari upplýsingar eru í [Hvernig á að: Skrá innkaup](purchasing-how-record-purchases.md).</span><span class="sxs-lookup"><span data-stu-id="b04e9-129">For more information, see [How to: Record Purchases](purchasing-how-record-purchases.md).</span></span>
 
 
 ## <a name="to-create-a-purchase-invoice-from-a-sales-order-or-sales-invoice"></a><span data-ttu-id="b04e9-130">Stofna innkaupareikning úr sölupöntun eða sölureikningi</span><span class="sxs-lookup"><span data-stu-id="b04e9-130">To create a purchase invoice from a sales order or sales invoice</span></span>

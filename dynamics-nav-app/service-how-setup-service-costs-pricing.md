@@ -12,10 +12,10 @@ ms.search.keywords: service, cost, service order
 ms.date: 08/22/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: a1adc468d1228f9ed5de5d3c90b72b3451be464b
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 262c33a210246ab9bfc1109765675ddb8bb5ca33
 ms.contentlocale: is-is
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 
@@ -31,10 +31,10 @@ ms.lasthandoff: 12/01/2017
 2. <span data-ttu-id="4897f-114">Nýr þjónustuverðflokkur er stofnaður.</span><span class="sxs-lookup"><span data-stu-id="4897f-114">Create a new service price group.</span></span>  
 3. <span data-ttu-id="4897f-115">Fyllt er í reitina **Kóti** og **Lýsing**.</span><span class="sxs-lookup"><span data-stu-id="4897f-115">Fill in the **Code** and **Description** fields.</span></span>  
 4. <span data-ttu-id="4897f-116">Veldu aðgerðina **Uppsetning**.</span><span class="sxs-lookup"><span data-stu-id="4897f-116">Choose the **Setup** action.</span></span>  
-2. <span data-ttu-id="4897f-117">Fyllið inn í reitina eftir þörfum.</span><span class="sxs-lookup"><span data-stu-id="4897f-117">Fill in the fields as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
+5. <span data-ttu-id="4897f-117">Fyllið inn í reitina eftir þörfum.</span><span class="sxs-lookup"><span data-stu-id="4897f-117">Fill in the fields as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
 
- > [!Tip]
- > <span data-ttu-id="4897f-118">Reitirnir **Leiðréttingargerð** og **Upphæð** vinna saman til að tilgreina hvort leiðrétting feli í sér fasta upphæð eða eigi aðeins við þegar heildarþjónustuverð er hærra eða lægra en upphæðin í reitnum **Upphæð**.</span><span class="sxs-lookup"><span data-stu-id="4897f-118">The **Adjustment Type** and **Amount** fields work together to specify whether an adjustment concerns a fixed amount, or applies only when the total service price exceeds or is lower than the amount in the **Amount** field.</span></span>  
+   > [!Tip]
+   > <span data-ttu-id="4897f-118">Reitirnir **Leiðréttingargerð** og **Upphæð** vinna saman til að tilgreina hvort leiðrétting feli í sér fasta upphæð eða eigi aðeins við þegar heildarþjónustuverð er hærra eða lægra en upphæðin í reitnum **Upphæð**.</span><span class="sxs-lookup"><span data-stu-id="4897f-118">The **Adjustment Type** and **Amount** fields work together to specify whether an adjustment concerns a fixed amount, or applies only when the total service price exceeds or is lower than the amount in the **Amount** field.</span></span>  
 
 ## <a name="to-set-up-a-service-price-adjustment-group"></a><span data-ttu-id="4897f-119">Uppsetning þjónustuverðleiðréttingarflokka</span><span class="sxs-lookup"><span data-stu-id="4897f-119">To set up a service price adjustment group</span></span>  
 <span data-ttu-id="4897f-120">Þú getur setja upp verðleiðréttingaflokka til að leiðrétta þjónustuverðlagningu vegna þjónustuvöru.</span><span class="sxs-lookup"><span data-stu-id="4897f-120">You can set up price adjustment groups to adjust service pricing of service items.</span></span> <span data-ttu-id="4897f-121">Til dæmis má setja upp verðleiðréttingarflokka sem leiðrétta verð á flutningi eða varahlutum.</span><span class="sxs-lookup"><span data-stu-id="4897f-121">For example, you can set up price adjustment groups that adjust price of freight or spare parts.</span></span>  

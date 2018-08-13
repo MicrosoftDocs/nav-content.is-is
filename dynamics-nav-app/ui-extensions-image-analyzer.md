@@ -12,10 +12,10 @@ ms.search.keywords: API, extension, Cognitive Services, image, computer vision, 
 ms.date: 06/19/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: a34880ca2e5c933b2484e1a5f87cd4bae22a1756
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 88525a478f9035f16a8652f918a0a7ba949307af
 ms.contentlocale: is-is
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 
@@ -28,7 +28,7 @@ ms.lasthandoff: 12/01/2017
 
 <span data-ttu-id="28ab1-113">Eftir að þú virkjar viðbótina, keyrist Myndgreinandinn í hvert skipti sem þú flytur inn mynd til vöru eða tengiliðs.</span><span class="sxs-lookup"><span data-stu-id="28ab1-113">After you enable the extension, Image Analyzer runs each time you import an image to an item or contact person.</span></span> <span data-ttu-id="28ab1-114">Um leið muntu sjá eigindirnar, áreiðanleikastigið og upplýsingarnar og getur ákveðið hvað skal gera við hverja eigind.</span><span class="sxs-lookup"><span data-stu-id="28ab1-114">You will see the attributes, confidence level, and details right away, and can decide what to do with each attribute.</span></span> <span data-ttu-id="28ab1-115">Ef þú fluttir inn myndir áður en þú virkjaðir Myndgreinanda-viðbótina, þarftu að ná í vöruna eða tengiliðaspjaldið og velja **Greina mynd** aðgerðina.</span><span class="sxs-lookup"><span data-stu-id="28ab1-115">If you imported images before you enabled the Image Analyzer extension, you must go to the item or contact cards and choose the **Analyze Picture** action.</span></span>  
 
->   [!NOTE]  
+> [!NOTE]
 >   <span data-ttu-id="28ab1-116">Með því að virkja viðbótina samþykkirðu að Microsoft sé heimilt að geyma gögnin þín og nota þau til að bæta þjónustu Microsoft, t.d. til að gera Tölvusjón API betri.</span><span class="sxs-lookup"><span data-stu-id="28ab1-116">By enabling this extension you agree that Microsoft may store your data and use it to improve Microsoft services, such as making the Computer Vision API better.</span></span> <span data-ttu-id="28ab1-117">Til að auka persónuvernd, gerum við gögnin þín nafnlaus og höldum þeim öruggum.</span><span class="sxs-lookup"><span data-stu-id="28ab1-117">To help protect your privacy, we take steps to make your data anonymous and keep it secure.</span></span> <span data-ttu-id="28ab1-118">Við munum ekki birta gögnin þín eða leyfa öðrum að nota þau.</span><span class="sxs-lookup"><span data-stu-id="28ab1-118">We will not publish your data or let other people use it.</span></span> <span data-ttu-id="28ab1-119">Þú getur fjarlægt myndina frá vörunni í [!INCLUDE[d365fin](includes/d365fin_md.md)], en Tölvusjón API mun samt sem áður enn hafa aðgang að myndinni, í dulkóðuðu formi.</span><span class="sxs-lookup"><span data-stu-id="28ab1-119">You can remove the image from the item in [!INCLUDE[d365fin](includes/d365fin_md.md)], however, the Computer Vision API will still have the image in its de-identified form.</span></span> <span data-ttu-id="28ab1-120">Nánari upplýsingar, sjá [Microsoft Öryggismiðstöð](https://go.microsoft.com/fwlink/?linkid=851463).</span><span class="sxs-lookup"><span data-stu-id="28ab1-120">For more information, see [Microsoft Trust Center](https://go.microsoft.com/fwlink/?linkid=851463).</span></span>
 
 ## <a name="requirements"></a><span data-ttu-id="28ab1-121">Kröfur</span><span class="sxs-lookup"><span data-stu-id="28ab1-121">Requirements</span></span>
@@ -52,7 +52,7 @@ ms.lasthandoff: 12/01/2017
 * <span data-ttu-id="28ab1-137">Vöru- eða tengiliðaspjald er opnað.</span><span class="sxs-lookup"><span data-stu-id="28ab1-137">Open an item or contact card.</span></span> <span data-ttu-id="28ab1-138">Á tilkynningastikunni skal velja **Greina myndir**, og svo er skrefunum í Uppsetningu með aðstoð fylgt.</span><span class="sxs-lookup"><span data-stu-id="28ab1-138">In the notification bar, choose **Analyze Images**, and then follow the steps in the assisted setup guide.</span></span>  
 * <span data-ttu-id="28ab1-139">Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn **Þjónustutengingar** og velja svo **Uppsetning myndgreiningar**</span><span class="sxs-lookup"><span data-stu-id="28ab1-139">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Service Connections**, and then choose **Image Analysis Setup**.</span></span> <span data-ttu-id="28ab1-140">Á gátreitnum skal velja **Virkja myndgreinanda**, og svo er skrefunum í Uppsetningu með aðstoð fylgt.</span><span class="sxs-lookup"><span data-stu-id="28ab1-140">Choose the **Enable Image Analyzer** check box, and then complete the steps in the assisted setup guide.</span></span>  
 
->   [!TIP]  
+> [!TIP]
 >   <span data-ttu-id="28ab1-141">Á **Uppsetning myndgreiningar** síðunni geturðu líka breytt áreiðanleikastiginu fyrir tillögur um eigindir.</span><span class="sxs-lookup"><span data-stu-id="28ab1-141">The **Image Analysis Setup** page is also where you can change the degree of confidence for attribute suggestions.</span></span> <span data-ttu-id="28ab1-142">Ef þú vilt til dæmis auka áreiðanleikann, þá geturðu slegið inn hærri prósentu.</span><span class="sxs-lookup"><span data-stu-id="28ab1-142">For example, if you want to require a greater degree of confidence, you can enter a higher percentage.</span></span>
 
 ## <a name="to-analyze-an-image-of-an-item"></a><span data-ttu-id="28ab1-143">Að greina mynd af vöru</span><span class="sxs-lookup"><span data-stu-id="28ab1-143">To analyze an image of an item</span></span>
@@ -62,7 +62,7 @@ ms.lasthandoff: 12/01/2017
 2. <span data-ttu-id="28ab1-146">Veljið vöruna og veljið svo aðgerðina **Greina mynd**.</span><span class="sxs-lookup"><span data-stu-id="28ab1-146">Choose the item, and then choose the **Analyze Picture** action.</span></span>  
 3. <span data-ttu-id="28ab1-147">Síðan **Eigindir myndgreinanda** birtir þær eigindir sem finnast, áreiðanleikastigið og aðrar upplýsingar um eigindina.</span><span class="sxs-lookup"><span data-stu-id="28ab1-147">The **Image Analyzer Attributes** page displays the detected attributes, the confidence level, and other details about the attribute.</span></span> <span data-ttu-id="28ab1-148">Nota **Aðgerð til að framkvæma** valkostina til að tilgreina hvað skal gera við eigindina.</span><span class="sxs-lookup"><span data-stu-id="28ab1-148">Use the **Action to perform** options to specify what to do with the attribute.</span></span>  
 
->   [!TIP]  
+> [!TIP]
 >   <span data-ttu-id="28ab1-149">Þú getur bætt nafni eigindarinnar við lýsinguna á vörunni með því að velja **Bæta við vörulýsingu**.</span><span class="sxs-lookup"><span data-stu-id="28ab1-149">You can add the name of the attribute to the item description by choosing **Add to item description**.</span></span> <span data-ttu-id="28ab1-150">Þetta getur t.d. reynst gagnlegt þegar bæta þarf við upplýsingum snögglega.</span><span class="sxs-lookup"><span data-stu-id="28ab1-150">For example, this can be useful for quickly adding detail.</span></span>  
 
 ## <a name="to-analyze-a-picture-of-a-contact-person"></a><span data-ttu-id="28ab1-151">Greina mynd af tengilið</span><span class="sxs-lookup"><span data-stu-id="28ab1-151">To analyze a picture of a contact person</span></span>
@@ -78,7 +78,7 @@ ms.lasthandoff: 12/01/2017
 1. <span data-ttu-id="28ab1-158">Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn **Uppsetning myndagreinanda** og velja svo viðeigandi tengil.</span><span class="sxs-lookup"><span data-stu-id="28ab1-158">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Image Analyzer Setup**, and then choose the related link.</span></span>  
 2. <span data-ttu-id="28ab1-159">Færið inn **API URI** og **API lykil** sem þú fékkst fyrir Tölvusjón API.</span><span class="sxs-lookup"><span data-stu-id="28ab1-159">Enter the **API URI** and **API Key** that you received for Computer Vision API.</span></span>  
 
->   [!NOTE]  
+> [!NOTE]
 >   <span data-ttu-id="28ab1-160">Nauðsynlegt er að bæta **/greina** aftan við API URI ef það er ekki þegar þar.</span><span class="sxs-lookup"><span data-stu-id="28ab1-160">You must add **/analyze** at the end of the API URI, if it isn't already there.</span></span> <span data-ttu-id="28ab1-161">Til dæmis: ```https://cronus.api.cognitive.microsoft.com/vision/v1.0/analyze```.</span><span class="sxs-lookup"><span data-stu-id="28ab1-161">For example: ```https://cronus.api.cognitive.microsoft.com/vision/v1.0/analyze```.</span></span>
 
 ## <a name="to-see-how-many-analyses-you-have-left-in-the-current-period"></a><span data-ttu-id="28ab1-162">Til að sjá hversu margar greiningar þú hefur skilið eftir á núverandi tímabil</span><span class="sxs-lookup"><span data-stu-id="28ab1-162">To see how many analyses you have left in the current period</span></span>

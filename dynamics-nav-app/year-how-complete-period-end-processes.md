@@ -9,13 +9,13 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: year closing, close accounting period, close fiscal year, aging, creditor payments, vendor payments
-ms.date: 06/19/2017
+ms.date: 08/10/2018
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 2d6754559e35ab1765bd34704a975dce0575c108
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 54f27054069f6a39fcd843e8aebb5b2adb81377a
 ms.contentlocale: is-is
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="overview-of-tasks-to-close-accounting-periods"></a><span data-ttu-id="20d19-103">Yfirlit yfir verkhluta sem felur í sér lokun fjárhagstímabila</span><span class="sxs-lookup"><span data-stu-id="20d19-103">Overview of Tasks to Close Accounting Periods</span></span>
@@ -45,14 +45,14 @@ ms.lasthandoff: 12/01/2017
 * <span data-ttu-id="20d19-125">Skýrslan **Aldursgreindar skuldir** er keyrð og skuldir stemmdar af við fjárhaginn.</span><span class="sxs-lookup"><span data-stu-id="20d19-125">Run the **Aged Accounts Payable** report and reconcile accounts payable to the general ledger.</span></span>  
 * <span data-ttu-id="20d19-126">Runuvinnslan **Eyða reikningsf. innk.pöntunum** er keyrð.</span><span class="sxs-lookup"><span data-stu-id="20d19-126">Run the **Delete Invoiced Purchase Orders** batch job.</span></span>  
 
-<span data-ttu-id="20d19-127">Eignir</span><span class="sxs-lookup"><span data-stu-id="20d19-127">Fixed Assets</span></span>
+## <a name="fixed-assets"></a><span data-ttu-id="20d19-127">Eignir</span><span class="sxs-lookup"><span data-stu-id="20d19-127">Fixed Assets</span></span>
 * <span data-ttu-id="20d19-128">Allur viðhaldskostnaður hefur verið bókaður í gegnum Eignabók eða Reikningar</span><span class="sxs-lookup"><span data-stu-id="20d19-128">Post all maintenance costs have been posted through the fixed asset journals or invoices.</span></span>
 * <span data-ttu-id="20d19-129">Leiðréttingar eru bókaðar</span><span class="sxs-lookup"><span data-stu-id="20d19-129">Post adjustments.</span></span>
 * <span data-ttu-id="20d19-130">Uppfærsla er bókuð</span><span class="sxs-lookup"><span data-stu-id="20d19-130">Post appreciation.</span></span>
 * <span data-ttu-id="20d19-131">Afskriftir eru bókaðar</span><span class="sxs-lookup"><span data-stu-id="20d19-131">Post depreciation.</span></span>
 * <span data-ttu-id="20d19-132">Ítrekunarbók eigna er uppfærð og bókuð.</span><span class="sxs-lookup"><span data-stu-id="20d19-132">Update and post the recurring fixed asset journal.</span></span>
 
-<span data-ttu-id="20d19-133">Milli fyrirtækja</span><span class="sxs-lookup"><span data-stu-id="20d19-133">Intercompany</span></span>
+## <a name="intercompany"></a><span data-ttu-id="20d19-133">Milli fyrirtækja</span><span class="sxs-lookup"><span data-stu-id="20d19-133">Intercompany</span></span>
 * <span data-ttu-id="20d19-134">Vinna úr færslum á milli fyrirtækja</span><span class="sxs-lookup"><span data-stu-id="20d19-134">Process Intercompany Transactions</span></span>
 
 ## <a name="calculate-and-process-sales-tax"></a><span data-ttu-id="20d19-135">VSK er reiknaður og unninn</span><span class="sxs-lookup"><span data-stu-id="20d19-135">Calculate and Process Sales Tax</span></span>

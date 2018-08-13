@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/07/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: ad029ce0c839feb082f31cc4e41f5fc6e4ce80f1
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: ba590af18a57e2c6e187d55d79f0b249cea332ba
 ms.contentlocale: is-is
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-create-prepayment-invoices"></a><span data-ttu-id="5396c-103">Hvernig á að stofna reikninga fyrirframgreiðslu</span><span class="sxs-lookup"><span data-stu-id="5396c-103">How to: Create Prepayment Invoices</span></span>
@@ -32,10 +32,10 @@ ms.lasthandoff: 12/01/2017
     <span data-ttu-id="5396c-114">Á flýtiflipanum **Fyrirframgreiðsla**, er reiturinn **Fyrirframgreiðsla %** fylltur út sjálfkrafa ef sjálfgefin fyrirframgreiðsluprósenta er til staðar í viðskiptamannsspjaldinu.</span><span class="sxs-lookup"><span data-stu-id="5396c-114">On the **Prepayment** FastTab, the **Prepayment %** field will be filled in automatically if there is a default prepayment percentage on the customer card.</span></span> <span data-ttu-id="5396c-115">Hægt er að breyta efni þessa reits.</span><span class="sxs-lookup"><span data-stu-id="5396c-115">You can change the contents of the field.</span></span> <span data-ttu-id="5396c-116">Fyrirframgreiðslan er eingöngu afrituð úr hausnum í línur sem ekki afrita sjálfgefna fyrirframgreiðsluprósentu úr vörunni.</span><span class="sxs-lookup"><span data-stu-id="5396c-116">The prepayment percentage is only copied from the header to lines that do not copy the default prepayment percentage from the item.</span></span>  
 
     <span data-ttu-id="5396c-117">Ef reiturinn **Þjappa fyrirframgreiðslu** er valinn verða línur sameinaðar á reikningnum ef:</span><span class="sxs-lookup"><span data-stu-id="5396c-117">If the **Compress Prepayment** field is selected, lines will be combined on the invoice if:</span></span>  
-    - <span data-ttu-id="5396c-118">Þær eru með sama fjárhagsreikninginn fyrir fyrirframgreiðslur samkvæmt stillingum í almenna bókunargrunninum.</span><span class="sxs-lookup"><span data-stu-id="5396c-118">They have the same general ledger account for prepayments as determined by the general posting setup.</span></span>  
-    - <span data-ttu-id="5396c-119">Þeir hafa sömu víddir.</span><span class="sxs-lookup"><span data-stu-id="5396c-119">They have the same dimensions.</span></span>  
+   - <span data-ttu-id="5396c-118">Þær eru með sama fjárhagsreikninginn fyrir fyrirframgreiðslur samkvæmt stillingum í almenna bókunargrunninum.</span><span class="sxs-lookup"><span data-stu-id="5396c-118">They have the same general ledger account for prepayments as determined by the general posting setup.</span></span>  
+   - <span data-ttu-id="5396c-119">Þeir hafa sömu víddir.</span><span class="sxs-lookup"><span data-stu-id="5396c-119">They have the same dimensions.</span></span>  
 
-    <span data-ttu-id="5396c-120">Þessi reitur er hafður auður ef tilgreina á fyrirframgreiðslureikning með einni línu fyrir hverja sölupöntunarlínu sem er með fyrirframgreiðsluprósentu.</span><span class="sxs-lookup"><span data-stu-id="5396c-120">Leave the field blank if you want to specify a prepayment invoice with one line for each sales order line that has a prepayment percentage.</span></span>  
+     <span data-ttu-id="5396c-120">Þessi reitur er hafður auður ef tilgreina á fyrirframgreiðslureikning með einni línu fyrir hverja sölupöntunarlínu sem er með fyrirframgreiðsluprósentu.</span><span class="sxs-lookup"><span data-stu-id="5396c-120">Leave the field blank if you want to specify a prepayment invoice with one line for each sales order line that has a prepayment percentage.</span></span>  
 
 3. <span data-ttu-id="5396c-121">Sölulínurnar eru fylltar út.</span><span class="sxs-lookup"><span data-stu-id="5396c-121">Fill in the sales lines.</span></span>  
 

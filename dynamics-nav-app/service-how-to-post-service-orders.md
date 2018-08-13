@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 777ca1545acc5f3c8b2b875eed869e874d7af639
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 91071b2ee6994a5c1dc00cf587daf323f06fdeaf
 ms.contentlocale: is-is
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-post-service-orders-and-credit-memos"></a><span data-ttu-id="8fa75-105">Hvernig skal: bóka þjónustupantanir og kreditreikninga</span><span class="sxs-lookup"><span data-stu-id="8fa75-105">How to: Post Service Orders and Credit Memos</span></span>
@@ -112,11 +112,11 @@ ms.lasthandoff: 12/01/2017
 3. <span data-ttu-id="8fa75-206">Veldu **Aðgerðir**, velja **Afhending** og velja svo **Þjónustuafhendingarlínur**.</span><span class="sxs-lookup"><span data-stu-id="8fa75-206">Choose **Actions**, choose **Shipment**, and then choose **Service Shipment Lines**.</span></span>  
 4. <span data-ttu-id="8fa75-207">Veldu línur sem innihalda ranga notkun, og veldu svo aðgerðina **Afturkalla notkun**.</span><span class="sxs-lookup"><span data-stu-id="8fa75-207">Choose the lines that contain the incorrect consumption, and then choose the **Undo Consumption** action.</span></span>  
   
- <span data-ttu-id="8fa75-208">Þjónustuafhendingarlína er færð inn með neikvæðu virði í magnreitum fyrir valdar línur.</span><span class="sxs-lookup"><span data-stu-id="8fa75-208">A balancing service shipment line is inserted with negative values in the quantity fields for the selected lines.</span></span>  
+   <span data-ttu-id="8fa75-208">Þjónustuafhendingarlína er færð inn með neikvæðu virði í magnreitum fyrir valdar línur.</span><span class="sxs-lookup"><span data-stu-id="8fa75-208">A balancing service shipment line is inserted with negative values in the quantity fields for the selected lines.</span></span>  
   
-> [!NOTE]  
+> [!NOTE]
 >  <span data-ttu-id="8fa75-209">Ekki er hægt að afturkalla þjónustunotkun ef:</span><span class="sxs-lookup"><span data-stu-id="8fa75-209">You cannot undo service consumption if:</span></span>  
-
+> 
 >    * <span data-ttu-id="8fa75-210">Þjónustupöntuninni hefur verið lokað.</span><span class="sxs-lookup"><span data-stu-id="8fa75-210">The service order has been closed.</span></span>  
 >    * <span data-ttu-id="8fa75-211">Búið er að bóka í verksvæði, þannig að verkfærslur eru tengdar þessari notkun.</span><span class="sxs-lookup"><span data-stu-id="8fa75-211">It has been posted to the Jobs area, so there are job ledger entries linked to it.</span></span>  
   

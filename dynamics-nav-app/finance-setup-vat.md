@@ -12,10 +12,10 @@ ms.search.keywords: VAT, posting, tax, value-added tax
 ms.date: 04/20/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 4582d23e5745d5b066b0a0895fb7729cf7be1019
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 81560d1652aed88e6c8553f26da37014886a4fa4
 ms.contentlocale: is-is
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 
@@ -100,7 +100,7 @@ ms.lasthandoff: 12/01/2017
 
 * <span data-ttu-id="21168-168">Á **Vöru** spjaldinu, stækkið **Verð & Bókun** Flýtiflipann, og velja síðan **Sýna fleiri** til að birta **VAT Vörubókunarflokkur** reitinn.</span><span class="sxs-lookup"><span data-stu-id="21168-168">On the **Item** card, expand the **Price & Posting** FastTab, and then choose **Show more** to display the **VAT Product Posting Group** field.</span></span>  
 * <span data-ttu-id="21168-169">Á **Tilfang** spjaldinu, stækkið **Reikningagerð** flipann.</span><span class="sxs-lookup"><span data-stu-id="21168-169">On the **Resource** card, expand the **Invoicing** FastTab.</span></span>  
-3. <span data-ttu-id="21168-170">Veljið VSK-vörubókunarflokk.</span><span class="sxs-lookup"><span data-stu-id="21168-170">Choose the VAT product posting group.</span></span>  
+* <span data-ttu-id="21168-170">Veljið VSK-vörubókunarflokk.</span><span class="sxs-lookup"><span data-stu-id="21168-170">Choose the VAT product posting group.</span></span>  
 
 ## <a name="to-set-up-clauses-to-explain-the-use-of-non-standard-vat-rates"></a><span data-ttu-id="21168-171">Setja upp ákvæði til að útskýra notkun óstaðlaðra VSK taxta</span><span class="sxs-lookup"><span data-stu-id="21168-171">To set up clauses to explain the use of non-standard VAT rates</span></span>
 <span data-ttu-id="21168-172">VSK-klausa er sett upp til að lýsa upplýsingum um hvaða tegund VSK er notuð.</span><span class="sxs-lookup"><span data-stu-id="21168-172">You set up a VAT clause to describe information about the type of VAT that is being applied.</span></span> <span data-ttu-id="21168-173">Reglur stjórnvalda gætu krafist þessara upplýsinga.</span><span class="sxs-lookup"><span data-stu-id="21168-173">The information may be required by government regulation.</span></span> <span data-ttu-id="21168-174">Þegar búið er að setja upp VSK-ákvæði og tengja það við VSK-bókunaruppsetningu, birtist VSK-ákvæðið á öllum prentuðum söluskjölum sem nota VSK-bókunaruppsetningarflokkinn.</span><span class="sxs-lookup"><span data-stu-id="21168-174">After you set up a VAT clause, and associate it with a VAT posting setup, the VAT clause is displayed on printed sales documents that use the VAT posting setup group.</span></span> 
@@ -222,8 +222,8 @@ ms.lasthandoff: 12/01/2017
 2. <span data-ttu-id="21168-300">Staðfesta að VSK-vörubókunarflokksumbreytingar eða almennar vörubókunarflokksumbreytingar hafi þegar verið settar upp.</span><span class="sxs-lookup"><span data-stu-id="21168-300">Verify that you have already set up the VAT product posting group conversion or general product posting group conversion.</span></span>  
 3. <span data-ttu-id="21168-301">Velja skal gátreitinn **Framkvæma umreikning**.</span><span class="sxs-lookup"><span data-stu-id="21168-301">Choose the **Perform Conversion** check box.</span></span>  
   
-> [!IMPORTANT]  
-    >  <span data-ttu-id="21168-302">Hreinsa gátreitinn **breytingaverkfæri fyrir VSK gengi lokið**.</span><span class="sxs-lookup"><span data-stu-id="21168-302">Clear the **VAT Rate Change Tool Completed** check box.</span></span> <span data-ttu-id="21168-303">Gátreiturinn er valinn sjálfvirkt þegar umreikningi vsk-stigs er lokið.</span><span class="sxs-lookup"><span data-stu-id="21168-303">The check box is automatically selected when the VAT rate change conversion is completed.</span></span>  
+> [!IMPORTANT]
+>  <span data-ttu-id="21168-302">Hreinsa gátreitinn **breytingaverkfæri fyrir VSK gengi lokið**.</span><span class="sxs-lookup"><span data-stu-id="21168-302">Clear the **VAT Rate Change Tool Completed** check box.</span></span> <span data-ttu-id="21168-303">Gátreiturinn er valinn sjálfvirkt þegar umreikningi vsk-stigs er lokið.</span><span class="sxs-lookup"><span data-stu-id="21168-303">The check box is automatically selected when the VAT rate change conversion is completed.</span></span>  
   
 4. <span data-ttu-id="21168-304">Velja skal **Umreikna** aðgerðina.</span><span class="sxs-lookup"><span data-stu-id="21168-304">Choose the **Convert** action.</span></span>  
 5. <span data-ttu-id="21168-305">Þegar umreikningnum er lokið, á flipanum **Heim**, í flokknum **Vinna**, skal velja **Breytingaskrárfærslur fyrir VSK-hlutfall** til að skoða niðurstöður af umreikningnum.</span><span class="sxs-lookup"><span data-stu-id="21168-305">After the conversion is complete, on the **Home** tab, in the **Process** group, choose **VAT Rate Change Log Entries** to view the results of the conversion.</span></span>  

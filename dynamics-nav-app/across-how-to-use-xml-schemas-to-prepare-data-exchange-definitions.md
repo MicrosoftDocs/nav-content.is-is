@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 08/21/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 27ab5f4379c59d6479d3ab4bd24dfc1671a79bdb
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 48e73df78994e01aa1f185fae6b846839667a11d
 ms.contentlocale: is-is
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-use-xml-schemas-to-prepare-data-exchange-definitions"></a><span data-ttu-id="56a0b-103">Hvernig á að nota XML-skema til að undirbúa skilgreiningar gagnaskipta</span><span class="sxs-lookup"><span data-stu-id="56a0b-103">How to: Use XML Schemas to Prepare Data Exchange Definitions</span></span>
@@ -100,15 +100,15 @@ ms.lasthandoff: 12/01/2017
 
 ### <a name="to-generate-a-data-exchange-definition-that-is-based-on-an-xml-schema"></a><span data-ttu-id="56a0b-165">Að búa til gagnaskiptaskilgreiningu sem byggist á XML-skema</span><span class="sxs-lookup"><span data-stu-id="56a0b-165">To generate a data exchange definition that is based on an XML schema</span></span>  
 
-1.  <span data-ttu-id="56a0b-166">Í reitnum **Leita** skal færa inn **XML-skema** og velja síðan viðkomandi tengi.</span><span class="sxs-lookup"><span data-stu-id="56a0b-166">In the **Search** box, enter  **XML Schemas**, and then choose the related link.</span></span>  
+1. <span data-ttu-id="56a0b-166">Í reitnum **Leita** skal færa inn **XML-skema** og velja síðan viðkomandi tengi.</span><span class="sxs-lookup"><span data-stu-id="56a0b-166">In the **Search** box, enter  **XML Schemas**, and then choose the related link.</span></span>  
 
-2.  <span data-ttu-id="56a0b-167">Veljið viðkomandi XML-skema og veljið því næst á flipanum **Heima** í **Ferli** hópnum valkostinn **Opna XML skemaskoðun**.</span><span class="sxs-lookup"><span data-stu-id="56a0b-167">Select the relevant XML schema, and then on the on the **Home** tab, in the **Process** group, choose **Open XML Schema Viewer**.</span></span>  
+2. <span data-ttu-id="56a0b-167">Veljið viðkomandi XML-skema og veljið því næst á flipanum **Heima** í **Ferli** hópnum valkostinn **Opna XML skemaskoðun**.</span><span class="sxs-lookup"><span data-stu-id="56a0b-167">Select the relevant XML schema, and then on the on the **Home** tab, in the **Process** group, choose **Open XML Schema Viewer**.</span></span>  
 
-3.  <span data-ttu-id="56a0b-168">Gangið úr skugga um að viðeigandi hnútar séu valdir.</span><span class="sxs-lookup"><span data-stu-id="56a0b-168">Make sure the relevant nodes are selected.</span></span> <span data-ttu-id="56a0b-169">Nánari upplýsingar fást í hlutanum „Að velja eða hreinsa hnúta í XML-skema“.</span><span class="sxs-lookup"><span data-stu-id="56a0b-169">For more information, see the “To select or clear nodes in an XML schema” section.</span></span>  
+3. <span data-ttu-id="56a0b-168">Gangið úr skugga um að viðeigandi hnútar séu valdir.</span><span class="sxs-lookup"><span data-stu-id="56a0b-168">Make sure the relevant nodes are selected.</span></span> <span data-ttu-id="56a0b-169">Nánari upplýsingar fást í hlutanum „Að velja eða hreinsa hnúta í XML-skema“.</span><span class="sxs-lookup"><span data-stu-id="56a0b-169">For more information, see the “To select or clear nodes in an XML schema” section.</span></span>  
 
-4.  <span data-ttu-id="56a0b-170">Í glugganum **XML-skemaskoðun** í flipanum **Heim** í flokknum **Ferli** veljið **Mynda gagnaskiptaskilgreiningu**.</span><span class="sxs-lookup"><span data-stu-id="56a0b-170">In the **XML Schema Viewer** window, on the **Home** tab, in the **Process** group, choose **Generate Data Exchange Definition**.</span></span>  
+4. <span data-ttu-id="56a0b-170">Í glugganum **XML-skemaskoðun** í flipanum **Heim** í flokknum **Ferli** veljið **Mynda gagnaskiptaskilgreiningu**.</span><span class="sxs-lookup"><span data-stu-id="56a0b-170">In the **XML Schema Viewer** window, on the **Home** tab, in the **Process** group, choose **Generate Data Exchange Definition**.</span></span>  
 
- <span data-ttu-id="56a0b-171">Gagnaskiptaskilgreining er sett upp í glugganum **Bókunarskilgreiningar**, sem hægt er að ljúka með því að tilgreina hvaða stök í skránni varpast í hvaða reiti í [!INCLUDE[d365fin](includes/d365fin_md.md)].</span><span class="sxs-lookup"><span data-stu-id="56a0b-171">A data exchange definition is created in the **Posting Exchange Definition** window, which you can complete by specifying which elements in the file map to which fields in [!INCLUDE[d365fin](includes/d365fin_md.md)].</span></span> <span data-ttu-id="56a0b-172">Frekari upplýsingar, sjá [Hvernig á að: Gagngaskiptaskilgreining](across-how-to-set-up-data-exchange-definitions.md).</span><span class="sxs-lookup"><span data-stu-id="56a0b-172">For more information, see [How to: Set Up Data Exchange Definitions](across-how-to-set-up-data-exchange-definitions.md).</span></span>  
+   <span data-ttu-id="56a0b-171">Gagnaskiptaskilgreining er sett upp í glugganum **Bókunarskilgreiningar**, sem hægt er að ljúka með því að tilgreina hvaða stök í skránni varpast í hvaða reiti í [!INCLUDE[d365fin](includes/d365fin_md.md)].</span><span class="sxs-lookup"><span data-stu-id="56a0b-171">A data exchange definition is created in the **Posting Exchange Definition** window, which you can complete by specifying which elements in the file map to which fields in [!INCLUDE[d365fin](includes/d365fin_md.md)].</span></span> <span data-ttu-id="56a0b-172">Frekari upplýsingar, sjá [Hvernig á að: Gagngaskiptaskilgreining](across-how-to-set-up-data-exchange-definitions.md).</span><span class="sxs-lookup"><span data-stu-id="56a0b-172">For more information, see [How to: Set Up Data Exchange Definitions](across-how-to-set-up-data-exchange-definitions.md).</span></span>  
 
 > [!NOTE]  
 >  <span data-ttu-id="56a0b-173">Einnig er hægt að nota **Sækja skráaskipan** virknina í **Bókunarskilgreining** glugganum sem notar virkni **XML-skemaskoðun** til að fylla út í flýtiflipann**Dálkaskilgreiningar**.</span><span class="sxs-lookup"><span data-stu-id="56a0b-173">You can also use the **Get File Structure** function from the **Posting Exchange Definition** window, which uses the functionality of the **XML Schema Viewer** window to prefill the **Column Definitions** TastTab.</span></span>  

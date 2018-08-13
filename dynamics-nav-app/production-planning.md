@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/14/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: af9bd34a16af453d913e6fe3f0f0167ec96faf77
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: f3bb7faf1657366f10cfacb4a7c5307c99bf2a4a
 ms.contentlocale: is-is
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="planning"></a><span data-ttu-id="99e14-103">Áætlun</span><span class="sxs-lookup"><span data-stu-id="99e14-103">Planning</span></span>
@@ -23,7 +23,7 @@ ms.lasthandoff: 12/01/2017
 
 > [!NOTE]
 > <span data-ttu-id="99e14-106">Þetta efnisatriði lýsir fyrst og fremst áætlunum fyrir fyrirtæki sem eru í framleiðslu eða samsetningarstjórnun þar sem birgðapantanir geta verið framleiðsla, samsetning, flutningur eða innkaupapantanir.</span><span class="sxs-lookup"><span data-stu-id="99e14-106">This topic mainly describes planning for companies involved in manufacturing or assembly management where the resulting supply orders can be either production, assembly, transfer, or purchase orders.</span></span> <span data-ttu-id="99e14-107">Aðalviðmótið fyrir þessa áætlunarvinnu er **Áætlunarvinnublað** glugginn.</span><span class="sxs-lookup"><span data-stu-id="99e14-107">The main interface for this planning work is the **Planning Worksheet** window.</span></span>
-
+> 
 > [!INCLUDE[d365fin](includes/d365fin_md.md)]<span data-ttu-id="99e14-108"> styður einnig framboðsáætlanir fyrir heildsölufyrirtæki þar sem framboðspantanir geta aðeins verið flutnings- eða innkaupapantanir.</span><span class="sxs-lookup"><span data-stu-id="99e14-108"> also supports supply planning for wholesale companies where the resulting supply orders can only be transfer and purchase orders.</span></span> <span data-ttu-id="99e14-109">Aðalviðmótið fyrir þessa áætlunarvinnu er **Innkaupatillaga** glugginn, sem er lýst óbeint í þessu efnisatriði þar sem flestar áætlunaraðgerðir má framkvæma í báðum vinnublöðum.</span><span class="sxs-lookup"><span data-stu-id="99e14-109">The main interface for this planning work is the **Requisition Worksheet** window, which is described indirectly in this topic as most planning functionality applies to both worksheets.</span></span>
 
 <span data-ttu-id="99e14-110">Áður en þú getu áætlað og framkvæmt framleiðslupantanir, þarf að grunnstilla framleiðslugetu, eins og að búa til dagatöl verkstæðis, leiðir, framleiðsluuppskriftir og vélastöðvar.</span><span class="sxs-lookup"><span data-stu-id="99e14-110">Before you can plan and execute production orders, you must configure production capacities, such as creating shop calendars, routings, production BOMs, and machine centers.</span></span> <span data-ttu-id="99e14-111">Nánari upplýsingar er að finna í [Uppsetning framleiðslu](production-configure-production-processes.md).</span><span class="sxs-lookup"><span data-stu-id="99e14-111">For more information, see [Setting Up Manufacturing](production-configure-production-processes.md).</span></span>

@@ -12,10 +12,10 @@ ms.search.keywords: procurement
 ms.date: 08/08/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: e5fb93ff45ac8aa3f6710a8c0bde48e349ccb736
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 249221ad2d26dadec40fbf99cc461615dd98313c
 ms.contentlocale: is-is
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-record-purchases"></a><span data-ttu-id="74408-103">Hvernig á að skrá kaup</span><span class="sxs-lookup"><span data-stu-id="74408-103">How to: Record Purchases</span></span>
@@ -53,12 +53,12 @@ ms.lasthandoff: 12/01/2017
     <span data-ttu-id="74408-141">Þú ert nú tilbúinn að fylla út innkaupareikningslínurnar með birgðavöru eða þjónustu þú hefur keypt af lánardrottninum.</span><span class="sxs-lookup"><span data-stu-id="74408-141">You are now ready to fill in the purchase invoice lines with inventory items or services that you have purchased from the vendor.</span></span>
 
     > [!NOTE]  
->   <span data-ttu-id="74408-142">Ef endurteknar innkaupalínur hafa verið settar upp fyrir lánardrottinn, svo sem mánaðarlegar áfyllingarpantanir, er hægt að færa línurnar inn í reikninginn með því að velja aðgerðina **Ítrekaðar innkaupalínur**.</span><span class="sxs-lookup"><span data-stu-id="74408-142">If you have set up recurring purchase lines for the vendor, such as a monthly replenishment order, then you can insert these lines on the invoice by choosing the **Get Recurring Purchase Lines** action.</span></span>
+   >   <span data-ttu-id="74408-142">Ef endurteknar innkaupalínur hafa verið settar upp fyrir lánardrottinn, svo sem mánaðarlegar áfyllingarpantanir, er hægt að færa línurnar inn í reikninginn með því að velja aðgerðina **Ítrekaðar innkaupalínur**.</span><span class="sxs-lookup"><span data-stu-id="74408-142">If you have set up recurring purchase lines for the vendor, such as a monthly replenishment order, then you can insert these lines on the invoice by choosing the **Get Recurring Purchase Lines** action.</span></span>
 10. <span data-ttu-id="74408-143">Í flýtiflipanum **Línur** í reitnum **Vörunúmer** er sleginn inn fjöldi birgðavöru eða þjónustu.</span><span class="sxs-lookup"><span data-stu-id="74408-143">On the **Lines** FastTab, in the **Item No.** field, enter the number of an inventory item or service.</span></span>
 11. <span data-ttu-id="74408-144">Í reitinn **Magn** er fært fjöldi vara sem á að kaupa.</span><span class="sxs-lookup"><span data-stu-id="74408-144">In the **Quantity** field, enter the number of items to be purchased.</span></span>
 
     > [!NOTE]  
->   <span data-ttu-id="74408-145">Fyrir vörur af tegundinni **Þjónusta** er magnið tímaeining, t.d. klukkutímar, eins og gefið er til kynna í reitnum **Mælieiningarkóði** í línunni</span><span class="sxs-lookup"><span data-stu-id="74408-145">For items of type **Service**, the quantity is a time unit, such as hours, as indicated in the **Unit of Measure Code** field on the line.</span></span>
+    >   <span data-ttu-id="74408-145">Fyrir vörur af tegundinni **Þjónusta** er magnið tímaeining, t.d. klukkutímar, eins og gefið er til kynna í reitnum **Mælieiningarkóði** í línunni</span><span class="sxs-lookup"><span data-stu-id="74408-145">For items of type **Service**, the quantity is a time unit, such as hours, as indicated in the **Unit of Measure Code** field on the line.</span></span>
 
     <span data-ttu-id="74408-146">Reiturinn **línuupphæð** uppfærist til að sýna að gildið í reitnum **beint innkaupsverð** margfaldað með gildinu í reitnum **magn**.</span><span class="sxs-lookup"><span data-stu-id="74408-146">The **Line Amount** field is updated to show the value in the **Direct Unit Cost** field multiplied by the value in the **Quantity** field.</span></span>
 
@@ -66,7 +66,7 @@ ms.lasthandoff: 12/01/2017
 12. <span data-ttu-id="74408-148">Í reitnum **afsláttarupphæð reiknings** færið inn upphæð sem draga á frá gildinu sem sýnt er í reitnum **Heildarupphæð með skatti** neðst á reikningnum.</span><span class="sxs-lookup"><span data-stu-id="74408-148">In the **Invoice Discount Amount** field, enter an amount that should be deducted from the value shown in the **Total Incl. Tax** field at the bottom of the invoice.</span></span>
 
     > [!NOTE]  
->   <span data-ttu-id="74408-149">Ef reikningsafslættir hafa verið settir upp fyrir lánardrottinn, er tilgreint prósentugildi sjálfvirkt fært inn í reitinn **reikningsafsláttur % lánardrottins** ef viðmiðum hefur verið mætt og upphæðin færð inn í reitinn **afsláttarupphæð reiknings**.</span><span class="sxs-lookup"><span data-stu-id="74408-149">If you have set up invoice discounts for the vendor, then the specified percentage value is automatically inserted in the **Vendor Invoice Discount %** field if the criteria are met, and the related amount is inserted in the **Invoice Discount Amount** field.</span></span>
+    >   <span data-ttu-id="74408-149">Ef reikningsafslættir hafa verið settir upp fyrir lánardrottinn, er tilgreint prósentugildi sjálfvirkt fært inn í reitinn **reikningsafsláttur % lánardrottins** ef viðmiðum hefur verið mætt og upphæðin færð inn í reitinn **afsláttarupphæð reiknings**.</span><span class="sxs-lookup"><span data-stu-id="74408-149">If you have set up invoice discounts for the vendor, then the specified percentage value is automatically inserted in the **Vendor Invoice Discount %** field if the criteria are met, and the related amount is inserted in the **Invoice Discount Amount** field.</span></span>
 13. <span data-ttu-id="74408-150">Þegar tekið er við innkeyptar vörur eða þjónustu velja **Bóka**.</span><span class="sxs-lookup"><span data-stu-id="74408-150">When you receive the purchased items or services, choose **Post**.</span></span>
 
 <span data-ttu-id="74408-151">Innkaupin eru nú skráð í birgðafærslum og fjármálafærslum og greiðsla lánardrottins er virkjuð.</span><span class="sxs-lookup"><span data-stu-id="74408-151">The purchase is now reflected in inventory and financial records, and the vendor payment is activated.</span></span> <span data-ttu-id="74408-152">Innkaupareikningurinn er fjarlægður af lista innkaupareikninga og skipt út fyrir nýtt fylgiskjal á lista bókaðra innkaupareikninga.</span><span class="sxs-lookup"><span data-stu-id="74408-152">The purchase invoice is removed from the list of purchase invoices and replaced with a new document in the list of posted purchase invoices.</span></span>

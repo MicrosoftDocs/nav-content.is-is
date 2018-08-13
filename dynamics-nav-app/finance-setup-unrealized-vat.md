@@ -12,10 +12,10 @@ ms.search.keywords: cash, VAT, unrealized, cash-based
 ms.date: 09/08/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 532b8a16d8825723a5f3d10ee51214ff6ab8fbaf
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 95602d1a83ad1db4985de7f8544a008ec4f44b1b
 ms.contentlocale: is-is
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 
@@ -45,11 +45,11 @@ ms.lasthandoff: 12/01/2017
 6. <span data-ttu-id="f9dfc-133">Í **Reikn. áætlaðs útskatts**, veldu reikning fyrir óinnleyst söluskatt.</span><span class="sxs-lookup"><span data-stu-id="f9dfc-133">In the **Sales VAT Unreal. Account** field, choose the account for unrealized sales VAT.</span></span>
 
     > [!NOTE]  
->   <span data-ttu-id="f9dfc-134">VSK upphæðin verður bókuð á þennan reikning, og verður þar til greiðslu viðskiptavinarins er bókuð.</span><span class="sxs-lookup"><span data-stu-id="f9dfc-134">The VAT amount will be posted to this account, and stay there until the customer payment is posted.</span></span> <span data-ttu-id="f9dfc-135">Fjárhæðin er síðan flutt á reikninginn vegna söluverðs.</span><span class="sxs-lookup"><span data-stu-id="f9dfc-135">The amount is then transferred to the account for sales VAT.</span></span>
+   >   <span data-ttu-id="f9dfc-134">VSK upphæðin verður bókuð á þennan reikning, og verður þar til greiðslu viðskiptavinarins er bókuð.</span><span class="sxs-lookup"><span data-stu-id="f9dfc-134">The VAT amount will be posted to this account, and stay there until the customer payment is posted.</span></span> <span data-ttu-id="f9dfc-135">Fjárhæðin er síðan flutt á reikninginn vegna söluverðs.</span><span class="sxs-lookup"><span data-stu-id="f9dfc-135">The amount is then transferred to the account for sales VAT.</span></span>
 7. <span data-ttu-id="f9dfc-136">Í **Reikn. áætlaðs innskatts** sláðu inn aðalbókaratölu fyrir óinnleyst kaupverð.</span><span class="sxs-lookup"><span data-stu-id="f9dfc-136">In the **Purch. VAT Unreal. Account** field, enter the general ledger count for unrealized purchase VAT.</span></span>
 
     > [!NOTE]  
->   <span data-ttu-id="f9dfc-137">VSK upphæðin verður bókuð á þennan reikning, og verður þar til greiðslu viðskiptavinarins er bókuð.</span><span class="sxs-lookup"><span data-stu-id="f9dfc-137">The VAT amount will be posted to this account, and stay there until the customer payment is posted.</span></span> <span data-ttu-id="f9dfc-138">Fjárhæðin er síðan flutt á reikninginn vegna söluverðs.</span><span class="sxs-lookup"><span data-stu-id="f9dfc-138">The amount is then transferred to the account for sales VAT.</span></span>
+   >   <span data-ttu-id="f9dfc-137">VSK upphæðin verður bókuð á þennan reikning, og verður þar til greiðslu viðskiptavinarins er bókuð.</span><span class="sxs-lookup"><span data-stu-id="f9dfc-137">The VAT amount will be posted to this account, and stay there until the customer payment is posted.</span></span> <span data-ttu-id="f9dfc-138">Fjárhæðin er síðan flutt á reikninginn vegna söluverðs.</span><span class="sxs-lookup"><span data-stu-id="f9dfc-138">The amount is then transferred to the account for sales VAT.</span></span>
 
 ## <a name="see-also"></a><span data-ttu-id="f9dfc-139">Sjá einnig</span><span class="sxs-lookup"><span data-stu-id="f9dfc-139">See Also</span></span>
 [<span data-ttu-id="f9dfc-140">Uppsetning á virðisaukaskatti</span><span class="sxs-lookup"><span data-stu-id="f9dfc-140">Setting Up Value Added Tax</span></span>](finance-setup-vat.md)

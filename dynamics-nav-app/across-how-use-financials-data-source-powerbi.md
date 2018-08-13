@@ -11,10 +11,10 @@ ms.search.keywords: business intelligence, KPI, Odata, Power App, SOAP, analysis
 ms.date: 06/06/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 9e88f1f3ba1b9e2801fcaa69380be28f37c3b5d3
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 13346b63c95c8d199926005d8870e989009898fa
 ms.contentlocale: is-is
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="using-included365finincludesd365finmdmd-as-a-power-bi-data-source"></a><span data-ttu-id="3d734-103">Nota [!INCLUDE[d365fin](includes/d365fin_md.md)] sem Power BI gagnaveitu</span><span class="sxs-lookup"><span data-stu-id="3d734-103">Using [!INCLUDE[d365fin](includes/d365fin_md.md)] as a Power BI Data Source</span></span>
@@ -35,7 +35,7 @@ ms.lasthandoff: 12/01/2017
 3. <span data-ttu-id="3d734-116">Þegar búið er að færa inn upplýsingarnar er valinn hnappurinn Í lagi.</span><span class="sxs-lookup"><span data-stu-id="3d734-116">Once you have entered the information, choose the OK button.</span></span> <span data-ttu-id="3d734-117">Næsta skrefið í leiðsagnarforritinu verður að færa inn notandanafn og aðgangsorð.</span><span class="sxs-lookup"><span data-stu-id="3d734-117">The next step in the wizard will be to enter your username and password.</span></span>
 
    > [!NOTE]  
->    <span data-ttu-id="3d734-118">Ef aðrir sannvottunarkostir eru í boði á vinstra yfirlitssvæði skal velja *Grunnur*.</span><span class="sxs-lookup"><span data-stu-id="3d734-118">If there are other authentication options available in the left hand navigation, choose *Basic*.</span></span>
+   >    <span data-ttu-id="3d734-118">Ef aðrir sannvottunarkostir eru í boði á vinstra yfirlitssvæði skal velja *Grunnur*.</span><span class="sxs-lookup"><span data-stu-id="3d734-118">If there are other authentication options available in the left hand navigation, choose *Basic*.</span></span>
 4. <span data-ttu-id="3d734-119">Slá inn notendanafn og aðgangsorð.</span><span class="sxs-lookup"><span data-stu-id="3d734-119">Enter your username and password.</span></span> <span data-ttu-id="3d734-120">Þessar upplýsingar má finna í glugganum **Notendur** í [!INCLUDE[d365fin](includes/d365fin_md.md)].</span><span class="sxs-lookup"><span data-stu-id="3d734-120">You can find this information in the **Users** window in [!INCLUDE[d365fin](includes/d365fin_md.md)].</span></span> <span data-ttu-id="3d734-121">Notið **Aðgangslykil fyrir vefþjónustu** sem aðgangsorðið þitt.</span><span class="sxs-lookup"><span data-stu-id="3d734-121">Use the **Web Access Key** as your password.</span></span>
 
    <span data-ttu-id="3d734-122">Til dæmis, notandanafnið þitt er *ADMIN*, og aðgangslykill vefþjónustu sem virkar sem aðgangsorð er *EgzeUFQ9Uv0o5O0lUMyqCzo1ueUW9yRF3SsLU=*.</span><span class="sxs-lookup"><span data-stu-id="3d734-122">For example, your username is *ADMIN*, and the web service access key that serves as your password is *EgzeUFQ9Uv0o5O0lUMyqCzo1ueUW9yRF3SsLU=*.</span></span>
@@ -47,7 +47,7 @@ ms.lasthandoff: 12/01/2017
 7. <span data-ttu-id="3d734-128">Endurtaktu fyrri skref til að bæta fleiri [!INCLUDE[d365fin](includes/d365fin_md.md)]-gögnum við Power Bi-gagnalíkanið þitt.</span><span class="sxs-lookup"><span data-stu-id="3d734-128">Repeat the previous steps to add additional [!INCLUDE[d365fin](includes/d365fin_md.md)] data to your Power BI data model.</span></span>
 
    > [!NOTE]  
->    <span data-ttu-id="3d734-129">Þegar notanda hefur tekist að tengjast [!INCLUDE[d365fin](includes/d365fin_md.md)] verður hann ekki beðinn aftur um OData-vefslóð, notandanafn eða aðgangsorð.</span><span class="sxs-lookup"><span data-stu-id="3d734-129">Once you have successfully connected to [!INCLUDE[d365fin](includes/d365fin_md.md)], you will not be prompted again for the OData URL, username, or password.</span></span>
+   >    <span data-ttu-id="3d734-129">Þegar notanda hefur tekist að tengjast [!INCLUDE[d365fin](includes/d365fin_md.md)] verður hann ekki beðinn aftur um OData-vefslóð, notandanafn eða aðgangsorð.</span><span class="sxs-lookup"><span data-stu-id="3d734-129">Once you have successfully connected to [!INCLUDE[d365fin](includes/d365fin_md.md)], you will not be prompted again for the OData URL, username, or password.</span></span>
 
 <span data-ttu-id="3d734-130">Þegar gögnum hefur verið hlaðið birtast þau á hægra yfirlitssvæði síðunnar.</span><span class="sxs-lookup"><span data-stu-id="3d734-130">Once the data is loaded it will appear in the right navigation on the page.</span></span> <span data-ttu-id="3d734-131">Nú hefur notanda tekist að tengjast gögnum sínum í Dynamics NAV og getur byrjað að byggja upp Power BI-skýrsluna sína.</span><span class="sxs-lookup"><span data-stu-id="3d734-131">At this point, you have successfully connected to your Dynamics NAV data and are ready to begin building your Power BI report.</span></span> <span data-ttu-id="3d734-132">Frekari upplýsingar eru í [Power BI skjöl](https://powerbi.microsoft.com/documentation/powerbi-landing-page/).</span><span class="sxs-lookup"><span data-stu-id="3d734-132">For more information, see the [Power BI documentation](https://powerbi.microsoft.com/documentation/powerbi-landing-page/).</span></span>
 

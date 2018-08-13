@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: ce615f42685abe4dabc9b4edb932ec084bf9b853
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 7e42330847665fe333ec8a85e32e7c3ec76222e9
 ms.contentlocale: is-is
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="design-details-availability-in-the-warehouse"></a><span data-ttu-id="36702-103">Hönnunarupplýsingar: Framboð á lager</span><span class="sxs-lookup"><span data-stu-id="36702-103">Design Details: Availability in the Warehouse</span></span>
@@ -50,16 +50,16 @@ ms.lasthandoff: 12/01/2017
 
  <span data-ttu-id="36702-128">Það ætti að vera hægt að taka frá allar vörur í birgðum, nema þær sem eru þegar komnar í útleiðarferli.</span><span class="sxs-lookup"><span data-stu-id="36702-128">It should be possible to reserve all items in inventory, except those that have started outbound processing.</span></span> <span data-ttu-id="36702-129">Í samræmi er magnið sem er tiltækt fyrir frátekningu skilgreint sem magn í öllum skjölum og öllum hólfagerðum, nema eftirfarandi magn á útleið:</span><span class="sxs-lookup"><span data-stu-id="36702-129">Accordingly, the quantity that is available to reserve is defined as the quantity on all documents and all bin types, except the following outbound quantities:</span></span>  
 
--   <span data-ttu-id="36702-130">Magn í óskráðum tínsluskjölum</span><span class="sxs-lookup"><span data-stu-id="36702-130">Quantity on unregistered pick documents</span></span>  
--   <span data-ttu-id="36702-131">Magn í afhendingarhólfum</span><span class="sxs-lookup"><span data-stu-id="36702-131">Quantity in shipment bins</span></span>  
--   <span data-ttu-id="36702-132">Magn í hólfkótum til framleiðslu</span><span class="sxs-lookup"><span data-stu-id="36702-132">Quantity in to-production bins</span></span>  
--   <span data-ttu-id="36702-133">Magn í hólfkóta opins vinnslusalar</span><span class="sxs-lookup"><span data-stu-id="36702-133">Quantity in open shop floor bins</span></span>  
--   <span data-ttu-id="36702-134">Magn í hólfum til samsetningar</span><span class="sxs-lookup"><span data-stu-id="36702-134">Quantity in to-assembly bins</span></span>  
--   <span data-ttu-id="36702-135">Magn í leiðréttingarhólfum</span><span class="sxs-lookup"><span data-stu-id="36702-135">Quantity in adjustment bins</span></span>  
+- <span data-ttu-id="36702-130">Magn í óskráðum tínsluskjölum</span><span class="sxs-lookup"><span data-stu-id="36702-130">Quantity on unregistered pick documents</span></span>  
+- <span data-ttu-id="36702-131">Magn í afhendingarhólfum</span><span class="sxs-lookup"><span data-stu-id="36702-131">Quantity in shipment bins</span></span>  
+- <span data-ttu-id="36702-132">Magn í hólfkótum til framleiðslu</span><span class="sxs-lookup"><span data-stu-id="36702-132">Quantity in to-production bins</span></span>  
+- <span data-ttu-id="36702-133">Magn í hólfkóta opins vinnslusalar</span><span class="sxs-lookup"><span data-stu-id="36702-133">Quantity in open shop floor bins</span></span>  
+- <span data-ttu-id="36702-134">Magn í hólfum til samsetningar</span><span class="sxs-lookup"><span data-stu-id="36702-134">Quantity in to-assembly bins</span></span>  
+- <span data-ttu-id="36702-135">Magn í leiðréttingarhólfum</span><span class="sxs-lookup"><span data-stu-id="36702-135">Quantity in adjustment bins</span></span>  
 
- <span data-ttu-id="36702-136">Niðurstöðurnar eru birtar í reitnum **Tiltækt heildarmagn** í glugganum **Frátekning**.</span><span class="sxs-lookup"><span data-stu-id="36702-136">The result is displayed in the **Total Available Quantity** field in the **Reservation** window.</span></span>  
+  <span data-ttu-id="36702-136">Niðurstöðurnar eru birtar í reitnum **Tiltækt heildarmagn** í glugganum **Frátekning**.</span><span class="sxs-lookup"><span data-stu-id="36702-136">The result is displayed in the **Total Available Quantity** field in the **Reservation** window.</span></span>  
 
- <span data-ttu-id="36702-137">Á frátekningarlínu er magnið sem ekki er hægt að taka frá, vegna þess að því hefur verið úthlutað í vöruhús, birta í reitnum **Magni úthlutað í vöruhúsi** í glugganum **Frátekning**.</span><span class="sxs-lookup"><span data-stu-id="36702-137">On a reservation line, the quantity that cannot be reserved, because it is allocated in the warehouse, is displayed in the **Qty. Allocated in Warehouse** field in the **Reservation** window.</span></span>  
+  <span data-ttu-id="36702-137">Á frátekningarlínu er magnið sem ekki er hægt að taka frá, vegna þess að því hefur verið úthlutað í vöruhús, birta í reitnum **Magni úthlutað í vöruhúsi** í glugganum **Frátekning**.</span><span class="sxs-lookup"><span data-stu-id="36702-137">On a reservation line, the quantity that cannot be reserved, because it is allocated in the warehouse, is displayed in the **Qty. Allocated in Warehouse** field in the **Reservation** window.</span></span>  
 
 ### <a name="calculating-the-quantity-available-to-reserve"></a><span data-ttu-id="36702-138">Reikna magnið laust til frátekningar</span><span class="sxs-lookup"><span data-stu-id="36702-138">Calculating the Quantity Available to Reserve</span></span>  
  <span data-ttu-id="36702-139">Magnið sem tiltækt er til frátektar er reiknað svona:</span><span class="sxs-lookup"><span data-stu-id="36702-139">The quantity available to reserve is calculated as follows:</span></span>  

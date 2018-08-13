@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 09/08/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: d8d725e503eba03029e4822b86ae9e4849c7bf93
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: a1c4fe68259af6cde74f136939467a4d9aa861d0
 ms.contentlocale: is-is
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 
@@ -51,7 +51,7 @@ ms.lasthandoff: 12/01/2017
 
      <span data-ttu-id="46274-138">Reiturinn **Staða** er sjálfkrafa stillt á **Virkt**.</span><span class="sxs-lookup"><span data-stu-id="46274-138">The **Status** field is automatically set to **Active**.</span></span>  
 
- <span data-ttu-id="46274-139">Skrefin eru endurtekin fyrir hverja dagsetningu sem á að úthluta forða til þjónustuverks.</span><span class="sxs-lookup"><span data-stu-id="46274-139">Repeat these steps for each date that you want to allocate the resource to the service task.</span></span>  
+   <span data-ttu-id="46274-139">Skrefin eru endurtekin fyrir hverja dagsetningu sem á að úthluta forða til þjónustuverks.</span><span class="sxs-lookup"><span data-stu-id="46274-139">Repeat these steps for each date that you want to allocate the resource to the service task.</span></span>  
 
 > [!NOTE]  
 >  <span data-ttu-id="46274-140">Virkar þjónustupöntunarúthlutunarfærslur geta aðeins verið með úthlutunina **Virkt** með einum forða eða forðaflokki í einu fyrir þjónustuvöru í þjónustupöntun.</span><span class="sxs-lookup"><span data-stu-id="46274-140">For a service item in a service order, there can only be **Active** allocation entries with one resource or resource group at a time.</span></span>  
@@ -95,14 +95,14 @@ ms.lasthandoff: 12/01/2017
 4. <span data-ttu-id="46274-185">Valin er úthlutunarfærslu þess þjónustuverkhluta sem á að endurúthluta forða.</span><span class="sxs-lookup"><span data-stu-id="46274-185">Select the allocation entry with the service task you want to reallocate a resource to.</span></span>  
 5. <span data-ttu-id="46274-186">Í reitnum **Forðanr.** er viðeigandi forði valinn.</span><span class="sxs-lookup"><span data-stu-id="46274-186">In the **Resource No.** field, select the relevant resource.</span></span> <span data-ttu-id="46274-187">Hann kemur í staðinn fyrir forðanúmerið sem þegar er í reitnum.</span><span class="sxs-lookup"><span data-stu-id="46274-187">It overwrites the resource number already in the field.</span></span>  
 6. <span data-ttu-id="46274-188">Ýtt er á færsluhnappinn.</span><span class="sxs-lookup"><span data-stu-id="46274-188">Press Enter.</span></span> <span data-ttu-id="46274-189">Svarglugginn **Ástæður endurúthlutunarfærslu** opnast og spyr hvort endurúthluta eigi þessari færslu.</span><span class="sxs-lookup"><span data-stu-id="46274-189">The **Reallocation Entry Reasons** dialog box opens, asking whether you want to reallocate this entry.</span></span> <span data-ttu-id="46274-190">Fyllið út reitinn **Ástæðukóti** ef það á við og veljið hnappinn **Í lagi** til að staðfesta endurúthlutun.</span><span class="sxs-lookup"><span data-stu-id="46274-190">Fill in the **Reason Code** field if appropriate and choose the **Yes** button to confirm the reallocation.</span></span>  
-7.  <span data-ttu-id="46274-191">Reitirnir **Úthlutunardags.** og **Úthlutaðar stundir** eru fylltir út.</span><span class="sxs-lookup"><span data-stu-id="46274-191">Fill in the **Allocation Date** and **Allocated Hours** fields.</span></span> <span data-ttu-id="46274-192">Nú sýnir færslan nýjan forða og staðan er **Virk**.</span><span class="sxs-lookup"><span data-stu-id="46274-192">The entry now contains the new resource and its status is **Active**.</span></span>  
+7. <span data-ttu-id="46274-191">Reitirnir **Úthlutunardags.** og **Úthlutaðar stundir** eru fylltir út.</span><span class="sxs-lookup"><span data-stu-id="46274-191">Fill in the **Allocation Date** and **Allocated Hours** fields.</span></span> <span data-ttu-id="46274-192">Nú sýnir færslan nýjan forða og staðan er **Virk**.</span><span class="sxs-lookup"><span data-stu-id="46274-192">The entry now contains the new resource and its status is **Active**.</span></span>  
 
-    > [!NOTE]  
-    >  <span data-ttu-id="46274-193">Eldri færslan er enn til en kerfið uppfærir stöðuna með eftirfarandi hætti:</span><span class="sxs-lookup"><span data-stu-id="46274-193">The old entry still exists but the status is updated in the following ways:</span></span>  
-    >   
-    >  * <span data-ttu-id="46274-194">Hafi þjónustan hafist þegar úthlutun var **Virk** hafi viðgerðarstaða þjónustuvörunnar í færslunni breyst í **Í vinnslu** breytist úthlutunarstaðan úr **Þarf að endurúthluta** í **Lokið**.</span><span class="sxs-lookup"><span data-stu-id="46274-194">If service was started while the allocation was **Active**, that is, if the repair status of the service item in the entry was changed to **In Process**, the allocation status changes from **Reallocation Needed** to **Finished**.</span></span>  
-    > * <span data-ttu-id="46274-195">Hafi þjónusta ekki hafist á meðan úthlutun var **Virk** breytist úthlutunarstaðan úr **Þarf að endurúthluta** í **Hætt við**.</span><span class="sxs-lookup"><span data-stu-id="46274-195">If service was not started while the allocation was **Active**, the allocation status changes from **Reallocation Needed** to **Canceled**.</span></span>  
-    > * <span data-ttu-id="46274-196">Ef endurúthlutað er þjónustupöntun sem breytt var úr tilboði breytir kerfið alltaf stöðu úthlutunarfærslnanna sem skráðar eru fyrir tilboðið í **Lokið** þegar þjónustuvörunum í þjónustupöntuninni er endurúthlutað.</span><span class="sxs-lookup"><span data-stu-id="46274-196">If you are reallocating a service order that you have converted from a quote, the status of the allocation entries registered for the quote always changes to **Finished** when you reallocate the service items in the service order.</span></span>  
+   > [!NOTE]
+   >  <span data-ttu-id="46274-193">Eldri færslan er enn til en kerfið uppfærir stöðuna með eftirfarandi hætti:</span><span class="sxs-lookup"><span data-stu-id="46274-193">The old entry still exists but the status is updated in the following ways:</span></span>  
+   > 
+   > * <span data-ttu-id="46274-194">Hafi þjónustan hafist þegar úthlutun var **Virk** hafi viðgerðarstaða þjónustuvörunnar í færslunni breyst í **Í vinnslu** breytist úthlutunarstaðan úr **Þarf að endurúthluta** í **Lokið**.</span><span class="sxs-lookup"><span data-stu-id="46274-194">If service was started while the allocation was **Active**, that is, if the repair status of the service item in the entry was changed to **In Process**, the allocation status changes from **Reallocation Needed** to **Finished**.</span></span>  
+   >   * <span data-ttu-id="46274-195">Hafi þjónusta ekki hafist á meðan úthlutun var **Virk** breytist úthlutunarstaðan úr **Þarf að endurúthluta** í **Hætt við**.</span><span class="sxs-lookup"><span data-stu-id="46274-195">If service was not started while the allocation was **Active**, the allocation status changes from **Reallocation Needed** to **Canceled**.</span></span>  
+   >   * <span data-ttu-id="46274-196">Ef endurúthlutað er þjónustupöntun sem breytt var úr tilboði breytir kerfið alltaf stöðu úthlutunarfærslnanna sem skráðar eru fyrir tilboðið í **Lokið** þegar þjónustuvörunum í þjónustupöntuninni er endurúthlutað.</span><span class="sxs-lookup"><span data-stu-id="46274-196">If you are reallocating a service order that you have converted from a quote, the status of the allocation entries registered for the quote always changes to **Finished** when you reallocate the service items in the service order.</span></span>  
 
 ## <a name="to-register-resource-hours"></a><span data-ttu-id="46274-197">Forðastundir skráðar</span><span class="sxs-lookup"><span data-stu-id="46274-197">To register resource hours</span></span>  
 <span data-ttu-id="46274-198">Þegar unnið er við þjónustuvöru í þjónustupöntunum þarf að skrá forðastundir sem notaðar eru til þjónustunnar.</span><span class="sxs-lookup"><span data-stu-id="46274-198">When working on service items in service orders, you need to register the resource hours used for the service.</span></span> <span data-ttu-id="46274-199">Eftirfarandi ferli sýnir hvernig á að skrá forðastundir í glugganum **Þjónustuvörublað**.</span><span class="sxs-lookup"><span data-stu-id="46274-199">The following procedure shows how to register the resource hours in the **Service Item Worksheet** window.</span></span>  
@@ -138,7 +138,7 @@ ms.lasthandoff: 12/01/2017
 5. <span data-ttu-id="46274-225">Í reitnum **Ástæðukóti** veljið viðeigandi ástæðukóta.</span><span class="sxs-lookup"><span data-stu-id="46274-225">In the **Reason Code** field, select the appropriate reason code.</span></span>  
 6. <span data-ttu-id="46274-226">Velja **Já** til að staðfesta afturköllun.</span><span class="sxs-lookup"><span data-stu-id="46274-226">Choose **Yes** to confirm the cancellation.</span></span>  
 
-  > [!NOTE]  
+   > [!NOTE]  
     > <span data-ttu-id="46274-227">Í reitnum **Staða** er valkosturinn **Þarf að endurúthluta** sjálfkrafa valinn.</span><span class="sxs-lookup"><span data-stu-id="46274-227">In the **Status** field, the **Reallocation Needed** option is automatically selected.</span></span> <span data-ttu-id="46274-228">Ef viðgerðarstaða þjónustuvörunnar er **Upphaflegt** er viðgerðarstöðu breytt í **Verki vísað** (engin þjónusta hefur verið veitt).</span><span class="sxs-lookup"><span data-stu-id="46274-228">If the repair status of the service item in the entry is **Initial**, the repair status is changed to **Referred**, that is, no service has been started.</span></span> <span data-ttu-id="46274-229">Ef viðgerðarstaðan er **Í vinnslu**er viðgerðarstöðunni breytt í **Hluta þjónustu lokið** (hluti vinnunnar búinn).</span><span class="sxs-lookup"><span data-stu-id="46274-229">If the repair status is **In Process**, it is changed to **Partly Serviced**, that is, some service has been completed.</span></span>
 
 ## <a name="see-also"></a><span data-ttu-id="46274-230">Sjá einnig</span><span class="sxs-lookup"><span data-stu-id="46274-230">See Also</span></span>

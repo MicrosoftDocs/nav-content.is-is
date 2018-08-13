@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/21/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 4cab89d6e806974dcd2929e7801abe0ae1c16f28
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 2d1327385e69dd6aa907beee466cfc97e614e9c0
 ms.contentlocale: is-is
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-pick-items-for-warehouse-shipment"></a><span data-ttu-id="4311f-103">Hvernig á að tína vörur fyrir vöruhúsaafhendingu</span><span class="sxs-lookup"><span data-stu-id="4311f-103">How to: Pick Items for Warehouse Shipment</span></span>
@@ -71,7 +71,7 @@ ms.lasthandoff: 12/01/2017
 
 > [!NOTE]
 > <span data-ttu-id="4311f-145">Við blandaðar aðstæður, þar sem fyrst þarf að setja saman hluta magnsins og afhenda þarf annað magn úr birgðum, eru tvær vöruafhendingarlínur búnar til.</span><span class="sxs-lookup"><span data-stu-id="4311f-145">In combination scenarios, in which a part of the quantity must first be assembled and another must be shipped from inventory, two warehouse shipment lines are created.</span></span> <span data-ttu-id="4311f-146">Ein er fyrir er fyrir samsetningarpöntunarmagn, og ein er fyrir birgðamagn.</span><span class="sxs-lookup"><span data-stu-id="4311f-146">One is for the assemble-to-order quantity, and one is for the inventory quantity.</span></span>
-
+> 
 > <span data-ttu-id="4311f-147">Í því tilfelli er magn samsetningarpöntunarinnar meðhöndlað eins og lýst er í þessu efnisatriði og birgðamagnið eins og hefðbundin vöruhúsaafhendingarlína.</span><span class="sxs-lookup"><span data-stu-id="4311f-147">In that case, the assemble-to-order quantity is handled as described in this topic, and the inventory quantity is handled as any other regular warehouse shipment line.</span></span> <span data-ttu-id="4311f-148">Frekari upplýsingar um samsetningaraðstæður eru í [Skilja hvernig skal setja saman í pöntun eða setja saman í birgðir](assembly-assemble-to-order-or-assemble-to-stock.md).</span><span class="sxs-lookup"><span data-stu-id="4311f-148">For more information about combination scenarios, see [Understanding Assemble to Order and Assemble to Stock](assembly-assemble-to-order-or-assemble-to-stock.md).</span></span>
 
 ## <a name="see-also"></a><span data-ttu-id="4311f-149">Sjá einnig</span><span class="sxs-lookup"><span data-stu-id="4311f-149">See Also</span></span>  

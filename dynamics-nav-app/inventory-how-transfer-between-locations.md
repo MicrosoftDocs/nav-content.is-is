@@ -12,10 +12,10 @@ ms.search.keywords: move, warehouse
 ms.date: 06/02/2017
 ms.author: SorenGP
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 06f7b6d5efdd895383be8bbed82a3e9f5f8e071e
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: bfa377de06a42c47e0bb76a2659de28ddb581e90
 ms.contentlocale: is-is
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-transfer-inventory-between-locations"></a><span data-ttu-id="76404-103">Hvernig á að: Flytja birgðir milli staða</span><span class="sxs-lookup"><span data-stu-id="76404-103">How to: Transfer Inventory Between Locations</span></span>
@@ -35,7 +35,7 @@ ms.lasthandoff: 12/01/2017
 2. <span data-ttu-id="76404-118">Í glugganum **Flutningspöntun** skal fylla út reitina eins og þörf krefur.</span><span class="sxs-lookup"><span data-stu-id="76404-118">In the **Transfer Order** window, fill in the fields as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
     > [!NOTE]  
->   <span data-ttu-id="76404-119">Ef búið er að fylla út reitina **Millifærslukóði**, **Flutningsaðilakóði** og **Flutningsþjónusta** í glugganum **Lýsing millifærsluleiðar** þegar flutningsleið var sett upp, fyllir kerfið sjálfkrafa út samsvarandi reiti á millifærslupöntuninni.</span><span class="sxs-lookup"><span data-stu-id="76404-119">If you have filled in the **In-Transit Code**, **Shipping Agent Code**, and **Shipping Agent Service** fields in the **Trans. Route Spec.** window when you set up the transfer route, then the corresponding fields on the transfer order are filled in automatically.</span></span>
+   >   <span data-ttu-id="76404-119">Ef búið er að fylla út reitina **Millifærslukóði**, **Flutningsaðilakóði** og **Flutningsþjónusta** í glugganum **Lýsing millifærsluleiðar** þegar flutningsleið var sett upp, fyllir kerfið sjálfkrafa út samsvarandi reiti á millifærslupöntuninni.</span><span class="sxs-lookup"><span data-stu-id="76404-119">If you have filled in the **In-Transit Code**, **Shipping Agent Code**, and **Shipping Agent Service** fields in the **Trans. Route Spec.** window when you set up the transfer route, then the corresponding fields on the transfer order are filled in automatically.</span></span>
 
     <span data-ttu-id="76404-120">Þegar fyllt er út í reitinn **Flutningsþjónusta** reiknar kerfið út móttökudagsetningu fyrir flutt-til birgðageymslu með því að bæta flutningstíma flutningsþjónustunnar við afhendingardagsetninguna.</span><span class="sxs-lookup"><span data-stu-id="76404-120">When you fill in the **Shipping Agent Service** field, the receipt date at the transfer-to location is calculated by adding the shipping time of the shipping agent service to the shipment date.</span></span>
 
@@ -53,7 +53,7 @@ ms.lasthandoff: 12/01/2017
 3. <span data-ttu-id="76404-129">Í reitnum **Kóði birgðageymslu** er færð inn birgðageymslan þar sem vörurnar eru nú geymdar.</span><span class="sxs-lookup"><span data-stu-id="76404-129">In the **Location Code** field, enter the location where the items are currently stored.</span></span>
 
     > [!NOTE]  
->   <span data-ttu-id="76404-130">Til að flytja hluti sem ekki hafa staðsetningarkóða skal skilja reitinn **Staðsetningarkóða** eftir auðan.</span><span class="sxs-lookup"><span data-stu-id="76404-130">To transfer items that have no location code, leave the **Location Code** field blank.</span></span>
+   >   <span data-ttu-id="76404-130">Til að flytja hluti sem ekki hafa staðsetningarkóða skal skilja reitinn **Staðsetningarkóða** eftir auðan.</span><span class="sxs-lookup"><span data-stu-id="76404-130">To transfer items that have no location code, leave the **Location Code** field blank.</span></span>
 4. <span data-ttu-id="76404-131">Í reitnum **Nýr staðsetningarkóði**, sláðu inn staðinn sem þú vilt flytja hlutina í.</span><span class="sxs-lookup"><span data-stu-id="76404-131">In the **New Location Code** field, enter the location that you want to transfer the items to.</span></span>
 5. <span data-ttu-id="76404-132">Valið er **Bóka** aðgerðin.</span><span class="sxs-lookup"><span data-stu-id="76404-132">Choose the **Post** action.</span></span>
 
@@ -65,5 +65,5 @@ ms.lasthandoff: 12/01/2017
 <span data-ttu-id="76404-137">[Sérstillir [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-customizing-overview.md)</span><span class="sxs-lookup"><span data-stu-id="76404-137">[Customizing [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-customizing-overview.md)</span></span>  
 [<span data-ttu-id="76404-138">Almenn viðskiptavirkni</span><span class="sxs-lookup"><span data-stu-id="76404-138">General Business Functionality</span></span>](ui-across-business-areas.md)
 
-##
+# #
 

@@ -12,10 +12,10 @@ ms.search.keywords: payment process, cash receipts, customer payment
 ms.date: 09/08/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: e26c1df91b7a67a5ef3a6f56ed2af02a238e76da
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 2c1ca18fdafd6cd8bd4140d6252077e4331c7caa
 ms.contentlocale: is-is
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-reconcile-customer-payments-manually-from-a-list-of-unpaid-sales-documents"></a><span data-ttu-id="5258f-103">hvernig skal stemma handvirkt af greiðslur viðskiptamanns úr lista yfir ógreidda söluskjöl.</span><span class="sxs-lookup"><span data-stu-id="5258f-103">How to: Reconcile Customer Payments Manually From a List of Unpaid Sales Documents</span></span>
@@ -57,17 +57,17 @@ ms.lasthandoff: 12/01/2017
 2. <span data-ttu-id="5258f-135">Veljið gátreitinn **greiðsla framkvæmd** á línunum sem standa fyrir bókuðu fylgiskjölin fyrir sama viðskiptamanninn sem fastagreiðsla hefur verið gerð fyrir.</span><span class="sxs-lookup"><span data-stu-id="5258f-135">Select the **Payment Made** check box on the lines that represent posted documents for the same customer for which a lump payment has been made.</span></span>  
 
     > [!NOTE]  
->   <span data-ttu-id="5258f-136">Viðskiptamaðurinn í reitnum **Nafn** verður að vera eins í öllum línum sem verða bókaðar sem fastagreiðsla.</span><span class="sxs-lookup"><span data-stu-id="5258f-136">The customer in the **Name** field must be the same on all lines that will be posted as a lump payment.</span></span>  
+   >   <span data-ttu-id="5258f-136">Viðskiptamaðurinn í reitnum **Nafn** verður að vera eins í öllum línum sem verða bókaðar sem fastagreiðsla.</span><span class="sxs-lookup"><span data-stu-id="5258f-136">The customer in the **Name** field must be the same on all lines that will be posted as a lump payment.</span></span>  
 
     <span data-ttu-id="5258f-137">Ef gátreiturinn **sjálfvirk útfylling dagsetningar móttöku** er valinn í glugganum **uppsetning skráning greiðslna** , fyllist vinnudagsetningin út í reitnum **dagsetning móttöku**.</span><span class="sxs-lookup"><span data-stu-id="5258f-137">If the **Auto Fill Date Received** check box is selected in the **Payment Registration Setup** window, then the work date is filled in the **Date Received** field.</span></span>  
 3. <span data-ttu-id="5258f-138">Í reitnum **dagsetning móttöku**, færið inn dagsetninguna sem greiðslan var gerð á.</span><span class="sxs-lookup"><span data-stu-id="5258f-138">In the **Date Received** field, enter the date when the payment was made.</span></span> <span data-ttu-id="5258f-139">Þessi dagsetning má vera önnur en vinnudagsetningin.</span><span class="sxs-lookup"><span data-stu-id="5258f-139">This date may be different from the work date.</span></span>  
 
     > [!NOTE]  
->   <span data-ttu-id="5258f-140">Þessi dagsetning verður að vera sú sama á öllum línum sem verða bókaðar sem fastagreiðslur.</span><span class="sxs-lookup"><span data-stu-id="5258f-140">This date must be the same on all lines that will be posted as a lump payment.</span></span>  
+   >   <span data-ttu-id="5258f-140">Þessi dagsetning verður að vera sú sama á öllum línum sem verða bókaðar sem fastagreiðslur.</span><span class="sxs-lookup"><span data-stu-id="5258f-140">This date must be the same on all lines that will be posted as a lump payment.</span></span>  
 4. <span data-ttu-id="5258f-141">Í reitnum **móttekin greiðsla**, færið inn upphæðir á margar línur sem ná samanlagt upp í fastagreiðsluupphæðina.</span><span class="sxs-lookup"><span data-stu-id="5258f-141">In the **Amount Received** field, enter amounts on multiple lines that sum up to the lump payment amount.</span></span>  
 
     > [!TIP]  
->   <span data-ttu-id="5258f-142">Reynið að bóka eins margar fullnaðargreiðslur og mögulegt er í fastagreiðslunni.</span><span class="sxs-lookup"><span data-stu-id="5258f-142">Try to post as many full payments as possible with the lump amount.</span></span> <span data-ttu-id="5258f-143">Færa inn upphæðir sem eru þær sömu og upphæðin í reitnum **Eftirstandandi upphæð** á eins margar línur og mögulegt er.</span><span class="sxs-lookup"><span data-stu-id="5258f-143">Enter amounts that are the same as the amount in the **Remaining Amount** field on as many lines as possible.</span></span>  
+   >   <span data-ttu-id="5258f-142">Reynið að bóka eins margar fullnaðargreiðslur og mögulegt er í fastagreiðslunni.</span><span class="sxs-lookup"><span data-stu-id="5258f-142">Try to post as many full payments as possible with the lump amount.</span></span> <span data-ttu-id="5258f-143">Færa inn upphæðir sem eru þær sömu og upphæðin í reitnum **Eftirstandandi upphæð** á eins margar línur og mögulegt er.</span><span class="sxs-lookup"><span data-stu-id="5258f-143">Enter amounts that are the same as the amount in the **Remaining Amount** field on as many lines as possible.</span></span>  
 5. <span data-ttu-id="5258f-144">Endurtakið skref 2-4 fyrir aðrar línur sem standa fyrir bókuð skjöl fyrir sama viðskiptamanninn og fastagreiðsla hefur verið gerð fyrir.</span><span class="sxs-lookup"><span data-stu-id="5258f-144">Repeat steps 2-4 for other lines that represent posted documents for the same customer for which a lump payment has been made.</span></span>  
 6. <span data-ttu-id="5258f-145">Valið er **bóka sem fastgreiðslu** aðgerð.</span><span class="sxs-lookup"><span data-stu-id="5258f-145">Choose the **Post As Lump Payment** action.</span></span> <span data-ttu-id="5258f-146">Innfærðar Greiðsluupplýsingarnar eru bókaðar í fylgiskjölum og sýndar sem línur þar sem gátreiturinn **Greiðsla framkvæmd** er valinn.</span><span class="sxs-lookup"><span data-stu-id="5258f-146">The entered payment information is posted for documents represented by lines where the **Payment Made** check box is selected.</span></span>  
 
@@ -104,7 +104,7 @@ ms.lasthandoff: 12/01/2017
 3. <span data-ttu-id="5258f-185">Í reitnum **dagsetning móttöku**, færið inn dagsetningu greiðslu sem ber upp eftir dagsetningunni í reitnum **dagsetning greiðsluafsláttar**.</span><span class="sxs-lookup"><span data-stu-id="5258f-185">In the **Date Received** field, enter a payment date that is after the date in the **Pmt. Discount Date** field.</span></span> <span data-ttu-id="5258f-186">Dagsetningareitum breytt í rauða leturgerð og villuboð birtast neðst í glugganum.</span><span class="sxs-lookup"><span data-stu-id="5258f-186">Date fields change to red font, and an error message is shown at the bottom of the window.</span></span>
 
     > [!TIP]  
->   <span data-ttu-id="5258f-187">Ef veita á undanþágu og gefa afslátt jafnvel þótt greiðslan berist seint, fylgið þessum skrefum:</span><span class="sxs-lookup"><span data-stu-id="5258f-187">If you want to make an exception and grant the discount even though the payment is late, follow these steps:</span></span>
+   >   <span data-ttu-id="5258f-187">Ef veita á undanþágu og gefa afslátt jafnvel þótt greiðslan berist seint, fylgið þessum skrefum:</span><span class="sxs-lookup"><span data-stu-id="5258f-187">If you want to make an exception and grant the discount even though the payment is late, follow these steps:</span></span>
 4. <span data-ttu-id="5258f-188">Valið er **Sundurliðun** aðgerð.</span><span class="sxs-lookup"><span data-stu-id="5258f-188">Choose the **Details** action.</span></span>  
 5. <span data-ttu-id="5258f-189">Í glugganum **upplýsingar um skráning greiðslna** í reitnum **dagsetning greiðsluafsláttar** á Flýtiflipanum **Greiðsluafsláttur**, setjið inn dagsetningu sem ber upp á eftir dagsetninguna í reitnum **dagsetning móttöku** í glugganum **skráning greiðslna**.</span><span class="sxs-lookup"><span data-stu-id="5258f-189">In the **Payment Registration Details** window, in the **Pmt. Discount Date** field on the **Payment Discount** FastTab, enter a date that is after the date in the **Date Received** field in the **Payment Registration** window.</span></span>  
 
@@ -153,7 +153,7 @@ ms.lasthandoff: 12/01/2017
 3. <span data-ttu-id="5258f-226">Í glugganum **Leit í Skjölum**, færið inn leitargildi í reitinn **Númer fylgiskjals**.</span><span class="sxs-lookup"><span data-stu-id="5258f-226">In the **Document Search** window, enter a search value in the **Document No.** field.</span></span>  
 
     > [!NOTE]  
->   <span data-ttu-id="5258f-227">Faldir algildisstafir eru meðfylgjandi í gildinu sem fært er í þennan reit.</span><span class="sxs-lookup"><span data-stu-id="5258f-227">The value that you enter in this field is enclosed in hidden wildcard characters.</span></span> <span data-ttu-id="5258f-228">Þetta þýðir að aðgerðin leitar eftir öllum fylgiskjalsnúmerum sem innihalda gildið sem fært var inn.</span><span class="sxs-lookup"><span data-stu-id="5258f-228">This means that the function searches for all document numbers that contain the entered value.</span></span>    
+   >   <span data-ttu-id="5258f-227">Faldir algildisstafir eru meðfylgjandi í gildinu sem fært er í þennan reit.</span><span class="sxs-lookup"><span data-stu-id="5258f-227">The value that you enter in this field is enclosed in hidden wildcard characters.</span></span> <span data-ttu-id="5258f-228">Þetta þýðir að aðgerðin leitar eftir öllum fylgiskjalsnúmerum sem innihalda gildið sem fært var inn.</span><span class="sxs-lookup"><span data-stu-id="5258f-228">This means that the function searches for all document numbers that contain the entered value.</span></span>    
 4. <span data-ttu-id="5258f-229">Í reitnum **Upphæð**, tilgreinið ákveðna upphæð sem er til á fylgiskjalinu sem finna skal.</span><span class="sxs-lookup"><span data-stu-id="5258f-229">In the **Amount** field, enter the specific amount that exists on the document that you want to find.</span></span>  
 5. <span data-ttu-id="5258f-230">Í reitnum **Upphæð vikmarka %**, færið inn prósentugildi til að skilgreina svið upphæða sem leita á eftir til að finna opna fylgiskjalið.</span><span class="sxs-lookup"><span data-stu-id="5258f-230">In the **Amount Tolerance %** field, enter a percentage value to define the range of amounts that you want to search to find the open document.</span></span>  
 

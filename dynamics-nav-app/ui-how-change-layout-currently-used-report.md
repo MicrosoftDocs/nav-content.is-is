@@ -12,10 +12,10 @@ ms.search.keywords: customized report, document layout, logo, personalize
 ms.date: 03/29/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: e3c919930421bcbb57a7452b80b69880f8859d7b
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 134bbf845254e055de2639d24bd0411b21a670fd
 ms.contentlocale: is-is
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-change-which-layout-is-currently-used-on-a-report"></a><span data-ttu-id="96d8d-103">Hvernig á að breyta því hvaða útlit er notað á skýrslum</span><span class="sxs-lookup"><span data-stu-id="96d8d-103">How to: Change Which Layout is Currently Used on a Report</span></span>
@@ -33,8 +33,8 @@ ms.lasthandoff: 12/01/2017
    * <span data-ttu-id="96d8d-115">Sérsniðið, Notar sérsniðið útlit í skýrslu.</span><span class="sxs-lookup"><span data-stu-id="96d8d-115">Custom, uses a custom layout on the report.</span></span>  
      <span data-ttu-id="96d8d-116">Hægt er að sjá hvaða sérsniðin útlit eru í boði fyrir skýrsluna í  upplýsingareitnum skýrsluútlit hluti.</span><span class="sxs-lookup"><span data-stu-id="96d8d-116">You can see which custom layouts are available for the report in the Report Layouts Part FactBox.</span></span> <span data-ttu-id="96d8d-117">Ef engin sérsniðin útlit eru til fyrir skýrsluna þarf að búa það til.</span><span class="sxs-lookup"><span data-stu-id="96d8d-117">If there are no custom layouts for the report, then you will have to create one first.</span></span> <span data-ttu-id="96d8d-118">Ef þú velur þennan valkost skaltu fara í næsta ferli til að tilgreina sérsniðið útlit´ sem þú vilt nota.</span><span class="sxs-lookup"><span data-stu-id="96d8d-118">If you choose this option, go to the next procedure to specify the custom layout that you want to use.</span></span>
 
-    > [!NOTE]  
-    >   <span data-ttu-id="96d8d-119">Ef þú velur **RDLC (innbyggt)** eða **Word (innbyggt)** og færð villuboð um að skýrslan vilji ekki útlit af sérstakri gerð, verðurðu að velja annað útlit eða búa til sérsniðin skýrsla af þeirri gerð sem þú vilt nota.</span><span class="sxs-lookup"><span data-stu-id="96d8d-119">If you choose **RDLC (built-in)** or **Word (built-in)** and you get an error message that the report does not have a layout of the specified type, then you must choose another layout option or create a custom report layout of the type that you want to use.</span></span>
+     > [!NOTE]  
+     >   <span data-ttu-id="96d8d-119">Ef þú velur **RDLC (innbyggt)** eða **Word (innbyggt)** og færð villuboð um að skýrslan vilji ekki útlit af sérstakri gerð, verðurðu að velja annað útlit eða búa til sérsniðin skýrsla af þeirri gerð sem þú vilt nota.</span><span class="sxs-lookup"><span data-stu-id="96d8d-119">If you choose **RDLC (built-in)** or **Word (built-in)** and you get an error message that the report does not have a layout of the specified type, then you must choose another layout option or create a custom report layout of the type that you want to use.</span></span>
 
 <span data-ttu-id="96d8d-120">Ef þú velur innbyggt RDLC skýrsluútlit, þá þarf ekkert að gera og útlitið er notað næst þegar skýrslan er keyrð.</span><span class="sxs-lookup"><span data-stu-id="96d8d-120">If you selected a built-in RDLC or Word report layout, then no further action is required and the layout will be used the next time the report is run.</span></span>
 

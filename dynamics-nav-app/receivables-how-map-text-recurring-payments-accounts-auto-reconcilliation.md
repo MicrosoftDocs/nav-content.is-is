@@ -11,10 +11,10 @@ ms.search.keywords: account linking, direct payment posting, automatic payment p
 ms.date: 03/29/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 284dcac805ef34b433b4cb18499d47249dc8d01b
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 2b0bdbba24dcc9143e176dcfa3dcc54d29055c8e
 ms.contentlocale: is-is
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-map-text-on-recurring-payments-to-accounts-for-automatic-reconciliation"></a><span data-ttu-id="0e088-103">Hvernig á að varpa texta á endurteknar greiðslur á reikninga fyrir sjálfvirka afstemmingu</span><span class="sxs-lookup"><span data-stu-id="0e088-103">How to: Map Text on Recurring Payments to Accounts for Automatic Reconciliation</span></span>
@@ -36,7 +36,7 @@ ms.lasthandoff: 12/01/2017
 4. <span data-ttu-id="0e088-120">Í reitinn **vörpun texta** skal færa inn þann texta sem er á greiðslum sem á að bóka í tiltekna reikninga án jöfnunar við opnar færslur.</span><span class="sxs-lookup"><span data-stu-id="0e088-120">In the **Mapping Text** field, enter any text that occurs on payments that you want to post to specified accounts without applying to an open entry.</span></span> <span data-ttu-id="0e088-121">Hægt er að færa inn allt að 50 stafi.</span><span class="sxs-lookup"><span data-stu-id="0e088-121">You can enter up to 50 characters.</span></span>
 
     > [!NOTE]  
->   <span data-ttu-id="0e088-122">Ef engar aðrar greiðslur eru til staðar innan vörpunartextans sem um ræðir, þá kemur upp vörpun texta á reikning jafnvel þó aðeins hluti textans á greiðsluskjalinu er til staðar sem vörpunartexti.</span><span class="sxs-lookup"><span data-stu-id="0e088-122">If no other payments exist with the mapping text in question, then the text-to-account mapping will occur even when only a part of the text on the payment exists as a mapping text.</span></span>
+   >   <span data-ttu-id="0e088-122">Ef engar aðrar greiðslur eru til staðar innan vörpunartextans sem um ræðir, þá kemur upp vörpun texta á reikning jafnvel þó aðeins hluti textans á greiðsluskjalinu er til staðar sem vörpunartexti.</span><span class="sxs-lookup"><span data-stu-id="0e088-122">If no other payments exist with the mapping text in question, then the text-to-account mapping will occur even when only a part of the text on the payment exists as a mapping text.</span></span>
 5. <span data-ttu-id="0e088-123">Í **Númer lánardrottins** reitinn skal færa inn lánardrottinn sem greiðslur verða bókaðar á.</span><span class="sxs-lookup"><span data-stu-id="0e088-123">In the **Vendor No.** field, enter the vendor that the payments will be posted to.</span></span>
 6. <span data-ttu-id="0e088-124">Í reitinn **Upprunagerð stöðu** skal tilgreinga hvort greiðslan verður bókuð á fjárhagsreikning eða á viðskiptamann eða lánardrottinn.</span><span class="sxs-lookup"><span data-stu-id="0e088-124">In the **Bal. Source Type** field, specify if the payment will be posted to a general ledger account or to a customer or vendor account.</span></span>
 7. <span data-ttu-id="0e088-125">Í **Upprunanúmer stöðu** skal tilgreina reikninginn sem greiðslan verður bókuð á, allt eftir valinu í reitnum **Upprunagerð stöðu**.</span><span class="sxs-lookup"><span data-stu-id="0e088-125">In the **Bal. Source No.** field, specify the account that the payment will be posted to, depending on your selection in the **Bal. Source Type** field.</span></span>

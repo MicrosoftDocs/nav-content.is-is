@@ -12,10 +12,10 @@ ms.search.keywords: write down
 ms.date: 06/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 20a0c462488292d709bac76a3927b7579cb0f774
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: b7453d366976b465a1b4b808cce50dbc6e8b724c
 ms.contentlocale: is-is
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="depreciation-methods"></a><span data-ttu-id="d917c-103">Afskriftaaðferðir</span><span class="sxs-lookup"><span data-stu-id="d917c-103">Depreciation Methods</span></span>
@@ -30,11 +30,11 @@ ms.lasthandoff: 12/01/2017
 * <span data-ttu-id="d917c-111">Handvirkt</span><span class="sxs-lookup"><span data-stu-id="d917c-111">Manual</span></span>  
 
   > [!NOTE]  
->   <span data-ttu-id="d917c-112">Hægt er að nota þessa aðferð á eignir sem ekki eru afskrifanlegar, til dæmis land.</span><span class="sxs-lookup"><span data-stu-id="d917c-112">Use this method for assets that are not subject to depreciation, for example, land.</span></span> <span data-ttu-id="d917c-113">Færa þarf afskriftir eigna í eignafjárhagsfærslubók.</span><span class="sxs-lookup"><span data-stu-id="d917c-113">You must enter depreciation in the fixed asset G/L journal.</span></span> <span data-ttu-id="d917c-114">Runuvinnslan **Reikna afskriftir** sleppir eignum sem þessi afskriftaaðferð er notuð á.</span><span class="sxs-lookup"><span data-stu-id="d917c-114">The **Calculate Depreciation** batch job omits fixed assets that use this depreciation method.</span></span>  
+  >   <span data-ttu-id="d917c-112">Hægt er að nota þessa aðferð á eignir sem ekki eru afskrifanlegar, til dæmis land.</span><span class="sxs-lookup"><span data-stu-id="d917c-112">Use this method for assets that are not subject to depreciation, for example, land.</span></span> <span data-ttu-id="d917c-113">Færa þarf afskriftir eigna í eignafjárhagsfærslubók.</span><span class="sxs-lookup"><span data-stu-id="d917c-113">You must enter depreciation in the fixed asset G/L journal.</span></span> <span data-ttu-id="d917c-114">Runuvinnslan **Reikna afskriftir** sleppir eignum sem þessi afskriftaaðferð er notuð á.</span><span class="sxs-lookup"><span data-stu-id="d917c-114">The **Calculate Depreciation** batch job omits fixed assets that use this depreciation method.</span></span>  
 * <span data-ttu-id="d917c-115">Tvisvar ári</span><span class="sxs-lookup"><span data-stu-id="d917c-115">Half-Year Convention</span></span>  
 
   > [!NOTE]  
->    <span data-ttu-id="d917c-116">Þegar þessi aðferð er notuð er eignin afskrifuð um sömu upphæð á hverju ári.</span><span class="sxs-lookup"><span data-stu-id="d917c-116">When you use this method, a fixed asset is depreciated by the same amount each year.</span></span>  
+  >    <span data-ttu-id="d917c-116">Þegar þessi aðferð er notuð er eignin afskrifuð um sömu upphæð á hverju ári.</span><span class="sxs-lookup"><span data-stu-id="d917c-116">When you use this method, a fixed asset is depreciated by the same amount each year.</span></span>  
 
 ## <a name="straight-line-depreciation"></a><span data-ttu-id="d917c-117">Beinlínuafskrift</span><span class="sxs-lookup"><span data-stu-id="d917c-117">Straight-Line Depreciation</span></span>
 <span data-ttu-id="d917c-118">Þegar beinlínuaðferðin er notuð verður að tilgreina einn af eftirfarandi valkostum í eignaafskriftabókinni:</span><span class="sxs-lookup"><span data-stu-id="d917c-118">When you use the straight-line method, you must specify one of the following options in the fixed asset depreciation book:</span></span>  

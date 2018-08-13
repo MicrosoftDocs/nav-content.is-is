@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: dbddbcaf6bf363049d7d33eb0d1dcb128a3bebce
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 8f59e6a4f5e5cc9389736fce2453f78da133331e
 ms.contentlocale: is-is
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-create-service-quotes"></a><span data-ttu-id="3cb7d-104">Hvernig á að stofna Þjónustutilboð</span><span class="sxs-lookup"><span data-stu-id="3cb7d-104">How to: Create Service Quotes</span></span>
@@ -29,8 +29,8 @@ ms.lasthandoff: 12/01/2017
 3. <span data-ttu-id="3cb7d-112">Í reitnum **númer**</span><span class="sxs-lookup"><span data-stu-id="3cb7d-112">In the **No.**</span></span> <span data-ttu-id="3cb7d-113">er fært inn númer fyrir þjónustutilboðið.</span><span class="sxs-lookup"><span data-stu-id="3cb7d-113">field, enter a number for the service quote.</span></span> <span data-ttu-id="3cb7d-114">Hafi númeraröð fyrir þjónustutilboð verið sett upp í glugganum **Þjónustukerfisgrunnur** er einnig hægt að styðja á færslulykilinn til að velja næsta lausa þjónustutilboðsnúmer.</span><span class="sxs-lookup"><span data-stu-id="3cb7d-114">Alternatively, if you have set up a number series for service quotes in the **Service Mgt. Setup** window, you can press Enter to select the next available service quote number.</span></span>  
 4. <span data-ttu-id="3cb7d-115">Í **Númer viðskiptamanns**</span><span class="sxs-lookup"><span data-stu-id="3cb7d-115">In the **Customer No.**</span></span>  <span data-ttu-id="3cb7d-116">reitnum, veljið viðeigandi viðskiptamann af listanum.</span><span class="sxs-lookup"><span data-stu-id="3cb7d-116">field, select the relevant customer from the list.</span></span>  
 
-  > [!Note]  
-  >  <span data-ttu-id="3cb7d-117">Fyllt er sjálfkrafa í viðskiptavinareiti með upplýsingum úr spjaldinu **Viðskiptavinur**.</span><span class="sxs-lookup"><span data-stu-id="3cb7d-117">The customer fields are filled in automatically with information from the **Customer** card.</span></span> <span data-ttu-id="3cb7d-118">Ef spjaldið **Viðskiptamaður** er ekki til fyrir viðskiptamanninn og sniðmát hefur ekki verið sett upp fyrir hann er hægt að búa viðskiptamanninn til með þjónustutilboðinu.</span><span class="sxs-lookup"><span data-stu-id="3cb7d-118">If a **Customer** card does not exist for the customer, and you have set up a customer template, you can create the customer from the service quote.</span></span> <span data-ttu-id="3cb7d-119">Fyllið út viðeigandi reitina og veljið svo aðgerðina **Stofna viðskiptamann**.</span><span class="sxs-lookup"><span data-stu-id="3cb7d-119">Fill in the relevant fields, and then choose the **Create Customer** action.</span></span>  
+   > [!Note]  
+   >  <span data-ttu-id="3cb7d-117">Fyllt er sjálfkrafa í viðskiptavinareiti með upplýsingum úr spjaldinu **Viðskiptavinur**.</span><span class="sxs-lookup"><span data-stu-id="3cb7d-117">The customer fields are filled in automatically with information from the **Customer** card.</span></span> <span data-ttu-id="3cb7d-118">Ef spjaldið **Viðskiptamaður** er ekki til fyrir viðskiptamanninn og sniðmát hefur ekki verið sett upp fyrir hann er hægt að búa viðskiptamanninn til með þjónustutilboðinu.</span><span class="sxs-lookup"><span data-stu-id="3cb7d-118">If a **Customer** card does not exist for the customer, and you have set up a customer template, you can create the customer from the service quote.</span></span> <span data-ttu-id="3cb7d-119">Fyllið út viðeigandi reitina og veljið svo aðgerðina **Stofna viðskiptamann**.</span><span class="sxs-lookup"><span data-stu-id="3cb7d-119">Fill in the relevant fields, and then choose the **Create Customer** action.</span></span>  
   
 5. <span data-ttu-id="3cb7d-120">Vegna stillinga á flýtiflipanum **Áskildir reitir** í glugganum **Þjónustukerfisgrunnur** þarf kannski að fylla út reitinn **Þjónustupöntunartegund** og reitinn **Kóti sölumanns**.</span><span class="sxs-lookup"><span data-stu-id="3cb7d-120">Depending on the settings on the **Mandatory Fields** FastTab in the **Service Mgt. Setup** window, you may need to fill in the **Service Order Type** field and the **Salesperson Code** field.</span></span>  
 6. <span data-ttu-id="3cb7d-121">Þjónustuvörulínurnar eru fylltar út.</span><span class="sxs-lookup"><span data-stu-id="3cb7d-121">Fill in the service item lines.</span></span>  

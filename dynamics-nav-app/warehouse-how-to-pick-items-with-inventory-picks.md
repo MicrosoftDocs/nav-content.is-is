@@ -12,18 +12,18 @@ ms.search.keywords:
 ms.date: 08/29/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: 3bb2df6d727b52b3fc579cbcc3bd13539b75e6b1
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: cf1b77db39994fd670d0eaa98ca4b4a649c50731
 ms.contentlocale: is-is
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-pick-items-with-inventory-picks"></a><span data-ttu-id="89ff9-103">Hvernig á að tína Vörur með Birgðatínslu</span><span class="sxs-lookup"><span data-stu-id="89ff9-103">How to: Pick Items with Inventory Picks</span></span>
 <span data-ttu-id="89ff9-104">Ef birgðageymsla er sett upp þannig að krafist sé tínsluvinnslu en ekki afhendingarvinnslu skal nota **birgðatínslu** gluggann til að skrá og bóka tínslu og afhendingarupplýsingar fyrir upprunaskjöl.</span><span class="sxs-lookup"><span data-stu-id="89ff9-104">When your location is set up to require pick processing but not shipment processing, you use the **Inventory Pick** window to record and post picking and shipping information for your source documents.</span></span> <span data-ttu-id="89ff9-105">Upprunaskjalið á útleið getur verið sölupöntun, innkaupaskilapöntun, millifærslupöntun á útleið eða framleiðslupöntun þar sem íhlutir eru tilbúnir til tínslu.</span><span class="sxs-lookup"><span data-stu-id="89ff9-105">The outbound source document can be a sales order, a purchase return order, an outbound transfer order, or a production order whose components are ready to be picked.</span></span>
 
-> [!NOTE]  
+> [!NOTE]
 > <span data-ttu-id="89ff9-106">Íhluti fyrir samsetningarpöntun er ekki hægt að tína eða bóka með birgðatínslum.</span><span class="sxs-lookup"><span data-stu-id="89ff9-106">Components for assembly orders cannot be picked or posted with inventory picks.</span></span> <span data-ttu-id="89ff9-107">Nota glugganum **Birgðahreyfing** í staðinn.</span><span class="sxs-lookup"><span data-stu-id="89ff9-107">Instead, use the **Inventory Movement** window.</span></span> <span data-ttu-id="89ff9-108">Frekari upplýsingar, sjá [Hvernig á að: færa íhluti á aðgerðasvæði í einföldum vöruhúsaaðgerðum](warehouse-how-to-move-components-to-an-operation-area-in-basic-warehousing.md)</span><span class="sxs-lookup"><span data-stu-id="89ff9-108">For more information, see [How to: Move Components to an Operation Area in Basic Warehousing](warehouse-how-to-move-components-to-an-operation-area-in-basic-warehousing.md).</span></span>
-
+> 
 >  <span data-ttu-id="89ff9-109">Ef magn sölulínu tínslu og afhendingar er sett saman í pöntunina skal fylgja nokkrum reglum við stofnun birgðatínslulína.</span><span class="sxs-lookup"><span data-stu-id="89ff9-109">When picking and shipping sales line quantities that are assembled to the order, you must follow certain rules when creating the inventory pick lines.</span></span> <span data-ttu-id="89ff9-110">Nánari upplýsingar eru í hlutanum „Meðhöndlun íhluta pantanasamsetninga við birgðatínslu”.</span><span class="sxs-lookup"><span data-stu-id="89ff9-110">For more information, see the “Handling Assemble-to-Order Items in Inventory Picks” section.</span></span>  
 
 <span data-ttu-id="89ff9-111">Þú getur búið til birgðatínslu á þrjá vegu:</span><span class="sxs-lookup"><span data-stu-id="89ff9-111">You can create an inventory pick in three ways:</span></span>  

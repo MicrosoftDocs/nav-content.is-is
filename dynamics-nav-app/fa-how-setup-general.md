@@ -11,10 +11,10 @@ ms.workload: na
 ms.date: 06/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: d809a9f0fbdce628d46aa2cfe3ab4c72cd057df6
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: 69399944e686b3eb04d2b5181f1b7f2eb07a8fe8
 ms.contentlocale: is-is
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-set-up-general-fixed-assets-information"></a><span data-ttu-id="ec4e8-103">Hvernig á að setja upp upplýsingar fyrir almennar eignir</span><span class="sxs-lookup"><span data-stu-id="ec4e8-103">How to: Set Up General Fixed Assets Information</span></span>
@@ -34,7 +34,7 @@ ms.lasthandoff: 12/01/2017
 3. <span data-ttu-id="ec4e8-114">Í glugganum **eignabókunarflokkaspjald** þarf að fylla reitina út eftir þörfum.</span><span class="sxs-lookup"><span data-stu-id="ec4e8-114">In the **FA Posting Group Card** window, fill in the fields as necessary.</span></span>
 
     > [!NOTE]  
->   <span data-ttu-id="ec4e8-115">Til að ganga úr skugga um að mótreikningar fyrir mismunandi eignabókanir eru sjálfkrafa settir inn þegar þú velur **Setja inn mótreikning eigna** aðgerð í færslubókarlínum, fylgja skal næsta skref, í samræmi við uppfærslubókun.</span><span class="sxs-lookup"><span data-stu-id="ec4e8-115">To make sure that balancing accounts for different fixed assets postings are automatically inserted when you choose the **Insert FA Bal. Account** action on journal lines, follow the next step, based on appreciation posting.</span></span>
+   >   <span data-ttu-id="ec4e8-115">Til að ganga úr skugga um að mótreikningar fyrir mismunandi eignabókanir eru sjálfkrafa settir inn þegar þú velur **Setja inn mótreikning eigna** aðgerð í færslubókarlínum, fylgja skal næsta skref, í samræmi við uppfærslubókun.</span><span class="sxs-lookup"><span data-stu-id="ec4e8-115">To make sure that balancing accounts for different fixed assets postings are automatically inserted when you choose the **Insert FA Bal. Account** action on journal lines, follow the next step, based on appreciation posting.</span></span>
 4. <span data-ttu-id="ec4e8-116">Á flýtiflipi **Mótreikningur** í reitnum **mótreikningur uppfærslu** er valinn fjárhagsreikningurinn sem þú vilt bóka mótfærslur í fyrir uppfærslu.</span><span class="sxs-lookup"><span data-stu-id="ec4e8-116">On the **Balancing Account** FastTab, in the **Appreciation Bal. Account** field, select the general ledger account to which you want to post balancing entries for appreciation.</span></span>
 
 <span data-ttu-id="ec4e8-117">Nánari upplýsingar um notkun **Setja inn mótreikning eigna** aðgerð á eignafjárhagslínur skal skoða, til dæmis, [Hvernigá að: Endurmeta Eignir](fa-how-revalue.md).</span><span class="sxs-lookup"><span data-stu-id="ec4e8-117">For more information about using the **Insert FA Bal. Account** action on fixed asset G/L journal lines, see, for example, [How to: Revalue Fixed Assets](fa-how-revalue.md).</span></span>

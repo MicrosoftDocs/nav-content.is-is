@@ -12,10 +12,10 @@ ms.search.keywords: special price, alternate price, pricing
 ms.date: 07/03/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: ea66ef594dfc9637cc6e187d71b2d3d31b299306
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: ed8f12642270295f4085d3ad535cce31b2c95a40
 ms.contentlocale: is-is
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="how-to-record-special-purchase-prices-and-discounts"></a><span data-ttu-id="1d81d-103">Hvernig á að: Skrá sérstakt söluverð og sérstaka afslætti</span><span class="sxs-lookup"><span data-stu-id="1d81d-103">How to: Record Special Purchase Prices and Discounts</span></span>
@@ -58,7 +58,7 @@ ms.lasthandoff: 12/01/2017
 3. <span data-ttu-id="1d81d-134">Í reitnum **Reikningsafsláttarkóði** er valinn kóði fyrir viðeigandi reikningsafsláttarskilmála sem forritið notar til að reikna reikningsafslátt fyrir lánardrottin.</span><span class="sxs-lookup"><span data-stu-id="1d81d-134">In the **Invoice Disc. Code** field, select a code for the relevant invoice discount terms to use to calculate invoice discounts for the vendor.</span></span>
 
     > [!NOTE]  
->   <span data-ttu-id="1d81d-135">Fyrirliggjandi lánardrottnaspjöld standa fyrir reikningsafsláttarkóða.</span><span class="sxs-lookup"><span data-stu-id="1d81d-135">Invoice discount codes are represented by existing vendor cards.</span></span> <span data-ttu-id="1d81d-136">Þetta gerir kleift að úthluta reikningsafsláttarskilmálum hratt og örugglega til lánardrottna með því að velja nafn annars lánardrottins sem hefur sömu skilmála.</span><span class="sxs-lookup"><span data-stu-id="1d81d-136">This enables you to quickly assign invoice discount terms to vendors by picking the name of another vendors who will have the same terms.</span></span>
+   >   <span data-ttu-id="1d81d-135">Fyrirliggjandi lánardrottnaspjöld standa fyrir reikningsafsláttarkóða.</span><span class="sxs-lookup"><span data-stu-id="1d81d-135">Invoice discount codes are represented by existing vendor cards.</span></span> <span data-ttu-id="1d81d-136">Þetta gerir kleift að úthluta reikningsafsláttarskilmálum hratt og örugglega til lánardrottna með því að velja nafn annars lánardrottins sem hefur sömu skilmála.</span><span class="sxs-lookup"><span data-stu-id="1d81d-136">This enables you to quickly assign invoice discount terms to vendors by picking the name of another vendors who will have the same terms.</span></span>
 
     <span data-ttu-id="1d81d-137">Næsta skref er að setja upp nýja skilmála fyrir reikningsafslátt.</span><span class="sxs-lookup"><span data-stu-id="1d81d-137">Proceed to set up new the purchase invoice discount terms.</span></span>
 4. <span data-ttu-id="1d81d-138">Í glugganum **Lánardrottnaspjald** er aðgerðin **Reikningsafslættir** valin.</span><span class="sxs-lookup"><span data-stu-id="1d81d-138">In the **Vendor Card** window, choose the **Invoice Discounts** action.</span></span> <span data-ttu-id="1d81d-139">Glugginn **Reikningsafsláttur lánardr.** opnast.</span><span class="sxs-lookup"><span data-stu-id="1d81d-139">The **Vend. Invoice Discounts** window opens.</span></span>

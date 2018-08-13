@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/07/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
-ms.openlocfilehash: a43411fc074aee8620151fc7fa0b46731f55ccd1
+ms.sourcegitcommit: 2f7b7db12069fd9f93a616077ea2b61393c1e9a3
+ms.openlocfilehash: fac0f9f0a3c20c59b8a844b2149fb001369d0741
 ms.contentlocale: is-is
-ms.lasthandoff: 12/01/2017
+ms.lasthandoff: 08/13/2018
 
 ---
 # <a name="walkthrough-planning-supplies-manually"></a><span data-ttu-id="84d74-104">Kynning: Handvirk áætlun birgða</span><span class="sxs-lookup"><span data-stu-id="84d74-104">Walkthrough: Planning Supplies Manually</span></span>
@@ -38,11 +38,11 @@ ms.lasthandoff: 12/01/2017
 ## <a name="prerequisites"></a><span data-ttu-id="84d74-118">Frumskilyrði</span><span class="sxs-lookup"><span data-stu-id="84d74-118">Prerequisites</span></span>  
  <span data-ttu-id="84d74-119">Áður en kynningin hefst þarf að setja upp [!INCLUDE[d365fin](includes/d365fin_md.md)].</span><span class="sxs-lookup"><span data-stu-id="84d74-119">Before you begin this walkthrough, you must install the [!INCLUDE[d365fin](includes/d365fin_md.md)].</span></span> <span data-ttu-id="84d74-120">Eftirtaldar breytingar þarf að gera á grunninum:</span><span class="sxs-lookup"><span data-stu-id="84d74-120">The following modifications must be made to the database:</span></span>  
 
--   <span data-ttu-id="84d74-121">Eyða öllum sölupöntunum vegna reiðhjóla.</span><span class="sxs-lookup"><span data-stu-id="84d74-121">Delete all existing sales orders for bicycles.</span></span>  
--   <span data-ttu-id="84d74-122">Stofna eina sölupöntun fyrir 10 reiðhjól hjá staðsetningunni BLÁTT.</span><span class="sxs-lookup"><span data-stu-id="84d74-122">Create one sales order for 10 bicycles at BLUE location.</span></span>  
--   <span data-ttu-id="84d74-123">Eyða öllum áætluðum og fastáætluðum framleiðsluáætlunum.</span><span class="sxs-lookup"><span data-stu-id="84d74-123">Delete all planned and firm planned production orders.</span></span> <span data-ttu-id="84d74-124">Ekki eyða pöntunum sem þegar eru í gangi með færslum sem þegar eru skráðar.</span><span class="sxs-lookup"><span data-stu-id="84d74-124">Do not delete started orders with entries that are already posted.</span></span>  
+- <span data-ttu-id="84d74-121">Eyða öllum sölupöntunum vegna reiðhjóla.</span><span class="sxs-lookup"><span data-stu-id="84d74-121">Delete all existing sales orders for bicycles.</span></span>  
+- <span data-ttu-id="84d74-122">Stofna eina sölupöntun fyrir 10 reiðhjól hjá staðsetningunni BLÁTT.</span><span class="sxs-lookup"><span data-stu-id="84d74-122">Create one sales order for 10 bicycles at BLUE location.</span></span>  
+- <span data-ttu-id="84d74-123">Eyða öllum áætluðum og fastáætluðum framleiðsluáætlunum.</span><span class="sxs-lookup"><span data-stu-id="84d74-123">Delete all planned and firm planned production orders.</span></span> <span data-ttu-id="84d74-124">Ekki eyða pöntunum sem þegar eru í gangi með færslum sem þegar eru skráðar.</span><span class="sxs-lookup"><span data-stu-id="84d74-124">Do not delete started orders with entries that are already posted.</span></span>  
 
- <span data-ttu-id="84d74-125">Regla er að nota gögnin sem lagt er til í þessari kynningu vegna þess að þau gögn hafa nauðsynlegar skrár.</span><span class="sxs-lookup"><span data-stu-id="84d74-125">As a rule, use the suggested data in this walkthrough because this data has the necessary records.</span></span>  
+  <span data-ttu-id="84d74-125">Regla er að nota gögnin sem lagt er til í þessari kynningu vegna þess að þau gögn hafa nauðsynlegar skrár.</span><span class="sxs-lookup"><span data-stu-id="84d74-125">As a rule, use the suggested data in this walkthrough because this data has the necessary records.</span></span>  
 
 ## <a name="story"></a><span data-ttu-id="84d74-126">Ferill</span><span class="sxs-lookup"><span data-stu-id="84d74-126">Story</span></span>  
  <span data-ttu-id="84d74-127">Erla, sem er framleiðslustjóri lítils framleiðslufyrirtækis, er um það bil að fara að áætla framleiðslu og innkaupapantanir til að uppfylla nýja eftirspurn í sölu.</span><span class="sxs-lookup"><span data-stu-id="84d74-127">Eduardo, the Production Planner of a small manufacturing company, is about to plan production and purchase orders to fulfill new sales demand.</span></span>  
@@ -91,30 +91,30 @@ ms.lasthandoff: 12/01/2017
 
 ### <a name="to-plan-a-purchase-order-to-fulfill-component-need-in-production"></a><span data-ttu-id="84d74-158">Til að áætla innkaupapöntun til að uppfylla þörf á íhlutum fyrir framleiðslu</span><span class="sxs-lookup"><span data-stu-id="84d74-158">To plan a purchase order to fulfill component need in production</span></span>  
 
-1.  <span data-ttu-id="84d74-159">Fyrsta línan er stækkuð (veljið táknið +).</span><span class="sxs-lookup"><span data-stu-id="84d74-159">Expand the first line (choose the + symbol).</span></span>  
-2.  <span data-ttu-id="84d74-160">Veljið fyrstu eftirspurnarlínuna, með vöru **LSU-15** og síðan **Sýna fylgiskjal** aðgerðina.</span><span class="sxs-lookup"><span data-stu-id="84d74-160">Choose the first demand line, with item **LSU-15**, and then choose the **Show Document** action.</span></span>  
-3.  <span data-ttu-id="84d74-161">Opinni framleiðslupöntun er lokað til að fara aftur í gluggann **Pantanaáætlun**.</span><span class="sxs-lookup"><span data-stu-id="84d74-161">Close the opened production order to return to the **Order Planning** window.</span></span>  
-4.  <span data-ttu-id="84d74-162">Í reitnum **Áfyllingarkerfið** eru **Innkaup** valin.</span><span class="sxs-lookup"><span data-stu-id="84d74-162">In the **Replenishment System** field, select **Purchase**.</span></span>  
+1. <span data-ttu-id="84d74-159">Fyrsta línan er stækkuð (veljið táknið +).</span><span class="sxs-lookup"><span data-stu-id="84d74-159">Expand the first line (choose the + symbol).</span></span>  
+2. <span data-ttu-id="84d74-160">Veljið fyrstu eftirspurnarlínuna, með vöru **LSU-15** og síðan **Sýna fylgiskjal** aðgerðina.</span><span class="sxs-lookup"><span data-stu-id="84d74-160">Choose the first demand line, with item **LSU-15**, and then choose the **Show Document** action.</span></span>  
+3. <span data-ttu-id="84d74-161">Opinni framleiðslupöntun er lokað til að fara aftur í gluggann **Pantanaáætlun**.</span><span class="sxs-lookup"><span data-stu-id="84d74-161">Close the opened production order to return to the **Order Planning** window.</span></span>  
+4. <span data-ttu-id="84d74-162">Í reitnum **Áfyllingarkerfið** eru **Innkaup** valin.</span><span class="sxs-lookup"><span data-stu-id="84d74-162">In the **Replenishment System** field, select **Purchase**.</span></span>  
 
-     <span data-ttu-id="84d74-163">Sjálfgefna gildið er af birgðaspjaldinu eða birgðahaldseiningaspjaldinu, en því er hægt að breyta í einn af eftirtöldum valkostum:</span><span class="sxs-lookup"><span data-stu-id="84d74-163">The default value is from the item card, or SKU card, but you can change it to one of the following options:</span></span>  
+    <span data-ttu-id="84d74-163">Sjálfgefna gildið er af birgðaspjaldinu eða birgðahaldseiningaspjaldinu, en því er hægt að breyta í einn af eftirtöldum valkostum:</span><span class="sxs-lookup"><span data-stu-id="84d74-163">The default value is from the item card, or SKU card, but you can change it to one of the following options:</span></span>  
 
-    -   <span data-ttu-id="84d74-164">**Innkaup** – Til að búa til innkaupapöntun.</span><span class="sxs-lookup"><span data-stu-id="84d74-164">**Purchase** – To create a purchase order.</span></span>  
-    -   <span data-ttu-id="84d74-165">**Millifærsla** – til að búa til millifærslupöntun.</span><span class="sxs-lookup"><span data-stu-id="84d74-165">**Transfer** – To create a transfer order.</span></span>  
-    -   <span data-ttu-id="84d74-166">**Framl.pöntun** – Til að búa til framleiðslupöntun.</span><span class="sxs-lookup"><span data-stu-id="84d74-166">**Prod. Order** – To create a production order.</span></span>  
+   -   <span data-ttu-id="84d74-164">**Innkaup** – Til að búa til innkaupapöntun.</span><span class="sxs-lookup"><span data-stu-id="84d74-164">**Purchase** – To create a purchase order.</span></span>  
+   -   <span data-ttu-id="84d74-165">**Millifærsla** – til að búa til millifærslupöntun.</span><span class="sxs-lookup"><span data-stu-id="84d74-165">**Transfer** – To create a transfer order.</span></span>  
+   -   <span data-ttu-id="84d74-166">**Framl.pöntun** – Til að búa til framleiðslupöntun.</span><span class="sxs-lookup"><span data-stu-id="84d74-166">**Prod. Order** – To create a production order.</span></span>  
 
-5.  <span data-ttu-id="84d74-167">Í reitnum **Framboð frá** þarf að velja eitt af eftirfarandi valmöguleikum til hliðsjónar við valið áfyllingarkerfi:</span><span class="sxs-lookup"><span data-stu-id="84d74-167">In the **Supply From** field, select one of the following options according to the selected replenishment system:</span></span>  
+5. <span data-ttu-id="84d74-167">Í reitnum **Framboð frá** þarf að velja eitt af eftirfarandi valmöguleikum til hliðsjónar við valið áfyllingarkerfi:</span><span class="sxs-lookup"><span data-stu-id="84d74-167">In the **Supply From** field, select one of the following options according to the selected replenishment system:</span></span>  
 
-    -   <span data-ttu-id="84d74-168">**Lánardrottinn** – Fyrir innkaup</span><span class="sxs-lookup"><span data-stu-id="84d74-168">**Vendor** – For purchases</span></span>  
-    -   <span data-ttu-id="84d74-169">**Birgðageymsla** – fyrir flutning</span><span class="sxs-lookup"><span data-stu-id="84d74-169">**Location** – For transfers</span></span>  
+   - <span data-ttu-id="84d74-168">**Lánardrottinn** – Fyrir innkaup</span><span class="sxs-lookup"><span data-stu-id="84d74-168">**Vendor** – For purchases</span></span>  
+   - <span data-ttu-id="84d74-169">**Birgðageymsla** – fyrir flutning</span><span class="sxs-lookup"><span data-stu-id="84d74-169">**Location** – For transfers</span></span>  
 
      <span data-ttu-id="84d74-170">Ef reiturinn er ekki fylltur út þá koma fram villuboð þegar reynt er að stofna framboðspöntun.</span><span class="sxs-lookup"><span data-stu-id="84d74-170">If the field is not filled in, an error message will display when you try to create the supply orders.</span></span>  
 
-    > [!NOTE]  
-    >  <span data-ttu-id="84d74-171">Hafi íhlutirnir uppsett sjálfgefin númer lánadrottna á birgðaspjaldi, þá verða línurnar endurstilltar.</span><span class="sxs-lookup"><span data-stu-id="84d74-171">If the components have a default vendor number set up on the item cards, the lines will be preset.</span></span>  
+   > [!NOTE]  
+   >  <span data-ttu-id="84d74-171">Hafi íhlutirnir uppsett sjálfgefin númer lánadrottna á birgðaspjaldi, þá verða línurnar endurstilltar.</span><span class="sxs-lookup"><span data-stu-id="84d74-171">If the components have a default vendor number set up on the item cards, the lines will be preset.</span></span>  
 
-6.  <span data-ttu-id="84d74-172">Velja reitinn **Framboð frá**.</span><span class="sxs-lookup"><span data-stu-id="84d74-172">Choose the **Supply From**  field.</span></span>  
-7.  <span data-ttu-id="84d74-173">Í glugganum **Vörulisti lánardrottins** skal velja aðgerðina **Nýtt** og svo er lánadrottinn **30000** valinn.</span><span class="sxs-lookup"><span data-stu-id="84d74-173">In the **Item Vendor Catalogue** window, choose the **New** action, and then select vendor **30000**.</span></span>  
-8.  <span data-ttu-id="84d74-174">Velja hnappinn **Í lagi** til að snúa aftur í gluggann **Pantanaáætlun**.</span><span class="sxs-lookup"><span data-stu-id="84d74-174">Choose the **OK** button to return to the **Order Planning** window.</span></span>  
+6. <span data-ttu-id="84d74-172">Velja reitinn **Framboð frá**.</span><span class="sxs-lookup"><span data-stu-id="84d74-172">Choose the **Supply From**  field.</span></span>  
+7. <span data-ttu-id="84d74-173">Í glugganum **Vörulisti lánardrottins** skal velja aðgerðina **Nýtt** og svo er lánadrottinn **30000** valinn.</span><span class="sxs-lookup"><span data-stu-id="84d74-173">In the **Item Vendor Catalogue** window, choose the **New** action, and then select vendor **30000**.</span></span>  
+8. <span data-ttu-id="84d74-174">Velja hnappinn **Í lagi** til að snúa aftur í gluggann **Pantanaáætlun**.</span><span class="sxs-lookup"><span data-stu-id="84d74-174">Choose the **OK** button to return to the **Order Planning** window.</span></span>  
 9. <span data-ttu-id="84d74-175">Afrita lánardrottinn **30000** í aðrar línur fyrir hátalaraíhlutina á þessari framleiðslupöntun.</span><span class="sxs-lookup"><span data-stu-id="84d74-175">Copy vendor **30000** to the other lines for loudspeaker components on this production order.</span></span>  
 
      <span data-ttu-id="84d74-176">Nú er hægt að stofna innkaupapöntun.</span><span class="sxs-lookup"><span data-stu-id="84d74-176">You are now ready to create a purchase order.</span></span>  
@@ -159,22 +159,22 @@ ms.lasthandoff: 12/01/2017
 
 ### <a name="to-plan-multilevel-production-to-fulfill-sales-demand"></a><span data-ttu-id="84d74-208">Að áætla margra þrepa framleiðslu til að uppfylla eftirspurn sölu</span><span class="sxs-lookup"><span data-stu-id="84d74-208">To plan multilevel production to fulfill sales demand</span></span>  
 
-1.  <span data-ttu-id="84d74-209">Áætlunarlína með pöntun fyrir eftirspurn sölu **1001** er valin (stofnuð áður sem frumskilyrði).</span><span class="sxs-lookup"><span data-stu-id="84d74-209">Select the planning line with sales demand for order **1001**, created earlier as prerequisite data.</span></span>  
+1. <span data-ttu-id="84d74-209">Áætlunarlína með pöntun fyrir eftirspurn sölu **1001** er valin (stofnuð áður sem frumskilyrði).</span><span class="sxs-lookup"><span data-stu-id="84d74-209">Select the planning line with sales demand for order **1001**, created earlier as prerequisite data.</span></span>  
 
-     <span data-ttu-id="84d74-210">Þessi eftirspurn er sölulína en varan hefur skilgreint áfyllingarkerfi sem er **Framl.pöntun**.</span><span class="sxs-lookup"><span data-stu-id="84d74-210">This demand is a sales line, but the item has a defined replenishment system of **Prod. Order**.</span></span> <span data-ttu-id="84d74-211">Haldið er áfram til að bæta annarri bjöllu við íhlutaþörf hvers hjóls.</span><span class="sxs-lookup"><span data-stu-id="84d74-211">Proceed to add an extra bell to the component need of each bicycle.</span></span>  
+    <span data-ttu-id="84d74-210">Þessi eftirspurn er sölulína en varan hefur skilgreint áfyllingarkerfi sem er **Framl.pöntun**.</span><span class="sxs-lookup"><span data-stu-id="84d74-210">This demand is a sales line, but the item has a defined replenishment system of **Prod. Order**.</span></span> <span data-ttu-id="84d74-211">Haldið er áfram til að bæta annarri bjöllu við íhlutaþörf hvers hjóls.</span><span class="sxs-lookup"><span data-stu-id="84d74-211">Proceed to add an extra bell to the component need of each bicycle.</span></span>  
 
-2.  <span data-ttu-id="84d74-212">Veldu **Íhlutir** aðgerðina til að opna gluggann **Áætla Íhlutir** .</span><span class="sxs-lookup"><span data-stu-id="84d74-212">Choose the **Components** action to open the **Planning Components** window.</span></span>  
-3.  <span data-ttu-id="84d74-213">Í línunni með bjölluvörunni skal breyta reitnum **Magn á** úr **1** í **2**.</span><span class="sxs-lookup"><span data-stu-id="84d74-213">On the line with the Bell item, change the **Quantity per** field from **1** to **2**.</span></span>  
-4.  <span data-ttu-id="84d74-214">Í glugganum **Pantanaáætlun** þarf að meta möguleika fyrir pöntunina.</span><span class="sxs-lookup"><span data-stu-id="84d74-214">In the **Order Planning** window, consider your planning alternatives.</span></span> <span data-ttu-id="84d74-215">Í þessu tilfelli eru engar aðrar leiðir til framboðs, engir staðgenglar, millifærslur, eða síðari afhending.</span><span class="sxs-lookup"><span data-stu-id="84d74-215">In this case, you have no alternative means of supply, no transfer, substitute, or later delivery.</span></span> <span data-ttu-id="84d74-216">Stofna þarf birgðapöntunina sem lögð er til, framleiðslupöntun.</span><span class="sxs-lookup"><span data-stu-id="84d74-216">You must create the suggested supply order, a production order.</span></span>  
-5.  <span data-ttu-id="84d74-217">Velja **búa til Pantanir** aðgerð til að stofna framleiðslupöntunina.</span><span class="sxs-lookup"><span data-stu-id="84d74-217">Choose the **Make Orders** action to create the production order.</span></span>  
+2. <span data-ttu-id="84d74-212">Veldu **Íhlutir** aðgerðina til að opna gluggann **Áætla Íhlutir** .</span><span class="sxs-lookup"><span data-stu-id="84d74-212">Choose the **Components** action to open the **Planning Components** window.</span></span>  
+3. <span data-ttu-id="84d74-213">Í línunni með bjölluvörunni skal breyta reitnum **Magn á** úr **1** í **2**.</span><span class="sxs-lookup"><span data-stu-id="84d74-213">On the line with the Bell item, change the **Quantity per** field from **1** to **2**.</span></span>  
+4. <span data-ttu-id="84d74-214">Í glugganum **Pantanaáætlun** þarf að meta möguleika fyrir pöntunina.</span><span class="sxs-lookup"><span data-stu-id="84d74-214">In the **Order Planning** window, consider your planning alternatives.</span></span> <span data-ttu-id="84d74-215">Í þessu tilfelli eru engar aðrar leiðir til framboðs, engir staðgenglar, millifærslur, eða síðari afhending.</span><span class="sxs-lookup"><span data-stu-id="84d74-215">In this case, you have no alternative means of supply, no transfer, substitute, or later delivery.</span></span> <span data-ttu-id="84d74-216">Stofna þarf birgðapöntunina sem lögð er til, framleiðslupöntun.</span><span class="sxs-lookup"><span data-stu-id="84d74-216">You must create the suggested supply order, a production order.</span></span>  
+5. <span data-ttu-id="84d74-217">Velja **búa til Pantanir** aðgerð til að stofna framleiðslupöntunina.</span><span class="sxs-lookup"><span data-stu-id="84d74-217">Choose the **Make Orders** action to create the production order.</span></span>  
 
-     <span data-ttu-id="84d74-218">Í glugganum **Pantanaáætlun** sést að áætlunarlínan fyrir sölupöntun **1001** er ekki lengur til staðar og séð hefur verið um upphaflega eftirspurn sölu.</span><span class="sxs-lookup"><span data-stu-id="84d74-218">In the **Order Planning** window, notice that the planning line for sales order **1001** no longer exists and that the initial sales demand has been covered.</span></span>  
+    <span data-ttu-id="84d74-218">Í glugganum **Pantanaáætlun** sést að áætlunarlínan fyrir sölupöntun **1001** er ekki lengur til staðar og séð hefur verið um upphaflega eftirspurn sölu.</span><span class="sxs-lookup"><span data-stu-id="84d74-218">In the **Order Planning** window, notice that the planning line for sales order **1001** no longer exists and that the initial sales demand has been covered.</span></span>  
 
-6.  <span data-ttu-id="84d74-219">Glugganum **Pantanaáætlun** er lokað.</span><span class="sxs-lookup"><span data-stu-id="84d74-219">Close the **Order Planning** window.</span></span>  
+6. <span data-ttu-id="84d74-219">Glugganum **Pantanaáætlun** er lokað.</span><span class="sxs-lookup"><span data-stu-id="84d74-219">Close the **Order Planning** window.</span></span>  
 
-     <span data-ttu-id="84d74-220">Nú væri hægt að velja að halda áfram í þessari valmynd og ljúka öllum áætlanagerðum.</span><span class="sxs-lookup"><span data-stu-id="84d74-220">Now, you could choose to stay in this view and complete all the planning tasks.</span></span> <span data-ttu-id="84d74-221">Þess í stað er nú farið í hlutverk framleiðslustjóra með því að fara í framleiðslupöntunina sem verið var að gera og opna gluggann **Pantanaáætlun**.</span><span class="sxs-lookup"><span data-stu-id="84d74-221">Instead, you will now take on the Production Planner role by going to the production order that you just created and access the **Order Planning** window.</span></span>  
+    <span data-ttu-id="84d74-220">Nú væri hægt að velja að halda áfram í þessari valmynd og ljúka öllum áætlanagerðum.</span><span class="sxs-lookup"><span data-stu-id="84d74-220">Now, you could choose to stay in this view and complete all the planning tasks.</span></span> <span data-ttu-id="84d74-221">Þess í stað er nú farið í hlutverk framleiðslustjóra með því að fara í framleiðslupöntunina sem verið var að gera og opna gluggann **Pantanaáætlun**.</span><span class="sxs-lookup"><span data-stu-id="84d74-221">Instead, you will now take on the Production Planner role by going to the production order that you just created and access the **Order Planning** window.</span></span>  
 
- <span data-ttu-id="84d74-222">Framleiðslustjóri þarf að áætla sérstaka röð framleiðslupantana.</span><span class="sxs-lookup"><span data-stu-id="84d74-222">As a production planner you now must plan a specific production order.</span></span>  
+   <span data-ttu-id="84d74-222">Framleiðslustjóri þarf að áætla sérstaka röð framleiðslupantana.</span><span class="sxs-lookup"><span data-stu-id="84d74-222">As a production planner you now must plan a specific production order.</span></span>  
 
 ### <a name="to-plan-a-specific-production-order"></a><span data-ttu-id="84d74-223">Til að áætla sérstaka röð framleiðslupöntunar</span><span class="sxs-lookup"><span data-stu-id="84d74-223">To plan a specific production order</span></span>  
 
