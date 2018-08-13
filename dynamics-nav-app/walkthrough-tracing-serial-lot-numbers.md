@@ -278,18 +278,18 @@ Síðan þarf að búa til ýmsar innkaupa-, framleiðslu- og sölupantanir með
 
 ### <a name="to-find-all-occurrences-of-lot1-in-non-posted-records-such-as-open-orders"></a>Til að finna öll tilfelli LOTA1 í skrám sem eftir á að bóka, svo sem opnum pöntunum  
 
-1.  Í glugganum **Vörurakning** skal velja bendilinn í fyrstu rakningarlínunni, innkaupakvittun LOT1.  
-2.  Velja aðgerðina **Færsluleit**.  
+1. Í glugganum **Vörurakning** skal velja bendilinn í fyrstu rakningarlínunni, innkaupakvittun LOT1.  
+2. Velja aðgerðina **Færsluleit**.  
 
-    Glugginn **Færsluleit** er forstilltur með leitarafmörkunum sem byggðar eru á rakningarniðurstöðunum fyrir LOTA1. Gæðastjórinn sér að flestar skrárnar snúa að skjölum sem þegar hafa verið auðkenndar í glugganum **Vörurakning** . Til dæmis vísar síðasta færsluleitarlínan af gerðinni Framleiðslupöntun til útgefnu framleiðslupantananna tveggja sem notuðu grindur úr LOTA1.  
+   Glugginn **Færsluleit** er forstilltur með leitarafmörkunum sem byggðar eru á rakningarniðurstöðunum fyrir LOTA1. Gæðastjórinn sér að flestar skrárnar snúa að skjölum sem þegar hafa verið auðkenndar í glugganum **Vörurakning** . Til dæmis vísar síðasta færsluleitarlínan af gerðinni Framleiðslupöntun til útgefnu framleiðslupantananna tveggja sem notuðu grindur úr LOTA1.  
 
-    Önnur færsluleitarlínan af gerðinni **Sölulína** er skjalslína sem ekki hefur verið bókuð, svo gæðastjórinn kannar málið.  
+   Önnur færsluleitarlínan af gerðinni **Sölulína** er skjalslína sem ekki hefur verið bókuð, svo gæðastjórinn kannar málið.  
 
-3.  Til að opna sölulínuskrána skal velja aðra Færsluleitarlínuna, og velja síðan aðgerðina **Sýna**. Einnig er hægt að velja gildið í reitnum **Fjöldi færslna**.  
+3. Til að opna sölulínuskrána skal velja aðra Færsluleitarlínuna, og velja síðan aðgerðina **Sýna**. Einnig er hægt að velja gildið í reitnum **Fjöldi færslna**.  
 
-    Hér sér gæðastjórinn eina opna sölulínu fyrir gölluðu grindurnar. Hann stingur samstundis upp á því við söludeildina að hætt verði við þessa pöntun og að stofnuð verði ný framleiðslupöntun sem byggir á gallalausum grindum.  
+   Hér sér gæðastjórinn eina opna sölulínu fyrir gölluðu grindurnar. Hann stingur samstundis upp á því við söludeildina að hætt verði við þessa pöntun og að stofnuð verði ný framleiðslupöntun sem byggir á gallalausum grindum.  
 
- Svona lýkur kynningunni á hvernig glugginn **Færsluleit** er notaður við gallastjórnun í samþættingu við gluggann **Vörurakning**.  
+   Svona lýkur kynningunni á hvernig glugginn **Færsluleit** er notaður við gallastjórnun í samþættingu við gluggann **Vörurakning**.  
 
 ## <a name="see-also"></a>Sjá einnig
 [Hvernig á að: vinna með rað- og lotunúmer](inventory-how-work-item-tracking.md).  

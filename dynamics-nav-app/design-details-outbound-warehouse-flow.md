@@ -33,11 +33,11 @@ Að auki eru eftirfarandi innri uppspretta gögn sem virka eins uppruni á útle
 - Framleiðslupöntun með íhlutaþörf  
 - Samsetningarpöntun með íhlutaþörf  
 
- Síðustu tvö fylgiskjölin standa fyrir flæði á útleið úr vöruhúsi til innri rekstrarsviða. Frekari upplýsingar um vöruhúsameðhöndlun fyrir innri ferli á innleið og útleið eru í [Hönnunarupplýsingar: Innra vöruhúsaflæði](design-details-internal-warehouse-flows.md).  
+  Síðustu tvö fylgiskjölin standa fyrir flæði á útleið úr vöruhúsi til innri rekstrarsviða. Frekari upplýsingar um vöruhúsameðhöndlun fyrir innri ferli á innleið og útleið eru í [Hönnunarupplýsingar: Innra vöruhúsaflæði](design-details-internal-warehouse-flows.md).  
 
- Ferli og notendaviðmótsskjöl í vöruhúsi Á útleið eru ólík á milli grunnvöruhúss og ítarlegs vöruhúss. Aðalmunurinn er sá aðgerðir eru framkvæmdar pöntun fyrir pöntun í grunnvörugeymslu þegar þeim er steypt saman fyrir margfaldar pantanir í ítarlegu vöruhúsi. Nánari upplýsingar um mismunandi vöruhúsaflækjustig eru í [Hönnunarupplýsingar: Vöruhúsayfirlit](design-details-warehouse-setup.md).  
+  Ferli og notendaviðmótsskjöl í vöruhúsi Á útleið eru ólík á milli grunnvöruhúss og ítarlegs vöruhúss. Aðalmunurinn er sá aðgerðir eru framkvæmdar pöntun fyrir pöntun í grunnvörugeymslu þegar þeim er steypt saman fyrir margfaldar pantanir í ítarlegu vöruhúsi. Nánari upplýsingar um mismunandi vöruhúsaflækjustig eru í [Hönnunarupplýsingar: Vöruhúsayfirlit](design-details-warehouse-setup.md).  
 
- Í [!INCLUDE[d365fin](includes/d365fin_md.md)], er hægt að framkvæma útleiðarferlið til að tína og afhenda á fjóra vegu, með því að nota mismunandi eiginleika, allt eftir flækjustigi vöruhússins.  
+  Í [!INCLUDE[d365fin](includes/d365fin_md.md)], er hægt að framkvæma útleiðarferlið til að tína og afhenda á fjóra vegu, með því að nota mismunandi eiginleika, allt eftir flækjustigi vöruhússins.  
 
 |Aðferð|Ferli á innleið|Hólf|Tínsla|Afhendingar|Flækjustig (Sjá [Hönnunarupplýsingar: uppsetning vöruhúss](design-details-warehouse-setup.md))|  
 |------------|---------------------|----------|-----------|---------------|--------------------------------------------------------------------------------------------------------------------|  

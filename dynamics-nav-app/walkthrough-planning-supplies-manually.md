@@ -38,11 +38,11 @@ ms.lasthandoff: 10/16/2017
 ## <a name="prerequisites"></a>Frumskilyrði  
  Áður en kynningin hefst þarf að setja upp [!INCLUDE[d365fin](includes/d365fin_md.md)]. Eftirtaldar breytingar þarf að gera á grunninum:  
 
--   Eyða öllum sölupöntunum vegna reiðhjóla.  
--   Stofna eina sölupöntun fyrir 10 reiðhjól hjá staðsetningunni BLÁTT.  
--   Eyða öllum áætluðum og fastáætluðum framleiðsluáætlunum. Ekki eyða pöntunum sem þegar eru í gangi með færslum sem þegar eru skráðar.  
+- Eyða öllum sölupöntunum vegna reiðhjóla.  
+- Stofna eina sölupöntun fyrir 10 reiðhjól hjá staðsetningunni BLÁTT.  
+- Eyða öllum áætluðum og fastáætluðum framleiðsluáætlunum. Ekki eyða pöntunum sem þegar eru í gangi með færslum sem þegar eru skráðar.  
 
- Regla er að nota gögnin sem lagt er til í þessari kynningu vegna þess að þau gögn hafa nauðsynlegar skrár.  
+  Regla er að nota gögnin sem lagt er til í þessari kynningu vegna þess að þau gögn hafa nauðsynlegar skrár.  
 
 ## <a name="story"></a>Ferill  
  Erla, sem er framleiðslustjóri lítils framleiðslufyrirtækis, er um það bil að fara að áætla framleiðslu og innkaupapantanir til að uppfylla nýja eftirspurn í sölu.  
@@ -91,30 +91,30 @@ ms.lasthandoff: 10/16/2017
 
 ### <a name="to-plan-a-purchase-order-to-fulfill-component-need-in-production"></a>Til að áætla innkaupapöntun til að uppfylla þörf á íhlutum fyrir framleiðslu  
 
-1.  Fyrsta línan er stækkuð (veljið táknið +).  
-2.  Veljið fyrstu eftirspurnarlínuna, með vöru **LSU-15** og síðan **Sýna fylgiskjal** aðgerðina.  
-3.  Opinni framleiðslupöntun er lokað til að fara aftur í gluggann **Pantanaáætlun**.  
-4.  Í reitnum **Áfyllingarkerfið** eru **Innkaup** valin.  
+1. Fyrsta línan er stækkuð (veljið táknið +).  
+2. Veljið fyrstu eftirspurnarlínuna, með vöru **LSU-15** og síðan **Sýna fylgiskjal** aðgerðina.  
+3. Opinni framleiðslupöntun er lokað til að fara aftur í gluggann **Pantanaáætlun**.  
+4. Í reitnum **Áfyllingarkerfið** eru **Innkaup** valin.  
 
-     Sjálfgefna gildið er af birgðaspjaldinu eða birgðahaldseiningaspjaldinu, en því er hægt að breyta í einn af eftirtöldum valkostum:  
+    Sjálfgefna gildið er af birgðaspjaldinu eða birgðahaldseiningaspjaldinu, en því er hægt að breyta í einn af eftirtöldum valkostum:  
 
-    -   **Innkaup** – Til að búa til innkaupapöntun.  
-    -   **Millifærsla** – til að búa til millifærslupöntun.  
-    -   **Framl.pöntun** – Til að búa til framleiðslupöntun.  
+   -   **Innkaup** – Til að búa til innkaupapöntun.  
+   -   **Millifærsla** – til að búa til millifærslupöntun.  
+   -   **Framl.pöntun** – Til að búa til framleiðslupöntun.  
 
-5.  Í reitnum **Framboð frá** þarf að velja eitt af eftirfarandi valmöguleikum til hliðsjónar við valið áfyllingarkerfi:  
+5. Í reitnum **Framboð frá** þarf að velja eitt af eftirfarandi valmöguleikum til hliðsjónar við valið áfyllingarkerfi:  
 
-    -   **Lánardrottinn** – Fyrir innkaup  
-    -   **Birgðageymsla** – fyrir flutning  
+   - **Lánardrottinn** – Fyrir innkaup  
+   - **Birgðageymsla** – fyrir flutning  
 
      Ef reiturinn er ekki fylltur út þá koma fram villuboð þegar reynt er að stofna framboðspöntun.  
 
-    > [!NOTE]  
-    >  Hafi íhlutirnir uppsett sjálfgefin númer lánadrottna á birgðaspjaldi, þá verða línurnar endurstilltar.  
+   > [!NOTE]  
+   >  Hafi íhlutirnir uppsett sjálfgefin númer lánadrottna á birgðaspjaldi, þá verða línurnar endurstilltar.  
 
-6.  Velja reitinn **Framboð frá**.  
-7.  Í glugganum **Vörulisti lánardrottins** skal velja aðgerðina **Nýtt** og svo er lánadrottinn **30000** valinn.  
-8.  Velja hnappinn **Í lagi** til að snúa aftur í gluggann **Pantanaáætlun**.  
+6. Velja reitinn **Framboð frá**.  
+7. Í glugganum **Vörulisti lánardrottins** skal velja aðgerðina **Nýtt** og svo er lánadrottinn **30000** valinn.  
+8. Velja hnappinn **Í lagi** til að snúa aftur í gluggann **Pantanaáætlun**.  
 9. Afrita lánardrottinn **30000** í aðrar línur fyrir hátalaraíhlutina á þessari framleiðslupöntun.  
 
      Nú er hægt að stofna innkaupapöntun.  
@@ -159,22 +159,22 @@ ms.lasthandoff: 10/16/2017
 
 ### <a name="to-plan-multilevel-production-to-fulfill-sales-demand"></a>Að áætla margra þrepa framleiðslu til að uppfylla eftirspurn sölu  
 
-1.  Áætlunarlína með pöntun fyrir eftirspurn sölu **1001** er valin (stofnuð áður sem frumskilyrði).  
+1. Áætlunarlína með pöntun fyrir eftirspurn sölu **1001** er valin (stofnuð áður sem frumskilyrði).  
 
-     Þessi eftirspurn er sölulína en varan hefur skilgreint áfyllingarkerfi sem er **Framl.pöntun**. Haldið er áfram til að bæta annarri bjöllu við íhlutaþörf hvers hjóls.  
+    Þessi eftirspurn er sölulína en varan hefur skilgreint áfyllingarkerfi sem er **Framl.pöntun**. Haldið er áfram til að bæta annarri bjöllu við íhlutaþörf hvers hjóls.  
 
-2.  Veldu **Íhlutir** aðgerðina til að opna gluggann **Áætla Íhlutir** .  
-3.  Í línunni með bjölluvörunni skal breyta reitnum **Magn á** úr **1** í **2**.  
-4.  Í glugganum **Pantanaáætlun** þarf að meta möguleika fyrir pöntunina. Í þessu tilfelli eru engar aðrar leiðir til framboðs, engir staðgenglar, millifærslur, eða síðari afhending. Stofna þarf birgðapöntunina sem lögð er til, framleiðslupöntun.  
-5.  Velja **búa til Pantanir** aðgerð til að stofna framleiðslupöntunina.  
+2. Veldu **Íhlutir** aðgerðina til að opna gluggann **Áætla Íhlutir** .  
+3. Í línunni með bjölluvörunni skal breyta reitnum **Magn á** úr **1** í **2**.  
+4. Í glugganum **Pantanaáætlun** þarf að meta möguleika fyrir pöntunina. Í þessu tilfelli eru engar aðrar leiðir til framboðs, engir staðgenglar, millifærslur, eða síðari afhending. Stofna þarf birgðapöntunina sem lögð er til, framleiðslupöntun.  
+5. Velja **búa til Pantanir** aðgerð til að stofna framleiðslupöntunina.  
 
-     Í glugganum **Pantanaáætlun** sést að áætlunarlínan fyrir sölupöntun **1001** er ekki lengur til staðar og séð hefur verið um upphaflega eftirspurn sölu.  
+    Í glugganum **Pantanaáætlun** sést að áætlunarlínan fyrir sölupöntun **1001** er ekki lengur til staðar og séð hefur verið um upphaflega eftirspurn sölu.  
 
-6.  Glugganum **Pantanaáætlun** er lokað.  
+6. Glugganum **Pantanaáætlun** er lokað.  
 
-     Nú væri hægt að velja að halda áfram í þessari valmynd og ljúka öllum áætlanagerðum. Þess í stað er nú farið í hlutverk framleiðslustjóra með því að fara í framleiðslupöntunina sem verið var að gera og opna gluggann **Pantanaáætlun**.  
+    Nú væri hægt að velja að halda áfram í þessari valmynd og ljúka öllum áætlanagerðum. Þess í stað er nú farið í hlutverk framleiðslustjóra með því að fara í framleiðslupöntunina sem verið var að gera og opna gluggann **Pantanaáætlun**.  
 
- Framleiðslustjóri þarf að áætla sérstaka röð framleiðslupantana.  
+   Framleiðslustjóri þarf að áætla sérstaka röð framleiðslupantana.  
 
 ### <a name="to-plan-a-specific-production-order"></a>Til að áætla sérstaka röð framleiðslupöntunar  
 

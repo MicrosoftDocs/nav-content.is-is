@@ -30,11 +30,11 @@ Eigi að reikningsfæra fleiri en eina afhendingu saman er hægt að nota eiginl
 4. Á flýtiflipanum **Línur** skal velja **Sækja afhendingarlínur** aðgerðina.  
 5. Afhendingarlínan sem á að vera á reikningnum er valin:  
 
-    - Til að setja allar línur inn eru allar línur valda og svo smellt á **Í lagi**.  
-    - Til að setja sérstakar línur inn eru línurnar valdar og svo smellt á **Í lagi**. Hægt er að nota Ctrl-takkanum til að velja margar línur sem ekki eru samliggjandi.  
+   - Til að setja allar línur inn eru allar línur valda og svo smellt á **Í lagi**.  
+   - Til að setja sérstakar línur inn eru línurnar valdar og svo smellt á **Í lagi**. Hægt er að nota Ctrl-takkanum til að velja margar línur sem ekki eru samliggjandi.  
 
-    Ef röng afhendingarlína var valin eða byrja á aftur er línunum einfaldlega eytt í reikningnum aðgerðin **Sækja afhendingarlínur** keyrð aftur.  
-7. Til að bóka reikningur er valið aðgerðin **bóka**.  
+     Ef röng afhendingarlína var valin eða byrja á aftur er línunum einfaldlega eytt í reikningnum aðgerðin **Sækja afhendingarlínur** keyrð aftur.  
+6. Til að bóka reikningur er valið aðgerðin **bóka**.  
 
 ## <a name="to-automatically-combine-shipments-on-a-single-invoice"></a>Til að sameina afhendingar sjálfkrafa á einn reikning  
 1. Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn **Sameina afhendingu** og velja svo viðeigandi tengil. Keyrslubeiðnaglugginn  opnast.  

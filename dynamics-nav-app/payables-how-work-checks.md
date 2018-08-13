@@ -37,7 +37,7 @@ Prentarinn verður að vera rétt stilltur með tékkaeyðublöðum, og þú ver
    * **Handfærður tékki**  Þessi kostur er valinn ef handfærður tékki hefur verið búinn til og  á að búa til tékkafærslu sem samsvarar upphæðinni. Með þessum valkosti er ekki hægt að prenta tékka úr [!INCLUDE[d365fin](includes/d365fin_md.md)] Þú getur eingöngu valið **handfærður tékki** ef **Tegund mótreiknings** eða **Tegund reiknings** er **Bankareikningur**.
 
      > [!NOTE]  
->   Þarf að prenta vélfærðu tékkana áður en hægt er að bóka tengdu færslubókarlínurnar.
+     >   Þarf að prenta vélfærðu tékkana áður en hægt er að bóka tengdu færslubókarlínurnar.
 4. Ef um er að ræða vélfærða tékka, veldu **Prenta Tékka**.
 5. Í glugganum **ávísun** þarf að fylla reitina út eftir þörfum. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 6. Velja hnappinn **Prenta**.

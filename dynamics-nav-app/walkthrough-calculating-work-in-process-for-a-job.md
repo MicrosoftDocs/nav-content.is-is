@@ -24,13 +24,13 @@ Með verkum er hægt að áætla notkun á forða fyrirtækisins og rakningu á 
 ## <a name="about-this-walkthrough"></a>Um kynninguna  
  Þessi kynning fjallar um eftirfarandi verk:  
 
--   Útreikning á VÍV.  
--   Val á VÍV-útreikningsaðferð.  
--   Undanskil á verkhluta frá VÍV.  
--   Bókun VÍV í fjárhag.  
--   Bakfærslu á VÍV-bókun.  
+- Útreikning á VÍV.  
+- Val á VÍV-útreikningsaðferð.  
+- Undanskil á verkhluta frá VÍV.  
+- Bókun VÍV í fjárhag.  
+- Bakfærslu á VÍV-bókun.  
 
- Hvert skref í ferlinu virðisreiknar og færir verkfærslurnar í fjárhaginn. Útreikningur og bókun eru aðskilin svo hægt sé að fara yfir gögn og gera breytingar áður en bókað er í fjárhaginn. Þess vegna þarf að ganga úr skugga um að allar upplýsingar séu réttar eftir að útreikningskeyrslur eru keyrðar og áður en bókunarkeyrslur eru keyrðar.  
+  Hvert skref í ferlinu virðisreiknar og færir verkfærslurnar í fjárhaginn. Útreikningur og bókun eru aðskilin svo hægt sé að fara yfir gögn og gera breytingar áður en bókað er í fjárhaginn. Þess vegna þarf að ganga úr skugga um að allar upplýsingar séu réttar eftir að útreikningskeyrslur eru keyrðar og áður en bókunarkeyrslur eru keyrðar.  
 
 ## <a name="roles"></a>Hlutverk  
  Þessi kynning notar Tinnu sem meðlim verkefnateymisins.  
@@ -48,37 +48,40 @@ Með verkum er hægt að áætla notkun á forða fyrirtækisins og rakningu á 
 
  Eftirfarandi tafla lýsir valkostunum þremur.  
 
-|Svæði|Description|  
-|-------------------------------------|---------------------------------------|  
-|**<blank>**|Haft autt ef verkhlutinn er hluti af hópi verkhluta.|  
-|**Samtals**|Skilgreinir svið eða hóp verkhluta sem eru innifaldir í VÍV og samþykkisútreikningi. Innan flokksins mun hver verkhluti með **Tegund verkhluta** stillta á **Bókun** tekinn með í VÍV-samtölunni, nema að reiturinn **VÍV-samtala** er stilltur á **Útilokað**.|  
-|**Útilokað**|Á aðeins við verk með **Verkhlutategund verks** sem **Bókun**. Verkið er ekki haft með þegar í verk í vinnslu og samþykktir eru reiknaðar.|  
+
+|    Svæði     |                                                                                                                           Description                                                                                                                            |
+|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **<blank>**  |                                                                                                    Haft autt ef verkhlutinn er hluti af hópi verkhluta.                                                                                                    |
+|  **Samtals**   | Skilgreinir svið eða hóp verkhluta sem eru innifaldir í VÍV og samþykkisútreikningi. Innan flokksins mun hver verkhluti með **Tegund verkhluta** stillta á **Bókun** tekinn með í VÍV-samtölunni, nema að reiturinn **VÍV-samtala** er stilltur á **Útilokað**. |
+| **Útilokað** |                                                                 Á aðeins við verk með **Verkhlutategund verks** sem **Bókun**. Verkið er ekki haft með þegar í verk í vinnslu og samþykktir eru reiknaðar.                                                                  |
 
  Í eftirfarandi kynningu beitir Trausti Kostnaðarvirðisaðferðinni, sem er stöðluð aðferð í fyrirtæki hans, til að reikna VÍV. Hún tilgreinir hvaða hluti af verkinu verður með í VÍV-útreikningnum með því að úthluta VÍV-Heildargildum til ýmissa verkhlutalína.  
 
 ### <a name="to-calculate-wip"></a>Útreikningur VÍV  
 
-1.  Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn **Verk** og velja svo viðeigandi tengil.  
-2.  Á listanum **Verk** er verkinu **Deerfield** valin og svo er valin aðgerðin **Breyta**. Þetta opnar verkspjaldið í breytingastillingu.  
+1. Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn **Verk** og velja svo viðeigandi tengil.  
+2. Á listanum **Verk** er verkinu **Deerfield** valin og svo er valin aðgerðin **Breyta**. Þetta opnar verkspjaldið í breytingastillingu.  
 
-     Hægt er að reikna VÍV eftir Kostnaðarvirði, Söluvirði, Sölukostnaði, Prósentum lokið eða Samningi lokið. Í þessu dæmi, notar Cronus aðferðina kostnaðarvirði.  
+    Hægt er að reikna VÍV eftir Kostnaðarvirði, Söluvirði, Sölukostnaði, Prósentum lokið eða Samningi lokið. Í þessu dæmi, notar Cronus aðferðina kostnaðarvirði.  
 
-3.  Á flýtiflipanum **Bókun** í reitnum **VÍV-aðferð** og síðan valið **Kostnaðarvirði**.  
-4.  Veldu aðgerðina **Verkhlutalínur** og stilltu eftirfarandi gildi í **VÍV-samtals** reitnum.  
+3. Á flýtiflipanum **Bókun** í reitnum **VÍV-aðferð** og síðan valið **Kostnaðarvirði**.  
+4. Veldu aðgerðina **Verkhlutalínur** og stilltu eftirfarandi gildi í **VÍV-samtals** reitnum.  
 
-     Eftirfarandi tafla lýsir gildunum.  
+    Eftirfarandi tafla lýsir gildunum.  
 
-    |Verkhlutanr. verks|VÍV-samtala|  
-    |------------------|----------------------|  
-    |1130|Útilokað|  
-    |1190|Samtals|  
-    |1210|Útilokað|  
-    |1310|Útilokað|  
 
-5.  Veljið aðgerðina **VÍV** og svo aðgerðina **Reikna VÍV**.  
-6.  Í glugganum **Reikna út VÍG** er hægt að velja verk sem á að reikna VÍV fyrir. Á flýtiflipanum **Verk** skal velja **Deerfield** í reitnum **Nr.**. .  
-7.  Í reitnum **Bókunardags.** færið inn dagsetningu sem er síðar en vinnudagsetningu.
-8.  Fært er inn **1** í reitinn **Númer fylgiskjals**. Þetta stofnar skjal sem síðar er hægt að vísa í fyrir rekjanleika.  
+   | Verkhlutanr. verks | VÍV-samtala |
+   |--------------|-----------------|
+   |     1130     |    Útilokað     |
+   |     1190     |      Samtals      |
+   |     1210     |    Útilokað     |
+   |     1310     |    Útilokað     |
+
+
+5. Veljið aðgerðina **VÍV** og svo aðgerðina **Reikna VÍV**.  
+6. Í glugganum **Reikna út VÍG** er hægt að velja verk sem á að reikna VÍV fyrir. Á flýtiflipanum **Verk** skal velja **Deerfield** í reitnum **Nr.**. .  
+7. Í reitnum **Bókunardags.** færið inn dagsetningu sem er síðar en vinnudagsetningu.
+8. Fært er inn **1** í reitinn **Númer fylgiskjals**. Þetta stofnar skjal sem síðar er hægt að vísa í fyrir rekjanleika.  
 9. Veldu hnappinn **Í lagi** til að ræsa keyrsluna. Skilaboð birtast. Velja hnappinn **Í lagi** til að halda áfram. Glugganum **Verkhlutalínur** er lokað.  
 
     > [!NOTE]  
@@ -86,15 +89,15 @@ Með verkum er hægt að áætla notkun á forða fyrirtækisins og rakningu á 
 
 10. Á spjaldinu **Verk** er stækkaður flýtiflipinn **VÍV og samþykki** til að sjá reiknuð gildi. Einnig er hægt að sjá **Bókunardagsetning VÍV** og gildin sem hafa verið bókuð í fjárhag, ef einhver eru.  
 
- Athugið að gildið fyrir **Samþ. kostnaðarupphæð** er 215.60 í dálknum **Til að bóka**. Þetta speglar heildarkostnað tveggja af vörunum í flokki verkhluta 1110-1130.  Þriðja varan var stillt á **Útilokað** og er því ekki talin með í VÍV-útreikningnum.  
+    Athugið að gildið fyrir **Samþ. kostnaðarupphæð** er 215.60 í dálknum **Til að bóka**. Þetta speglar heildarkostnað tveggja af vörunum í flokki verkhluta 1110-1130.  Þriðja varan var stillt á **Útilokað** og er því ekki talin með í VÍV-útreikningnum.  
 
 ### <a name="to-review-wip-warnings"></a>Til að fara yfir viðvaranir VÍV  
 
-1.  Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn **Verk VÍV Stjórnklefi** og velja svo viðeigandi tengil.  
-2.  Veljið verkið **Deerfield** og svo er valin aðgerðin **Sýna**.  
-3.  Í glugganum **VÍV-viðvaranir verks** skal fara yfir viðvörunina sem tengist verkinu.  
+1. Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn **Verk VÍV Stjórnklefi** og velja svo viðeigandi tengil.  
+2. Veljið verkið **Deerfield** og svo er valin aðgerðin **Sýna**.  
+3. Í glugganum **VÍV-viðvaranir verks** skal fara yfir viðvörunina sem tengist verkinu.  
 
- Eftir bókhaldstímabilið þarf Tinna að endurreikna VÍV til að taka með þá vinnu sem unnin hefur verið.  
+   Eftir bókhaldstímabilið þarf Tinna að endurreikna VÍV til að taka með þá vinnu sem unnin hefur verið.  
 
 ### <a name="to-recalculate-wip"></a>VÍV endurreiknað  
 

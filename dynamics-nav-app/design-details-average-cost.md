@@ -43,12 +43,12 @@ Meðalkostnaður vöru er reiknaður með reglubundnu vegnu meðaltali, miðað 
 
  Meðalkostnaður færslu er reiknaður þegar vörukostnaður er leiðréttur. Nánari upplýsingar, sjá [Upplýsingar um hönnun: Kostnaðarleiðrétting](design-details-cost-adjustment.md) Kostnaðarleiðrétting notar færslur í **Upphafsstaður Meðalkostnaðarleiðrétting** töflunni til að auðkenna fyrir hvaða vöru eða vörur, staðsetningu, og afbrigði skal reikna meðalkostnað fyrir. Fyrir hverja færslu með kostnað sem hefur ekki verið jöfnuð notar kostnaðarleiðrétting eftirfarandi til að ákvarða meðalkostnað:  
 
--   Ákvarðar kostnað vöru Í upphafi meðalkostnaðartímabil.  
--   Bæta við summu kostnaðar á innleið sem voru bókaðir á meðalkostnaðartímabil. Það inniheldur innkaup, söluvöruskil, jákvæða leiðréttingu, og vöru og samsetningarúttak.  
--   Dregur frá summu kostnaðar útleiðarfærslna sem voru fastjafnaðar við móttöku í meðalkostnaðartímabili. Yfirleitt inniheldur þetta innkaupaskil og neikvætt frálag.  
--   Deilir með heildarfjölda birgða fyrir lok meðalkostnaðartímabils, að undanskildum birgðarminnkun sem eru metin.  
+- Ákvarðar kostnað vöru Í upphafi meðalkostnaðartímabil.  
+- Bæta við summu kostnaðar á innleið sem voru bókaðir á meðalkostnaðartímabil. Það inniheldur innkaup, söluvöruskil, jákvæða leiðréttingu, og vöru og samsetningarúttak.  
+- Dregur frá summu kostnaðar útleiðarfærslna sem voru fastjafnaðar við móttöku í meðalkostnaðartímabili. Yfirleitt inniheldur þetta innkaupaskil og neikvætt frálag.  
+- Deilir með heildarfjölda birgða fyrir lok meðalkostnaðartímabils, að undanskildum birgðarminnkun sem eru metin.  
 
- Reiknaður meðalkostnaður er svo jafnaður við birgðaminnkun vörunnar ( eða vöru, birgðageymslu og afbrigði) með bókunardagsetningum í meðalkostnaðartímabilinu. Ef einhverjar birgðaaukningar eru fyrir hendi sem voru notaðar fast á birgðaminnkun á meðalkostnaðartímabilinu er útreiknaður meðalkostnaður framsendur úr aukningu í minnkun.  
+  Reiknaður meðalkostnaður er svo jafnaður við birgðaminnkun vörunnar ( eða vöru, birgðageymslu og afbrigði) með bókunardagsetningum í meðalkostnaðartímabilinu. Ef einhverjar birgðaaukningar eru fyrir hendi sem voru notaðar fast á birgðaminnkun á meðalkostnaðartímabilinu er útreiknaður meðalkostnaður framsendur úr aukningu í minnkun.  
 
 ### <a name="example-average-cost-period--day"></a>Dæmi Tímabil meðalinnk.verðs = Dagur  
  Þetta dæmi sýnir hvaða áhrif það hefur að reikna meðalkostnað samkvæmt meðalkostnaðartímabili eins dags. Reiturinn **Útreikningsgerð meðalkostnaðar** í glugganum **Uppsetning birgða** er stilltur á **Vara**.  

@@ -37,11 +37,11 @@ Verkraðir eru áhrifaríkt verkfæri til að raða notkun viðskiptaferla í ba
 
  [!INCLUDE[d365fin](includes/d365fin_md.md)] styður bakgrunnsbókun fyrir eftirfarandi tegundir skjala:  
 
--   Sala: sölupöntun, vöruskilapöntun, kreditreikningur, reikningur  
+- Sala: sölupöntun, vöruskilapöntun, kreditreikningur, reikningur  
 
--   Innkaup: innkaupapöntun, vöruskilapöntun, kreditreikningur, reikningur  
+- Innkaup: innkaupapöntun, vöruskilapöntun, kreditreikningur, reikningur  
 
- Ef ekki er hægt að bóka sölupöntunina breytist staðan í **Villa** og þá er sölupöntuninni bætt við lista yfir sölupantanir sem notandinn mun meðhöndla.  
+  Ef ekki er hægt að bóka sölupöntunina breytist staðan í **Villa** og þá er sölupöntuninni bætt við lista yfir sölupantanir sem notandinn mun meðhöndla.  
 
 > [!NOTE]  
 >  Þegar fylgiskjal hefur verið tímasett til bókunar og bókunarferlið hefst, mun það renna út sjálfkrafa eftir tvo klukkutíma ef bókunarferlið svarar ekki einhverra hluta vegna.  

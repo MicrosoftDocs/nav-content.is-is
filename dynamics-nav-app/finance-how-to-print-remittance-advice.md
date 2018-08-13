@@ -19,10 +19,10 @@ ms.lasthandoff: 10/26/2017
 
 ---
 
-#<a name="how-to-print-remittance-advice"></a>Hvernig á að: prenta greiðslutilkynningu
+# <a name="how-to-print-remittance-advice"></a>Hvernig á að: prenta greiðslutilkynningu
 Þú getur prentað greiðslutilkynningu áður en þú bókar greiðslubók og eftir að þú bókar greiðslu. Á þessari tilkynningu koma fram reikningsnúmer lánardrottna, sem auðveldar lánardrottnum afstemmingar.
 
-##<a name="to-print-remittance-advice"></a>Til að prenta greiðslutilkynningu
+## <a name="to-print-remittance-advice"></a>Til að prenta greiðslutilkynningu
 1. Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn **greiðslubækur** og velja svo viðeigandi tengil.  
 2. Í glugganum **greiðslubók** velurðu greiðsluna sem prenta á greiðslutilkynningu fyrir.  
 3. Veldu aðgerðina **Prenta greiðslutilkynningu**.  
@@ -48,5 +48,5 @@ Eftirfarandi tafla lýsir skýrslunum sem hægt er að nota með greiðslutilkyn
 > [!Tip]
 > Frekari upplýsingar um hvernig á að vinna með skýrslur eru í [Skoða prófunarskýrslur fyrir bókun](ui-how-view-test-reports-posting.md), [Vinna með skýrslur](ui-work-report.md) og [Leita í, afmarka og raða gögnum](ui-enter-criteria-filters.md).
 
-##<a name="see-also"></a>Sjá einnig  
+## <a name="see-also"></a>Sjá einnig  
 [Velkomin(n) í Dynamics NAV](across-get-started.md)

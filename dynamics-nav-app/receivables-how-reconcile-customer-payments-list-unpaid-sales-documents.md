@@ -57,17 +57,17 @@ Greiðslufærslur eru bókaðar í fjárhags-, banka- og viðskipta- eða viðsk
 2. Veljið gátreitinn **greiðsla framkvæmd** á línunum sem standa fyrir bókuðu fylgiskjölin fyrir sama viðskiptamanninn sem fastagreiðsla hefur verið gerð fyrir.  
 
     > [!NOTE]  
->   Viðskiptamaðurinn í reitnum **Nafn** verður að vera eins í öllum línum sem verða bókaðar sem fastagreiðsla.  
+   >   Viðskiptamaðurinn í reitnum **Nafn** verður að vera eins í öllum línum sem verða bókaðar sem fastagreiðsla.  
 
     Ef gátreiturinn **sjálfvirk útfylling dagsetningar móttöku** er valinn í glugganum **uppsetning skráning greiðslna** , fyllist vinnudagsetningin út í reitnum **dagsetning móttöku**.  
 3. Í reitnum **dagsetning móttöku**, færið inn dagsetninguna sem greiðslan var gerð á. Þessi dagsetning má vera önnur en vinnudagsetningin.  
 
     > [!NOTE]  
->   Þessi dagsetning verður að vera sú sama á öllum línum sem verða bókaðar sem fastagreiðslur.  
+   >   Þessi dagsetning verður að vera sú sama á öllum línum sem verða bókaðar sem fastagreiðslur.  
 4. Í reitnum **móttekin greiðsla**, færið inn upphæðir á margar línur sem ná samanlagt upp í fastagreiðsluupphæðina.  
 
     > [!TIP]  
->   Reynið að bóka eins margar fullnaðargreiðslur og mögulegt er í fastagreiðslunni. Færa inn upphæðir sem eru þær sömu og upphæðin í reitnum **Eftirstandandi upphæð** á eins margar línur og mögulegt er.  
+   >   Reynið að bóka eins margar fullnaðargreiðslur og mögulegt er í fastagreiðslunni. Færa inn upphæðir sem eru þær sömu og upphæðin í reitnum **Eftirstandandi upphæð** á eins margar línur og mögulegt er.  
 5. Endurtakið skref 2-4 fyrir aðrar línur sem standa fyrir bókuð skjöl fyrir sama viðskiptamanninn og fastagreiðsla hefur verið gerð fyrir.  
 6. Valið er **bóka sem fastgreiðslu** aðgerð. Innfærðar Greiðsluupplýsingarnar eru bókaðar í fylgiskjölum og sýndar sem línur þar sem gátreiturinn **Greiðsla framkvæmd** er valinn.  
 
@@ -104,7 +104,7 @@ Ef samið hefur verið um greiðsluafslátt við viðskiptamanninn, getur greið
 3. Í reitnum **dagsetning móttöku**, færið inn dagsetningu greiðslu sem ber upp eftir dagsetningunni í reitnum **dagsetning greiðsluafsláttar**. Dagsetningareitum breytt í rauða leturgerð og villuboð birtast neðst í glugganum.
 
     > [!TIP]  
->   Ef veita á undanþágu og gefa afslátt jafnvel þótt greiðslan berist seint, fylgið þessum skrefum:
+   >   Ef veita á undanþágu og gefa afslátt jafnvel þótt greiðslan berist seint, fylgið þessum skrefum:
 4. Valið er **Sundurliðun** aðgerð.  
 5. Í glugganum **upplýsingar um skráning greiðslna** í reitnum **dagsetning greiðsluafsláttar** á Flýtiflipanum **Greiðsluafsláttur**, setjið inn dagsetningu sem ber upp á eftir dagsetninguna í reitnum **dagsetning móttöku** í glugganum **skráning greiðslna**.  
 
@@ -153,7 +153,7 @@ Eftirfarandi aðgerð útskýrir hvernig skal finna tiltekið fylgiskjal með þ
 3. Í glugganum **Leit í Skjölum**, færið inn leitargildi í reitinn **Númer fylgiskjals**.  
 
     > [!NOTE]  
->   Faldir algildisstafir eru meðfylgjandi í gildinu sem fært er í þennan reit. Þetta þýðir að aðgerðin leitar eftir öllum fylgiskjalsnúmerum sem innihalda gildið sem fært var inn.    
+   >   Faldir algildisstafir eru meðfylgjandi í gildinu sem fært er í þennan reit. Þetta þýðir að aðgerðin leitar eftir öllum fylgiskjalsnúmerum sem innihalda gildið sem fært var inn.    
 4. Í reitnum **Upphæð**, tilgreinið ákveðna upphæð sem er til á fylgiskjalinu sem finna skal.  
 5. Í reitnum **Upphæð vikmarka %**, færið inn prósentugildi til að skilgreina svið upphæða sem leita á eftir til að finna opna fylgiskjalið.  
 

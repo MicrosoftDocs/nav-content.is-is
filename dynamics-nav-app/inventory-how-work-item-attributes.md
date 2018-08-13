@@ -66,7 +66,7 @@ Einnig er hægt að úthluta vörueigindum á vöruflokka, sem síðan eiga við
 4. Í reitnum **Gildi** skal velja hnappinn uppfletting og velja eigindargildi til að afmarka vörur eftir.
 
     > [!NOTE]  
->   Aðeins er hægt að velja gildi beint fyrir vörueigindir sem hafa föst gildi, til dæmis lit. Fyrir vörueigindir sem hafa breytileg gildi, til dæmis breidd, verður að tilgreina eigindargildi vöru eftir fyrsta val á skilyrði. Sjá skref 5.
+   >   Aðeins er hægt að velja gildi beint fyrir vörueigindir sem hafa föst gildi, til dæmis lit. Fyrir vörueigindir sem hafa breytileg gildi, til dæmis breidd, verður að tilgreina eigindargildi vöru eftir fyrsta val á skilyrði. Sjá skref 5.
 5. Í reitnum **Gildi** fyrir breytilega vörueigind skal velja hnappinn uppfletting.
 6. Í glugganum **Tilgreina afmörkunargildi** á svæðinu **Skilyrði** skal velja felliörina og velja skilyrði.
 7. Í reitnum **Virði** skal færa eigindargildi til að afmarka vörur með.

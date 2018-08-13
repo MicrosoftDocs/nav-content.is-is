@@ -29,12 +29,13 @@ Tengsl milli kostnaðartegundarinnar og almenna fjárhagslykilsins eru stofnuð 
 ## <a name="relationship-between-general-ledger-accounts-and-cost-types"></a>Tengsl milli fjárhagsreiknings og kostnaðartegunda  
 Til eru n:1 vensl milli fjárhagsreikninga og kostnaðargerðar. Nokkrir fjárhagsreikningar geta tilheyrt einni kostnaðartegund, en hver fjárhagsreikningur tilheyrir aðeins einni kostnaðargerð. Eftirfarandi tafla lýsir upplýsingunum í tengslunum.  
 
-|Tengsl|**Reikningsbil fjárhags**|**Kostnaðartegundarnr.**|  
-|------------------|------------------------------------------------|-------------------------------------------|  
-|Einn fjárhagsreikningur fyrir hverja kostnaðartegund|Einn fjárhagsreikningur|Ein kostnaðartegund|  
-|Nokkrir fjárhagsreikningar fyrir hverja kostnaðartegund|Svið fjárhagsreikninga, til dæmis 7110..7193 fyrir hvern fjárhagsreikning|Fyrir hvern fjárhagsreikning í bilinu, er aðeins ein kostnaðartegund|  
-|Kostnaðartegundir án samsvarandi tengsla við fjárhaglykla|<Empty>||  
-|Fjárhagsreikningar með færslur sem ekki verið fluttar||<Empty>|  
+
+|                         Tengsl                          |                                 **Reikningsbil fjárhags**                                 |                             **Kostnaðartegundarnr.**                             |
+|---------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+|         Einn fjárhagsreikningur fyrir hverja kostnaðartegund         |                              Einn fjárhagsreikningur                               |                               Ein kostnaðartegund                               |
+|       Nokkrir fjárhagsreikningar fyrir hverja kostnaðartegund       | Svið fjárhagsreikninga, til dæmis 7110..7193 fyrir hvern fjárhagsreikning | Fyrir hvern fjárhagsreikning í bilinu, er aðeins ein kostnaðartegund |
+|   Kostnaðartegundir án samsvarandi tengsla við fjárhaglykla    |                                        <Empty>                                        |                                                                           |
+| Fjárhagsreikningar með færslur sem ekki verið fluttar |                                                                                       |                                  <Empty>                                  |
 
 ## <a name="cost-types-without-a-relationship-to-the-general-ledger"></a>Kostnaðartegundir án tengsla við fjárhag  
 Kostnaðartegund má ekki hafa tengsl við fjárhagsreikninga ef annað af eftirfarandi skilyrðum á við:  

@@ -40,7 +40,7 @@ Intrastat keyrslurnar ná aðeins yfir birgðafærslur, en ekki fjárhagsfærslu
   
 Hægt er að flytja færsluna út í skrá sem þú getur sent til Instrat yfirvalda. Einnig er hægt að prenta skýrslu, færa upplýsingarnar handvirkt inn í formið frá yfirvöldum, og svo senda upplýsingarnar inn.
 
->  [!Note]
+> [!Note]
 > Mælt er með því að keyrsla Intrastatbóka sé stofnuð fyrir hvern mánuð.  
   
 1. Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn **Sniðmát Intrastat bóka** og velja svo viðeigandi tengil.  

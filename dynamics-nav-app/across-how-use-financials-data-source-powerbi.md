@@ -35,7 +35,7 @@ Notandi getur gert [!INCLUDE[d365fin](includes/d365fin_md.md)]-gögnin sín aðg
 3. Þegar búið er að færa inn upplýsingarnar er valinn hnappurinn Í lagi. Næsta skrefið í leiðsagnarforritinu verður að færa inn notandanafn og aðgangsorð.
 
    > [!NOTE]  
->    Ef aðrir sannvottunarkostir eru í boði á vinstra yfirlitssvæði skal velja *Grunnur*.
+   >    Ef aðrir sannvottunarkostir eru í boði á vinstra yfirlitssvæði skal velja *Grunnur*.
 4. Slá inn notendanafn og aðgangsorð. Þessar upplýsingar má finna í glugganum **Notendur** í [!INCLUDE[d365fin](includes/d365fin_md.md)]. Notið **Aðgangslykil fyrir vefþjónustu** sem aðgangsorðið þitt.
 
    Til dæmis, notandanafnið þitt er *ADMIN*, og aðgangslykill vefþjónustu sem virkar sem aðgangsorð er *EgzeUFQ9Uv0o5O0lUMyqCzo1ueUW9yRF3SsLU=*.
@@ -47,7 +47,7 @@ Notandi getur gert [!INCLUDE[d365fin](includes/d365fin_md.md)]-gögnin sín aðg
 7. Endurtaktu fyrri skref til að bæta fleiri [!INCLUDE[d365fin](includes/d365fin_md.md)]-gögnum við Power Bi-gagnalíkanið þitt.
 
    > [!NOTE]  
->    Þegar notanda hefur tekist að tengjast [!INCLUDE[d365fin](includes/d365fin_md.md)] verður hann ekki beðinn aftur um OData-vefslóð, notandanafn eða aðgangsorð.
+   >    Þegar notanda hefur tekist að tengjast [!INCLUDE[d365fin](includes/d365fin_md.md)] verður hann ekki beðinn aftur um OData-vefslóð, notandanafn eða aðgangsorð.
 
 Þegar gögnum hefur verið hlaðið birtast þau á hægra yfirlitssvæði síðunnar. Nú hefur notanda tekist að tengjast gögnum sínum í Dynamics NAV og getur byrjað að byggja upp Power BI-skýrsluna sína. Frekari upplýsingar eru í [Power BI skjöl](https://powerbi.microsoft.com/documentation/powerbi-landing-page/).
 

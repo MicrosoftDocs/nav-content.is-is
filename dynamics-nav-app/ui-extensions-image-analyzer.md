@@ -28,7 +28,7 @@ Myndgreinandinn er ókeypis í [!INCLUDE[d365fin](includes/d365fin_md.md)], en �
 
 Eftir að þú virkjar viðbótina, keyrist Myndgreinandinn í hvert skipti sem þú flytur inn mynd til vöru eða tengiliðs. Um leið muntu sjá eigindirnar, áreiðanleikastigið og upplýsingarnar og getur ákveðið hvað skal gera við hverja eigind. Ef þú fluttir inn myndir áður en þú virkjaðir Myndgreinanda-viðbótina, þarftu að ná í vöruna eða tengiliðaspjaldið og velja **Greina mynd** aðgerðina.  
 
->   [!NOTE]  
+> [!NOTE]
 >   Með því að virkja viðbótina samþykkirðu að Microsoft sé heimilt að geyma gögnin þín og nota þau til að bæta þjónustu Microsoft, t.d. til að gera Tölvusjón API betri. Til að auka persónuvernd, gerum við gögnin þín nafnlaus og höldum þeim öruggum. Við munum ekki birta gögnin þín eða leyfa öðrum að nota þau. Þú getur fjarlægt myndina frá vörunni í [!INCLUDE[d365fin](includes/d365fin_md.md)], en Tölvusjón API mun samt sem áður enn hafa aðgang að myndinni, í dulkóðuðu formi. Nánari upplýsingar, sjá [Microsoft Öryggismiðstöð](https://go.microsoft.com/fwlink/?linkid=851463).
 
 ## <a name="requirements"></a>Kröfur
@@ -52,7 +52,7 @@ Viðbótin fyrir Myndgreinandann er innbyggð í [!INCLUDE[d365fin](includes/d36
 * Vöru- eða tengiliðaspjald er opnað. Á tilkynningastikunni skal velja **Greina myndir**, og svo er skrefunum í Uppsetningu með aðstoð fylgt.  
 * Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn **Þjónustutengingar** og velja svo **Uppsetning myndgreiningar** Á gátreitnum skal velja **Virkja myndgreinanda**, og svo er skrefunum í Uppsetningu með aðstoð fylgt.  
 
->   [!TIP]  
+> [!TIP]
 >   Á **Uppsetning myndgreiningar** síðunni geturðu líka breytt áreiðanleikastiginu fyrir tillögur um eigindir. Ef þú vilt til dæmis auka áreiðanleikann, þá geturðu slegið inn hærri prósentu.
 
 ## <a name="to-analyze-an-image-of-an-item"></a>Að greina mynd af vöru
@@ -62,7 +62,7 @@ Eftirfarandi skref lýsa því hvernig skal greina mynd sem var flutt inn áður
 2. Veljið vöruna og veljið svo aðgerðina **Greina mynd**.  
 3. Síðan **Eigindir myndgreinanda** birtir þær eigindir sem finnast, áreiðanleikastigið og aðrar upplýsingar um eigindina. Nota **Aðgerð til að framkvæma** valkostina til að tilgreina hvað skal gera við eigindina.  
 
->   [!TIP]  
+> [!TIP]
 >   Þú getur bætt nafni eigindarinnar við lýsinguna á vörunni með því að velja **Bæta við vörulýsingu**. Þetta getur t.d. reynst gagnlegt þegar bæta þarf við upplýsingum snögglega.  
 
 ## <a name="to-analyze-a-picture-of-a-contact-person"></a>Greina mynd af tengilið
@@ -78,7 +78,7 @@ Eftirfarandi skref lýsa því hvernig skal greina mynd sem var flutt inn áður
 1. Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn **Uppsetning myndagreinanda** og velja svo viðeigandi tengil.  
 2. Færið inn **API URI** og **API lykil** sem þú fékkst fyrir Tölvusjón API.  
 
->   [!NOTE]  
+> [!NOTE]
 >   Nauðsynlegt er að bæta **/greina** aftan við API URI ef það er ekki þegar þar. Til dæmis: ```https://cronus.api.cognitive.microsoft.com/vision/v1.0/analyze```.
 
 ## <a name="to-see-how-many-analyses-you-have-left-in-the-current-period"></a>Til að sjá hversu margar greiningar þú hefur skilið eftir á núverandi tímabil

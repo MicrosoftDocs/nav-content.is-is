@@ -35,6 +35,6 @@ Einnig má nota sömu aðferð til að úthluta öðrum aðsetrum úr glugganum 
 
 Skrefin eru endurtekin til að úthluta eins mörgum dagsetningasviðum og óskað er.
 
-##<a name="see-also"></a>Sjá einnig
+## <a name="see-also"></a>Sjá einnig
 [Stofna fyrirtækjatengilið](marketing-create-contact-companies.md)
 

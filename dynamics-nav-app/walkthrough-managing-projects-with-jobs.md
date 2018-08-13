@@ -75,26 +75,26 @@ ms.lasthandoff: 10/23/2017
 
 ### <a name="to-prepare-the-sample-data"></a>Til að undirbúa sýnigögnin  
 
-1.  Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn **Forði** og velja svo viðeigandi tengil.  
-2.  Veljið aðgerðina **Nýtt** til að Búa til nýtt forðaspjald.  
-3.  Á flýtiflipanum **Almennt** eru eftirfarandi upplýsingar slegnar inn:  
+1. Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn **Forði** og velja svo viðeigandi tengil.  
+2. Veljið aðgerðina **Nýtt** til að Búa til nýtt forðaspjald.  
+3. Á flýtiflipanum **Almennt** eru eftirfarandi upplýsingar slegnar inn:  
 
-    - **Nr.**: **Trausti**  
-    - **Nafn**: **Trausti**  
-    - **Gerð**: **Einstaklingur**  
+   - **Nr.**: **Trausti**  
+   - **Nafn**: **Trausti**  
+   - **Gerð**: **Einstaklingur**  
 
-4.  Velja reitinn **Grunnmælieining**, og velja **Nýtt** aðgerð til að opna gluggann **Mælieining forða**. Í reitnum **Kóti** skal velja **Klukkustund**. Velja hnappinn **Í lagi**.  
-5.  Á flýtiflipanum **Reikningsfæra** eru eftirfarandi upplýsingar slegnar inn:  
+4. Velja reitinn **Grunnmælieining**, og velja **Nýtt** aðgerð til að opna gluggann **Mælieining forða**. Í reitnum **Kóti** skal velja **Klukkustund**. Velja hnappinn **Í lagi**.  
+5. Á flýtiflipanum **Reikningsfæra** eru eftirfarandi upplýsingar slegnar inn:  
 
-    -   **Innkaupsverð**: **5**  
-    -   **Óbeinn kostnaður í %**: **4**  
-    -   **Kostnaðarverð**:**10**  
-    -   **Alm. vörubókunarflokkur**: **Þjónusta**  
-    -   **VSK vörubókunarflokkur**: **VSK 25**  
+   -   **Innkaupsverð**: **5**  
+   -   **Óbeinn kostnaður í %**: **4**  
+   -   **Kostnaðarverð**:**10**  
+   -   **Alm. vörubókunarflokkur**: **Þjónusta**  
+   -   **VSK vörubókunarflokkur**: **VSK 25**  
 
-6.  Velja hnappinn **Í lagi** til að vista breytingarnar.  
+6. Velja hnappinn **Í lagi** til að vista breytingarnar.  
 
- Í næsta ferli er stofnuð verkbókarkeyrsla fyrir viðkomandi ef bóka á notkun hans.  
+   Í næsta ferli er stofnuð verkbókarkeyrsla fyrir viðkomandi ef bóka á notkun hans.  
 
 ### <a name="to-create-a-job-journal-batch"></a>Til að búa til verkbókarkeyrslu  
 
@@ -113,121 +113,123 @@ ms.lasthandoff: 10/23/2017
 
 ### <a name="to-set-up-a-job"></a>Uppsetning verks  
 
-1.  Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn **Verk** og velja svo viðeigandi tengil.  
-2.  Veljið aðgerðina **Nýtt** til að Búa til nýtt spjald.  
-3.  Á flýtiflipanum **Almennt** eru eftirfarandi upplýsingar slegnar inn:  
+1. Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn **Verk** og velja svo viðeigandi tengil.  
+2. Veljið aðgerðina **Nýtt** til að Búa til nýtt spjald.  
+3. Á flýtiflipanum **Almennt** eru eftirfarandi upplýsingar slegnar inn:  
 
-    -   **Lýsing**: **Ráðgjöf við uppsetningu fundarsals**  
-    -   **Reikningsfærist á viðskiptamenn Nr.**: **01445544**  
+   -   **Lýsing**: **Ráðgjöf við uppsetningu fundarsals**  
+   -   **Reikningsfærist á viðskiptamenn Nr.**: **01445544**  
 
-4.  Á flýtiflipanum **bókun** eru eftirfarandi upplýsingar slegnar inn:  
+4. Á flýtiflipanum **bókun** eru eftirfarandi upplýsingar slegnar inn:  
 
-    -   **Staða**: **Röð**  
-    -   **Bókunarflokkur verka**: **Uppsetning**  
-    -   **VÍV-aðferð**: **Kostnaðarvirði**  
+   -   **Staða**: **Röð**  
+   -   **Bókunarflokkur verka**: **Uppsetning**  
+   -   **VÍV-aðferð**: **Kostnaðarvirði**  
 
-5.  Á flýtiflipanum **Tímalengd** er slegin inn dagsetning dagsins í dag í reitina **Upphafsdagur** og **Lokadagur**. Þessar dagsetningar verða notaðar við umreikning gjaldmiðla þegar verkið er reikningsfært.  
-6.  Á flýtiflipanum **Erlent** skal stilla gjaldmiðilskótann á **USD**. Sé USD valið í reitnum **Gjaldmiðilskóti reiknings** mun verkið verða reikningsfært í Bandaríkjadölum og áætlað í staðbundnum gjaldmiðli CRONUS aðeins.  
+5. Á flýtiflipanum **Tímalengd** er slegin inn dagsetning dagsins í dag í reitina **Upphafsdagur** og **Lokadagur**. Þessar dagsetningar verða notaðar við umreikning gjaldmiðla þegar verkið er reikningsfært.  
+6. Á flýtiflipanum **Erlent** skal stilla gjaldmiðilskótann á **USD**. Sé USD valið í reitnum **Gjaldmiðilskóti reiknings** mun verkið verða reikningsfært í Bandaríkjadölum og áætlað í staðbundnum gjaldmiðli CRONUS aðeins.  
 
- Hægt er að sérsníða verð fyrir viðskiptavini á hvert verk, eftir þeim samningum sem settir hafa verið fram. Í næsta ferli tilgreinir verkefnastjórinn verð viðkomandi tíma, stillir verð fyrir þann hugbúnað sem nauðsynlegur er og bætir við ferðakostnaði sem viðkomandi hefur samþykkt að greiða.  
+   Hægt er að sérsníða verð fyrir viðskiptavini á hvert verk, eftir þeim samningum sem settir hafa verið fram. Í næsta ferli tilgreinir verkefnastjórinn verð viðkomandi tíma, stillir verð fyrir þann hugbúnað sem nauðsynlegur er og bætir við ferðakostnaði sem viðkomandi hefur samþykkt að greiða.  
 
 ### <a name="to-customize-pricing"></a>Til að sérsníða verðlagningu  
 
-1.  Á verkspjaldinu skal velja **Forði** aðgerðina.  
-2.  Í glugganum **Forðaverð verks** eru eftirfarandi upplýsingar slegnar inn:  
+1. Á verkspjaldinu skal velja **Forði** aðgerðina.  
+2. Í glugganum **Forðaverð verks** eru eftirfarandi upplýsingar slegnar inn:  
 
-    -   **Kóti**: **Trausti**  
-    -   **Einingarverð**: **20**  
+   -   **Kóti**: **Trausti**  
+   -   **Einingarverð**: **20**  
 
-3.  Velja hnappinn **Í lagi** til að loka glugganum.  
-4.  Velja aðgerðina **Vara**.  
-5.  Í glugganum **Verð vöru** eru eftirfarandi upplýsingar slegnar inn og sérsniðið verð:  
+3. Velja hnappinn **Í lagi** til að loka glugganum.  
+4. Velja aðgerðina **Vara**.  
+5. Í glugganum **Verð vöru** eru eftirfarandi upplýsingar slegnar inn og sérsniðið verð:  
 
-    1.  **Vörunr.**: **80201 (teikniforrit)**  
-    2.  **Einingarverð**: **200**  
+   1.  **Vörunr.**: **80201 (teikniforrit)**  
+   2.  **Einingarverð**: **200**  
 
-6.  Velja hnappinn **Í lagi** til að loka glugganum.  
-7.  Veldu aðgerðina **Fjárhagsreikningur**.  
-8.  Í glugganum **Fjárhagsreikningsverð verks** færið inn eftirfarandi upplýsingar og ferðakostnað, sem viðskiptavinur hefur samþykkt að greiða kostnaði og að auki 25 prósent:  
+6. Velja hnappinn **Í lagi** til að loka glugganum.  
+7. Veldu aðgerðina **Fjárhagsreikningur**.  
+8. Í glugganum **Fjárhagsreikningsverð verks** færið inn eftirfarandi upplýsingar og ferðakostnað, sem viðskiptavinur hefur samþykkt að greiða kostnaði og að auki 25 prósent:  
 
-    1.  **Fjárhagsreikningur**: **8430 (Ferðir)**  
-    2.  **Stuðull einingaverðs**:**1,25**  
+   1.  **Fjárhagsreikningur**: **8430 (Ferðir)**  
+   2.  **Stuðull einingaverðs**:**1,25**  
 
 9. Velja hnappinn **Í lagi** til að loka glugganum.  
 
- Síðustu skrefin í uppsetningu verks eru að bæta við verkhlutana og áætlunarlínurnar sem eru hluti af hverju verki. Áætlunarlínurnar ákvarða hvað er reikningsfært á viðskiptamanninn.  
+   Síðustu skrefin í uppsetningu verks eru að bæta við verkhlutana og áætlunarlínurnar sem eru hluti af hverju verki. Áætlunarlínurnar ákvarða hvað er reikningsfært á viðskiptamanninn.  
 
 ### <a name="to-add-job-tasks"></a>Til að bæta við verkhlutum  
 
-1.  Á spjaldinu **Verk** fyrir nýja verkið skal velja aðgerðina **Verkhlutalínur**.  
-2.  Eftirfarandi tafla lýsir upplýsingunum sem ætti að færa inn í reitina.  
+1. Á spjaldinu **Verk** fyrir nýja verkið skal velja aðgerðina **Verkhlutalínur**.  
+2. Eftirfarandi tafla lýsir upplýsingunum sem ætti að færa inn í reitina.  
 
-    |Verkhluta nr.|Description|Tegund verkhluta|  
-    |------------------|---------------------------------------|-------------------|  
-    |1000|Ráðgjöf við uppsetningu á sal|Frá-tala|  
-    |1010|Ráðgefandi fundir með viðskiptavini|Bókun|  
-    |1020|Þróun|Bókun|  
-    |1090|Ráðgjöf alls|Til-tala|  
 
-3.  Til að sýna að ákveðnir verkhlutar séu undirflokkar annarra verkhluta er farið í flipann **Aðgerðir**, flokkinn **Aðgerðir** og **Draga inn verkhluta verks** valið.  
+   | Verkhluta nr. |            Description             | Tegund verkhluta |
+   |--------------|------------------------------------|---------------|
+   |     1000     |      Ráðgjöf við uppsetningu á sal      |  Frá-tala  |
+   |     1010     | Ráðgefandi fundir með viðskiptavini |    Bókun    |
+   |     1020     |            Þróun             |    Bókun    |
+   |     1090     |          Ráðgjöf alls          |   Til-tala   |
 
- Áætlunarlína getur verið ein af eftirfarandi tegundum:  
 
--   **Áætlun**: Bætt við áætlun en ekki reikningsfært.  
--   **Samningur**: Reikningsfærður, en ekki bætt við tímasetninguna.  
--   **Bæði áætlun og samningur**: Reikningsfærð og bætt við tímasetninguna.  
+3. Til að sýna að ákveðnir verkhlutar séu undirflokkar annarra verkhluta er farið í flipann **Aðgerðir**, flokkinn **Aðgerðir** og **Draga inn verkhluta verks** valið.  
 
- Í þessari kynningu. notar verkefnastjórinn **Bæði áætlun og samning**. Hann stofnar þrjár áætlunarlínur fyrir verk 1010 og tvær áætlunarlínur fyrir verk 1020.  
+   Áætlunarlína getur verið ein af eftirfarandi tegundum:  
+
+- **Áætlun**: Bætt við áætlun en ekki reikningsfært.  
+- **Samningur**: Reikningsfærður, en ekki bætt við tímasetninguna.  
+- **Bæði áætlun og samningur**: Reikningsfærð og bætt við tímasetninguna.  
+
+  Í þessari kynningu. notar verkefnastjórinn **Bæði áætlun og samning**. Hann stofnar þrjár áætlunarlínur fyrir verk 1010 og tvær áætlunarlínur fyrir verk 1020.  
 
 ### <a name="to-create-planning-lines"></a>Til að stofna áætlunarlínur  
 
-1.  Veljið línu 1010 og veljið svo aðgerðina **Verkáætlunarlínur**. Eftirfarandi upplýsingar eru færðar inn:  
+1. Veljið línu 1010 og veljið svo aðgerðina **Verkáætlunarlínur**. Eftirfarandi upplýsingar eru færðar inn:  
 
-     **Lína 1**  
+    **Lína 1**  
 
-    -   **Línu tegund**: **Bæði áætlun og samningur**  
-    -   **Dagsetning áætlunar**: **(dagurinn í dag)**  
-    -   **Gerð**: **Forði**  
-    -   **Nr.**: **Trausti**  
-    -   **Magn**: **40**  
+   - **Línu tegund**: **Bæði áætlun og samningur**  
+   - **Dagsetning áætlunar**: **(dagurinn í dag)**  
+   - **Gerð**: **Forði**  
+   - **Nr.**: **Trausti**  
+   - **Magn**: **40**  
 
      **Lína 2**  
 
-    -   **Tegund línu**: **Bæði áætlun og samningur**  
-    -   **Dagsetning áætlunar**: **(dagurinn í dag)**  
-    -   **Gerð**: **Forði**  
-    -   **Nr.**: **Timothy**  
-    -   **Magn**: **40**  
+   - **Tegund línu**: **Bæði áætlun og samningur**  
+   - **Dagsetning áætlunar**: **(dagurinn í dag)**  
+   - **Gerð**: **Forði**  
+   - **Nr.**: **Timothy**  
+   - **Magn**: **40**  
 
      **Lína 3**  
 
-    -   **Línu tegund**: **Bæði áætlun og samningur**  
-    -   **Dagsetning áætlunar**: **(dagurinn í dag)**  
-    -   **Gerð**: **Fjárhagsreikningur**  
-    -   **Nr.**: **8430 (ferðalög)**  
-    -   **Magn**: **2**  
-    -   **Kostnaðarverð**:**400**  
+   - **Línu tegund**: **Bæði áætlun og samningur**  
+   - **Dagsetning áætlunar**: **(dagurinn í dag)**  
+   - **Gerð**: **Fjárhagsreikningur**  
+   - **Nr.**: **8430 (ferðalög)**  
+   - **Magn**: **2**  
+   - **Kostnaðarverð**:**400**  
 
-2.  Velja hnappinn **Í lagi** til að loka glugganum. Samtölurnar eru uppfærðar í glugganum **Verkhlutalínur verks**.  
-3.  Veljið línu 1020 og veljið svo aðgerðina **Verkáætlunarlínur**. Eftirfarandi upplýsingar eru færðar inn:  
+2. Velja hnappinn **Í lagi** til að loka glugganum. Samtölurnar eru uppfærðar í glugganum **Verkhlutalínur verks**.  
+3. Veljið línu 1020 og veljið svo aðgerðina **Verkáætlunarlínur**. Eftirfarandi upplýsingar eru færðar inn:  
 
-     **Lína 1**  
+    **Lína 1**  
 
-    -   **Línu tegund**: **Bæði áætlun og samningur**  
-    -   **Dagsetning áætlunar**: **(dagurinn í dag)**  
-    -   **Gerð**: **Forði**  
-    -   **Nr.**: **Trausti**  
-    -   **Magn**: **80**  
+   - **Línu tegund**: **Bæði áætlun og samningur**  
+   - **Dagsetning áætlunar**: **(dagurinn í dag)**  
+   - **Gerð**: **Forði**  
+   - **Nr.**: **Trausti**  
+   - **Magn**: **80**  
 
      **Lína 2**  
 
-    -   **Línu tegund**: **Bæði áætlun og samningur**  
-    -   **Dagsetning áætlunar**: **(dagurinn í dag)**  
-    -   **Tegund**: **Vara**  
-    -   **Nr.**: **80201 (Myndvinnsluforrit)**  
-    -   **Magn**: **1**  
+   - **Línu tegund**: **Bæði áætlun og samningur**  
+   - **Dagsetning áætlunar**: **(dagurinn í dag)**  
+   - **Tegund**: **Vara**  
+   - **Nr.**: **80201 (Myndvinnsluforrit)**  
+   - **Magn**: **1**  
 
-4.  Velja hnappinn **Í lagi** til að loka glugganum. Samtölur eru uppfærðar í glugganum **Verkhlutalínur verks**.  
+4. Velja hnappinn **Í lagi** til að loka glugganum. Samtölur eru uppfærðar í glugganum **Verkhlutalínur verks**.  
 
 ## <a name="calculating-remaining-usage"></a>Útreikningur á notuðum eftirstöðvum  
  Tinna, sem er teymismeðlimur í verkefninu, hefur unnið í verkinu í nokkurn tíma og vill skrá tímana sína og notkun á verkið. Hún hefur verið unnið fleiri klukkutíma en það sem um var samið við viðskiptavininn. Hún notar keyrsluna **Reikna notaðar eftirstöðvar** til að reikna eftirstöðvar fyrir verk í verkbók. Keyrslan reiknar út, fyrir hvert verk, mismuninn milli áætlaðrar notkunar vöru, forða og fjárhagsútgjalda, og notkunar í raun samkvæmt bókuðum verkbókarfærslum. Eftirstandandi notkun er síðan sýnd í verkbókinni, og má bóka hana þaðan.  
@@ -250,13 +252,13 @@ ms.lasthandoff: 10/23/2017
 
 ### <a name="to-create-a-job-sales-invoice"></a>Stofnun reiknings fyrir verksölu  
 
-1.  Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn **Verk** og velja svo viðeigandi tengil.  
-2.  Veljið verkið sem var stofnað áður og veljið því næst **Stofna verksölureikningur** aðgerðina.  
-3.  Á flýtiflipanum **Verkhluti verks**, skal hreinsa hverja þá afmörkun á **Verkhlutanr. verks** til að reikningsfæra verkið. Í reitnum **Verk nr.** er viðeigandi verk valið.  
-4.  Í flipanum  **Valkostir** er bókunardagsetningin færð inn og skilgreint hvort stofna eigi einn reikning fyrir hvert verk eða einn fyrir öll verk.  
-5.  Velja hnappinn **Í lagi** til að stofna reikninginn og velja svo **Í lagi** í staðfestingarglugganum.  
+1. Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn **Verk** og velja svo viðeigandi tengil.  
+2. Veljið verkið sem var stofnað áður og veljið því næst **Stofna verksölureikningur** aðgerðina.  
+3. Á flýtiflipanum **Verkhluti verks**, skal hreinsa hverja þá afmörkun á **Verkhlutanr. verks** til að reikningsfæra verkið. Í reitnum **Verk nr.** er viðeigandi verk valið.  
+4. Í flipanum  **Valkostir** er bókunardagsetningin færð inn og skilgreint hvort stofna eigi einn reikning fyrir hvert verk eða einn fyrir öll verk.  
+5. Velja hnappinn **Í lagi** til að stofna reikninginn og velja svo **Í lagi** í staðfestingarglugganum.  
 
- Eftir að Tricia stofnar reikninginn getur hún nálgast hann frá **Sala og Markaðssetning** undir **Vinnsla pantana** og gert aukavinnslu.  
+   Eftir að Tricia stofnar reikninginn getur hún nálgast hann frá **Sala og Markaðssetning** undir **Vinnsla pantana** og gert aukavinnslu.  
 
 ### <a name="to-post-a-new-sales-invoice"></a>Nýr sölureikningur bókaður  
 
@@ -266,11 +268,11 @@ ms.lasthandoff: 10/23/2017
 
 ### <a name="to-view-the-posted-invoice"></a>Bókaðir reikningar skoðaðir  
 
-1.  Opnið verkið og veljið svo aðgerðina **Verkáætlunarlínur**.  
-2.  Veljið einhverja af áætlunarlínunum hafa verið reikningsfærðar og veljið síðan **Sölureikningar/kreditreikningar** aðgerðina.
+1. Opnið verkið og veljið svo aðgerðina **Verkáætlunarlínur**.  
+2. Veljið einhverja af áætlunarlínunum hafa verið reikningsfærðar og veljið síðan **Sölureikningar/kreditreikningar** aðgerðina.
 3. Í glugganum **Verkreikningar** skal velja aðgerðina **Opna sölureikning/kreditreikning**.  
 
- Svör við spurningum varðandi verð, kostnað og ágóða í verkinu má finna í glugganum **Tölfræði**.  
+   Svör við spurningum varðandi verð, kostnað og ágóða í verkinu má finna í glugganum **Tölfræði**.  
 
 ### <a name="to-open-the-statistics-window"></a>Tölfræðiglugginn opnaður  
 
@@ -283,69 +285,69 @@ ms.lasthandoff: 10/23/2017
 
 ### <a name="to-manage-fixed-pricing-in-jobs"></a>Föstu verði verka stýrt  
 
-1.  Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn **Verk** og velja svo viðeigandi tengil.  
-2.  **Guildford** verknúmerið er valið og svo er valin **Verkhlutalínur verks** aðgerðina.  
-3.  Lína 1120 er valin og í reitnum **Tímasetning (heildarkostnaður)** er hægrismellt á upphæðina og valið **Köfun**.  
+1. Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn **Verk** og velja svo viðeigandi tengil.  
+2. **Guildford** verknúmerið er valið og svo er valin **Verkhlutalínur verks** aðgerðina.  
+3. Lína 1120 er valin og í reitnum **Tímasetning (heildarkostnaður)** er hægrismellt á upphæðina og valið **Köfun**.  
 
-     Með því að endurskoða verkáætlunarlínur, ákvarðar Petra að einnig þurfi að nota Trausta í 30 klukkustundir vegna þessa stigs verksins. Hann semur um fast verð við viðskiptavininn.  
+    Með því að endurskoða verkáætlunarlínur, ákvarðar Petra að einnig þurfi að nota Trausta í 30 klukkustundir vegna þessa stigs verksins. Hann semur um fast verð við viðskiptavininn.  
 
-4.  Í glugganum **Verkhlutalínur** veljið línu 1120 og veljið svo aðgerðina **Verkáætlunarlínur**.  
-5.  Veljið aðgerðina **Nýtt** til að Búa til nýtt Ný lína er stofnuð með eftirfarandi upplýsingum:  
+4. Í glugganum **Verkhlutalínur** veljið línu 1120 og veljið svo aðgerðina **Verkáætlunarlínur**.  
+5. Veljið aðgerðina **Nýtt** til að Búa til nýtt Ný lína er stofnuð með eftirfarandi upplýsingum:  
 
-    -   **Línu tegund**: **Bæði áætlun og samningur**  
-    -   **Gerð**: **Forði**  
-    -   **Nr.**: **Trausti**  
-    -   **Magn**: **30**  
+   -   **Línu tegund**: **Bæði áætlun og samningur**  
+   -   **Gerð**: **Forði**  
+   -   **Nr.**: **Trausti**  
+   -   **Magn**: **30**  
 
-7.  Velja hnappinn **Í lagi** til að loka glugganum.  
-8.  Í reitnum **Tímasetning (heildarkostnaður)**, hægrismella á reitinn og velja **KafaNiður** aftur í glugganum **Verkhlutalínur verks**. Skoða breytingarnar á tímasetningunni. Sjá má að 30 klukkustundum hefur verið bætt við tímasetninguna.  
-9. Velja hnappinn **Í lagi** til að loka glugganum.  
+6. Velja hnappinn **Í lagi** til að loka glugganum.  
+7. Í reitnum **Tímasetning (heildarkostnaður)**, hægrismella á reitinn og velja **KafaNiður** aftur í glugganum **Verkhlutalínur verks**. Skoða breytingarnar á tímasetningunni. Sjá má að 30 klukkustundum hefur verið bætt við tímasetninguna.  
+8. Velja hnappinn **Í lagi** til að loka glugganum.  
 
- Eftir að Trausta hefur verið bætt við tímasetninguna í þessa verkhlutalínu þá vinnur hann 25 klukkustundir við verkið. Þessar klukkustundir færir hún inn í Verkbókina.  
+   Eftir að Trausta hefur verið bætt við tímasetninguna í þessa verkhlutalínu þá vinnur hann 25 klukkustundir við verkið. Þessar klukkustundir færir hún inn í Verkbókina.  
 
 ### <a name="to-enter-hours-in-the-job-journal"></a>Tímum bætt í Verkbókina  
 
-1.  Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn **Verkbækur** og velja svo viðeigandi tengil.  
-2.  Eftirfarandi upplýsingar eru slegnar inn á nýja línu:  
+1. Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn **Verkbækur** og velja svo viðeigandi tengil.  
+2. Eftirfarandi upplýsingar eru slegnar inn á nýja línu:  
 
-    -   **Tegund línu**: **(autt)**  
-    -   **Dagsetning bókunar**: **(dagurinn í dag)**  
-    -   **Númer fylgiskjals**: **J00002**  
-    -   **Verk Nr.**: **Guildford**  
-    -   **Verkhlutanr.**: **1120**  
-    -   **Gerð**: **Forði**  
-    -   **Nr.**: **Trausti**  
-    -   **Magn**: **25**  
+   -   **Tegund línu**: **(autt)**  
+   -   **Dagsetning bókunar**: **(dagurinn í dag)**  
+   -   **Númer fylgiskjals**: **J00002**  
+   -   **Verk Nr.**: **Guildford**  
+   -   **Verkhlutanr.**: **1120**  
+   -   **Gerð**: **Forði**  
+   -   **Nr.**: **Trausti**  
+   -   **Magn**: **25**  
 
-3.  Valið er **Bóka** aðgerðin.  
+3. Valið er **Bóka** aðgerðin.  
 
-     Nokkrum dögum síðar vinnur Trausti í aðra 10 tíma við verkið. Hann hefur nú unnið 35 tíma alls. Þar sem samningurinn er fyrir 30 tíma við viðskiptavininn munu aðeins fimm þessara tíma vera færðir á viðskiptavininn. Tinna mun bæta aukatímunum fimm sem hún vann við áætlunina handvirkt.  
+    Nokkrum dögum síðar vinnur Trausti í aðra 10 tíma við verkið. Hann hefur nú unnið 35 tíma alls. Þar sem samningurinn er fyrir 30 tíma við viðskiptavininn munu aðeins fimm þessara tíma vera færðir á viðskiptavininn. Tinna mun bæta aukatímunum fimm sem hún vann við áætlunina handvirkt.  
 
-4.  Í glugganum **Verkbók** veljið aðgerðina **Reikna eftirstandandi notkun**.  
-5.  Í glugganum **Reiknaðar eftirstöðvar notkunar verks** á flýtiflipanum **Valkostir** þarf að færa inn eftirfarandi upplýsingar:  
+4. Í glugganum **Verkbók** veljið aðgerðina **Reikna eftirstandandi notkun**.  
+5. Í glugganum **Reiknaðar eftirstöðvar notkunar verks** á flýtiflipanum **Valkostir** þarf að færa inn eftirfarandi upplýsingar:  
 
-    -   **Númer fylgiskjals**: **J00003**  
-    -   **Dagsetning bókunar**: **(dagurinn í dag)**  
+   -   **Númer fylgiskjals**: **J00003**  
+   -   **Dagsetning bókunar**: **(dagurinn í dag)**  
 
-6.  Eftirfarandi upplýsingar eru færðar inn á flýtiflipanum **Verkhluti verks**:  
+6. Eftirfarandi upplýsingar eru færðar inn á flýtiflipanum **Verkhluti verks**:  
 
-    -   **Verk Nr.**: **Guildford**  
-    -   **Verkhlutanr.**: **1120**  
+   - **Verk Nr.**: **Guildford**  
+   - **Verkhlutanr.**: **1120**  
 
      Velja hnappinn **Í lagi** til að keyra útreikninginn. Fimm vinnustundir eru eftir fyrir Tinnu. Reiturinn **Línugerð** er auður sem gefur til kynna að tímarnir verða bókaðir vegna þess að vinnan hefur þegar farið fram.  
 
-7.  Í glugganum **Verkbókakeyrslur** er ný lína stofnuð með eftirfarandi upplýsingum. Ganga þarf úr skugga um að bæði verknúmer séu í réttri númeraröð miðað við þau sem þegar hafa verið notuð:  
+7. Í glugganum **Verkbókakeyrslur** er ný lína stofnuð með eftirfarandi upplýsingum. Ganga þarf úr skugga um að bæði verknúmer séu í réttri númeraröð miðað við þau sem þegar hafa verið notuð:  
 
-    -   **Tegund línu**: **Áætlun**  
-    -   **Verk Nr.**: **Guildford**  
-    -   **Verkhlutanr.**: **1120**  
-    -   **Gerð**: **Forði**  
-    -   **Nr.**: **Trausti**  
-    -   **Magn**: **5**  
+   - **Tegund línu**: **Áætlun**  
+   - **Verk Nr.**: **Guildford**  
+   - **Verkhlutanr.**: **1120**  
+   - **Gerð**: **Forði**  
+   - **Nr.**: **Trausti**  
+   - **Magn**: **5**  
 
      Með því að nota línugerðina **Áætlun** uppfærir kerfið áætlaðan kostnað og verð án uppfærslu samningskostnaðar og verðs sem er reikningsfært á viðskiptamanninn.  
 
-8.  Valið er **Bóka** aðgerðin. Velja hnappinn **Í lagi** til að loka glugganum.  
+8. Valið er **Bóka** aðgerðin. Velja hnappinn **Í lagi** til að loka glugganum.  
 9. Listinn **Verk** er opnaður.  
 10. Guildford verkið er valið og svo er valin **Verkhlutalínur verks** aðgerðina.  
 11. Lína 1120 er valin og í reitnum **Tímasetning (heildarkostnaður)** er hægrismellt á upphæðina. **Köfun** er valin til að skoða upplýsingarnar.  
@@ -389,84 +391,86 @@ ms.lasthandoff: 10/23/2017
 
 ### <a name="to-set-up-a-new-account"></a>Að setja upp nýjan reikning  
 
-1.  Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn **bókhaldslykill** og velja svo viðeigandi tengil.  
-2.  Í glugganum **Bókhaldslykill** skal velja aðgerðina **Nýtt** til að stofna nýtt spjald.  
-3.  Á spjaldið **Nýr fjárhagsreikningur** eru færðar inn eftirfarandi upplýsingar:  
+1. Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn **bókhaldslykill** og velja svo viðeigandi tengil.  
+2. Í glugganum **Bókhaldslykill** skal velja aðgerðina **Nýtt** til að stofna nýtt spjald.  
+3. Á spjaldið **Nýr fjárhagsreikningur** eru færðar inn eftirfarandi upplýsingar:  
 
-    -   **Nr.**: **6630**  
-    -   **Heiti**: **Greiðsla fyrir verk**  
+   -   **Nr.**: **6630**  
+   -   **Heiti**: **Greiðsla fyrir verk**  
 
-4.  Á flipanum **Bókun** er reiturinn **Alm. vörubókunarflokkur** fylltur út, velja **ÝMISL**. Velja hnappinn **Í lagi** til að loka glugganum.  
-5.  Í glugganum **Bókhaldslykill** veljið **Nr. 6630 greiðsla fyrir verk** og svo aðgerðina **Inndráttur bókhaldslykill**. Veljið **Já** til staðfestingar.  
+4. Á flipanum **Bókun** er reiturinn **Alm. vörubókunarflokkur** fylltur út, velja **ÝMISL**. Velja hnappinn **Í lagi** til að loka glugganum.  
+5. Í glugganum **Bókhaldslykill** veljið **Nr. 6630 greiðsla fyrir verk** og svo aðgerðina **Inndráttur bókhaldslykill**. Veljið **Já** til staðfestingar.  
 
- Eftirfarandi ferli sýnir hvernig eigi að stofna nýtt verk, stilla verðlagningu og síðan setja upp greiðslur með inngreiðslu. Í verkhlutalínu er hægt að stofna sérstakar línur fyrir greiðslur með inngreiðslum. Vinna sem lokið er við fyrir verkið sem er bætt við áætlunina eru færðar inn í notkunarlínurnar. Fyrir hverja greiðsluhlutalínu í áætlunarlínunum, er línugerðin Samningur, sem þýðir að reikningur verður sendur til viðskiptamanns. Færð er inn ný lína fyrir útborgunina. Í notkunarverklínuna er hægt að færa inn upplýsingar um vörur og forða sem notuð voru í verkið, sem mun auka við áætlunina, t.d. vinnutíma starfsmanna og vörur sem notaðar voru í verkið.  
+   Eftirfarandi ferli sýnir hvernig eigi að stofna nýtt verk, stilla verðlagningu og síðan setja upp greiðslur með inngreiðslu. Í verkhlutalínu er hægt að stofna sérstakar línur fyrir greiðslur með inngreiðslum. Vinna sem lokið er við fyrir verkið sem er bætt við áætlunina eru færðar inn í notkunarlínurnar. Fyrir hverja greiðsluhlutalínu í áætlunarlínunum, er línugerðin Samningur, sem þýðir að reikningur verður sendur til viðskiptamanns. Færð er inn ný lína fyrir útborgunina. Í notkunarverklínuna er hægt að færa inn upplýsingar um vörur og forða sem notuð voru í verkið, sem mun auka við áætlunina, t.d. vinnutíma starfsmanna og vörur sem notaðar voru í verkið.  
 
 ### <a name="to-make-a-payment-by-installment"></a>Framkvæma greiðslu með inngreiðslu  
 
-1.  Nýtt verk er stofnað.  
-2.  Eftirfarandi upplýsingar eru færðar inn á nýja **Verk** spjaldinu:  
+1. Nýtt verk er stofnað.  
+2. Eftirfarandi upplýsingar eru færðar inn á nýja **Verk** spjaldinu:  
 
-    -   **Lýsing**: **Endurhönnun á móttöku**  
-    -   **Reikningsfærist á viðskiptamenn Nr.**: **30000**  
-    -   **Bókunarflokkur verka**: **Uppsetning**  
-    -   **VÍV-aðferð**: **Kostnaðarvirði**  
+   -   **Lýsing**: **Endurhönnun á móttöku**  
+   -   **Reikningsfærist á viðskiptamenn Nr.**: **30000**  
+   -   **Bókunarflokkur verka**: **Uppsetning**  
+   -   **VÍV-aðferð**: **Kostnaðarvirði**  
 
-3.  Á verkspjaldinu skal velja **Forði** aðgerðina. Eftirfarandi upplýsingar eru færðar inn:  
+3. Á verkspjaldinu skal velja **Forði** aðgerðina. Eftirfarandi upplýsingar eru færðar inn:  
 
-    -   **Kóti**: **Trausti**  
-    -   **Einingarverð**: **10**  
-
-     Velja hnappinn **Í lagi** til að loka glugganum.  
-
-4.  Á spjaldinu **Verk** skal velja **Verkhlutalínur** aðgerðina.  
-
-     Eftirfarandi tafla lýsir línunum sem óskað er eftir að stofna.  
-
-    |Lína|Verkhluta nr.|Description|Tegund verkhluta|  
-    |----------|------------------|---------------------------------------|-------------------|  
-    |0|1000|Greiðsla - Útborgun|Bókun|  
-    |2|2000|Notkun|Bókun|  
-    |3|3 000|Greiðsla - Hálfnað|Bókun|  
-    |4|4 000|Greiðsla - Lokið|Bókun|  
-
-5.  Í glugganum **Verkhlutalínur** veljið verk 1000 og veljið svo aðgerðina **Verkáætlunarlínur**.  
-6.  Stofna áætlunarlínu með eftirfarandi upplýsingum:  
-
-    -   **Tegund línu**: **Samningur**  
-    -   **Dagsetning áætlunar**:  **(dagurinn í dag)**  
-    -   **Gerð**: **Fjárhagsreikningur**  
-    -   **Nr.**: **6630**  
-    -   **Magn**: **1**  
-    -   **Einingarverð**: **5000**  
+   - **Kóti**: **Trausti**  
+   - **Einingarverð**: **10**  
 
      Velja hnappinn **Í lagi** til að loka glugganum.  
 
-7.  Í glugganum **Verkhlutalínur** veljið **Verk 2000** og opnið **Áætlunarlínur verks**.  
+4. Á spjaldinu **Verk** skal velja **Verkhlutalínur** aðgerðina.  
 
-     Eftirfarandi tafla lýsir áætlunarlínunum sem óskað er eftir að stofna.  
+    Eftirfarandi tafla lýsir línunum sem óskað er eftir að stofna.  
 
-    |Lína|Línugerð|Áætlunardagsetning|Tegund|Fj.|Magn|  
-    |----------|---------------|-------------------|----------|---------|--------------|  
-    |1|Tímasetning|(dagurinn í dag)|Forði|Tinna|120|  
-    |2|Tímasetning|(dagurinn í dag)|Vara|70104|10|  
 
-     Velja hnappinn **Í lagi** til að loka glugganum. Í glugganum **Verkhlutalínur** er hægt að skoða áætlaðar upphæðir sem voru uppfærðar.  
+   | Lína | Verkhluta nr. |     Description      | Tegund verkhluta |
+   |------|--------------|----------------------|---------------|
+   |  0   |     1000     | Greiðsla - Útborgun |    Bókun    |
+   |  2   |     2000     |        Notkun         |    Bókun    |
+   |  3   |     3 000     |   Greiðsla - Hálfnað   |    Bókun    |
+   |  4   |     4 000     | Greiðsla - Lokið |    Bókun    |
 
-8.  Í glugganum **Verkhlutalínur verks** er verk **3000**.  
+
+5. Í glugganum **Verkhlutalínur** veljið verk 1000 og veljið svo aðgerðina **Verkáætlunarlínur**.  
+6. Stofna áætlunarlínu með eftirfarandi upplýsingum:  
+
+   - **Tegund línu**: **Samningur**  
+   - **Dagsetning áætlunar**:  **(dagurinn í dag)**  
+   - **Gerð**: **Fjárhagsreikningur**  
+   - **Nr.**: **6630**  
+   - **Magn**: **1**  
+   - **Einingarverð**: **5000**  
+
+     Velja hnappinn **Í lagi** til að loka glugganum.  
+
+7. Í glugganum **Verkhlutalínur** veljið **Verk 2000** og opnið **Áætlunarlínur verks**.  
+
+    Eftirfarandi tafla lýsir áætlunarlínunum sem óskað er eftir að stofna.  
+
+   |Lína|Línugerð|Áætlunardagsetning|Tegund|Fj.|Magn|  
+   |----------|---------------|-------------------|----------|---------|--------------|  
+   |1|Tímasetning|(dagurinn í dag)|Forði|Tinna|120|  
+   |2|Tímasetning|(dagurinn í dag)|Vara|70104|10|  
+
+    Velja hnappinn **Í lagi** til að loka glugganum. Í glugganum **Verkhlutalínur** er hægt að skoða áætlaðar upphæðir sem voru uppfærðar.  
+
+8. Í glugganum **Verkhlutalínur verks** er verk **3000**.  
 9. Stofna áætlunarlínu með eftirfarandi upplýsingum:  
 
-    -   **Tegund línu**: **Samningur**  
-    -   **Áætlunardagsetning**: **ókominn dagur**  
-    -   **Gerð**: **Fjárhagsreikningur**  
-    -   **Nr.**: **6630**  
-    -   **Magn**: **1**  
-    -   **Einingarverð**: **5000**  
+   - **Tegund línu**: **Samningur**  
+   - **Áætlunardagsetning**: **ókominn dagur**  
+   - **Gerð**: **Fjárhagsreikningur**  
+   - **Nr.**: **6630**  
+   - **Magn**: **1**  
+   - **Einingarverð**: **5000**  
 
      Velja hnappinn **Í lagi** til að loka glugganum.  
 
 10. Stofna svipaða áætlunarlínufærslu fyrir verkhluta 4000.  
 
- Nú þegar verk- og áætlunarlínurnar eru útfylltar býr Petra til reikning fyrir fyrstu greiðsluna. Hann gerir slíkt úr verkhlutalínunum til að tryggja að reikningurinn innihaldi aðeins línur fyrir fyrstu greiðsluna. Hægt er að opna sölupöntunina úr áætlunarlínunum eða verklínunum.  
+    Nú þegar verk- og áætlunarlínurnar eru útfylltar býr Petra til reikning fyrir fyrstu greiðsluna. Hann gerir slíkt úr verkhlutalínunum til að tryggja að reikningurinn innihaldi aðeins línur fyrir fyrstu greiðsluna. Hægt er að opna sölupöntunina úr áætlunarlínunum eða verklínunum.  
 
 ### <a name="to-create-an-invoice"></a>Til að stofna reikning  
 

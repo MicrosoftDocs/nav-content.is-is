@@ -77,5 +77,5 @@ Lánardrottnarnir munu nú birtast í **Vörulisti lánardrottins** glugganum, s
   [Sala](sales-manage-sales.md)  
   [Unnið með [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](ui-work-product.md)
 
-##
+# #
 

@@ -42,12 +42,12 @@ Glugginn **Skráningar kreditmillifærslna** er notaður til að skoða greiðsl
     Öll villuboð birtast í **Villur í greiðsluskrá** upplýsingareitnum þar sem þú getur einnig valið villuboð til að sjá ítarlegar upplýsingar. Leysa þarf úr öllum villum áður en hægt er að flytja út greiðsluskrána.
 
     > [!TIP]  
->   Þegar þú notar umskráningarþjónustu fyrir bankagögn er algeng villa sú að bankareikningsnúmerið sé ekki með lengdina sem bankinn fer fram á. Til að forðast villuna eða leysa úr henni þarf að fjarlægja gildið í **IBAN** reitnum **Bankareikningsspjald** glugganum og svo, í **Nr. Bankareiknings** reitnum, slá inn bankareikningsnúmer á því sniði sem bankinn fer fram á.
+   >   Þegar þú notar umskráningarþjónustu fyrir bankagögn er algeng villa sú að bankareikningsnúmerið sé ekki með lengdina sem bankinn fer fram á. Til að forðast villuna eða leysa úr henni þarf að fjarlægja gildið í **IBAN** reitnum **Bankareikningsspjald** glugganum og svo, í **Nr. Bankareiknings** reitnum, slá inn bankareikningsnúmer á því sniði sem bankinn fer fram á.
 
 6. Í glugganum **Vista sem** skal tilgreina staðsetninguna þangað sem skráin er flutt út og velja svo **Vista**.
 
     > [!NOTE]  
->   Ef þú ertu að nota EFT, vistaðu þá tilbúna lánardrottinn greiðslu formið sem word-skjal eða láta það sent beint til lánardrottins með tölvupósti. Greiðslur eru nú bætt á **Búa til EFT skrá** gluggann, þar sem hægt að setja saman fjölgreiðslupantanir til að spara miðlaunarkostnaður. Nánari upplýsingar, sjá eftirfarandi skref.
+   >   Ef þú ertu að nota EFT, vistaðu þá tilbúna lánardrottinn greiðslu formið sem word-skjal eða láta það sent beint til lánardrottins með tölvupósti. Greiðslur eru nú bætt á **Búa til EFT skrá** gluggann, þar sem hægt að setja saman fjölgreiðslupantanir til að spara miðlaunarkostnaður. Nánari upplýsingar, sjá eftirfarandi skref.
 7. Í **Greiðslubók** glugga, er valið **Búa til EFT skrá** aðgerðina.
 
     Í glugganum **Búa til EFT skrá** eru allar greiðslur uppsettar fyrir EFT, sem þú hefur flutt út úr greiðslubókinni fyrir tilgreinda bankareikninga en hefur enn ekki búið til, tilgreindar á **Línur** Flýtiflipanum.
@@ -59,11 +59,11 @@ Bankagreiðsluskráin er flutt út á staðsetningu sem þú tilgreinir, og hæg
 ## <a name="to-export-payments-that-represent-customer-refunds"></a>Til að flytja út greiðslur sem tákna endurgreiðslum viðskiptamanns
 Eftirfarandi lýsir hvernig hægt er að vinna í kringum vandamál varðandi útflutning á rafrænar endurgreiðsla.
 
-> [!CAUTION]  
+> [!CAUTION]
 >   Tilbúin greiðsla færslubókarlínurnar er ekki hægt að bóka, eytt eða ógildur.
-1. Setja viðskiptamann upp sem lánardrottinn. Gefið því heitið „Viðskiptamaður X fyrir endurgreiðslur“, til dæmis. Nánari upplýsingar eru í [Hvernig á að skrá nýjan lánardrottnar](purchasing-how-register-new-vendors.md).
-2. Á greiðslubókarlínuna fyrir viðskiptamanninn, setjið **Reikningstegund** reitinn á **Viðskiptamanns**, og **Skjalategund** reitinn á **Endurgreiðsla**.
-3. Framkvæma venjulegur verkstigin til útflutnings greiðslu eins og lýst er í hlutanum „Að flytja út greiðslur til bankaskráar".
+> 1. Setja viðskiptamann upp sem lánardrottinn. Gefið því heitið „Viðskiptamaður X fyrir endurgreiðslur“, til dæmis. Nánari upplýsingar eru í [Hvernig á að skrá nýjan lánardrottnar](purchasing-how-register-new-vendors.md).
+> 2. Á greiðslubókarlínuna fyrir viðskiptamanninn, setjið **Reikningstegund** reitinn á **Viðskiptamanns**, og **Skjalategund** reitinn á **Endurgreiðsla**.
+> 3. Framkvæma venjulegur verkstigin til útflutnings greiðslu eins og lýst er í hlutanum „Að flytja út greiðslur til bankaskráar".
 
 ## <a name="to-plan-when-to-post-exported-payments"></a>Til að áætla hvenær á að bóka útfluttar greiðslur
 Ef þú vilt ekki bóka greiðslubókarlínu fyrir útflutta greiðslu, t.d. vegna þess að þú ert að bíða eftir staðfestingu á því að færslan hafi verið meðhöndluð af bankanum geturðu einfaldlega eytt línunni. Þegar þú síðar stofnar greiðslubókarlínu til að greiða eftirstandandi upphæð á reikningnum sýnir reiturinn **Heildarupphæð flutt út** hversu mikið af greiðsluupphæðinni hefur þegar verið flutt út. Þú getur einnig fundið ítarlegar upplýsingar um heildarupphæðir sem hafa verið fluttar út með því að velja hnappinn **Skráningarfærslur kreditmillifærslna** til að sjá upplýsingar um útfluttar greiðsluskrár.

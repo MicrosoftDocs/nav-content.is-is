@@ -112,11 +112,11 @@ Upplýsingar um afhendingu þjónustulínuvara með ítarlegum vöruhúsaaðger�
 3. Veldu **Aðgerðir**, velja **Afhending** og velja svo **Þjónustuafhendingarlínur**.  
 4. Veldu línur sem innihalda ranga notkun, og veldu svo aðgerðina **Afturkalla notkun**.  
   
- Þjónustuafhendingarlína er færð inn með neikvæðu virði í magnreitum fyrir valdar línur.  
+   Þjónustuafhendingarlína er færð inn með neikvæðu virði í magnreitum fyrir valdar línur.  
   
-> [!NOTE]  
+> [!NOTE]
 >  Ekki er hægt að afturkalla þjónustunotkun ef:  
-
+> 
 >    * Þjónustupöntuninni hefur verið lokað.  
 >    * Búið er að bóka í verksvæði, þannig að verkfærslur eru tengdar þessari notkun.  
   

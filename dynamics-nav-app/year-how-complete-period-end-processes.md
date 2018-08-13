@@ -9,7 +9,7 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: year closing, close accounting period, close fiscal year, aging, creditor payments, vendor payments
-ms.date: 06/19/2017
+ms.date: 08/10/2018
 ms.author: jswymer
 ms.translationtype: HT
 ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
@@ -45,14 +45,14 @@ ms.lasthandoff: 10/16/2017
 * Skýrslan **Aldursgreindar skuldir** er keyrð og skuldir stemmdar af við fjárhaginn.  
 * Runuvinnslan **Eyða reikningsf. innk.pöntunum** er keyrð.  
 
-Eignir
+## <a name="fixed-assets"></a>Eignir
 * Allur viðhaldskostnaður hefur verið bókaður í gegnum Eignabók eða Reikningar
 * Leiðréttingar eru bókaðar
 * Uppfærsla er bókuð
 * Afskriftir eru bókaðar
 * Ítrekunarbók eigna er uppfærð og bókuð.
 
-Milli fyrirtækja
+## <a name="intercompany"></a>Milli fyrirtækja
 * Vinna úr færslum á milli fyrirtækja
 
 ## <a name="calculate-and-process-sales-tax"></a>VSK er reiknaður og unninn

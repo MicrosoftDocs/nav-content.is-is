@@ -58,7 +58,7 @@ Til að rekja breytingar og fá myndrænt yfirlit yfir þjónustufyrirtækið m�
 5. Í reitnum **númer** veljið viðeigandi varahlut.  
 6. Í reitinn **Magn** er fært magn vara sem á að nota.  
   
- Hægt er að nota svipaða aðferð til að skrá varahluti í síðuna **Þjónustulínur** sem hægt er að opna frá síðunni **Þjónustupöntun**.  
+   Hægt er að nota svipaða aðferð til að skrá varahluti í síðuna **Þjónustulínur** sem hægt er að opna frá síðunni **Þjónustupöntun**.  
   
 ## <a name="to-register-spare-parts-from-a-service-order"></a>Til að skrá varahluti úr þjónustupöntun  
 1. Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn  **Þjónustupantanir** og velja svo viðeigandi tengil.  
@@ -99,8 +99,8 @@ Til að rekja breytingar og fá myndrænt yfirlit yfir þjónustufyrirtækið m�
 2. Valin er línan sem inniheldur viðeigandi þjónustuvöru og síðan skal velja **Vörublað** aðgerðin.  
 3. Á síðunni **Þjónustuvörublað** er valið **Tengsl úrlausnar-/bilanakóða**. Þá birtist glugginn **Tengsl bilunar/úrlausnarkóta**.  
   
-  >  [!Note]
-  >  Afmarkanir eru settar á tengslin sem birtast í glugganum með því að afrita þjónustuvöruflokkinn og bilanakótana úr glugganum **Þjónustuvörublað**.  
+   > [!Note]
+   >  Afmarkanir eru settar á tengslin sem birtast í glugganum með því að afrita þjónustuvöruflokkinn og bilanakótana úr glugganum **Þjónustuvörublað**.  
   
 4. Línan er fyllt út. Valin er samsetning bilana- og úrlausnarkóta og svo smellt á **Í lagi** til að afrita hana í þjónustuvöruna. Ef ekki finnst heppileg samsetning má búa til nýja í glugganum.  
 

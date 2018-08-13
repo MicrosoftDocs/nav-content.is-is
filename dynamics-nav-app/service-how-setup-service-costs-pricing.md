@@ -31,10 +31,10 @@ Setja má upp hópa með þjónustuvöru sem á að njóta sömu sérþjónustuv
 2. Nýr þjónustuverðflokkur er stofnaður.  
 3. Fyllt er í reitina **Kóti** og **Lýsing**.  
 4. Veldu aðgerðina **Uppsetning**.  
-2. Fyllið inn í reitina eftir þörfum. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
+5. Fyllið inn í reitina eftir þörfum. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
 
- > [!Tip]
- > Reitirnir **Leiðréttingargerð** og **Upphæð** vinna saman til að tilgreina hvort leiðrétting feli í sér fasta upphæð eða eigi aðeins við þegar heildarþjónustuverð er hærra eða lægra en upphæðin í reitnum **Upphæð**.  
+   > [!Tip]
+   > Reitirnir **Leiðréttingargerð** og **Upphæð** vinna saman til að tilgreina hvort leiðrétting feli í sér fasta upphæð eða eigi aðeins við þegar heildarþjónustuverð er hærra eða lægra en upphæðin í reitnum **Upphæð**.  
 
 ## <a name="to-set-up-a-service-price-adjustment-group"></a>Uppsetning þjónustuverðleiðréttingarflokka  
 Þú getur setja upp verðleiðréttingaflokka til að leiðrétta þjónustuverðlagningu vegna þjónustuvöru. Til dæmis má setja upp verðleiðréttingarflokka sem leiðrétta verð á flutningi eða varahlutum.  

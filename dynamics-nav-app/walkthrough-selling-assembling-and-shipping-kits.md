@@ -208,35 +208,37 @@ Sammy pakkar tíu ATS-einingar með ATO-einingunum fimm sem Linda setti saman fy
 
 ### <a name="selling-the-assembly-items"></a>Sala samsetningaríhluta  
 
-1.  Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn  **Sölupantanir** og velja svo viðeigandi tengil.  
-2.  Á flipanum **Heim** í flokknum **Stjórna** veljið **Nýtt**.  
-3.  Stofna tvær sölupöntunarlínur fyrir viðskiptamann 62000, The Device Shop, á vinnudagsetningunni með eftirfarandi upplýsingum.  
+1. Velja skal ![Leit að síðu eða skýrslu](media/ui-search/search_small.png "Leit að síðu eða skýrslu táknið") tákn, slá inn  **Sölupantanir** og velja svo viðeigandi tengil.  
+2. Á flipanum **Heim** í flokknum **Stjórna** veljið **Nýtt**.  
+3. Stofna tvær sölupöntunarlínur fyrir viðskiptamann 62000, The Device Shop, á vinnudagsetningunni með eftirfarandi upplýsingum.  
 
-    |**Tegund**|**Lýsing**|**Magn**|Magn til samsetningar til pöntunar|Afh.dags|  
-    |--------------|---------------------|------------------|-------------------------------|-------------------|  
-    |Vara|Sett B – Pro PC|3|3|23. janúar|  
-    |Vara|Sett A – Grunn-PC|15|5|27. janúar|  
+   |**Tegund**|**Lýsing**|**Magn**|Magn til samsetningar til pöntunar|Afh.dags|  
+   |--------------|---------------------|------------------|-------------------------------|-------------------|  
+   |Vara|Sett B – Pro PC|3|3|23. janúar|  
+   |Vara|Sett A – Grunn-PC|15|5|27. janúar|  
 
-    > [!NOTE]  
-    >  Eftirfarandi ráðstöfunarvandamál eru til fyrir sölupöntunarlínuna fyrir sett B:  
-    >   
-    >  -   Samsetningaríhlutur 80210 er ekki tiltækur. Þetta þýðir að ekki er hægt að setja saman tilgreindu einingarnar þrjár af setti B, eins og gefið er til kynna með **0** í reitnum **Hægt að setja saman** í glugganum **Samsetningarráðstöfun**.  
-    >   
-    >  Eftirfarandi ráðstöfunarvandamál eru til fyrir sölupöntunarlínuna fyrir sett A:  
-    >   
-    >  -   Tíu einingar af setti A eru ekki í boði. Þetta gefur áætlunarkerfinu til kynna að magnið þarfnist samsetningar í birgðir.  
+   > [!NOTE]
+   >  Eftirfarandi ráðstöfunarvandamál eru til fyrir sölupöntunarlínuna fyrir sett B:  
+   > 
+   > - Samsetningaríhlutur 80210 er ekki tiltækur. Þetta þýðir að ekki er hægt að setja saman tilgreindu einingarnar þrjár af setti B, eins og gefið er til kynna með **0** í reitnum **Hægt að setja saman** í glugganum **Samsetningarráðstöfun**.  
+   > 
+   >   Eftirfarandi ráðstöfunarvandamál eru til fyrir sölupöntunarlínuna fyrir sett A:  
+   > 
+   > - Tíu einingar af setti A eru ekki í boði. Þetta gefur áætlunarkerfinu til kynna að magnið þarfnist samsetningar í birgðir.  
 
-    Næsta skal sérstillt sölupöntun.  
+   Næsta skal sérstillt sölupöntun.  
 
-4.  Veljið sölupöntunarlínuna fyrir þrjár einingar af setti B.  
-5.  Á flýtiflipanum skal velja **Línur**, velja **Lína**, velja **Samsetning til pöntunar** og síðan **Setja saman í pöntunarlínur**.  
-6.  Í glugganum **Setja saman í pöntun línur** á samsetningarpöntunarlínu fyrir vöru 80014, færið inn **2** í reitinn **Magn per**.  
-7.  Í samsetningarpöntunarlínu fyrir vöru 80210, veljið reitinn **Nr.**  og veljið síðan vara 80209 í staðinn.  
-8.  Stofna nýja samsetningarpöntunarlínu með eftirfarandi upplýsingum:  
+4. Veljið sölupöntunarlínuna fyrir þrjár einingar af setti B.  
+5. Á flýtiflipanum skal velja **Línur**, velja **Lína**, velja **Samsetning til pöntunar** og síðan **Setja saman í pöntunarlínur**.  
+6. Í glugganum **Setja saman í pöntun línur** á samsetningarpöntunarlínu fyrir vöru 80014, færið inn **2** í reitinn **Magn per**.  
+7. Í samsetningarpöntunarlínu fyrir vöru 80210, veljið reitinn **Nr.**  og veljið síðan vara 80209 í staðinn.  
+8. Stofna nýja samsetningarpöntunarlínu með eftirfarandi upplýsingum:  
 
-    |Gerð|Númer|Magn á|  
-    |----------|---------|------------------|  
-    |Atriði|80203|0|  
+
+   | Gerð |  Númer  | Magn á |
+   |------|-------|--------------|
+   | Atriði | 80203 |      0       |
+
 
 9. Loka glugganum **Setja saman í pöntunarlínur**.  
 

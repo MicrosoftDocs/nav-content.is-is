@@ -33,14 +33,16 @@ Annar hluti í stjórnun viðskiptakrafna er að safna útistandandi staða, þa
 
 Eftirfarandi tafla lýsir röð verkefna með tenglum í efnisatriði þar sem þeim er lýst.  
 
-| Til | Sjá |
-| --- | --- |
-| Jafna greiðslur við opnar viðskiptavina- eða lánardrottnafærslur með því að flytja inn bankayfirlit í formi skjals eða streymis, og afstemma bankareikning þegar allar greiðslur eru jafnaðar. |[Jafna greiðslur sjálfkrafa og afstemma bankareikninga](receivables-apply-payments-auto-reconcile-bank-accounts.md) |
-| Jafna greiðslur við opna viðskiptamannafærslur samkvæmt handvirka færslu í lista yfir ógreidd söluskjöl. |[Hvernig á að: Samræma greiðslur viðskiptavina handvirkt úr lista yfir ógreidd söluskrá](receivables-how-reconcile-customer-payments-list-unpaid-sales-documents.md) |
-| Bóka inngreiðslur eða endurgreiðslur fyrir viðskiptavini í ínngreiðslubók og jafna við viðskiptamannafærslur, annað hvort úr færslubók eða úr bókuðum fjárhagsfærslum. |[Hvernig á að: Afstemma greiðslur viðskiptamanns handvirkt](receivables-how-apply-sales-transactions-manually.md) |
-| Minna viðskiptamenn á upphæðir á gjalddaga, reikna vexti og álag og stjórna útistandandi kröfum. |[Hvernig á að: Innheimta útistandandi skuldir](receivables-collect-outstanding-balances.md) |
-|Vertu viss um kostnað afgreiddra vara, með því að úthluta viðbótar vörukostnaði, eins og farmur, efnisleg meðhöndlun, tryggingar og flutningar sem fellur til eftir sölu.|[Hvernig skal: Nota kostnaðarauka til að gera grein fyrir viðbótar viðskiptakostnaði](payables-how-assign-item-charges.md)|
-|Hægt er að setja upp vikmörk þannig að kerfið loki reikningi jafnvel þótt greiðsla, að meðteknum afslætti, nái ekki upp í fulla upphæð á reikningnum.|[Hvernig skal: Vinna með Greiðsluvikmörk og greiðsluafsláttarvikmörk](finance-payment-tolerance-and-payment-discount-tolerance.md)|
+
+|                                                                                      Til                                                                                       |                                                                               Sjá                                                                                |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   Jafna greiðslur við opnar viðskiptavina- eða lánardrottnafærslur með því að flytja inn bankayfirlit í formi skjals eða streymis, og afstemma bankareikning þegar allar greiðslur eru jafnaðar.    |                   [Jafna greiðslur sjálfkrafa og afstemma bankareikninga](receivables-apply-payments-auto-reconcile-bank-accounts.md)                    |
+|                                   Jafna greiðslur við opna viðskiptamannafærslur samkvæmt handvirka færslu í lista yfir ógreidd söluskjöl.                                   | [Hvernig á að: Samræma greiðslur viðskiptavina handvirkt úr lista yfir ógreidd söluskrá](receivables-how-reconcile-customer-payments-list-unpaid-sales-documents.md) |
+|     Bóka inngreiðslur eða endurgreiðslur fyrir viðskiptavini í ínngreiðslubók og jafna við viðskiptamannafærslur, annað hvort úr færslubók eða úr bókuðum fjárhagsfærslum.      |                               [Hvernig á að: Afstemma greiðslur viðskiptamanns handvirkt](receivables-how-apply-sales-transactions-manually.md)                               |
+|                                 Minna viðskiptamenn á upphæðir á gjalddaga, reikna vexti og álag og stjórna útistandandi kröfum.                                  |                                       [Hvernig á að: Innheimta útistandandi skuldir](receivables-collect-outstanding-balances.md)                                        |
+| Vertu viss um kostnað afgreiddra vara, með því að úthluta viðbótar vörukostnaði, eins og farmur, efnisleg meðhöndlun, tryggingar og flutningar sem fellur til eftir sölu. |                              [Hvernig skal: Nota kostnaðarauka til að gera grein fyrir viðbótar viðskiptakostnaði](payables-how-assign-item-charges.md)                               |
+|           Hægt er að setja upp vikmörk þannig að kerfið loki reikningi jafnvel þótt greiðsla, að meðteknum afslætti, nái ekki upp í fulla upphæð á reikningnum.           |               [Hvernig skal: Vinna með Greiðsluvikmörk og greiðsluafsláttarvikmörk](finance-payment-tolerance-and-payment-discount-tolerance.md)                |
+
 ## <a name="see-also"></a>Sjá einnig
 [Sala](sales-manage-sales.md)  
 [Stjórna skuldum](payables-manage-payables.md)  

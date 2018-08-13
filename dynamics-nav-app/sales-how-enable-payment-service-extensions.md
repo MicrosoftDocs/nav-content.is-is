@@ -39,7 +39,7 @@ PayPal-greiðslustaðalls- og WorldPay-greiðslustaðalsviðbætur eru settar up
 3. Í reitnum **Greiðsluþjónusta** er greiðsluþjónustan valin.  
 
     > [!NOTE]  
->   **Greiðsluþjónustu** reiturinn er aðeins tiltækur greiðsluþjónustan hefur verið virkjuð.  
+   >   **Greiðsluþjónustu** reiturinn er aðeins tiltækur greiðsluþjónustan hefur verið virkjuð.  
 
 ## <a name="see-also"></a>Sjá einnig  
 [Uppsetning sölu](sales-setup-sales.md)  

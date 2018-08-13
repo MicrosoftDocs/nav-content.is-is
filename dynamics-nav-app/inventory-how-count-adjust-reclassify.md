@@ -98,7 +98,7 @@ Starfsmenn geta nú haldið áfram að telja birgðir og skrá hugsanlegt misræ
     Viðeigandi reitir eru uppfærðir í samræmi við það.
 
     > [!NOTE]  
->   Ef við raunbirgðatalningu kemur í ljós munur vegna vara hafi verið bókaðar með röngum birgðageymslukótum er munurinn ekki færður inn í raunbirgðabókina. Í staðinn skal nota endurflokkunarbók eða millifærslupöntun til að beina vörunum á rétta staði. Frekari upplýsingar, sjá Birgðafærslubók enduflokkunar eða Hvernig á að stofna Millifærslupantanir.
+   >   Ef við raunbirgðatalningu kemur í ljós munur vegna vara hafi verið bókaðar með röngum birgðageymslukótum er munurinn ekki færður inn í raunbirgðabókina. Í staðinn skal nota endurflokkunarbók eða millifærslupöntun til að beina vörunum á rétta staði. Frekari upplýsingar, sjá Birgðafærslubók enduflokkunar eða Hvernig á að stofna Millifærslupantanir.
 
 2. Til að leiðrétta reiknað magn í raunverulegt talið magn skal velja aðgerðina **Bóka**.
 

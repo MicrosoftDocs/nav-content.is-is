@@ -45,11 +45,11 @@ Til að nota reikninga fyrir óinnleyst virðisaukaskatt skaltu fylgja þessum s
 6. Í **Reikn. áætlaðs útskatts**, veldu reikning fyrir óinnleyst söluskatt.
 
     > [!NOTE]  
->   VSK upphæðin verður bókuð á þennan reikning, og verður þar til greiðslu viðskiptavinarins er bókuð. Fjárhæðin er síðan flutt á reikninginn vegna söluverðs.
+   >   VSK upphæðin verður bókuð á þennan reikning, og verður þar til greiðslu viðskiptavinarins er bókuð. Fjárhæðin er síðan flutt á reikninginn vegna söluverðs.
 7. Í **Reikn. áætlaðs innskatts** sláðu inn aðalbókaratölu fyrir óinnleyst kaupverð.
 
     > [!NOTE]  
->   VSK upphæðin verður bókuð á þennan reikning, og verður þar til greiðslu viðskiptavinarins er bókuð. Fjárhæðin er síðan flutt á reikninginn vegna söluverðs.
+   >   VSK upphæðin verður bókuð á þennan reikning, og verður þar til greiðslu viðskiptavinarins er bókuð. Fjárhæðin er síðan flutt á reikninginn vegna söluverðs.
 
 ## <a name="see-also"></a>Sjá einnig
 [Uppsetning á virðisaukaskatti](finance-setup-vat.md)

@@ -30,11 +30,11 @@ Tiltækar eru átta afskriftaaðferðir:
 * Handvirkt  
 
   > [!NOTE]  
->   Hægt er að nota þessa aðferð á eignir sem ekki eru afskrifanlegar, til dæmis land. Færa þarf afskriftir eigna í eignafjárhagsfærslubók. Runuvinnslan **Reikna afskriftir** sleppir eignum sem þessi afskriftaaðferð er notuð á.  
+  >   Hægt er að nota þessa aðferð á eignir sem ekki eru afskrifanlegar, til dæmis land. Færa þarf afskriftir eigna í eignafjárhagsfærslubók. Runuvinnslan **Reikna afskriftir** sleppir eignum sem þessi afskriftaaðferð er notuð á.  
 * Tvisvar ári  
 
   > [!NOTE]  
->    Þegar þessi aðferð er notuð er eignin afskrifuð um sömu upphæð á hverju ári.  
+  >    Þegar þessi aðferð er notuð er eignin afskrifuð um sömu upphæð á hverju ári.  
 
 ## <a name="straight-line-depreciation"></a>Beinlínuafskrift
 Þegar beinlínuaðferðin er notuð verður að tilgreina einn af eftirfarandi valkostum í eignaafskriftabókinni:  

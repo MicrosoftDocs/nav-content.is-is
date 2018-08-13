@@ -51,7 +51,7 @@ Oft gæti þurft að skoða lista yfir þjónustupantanir eða þjónustutilboð
 
      Reiturinn **Staða** er sjálfkrafa stillt á **Virkt**.  
 
- Skrefin eru endurtekin fyrir hverja dagsetningu sem á að úthluta forða til þjónustuverks.  
+   Skrefin eru endurtekin fyrir hverja dagsetningu sem á að úthluta forða til þjónustuverks.  
 
 > [!NOTE]  
 >  Virkar þjónustupöntunarúthlutunarfærslur geta aðeins verið með úthlutunina **Virkt** með einum forða eða forðaflokki í einu fyrir þjónustuvöru í þjónustupöntun.  
@@ -95,14 +95,14 @@ Ef forðinn sem þjónustuverkhluta er úthlutað getur ekki lokið við verkið
 4. Valin er úthlutunarfærslu þess þjónustuverkhluta sem á að endurúthluta forða.  
 5. Í reitnum **Forðanr.** er viðeigandi forði valinn. Hann kemur í staðinn fyrir forðanúmerið sem þegar er í reitnum.  
 6. Ýtt er á færsluhnappinn. Svarglugginn **Ástæður endurúthlutunarfærslu** opnast og spyr hvort endurúthluta eigi þessari færslu. Fyllið út reitinn **Ástæðukóti** ef það á við og veljið hnappinn **Í lagi** til að staðfesta endurúthlutun.  
-7.  Reitirnir **Úthlutunardags.** og **Úthlutaðar stundir** eru fylltir út. Nú sýnir færslan nýjan forða og staðan er **Virk**.  
+7. Reitirnir **Úthlutunardags.** og **Úthlutaðar stundir** eru fylltir út. Nú sýnir færslan nýjan forða og staðan er **Virk**.  
 
-    > [!NOTE]  
-    >  Eldri færslan er enn til en kerfið uppfærir stöðuna með eftirfarandi hætti:  
-    >   
-    >  * Hafi þjónustan hafist þegar úthlutun var **Virk** hafi viðgerðarstaða þjónustuvörunnar í færslunni breyst í **Í vinnslu** breytist úthlutunarstaðan úr **Þarf að endurúthluta** í **Lokið**.  
-    > * Hafi þjónusta ekki hafist á meðan úthlutun var **Virk** breytist úthlutunarstaðan úr **Þarf að endurúthluta** í **Hætt við**.  
-    > * Ef endurúthlutað er þjónustupöntun sem breytt var úr tilboði breytir kerfið alltaf stöðu úthlutunarfærslnanna sem skráðar eru fyrir tilboðið í **Lokið** þegar þjónustuvörunum í þjónustupöntuninni er endurúthlutað.  
+   > [!NOTE]
+   >  Eldri færslan er enn til en kerfið uppfærir stöðuna með eftirfarandi hætti:  
+   > 
+   > * Hafi þjónustan hafist þegar úthlutun var **Virk** hafi viðgerðarstaða þjónustuvörunnar í færslunni breyst í **Í vinnslu** breytist úthlutunarstaðan úr **Þarf að endurúthluta** í **Lokið**.  
+   >   * Hafi þjónusta ekki hafist á meðan úthlutun var **Virk** breytist úthlutunarstaðan úr **Þarf að endurúthluta** í **Hætt við**.  
+   >   * Ef endurúthlutað er þjónustupöntun sem breytt var úr tilboði breytir kerfið alltaf stöðu úthlutunarfærslnanna sem skráðar eru fyrir tilboðið í **Lokið** þegar þjónustuvörunum í þjónustupöntuninni er endurúthlutað.  
 
 ## <a name="to-register-resource-hours"></a>Forðastundir skráðar  
 Þegar unnið er við þjónustuvöru í þjónustupöntunum þarf að skrá forðastundir sem notaðar eru til þjónustunnar. Eftirfarandi ferli sýnir hvernig á að skrá forðastundir í glugganum **Þjónustuvörublað**.  
@@ -138,7 +138,7 @@ Eftirfarandi aðferð sýnir hvernig forðalínum er skipt upp í glugganum **Þ
 5. Í reitnum **Ástæðukóti** veljið viðeigandi ástæðukóta.  
 6. Velja **Já** til að staðfesta afturköllun.  
 
-  > [!NOTE]  
+   > [!NOTE]  
     > Í reitnum **Staða** er valkosturinn **Þarf að endurúthluta** sjálfkrafa valinn. Ef viðgerðarstaða þjónustuvörunnar er **Upphaflegt** er viðgerðarstöðu breytt í **Verki vísað** (engin þjónusta hefur verið veitt). Ef viðgerðarstaðan er **Í vinnslu**er viðgerðarstöðunni breytt í **Hluta þjónustu lokið** (hluti vinnunnar búinn).
 
 ## <a name="see-also"></a>Sjá einnig

@@ -69,10 +69,10 @@ Eftirfarandi ferli byggist á greiningaryfirliti fyrir sölu. Skrefin eru svipu�
 4. Í glugganum **Greiningardálkar** eru reitirnir fylltir út til að tilgreina dálkana sem eiga að vera með í greiningarskýrslunni.  
 
     > [!NOTE]  
->   Ef skilgreina á dálk þarf að fylla út reitinn  **Kóti greiningartegundar** (fyrir allar tegundir dálka nema **Reikniregla**). Kóði fyrir greiningartegund er settur upp í glugganum **Greiningartegund**.  
+   >   Ef skilgreina á dálk þarf að fylla út reitinn  **Kóti greiningartegundar** (fyrir allar tegundir dálka nema **Reikniregla**). Kóði fyrir greiningartegund er settur upp í glugganum **Greiningartegund**.  
 
     **Athugasemd** Ef **Birgðafærslur** eru valdar í reitnum **Færslutegund** eru rauntölurnar afritaðar úr birgðafærslunni. Ef valdar eru **Birgðaáætlunarfærslur** eru áætlaðar tölur úr fjárhagsáætluninni afritaðar.  
-5.  Velja hnappinn **Í lagi** til að vista breytingarnar.  
+5. Velja hnappinn **Í lagi** til að vista breytingarnar.  
 
 ## <a name="to-set-up-analysis-line-templates"></a>Uppsetning greingarlínusniðmáta  
 Eftirfarandi ferli byggist á greiningarskýrslum fyrir sölu. Skrefin eru svipuð fyrir innkaup og birgðagreiningarskýrslur.

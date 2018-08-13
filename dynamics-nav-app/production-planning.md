@@ -23,7 +23,7 @@ Gera verður áætlun um framleiðsluaðgerðirnar sem þarf til að breyta íla
 
 > [!NOTE]
 > Þetta efnisatriði lýsir fyrst og fremst áætlunum fyrir fyrirtæki sem eru í framleiðslu eða samsetningarstjórnun þar sem birgðapantanir geta verið framleiðsla, samsetning, flutningur eða innkaupapantanir. Aðalviðmótið fyrir þessa áætlunarvinnu er **Áætlunarvinnublað** glugginn.
-
+> 
 > [!INCLUDE[d365fin](includes/d365fin_md.md)] styður einnig framboðsáætlanir fyrir heildsölufyrirtæki þar sem framboðspantanir geta aðeins verið flutnings- eða innkaupapantanir. Aðalviðmótið fyrir þessa áætlunarvinnu er **Innkaupatillaga** glugginn, sem er lýst óbeint í þessu efnisatriði þar sem flestar áætlunaraðgerðir má framkvæma í báðum vinnublöðum.
 
 Áður en þú getu áætlað og framkvæmt framleiðslupantanir, þarf að grunnstilla framleiðslugetu, eins og að búa til dagatöl verkstæðis, leiðir, framleiðsluuppskriftir og vélastöðvar. Nánari upplýsingar er að finna í [Uppsetning framleiðslu](production-configure-production-processes.md).

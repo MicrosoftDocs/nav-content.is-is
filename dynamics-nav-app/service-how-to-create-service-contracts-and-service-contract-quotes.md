@@ -52,7 +52,7 @@ Fyrir samninga sem eru ekki sundurliðaðir, er reikningsfærð upphæð reiknu�
 3. Velja **Gera samning** aðgerð.  
 4. Ef upphafsdagsetning samningsin er fyrir upphafstímabil næsta reikningstímabils geturðu stofnað þjónustureikning fyrir upphafstímabil samningsins. Velja **Já**.  
   
- Þjónustureikningurinn er bókaður í þjónustureikning samningsins, þó að samningur hafi verið greiddur fyrirfram. 
+   Þjónustureikningurinn er bókaður í þjónustureikning samningsins, þó að samningur hafi verið greiddur fyrirfram. 
 
 ## <a name="to-create-contract-service-credit-memos"></a>Til að búa til Samningsþjónustukreditreikninga
 Samningsþjónustukreditreikninga má nota þegar viðskiptamaður ógildir fyrirframgreiddan þjónustusamning eða tekur þjónustuvöru úr fyrirframgreiddum samningi. Einnig nýtast þeir við að leiðrétta rangan þjónustureikning.  
@@ -70,9 +70,9 @@ Samningsþjónustukreditreikninga má nota þegar viðskiptamaður ógildir fyri
 5. Fylltir eru út **Bókunardags.** og **Dagsetning fylgiskjals**.  
 6. Í kreditreikningslínurnar eru færðar upplýsingar um vörurnar sem er skilað eða sem eru fjarlægðar, eða uppbót sem á að senda. Hægt er að nota keyrsluna **Sækja fyrirframgreiddar samningsfærslur**.  
   
- Til að stofna handvirkt kreditreikning þegar samningslínur eru fjarlægðar úr þjónustusamningi er farið í gluggann **Þjónustusamningur** , flýtiflipann **Sundurl. reikningur**, skal velja gátreitinn **Sjálfvirkir kreditreikningar**.  
+   Til að stofna handvirkt kreditreikning þegar samningslínur eru fjarlægðar úr þjónustusamningi er farið í gluggann **Þjónustusamningur** , flýtiflipann **Sundurl. reikningur**, skal velja gátreitinn **Sjálfvirkir kreditreikningar**.  
   
- Til að stofna handvirkt kreditreikning þegar samningslínur eru fjarlægðar úr þjónustusamningi er farið í gluggann **Þjónustusamningur**, flipann **Aðgerðir**, flokkinn **Aðgerðir** og **Kreditreikningur** valinn.  
+   Til að stofna handvirkt kreditreikning þegar samningslínur eru fjarlægðar úr þjónustusamningi er farið í gluggann **Þjónustusamningur**, flipann **Aðgerðir**, flokkinn **Aðgerðir** og **Kreditreikningur** valinn.  
 
 ## <a name="updating-and-evaluating-contracts"></a>Uppfærsla og mat á samningum
 Stundum þarf að breyta skilmálum samninga eftir að þeir eru stofnaðir. Yfirleitt er viðeigandi samningur opnaður í glugganum **Þjónustusamningur** og viðeigandi breytingar gerðar.  

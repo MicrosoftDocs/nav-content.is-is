@@ -100,15 +100,15 @@ Til að virkja innflutningur/útflutningur gagna í skrá í gegnum gagnaskiptau
 
 ### <a name="to-generate-a-data-exchange-definition-that-is-based-on-an-xml-schema"></a>Að búa til gagnaskiptaskilgreiningu sem byggist á XML-skema  
 
-1.  Í reitnum **Leita** skal færa inn **XML-skema** og velja síðan viðkomandi tengi.  
+1. Í reitnum **Leita** skal færa inn **XML-skema** og velja síðan viðkomandi tengi.  
 
-2.  Veljið viðkomandi XML-skema og veljið því næst á flipanum **Heima** í **Ferli** hópnum valkostinn **Opna XML skemaskoðun**.  
+2. Veljið viðkomandi XML-skema og veljið því næst á flipanum **Heima** í **Ferli** hópnum valkostinn **Opna XML skemaskoðun**.  
 
-3.  Gangið úr skugga um að viðeigandi hnútar séu valdir. Nánari upplýsingar fást í hlutanum „Að velja eða hreinsa hnúta í XML-skema“.  
+3. Gangið úr skugga um að viðeigandi hnútar séu valdir. Nánari upplýsingar fást í hlutanum „Að velja eða hreinsa hnúta í XML-skema“.  
 
-4.  Í glugganum **XML-skemaskoðun** í flipanum **Heim** í flokknum **Ferli** veljið **Mynda gagnaskiptaskilgreiningu**.  
+4. Í glugganum **XML-skemaskoðun** í flipanum **Heim** í flokknum **Ferli** veljið **Mynda gagnaskiptaskilgreiningu**.  
 
- Gagnaskiptaskilgreining er sett upp í glugganum **Bókunarskilgreiningar**, sem hægt er að ljúka með því að tilgreina hvaða stök í skránni varpast í hvaða reiti í [!INCLUDE[d365fin](includes/d365fin_md.md)]. Frekari upplýsingar, sjá [Hvernig á að: Gagngaskiptaskilgreining](across-how-to-set-up-data-exchange-definitions.md).  
+   Gagnaskiptaskilgreining er sett upp í glugganum **Bókunarskilgreiningar**, sem hægt er að ljúka með því að tilgreina hvaða stök í skránni varpast í hvaða reiti í [!INCLUDE[d365fin](includes/d365fin_md.md)]. Frekari upplýsingar, sjá [Hvernig á að: Gagngaskiptaskilgreining](across-how-to-set-up-data-exchange-definitions.md).  
 
 > [!NOTE]  
 >  Einnig er hægt að nota **Sækja skráaskipan** virknina í **Bókunarskilgreining** glugganum sem notar virkni **XML-skemaskoðun** til að fylla út í flýtiflipann**Dálkaskilgreiningar**.  

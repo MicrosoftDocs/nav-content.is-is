@@ -59,20 +59,22 @@ Til að opna fyrir útflutning af skráasniði bankaskrár sem ekki eru studdar 
 4. Í glugganum **Bankareikn.listi viðskiptam.** skal velja bankareikning viðskiptamanns sem mun nota beingreiðslu og svo, á flipanum **Heim** í flokknum **Vinnsla** skal velja **Umboð beingreiðslu**.  
 5. Í glugganum **SEPA-umboð fyrir beint debet** þarf að fylla reitina út eins og lýst er í eftirfarandi töflu.  
 
-    |Svæði|Description|  
-    |---------------------------------|---------------------------------------|  
-    |**Bankareikn.kóði viðskiptamanns**|Tilgreinir bankareikninginn þaðan sem beingreiðslur eru teknar. Þessi reitur er fylltur út sjálfkrafa.|  
-    |**Gildir frá**|Tilgreina dagsetningu þegar beingreiðsla hefst.|  
-    |**Gildir til**|Tilgreina dagsetningu þegar beingreiðslu lýkur.|  
-    |**Dagsetning undirskriftar**|Tilgreinið dagsetninguna þegar viðskiptamaðurinn skrifaði undir beingreiðslu.|  
-    |**Runugerð**|Tilgreina ef samkomulag nær yfir nokkrar (**Ítrekað**) eða eina (**Stakt**)innheimtur beingreiðslu.|  
-    |**Áætlaður fjöldi debetfærslna**|Tilgreinir hversu margar innheimtur beingreiðslna þú býst við að búa til. Þessi reitur á aðeins við ef valið var **Ítrekun** í reitnum **Runugerð**.|  
-    |**Teljari debetfærslna**|Tilgreinir hversu margar innheimtur beingreiðslna hafa verið gerðar með þessu umboði fyrir beingreiðslur. Þessi reitur er uppfærður sjálfkrafa.|  
-    |**Útilokað**|Tilgreina að innheimtu beingreiðslu er ekki hægt að gera með því að nota þetta umboð fyrir beingreiðslu.|  
 
-6.  Endurtakið skref 1 til 5 fyrir alla viðskiptamenn sem á að setja upp fyrir SEPA-beingreiðslur.  
+   |             Svæði              |                                                                       Description                                                                       |
+   |--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+   | **Bankareikn.kóði viðskiptamanns** |                     Tilgreinir bankareikninginn þaðan sem beingreiðslur eru teknar. Þessi reitur er fylltur út sjálfkrafa.                     |
+   |         **Gildir frá**         |                                                 Tilgreina dagsetningu þegar beingreiðsla hefst.                                                 |
+   |          **Gildir til**          |                                                  Tilgreina dagsetningu þegar beingreiðslu lýkur.                                                  |
+   |     **Dagsetning undirskriftar**      |                                          Tilgreinið dagsetninguna þegar viðskiptamaðurinn skrifaði undir beingreiðslu.                                           |
+   |       **Runugerð**        |                       Tilgreina ef samkomulag nær yfir nokkrar (**Ítrekað**) eða eina (**Stakt**)innheimtur beingreiðslu.                       |
+   | **Áætlaður fjöldi debetfærslna**  | Tilgreinir hversu margar innheimtur beingreiðslna þú býst við að búa til. Þessi reitur á aðeins við ef valið var **Ítrekun** í reitnum **Runugerð**. |
+   |       **Teljari debetfærslna**        |            Tilgreinir hversu margar innheimtur beingreiðslna hafa verið gerðar með þessu umboði fyrir beingreiðslur. Þessi reitur er uppfærður sjálfkrafa.            |
+   |          **Útilokað**           |                                 Tilgreina að innheimtu beingreiðslu er ekki hægt að gera með því að nota þetta umboð fyrir beingreiðslu.                                  |
 
- Umboðið fyrir beingreiðslur er sjálfkrafa sett inn í **Kenni umboðs fyrir beint debet** reitinn þegar sölureikningur er stofnaður fyrir viðskiptamann sem var valinn í skrefi 2. Nánari upplýsingar er að finna í [Hvernig á að: Stofna ítrekaðar sölu og innkaupalínur](sales-how-work-standard-lines.md)  
+
+6. Endurtakið skref 1 til 5 fyrir alla viðskiptamenn sem á að setja upp fyrir SEPA-beingreiðslur.  
+
+   Umboðið fyrir beingreiðslur er sjálfkrafa sett inn í **Kenni umboðs fyrir beint debet** reitinn þegar sölureikningur er stofnaður fyrir viðskiptamann sem var valinn í skrefi 2. Nánari upplýsingar er að finna í [Hvernig á að: Stofna ítrekaðar sölu og innkaupalínur](sales-how-work-standard-lines.md)  
 
 ## <a name="see-also"></a>Sjá einnig  
 [Innheimta greiðslur með SEPA-beingreiðslum](finance-collect-payments-with-sepa-direct-debit.md)  

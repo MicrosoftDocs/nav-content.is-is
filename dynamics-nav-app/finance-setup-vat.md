@@ -100,7 +100,7 @@ Eftirfarandi hlutar útskýra hvernig á að úthluta VSK-bókunarflokkum til ei
 
 * Á **Vöru** spjaldinu, stækkið **Verð & Bókun** Flýtiflipann, og velja síðan **Sýna fleiri** til að birta **VAT Vörubókunarflokkur** reitinn.  
 * Á **Tilfang** spjaldinu, stækkið **Reikningagerð** flipann.  
-3. Veljið VSK-vörubókunarflokk.  
+* Veljið VSK-vörubókunarflokk.  
 
 ## <a name="to-set-up-clauses-to-explain-the-use-of-non-standard-vat-rates"></a>Setja upp ákvæði til að útskýra notkun óstaðlaðra VSK taxta
 VSK-klausa er sett upp til að lýsa upplýsingum um hvaða tegund VSK er notuð. Reglur stjórnvalda gætu krafist þessara upplýsinga. Þegar búið er að setja upp VSK-ákvæði og tengja það við VSK-bókunaruppsetningu, birtist VSK-ákvæðið á öllum prentuðum söluskjölum sem nota VSK-bókunaruppsetningarflokkinn. 
@@ -222,8 +222,8 @@ Breytingarverkfæri VSK-hlutfalls er notað til að stjórna breytinum á stöð
 2. Staðfesta að VSK-vörubókunarflokksumbreytingar eða almennar vörubókunarflokksumbreytingar hafi þegar verið settar upp.  
 3. Velja skal gátreitinn **Framkvæma umreikning**.  
   
-> [!IMPORTANT]  
-    >  Hreinsa gátreitinn **breytingaverkfæri fyrir VSK gengi lokið**. Gátreiturinn er valinn sjálfvirkt þegar umreikningi vsk-stigs er lokið.  
+> [!IMPORTANT]
+>  Hreinsa gátreitinn **breytingaverkfæri fyrir VSK gengi lokið**. Gátreiturinn er valinn sjálfvirkt þegar umreikningi vsk-stigs er lokið.  
   
 4. Velja skal **Umreikna** aðgerðina.  
 5. Þegar umreikningnum er lokið, á flipanum **Heim**, í flokknum **Vinna**, skal velja **Breytingaskrárfærslur fyrir VSK-hlutfall** til að skoða niðurstöður af umreikningnum.  

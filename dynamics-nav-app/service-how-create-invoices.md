@@ -31,8 +31,8 @@ Til að stofna reikning beint er hægt að nota gluggann **Þjónustusamningur**
 5. Í reitnum **Aðgerð** er valið að **Stofna reikninga**.  
 6. Smellt er á **Í lagi** til að stofna þjónustureikningana.  
   
-  > [!NOTE]  
-  >  Ekki er hægt að stofna þjónustureikninga fyrir þjónustusamning þegar gildið í reitnum **Breyta stöðu** er **Opið**.  
+   > [!NOTE]  
+   >  Ekki er hægt að stofna þjónustureikninga fyrir þjónustusamning þegar gildið í reitnum **Breyta stöðu** er **Opið**.  
   
 ## <a name="to-post-an-invoice-from-a-service-order"></a>Bókun reikninga úr þjónustupöntunum  
 Eftirfarandi aðferð lýsir hvernig á að skilgreina þann þátt þjónustunnar sem verður skrifaður á reikning viðskiptamanns.  
@@ -49,9 +49,9 @@ Eftirfarandi aðferð lýsir hvernig á að skilgreina þann þátt þjónustunn
   
 5. Veldu **Bóka**, og svo annað hvort **Reikning** eða **Afhenda og reikningsfæra**. Til að fá nánari upplýsingar um valkosti sjá [Bókun í þjónustukerfi](service-service-posting.md).  
   
- Þjónustulínan sem valin hefur verið er bókuð. Hægt er að bóka margar þjónustulínur í einu með því að velja þær allar og velja **Bóka**. Ef það er gert þarf að tryggja að allar nauðsynlegar upplýsingar hafi verið færðar inn í línurnar sem á að bóka.  
+   Þjónustulínan sem valin hefur verið er bókuð. Hægt er að bóka margar þjónustulínur í einu með því að velja þær allar og velja **Bóka**. Ef það er gert þarf að tryggja að allar nauðsynlegar upplýsingar hafi verið færðar inn í línurnar sem á að bóka.  
   
- Þegar pöntun er bókuð með valkostinum **Reikningur** er bókaður þjónustureikningur stofnaður ásamt tilheyrandi fjárhagsfærslum og viðkomandi reitir í þjónustulínum pöntunarinnar uppfærðir. Þar að auki eru bókuð afhendingarfylgiskjöl uppfærð með magninu sem búið er að reikningsfæra. Ef bókunarmöguleikinn **Afhenda og reikningsfæra** er jafnframt stofnuð bókuð afhending.
+   Þegar pöntun er bókuð með valkostinum **Reikningur** er bókaður þjónustureikningur stofnaður ásamt tilheyrandi fjárhagsfærslum og viðkomandi reitir í þjónustulínum pöntunarinnar uppfærðir. Þar að auki eru bókuð afhendingarfylgiskjöl uppfærð með magninu sem búið er að reikningsfæra. Ef bókunarmöguleikinn **Afhenda og reikningsfæra** er jafnframt stofnuð bókuð afhending.
 
 ## <a name="to-create-a-service-invoice-manually"></a>Þjónustureikningar búnir til handvirkt  
 Ef þjónustupöntun er bókuð með valkostinum **Reikningur** eða **Afhenda og reikningsfæra** býr forritið sjálfkrafa til bókaða reikningsfærslu. Eigi að síður gæti þurft að gefa út reikning sem hvorki er tengdur þjónustusamningi né þjónustupöntun. Þessi aðgerð útskýrir hvernig gefa á út reikning á sama tíma og viðskiptamaðurinn fær þjónustuna.  
@@ -79,7 +79,7 @@ Ef til vill þarf að stofna þjónustureikning fyrir þjónustu sem þegar hefu
 3. Stofna skal reikningslínur fyrir afhenta þjónustu sem ekki er búið að reikningsfæra. Að öðrum kosti geturðu notað **Sækja afhendingarlínur** aðgerðina til að bæta bókuðum afhendingarlínum við reikninginn.  
 4. Bóka skal þjónustureikninginn.  
   
- Bókaði þjónustureikningurinn og samsvarandi fjárhagsfærsla eru stofnuð. Áður bókuð afhendingarfylgiskjöl eru uppfærð með reikningsfærðu magni og viðeigandi magni í þjónustulínur upphafspöntunar/pantana.  
+   Bókaði þjónustureikningurinn og samsvarandi fjárhagsfærsla eru stofnuð. Áður bókuð afhendingarfylgiskjöl eru uppfærð með reikningsfærðu magni og viðeigandi magni í þjónustulínur upphafspöntunar/pantana.  
 
 ## <a name="to-create-a-combined-invoice"></a>Sameinaðir reikningar búnir til:  
 Þú getur gefið út reikning á viðskiptamann fyrir veitta þjónustu vegna ólíkra þjónustupantana. Reikningslínur eru stofnaðar fyrir vörur, forðastundir eða kostnað, sem þegar er búið að afhenda úr öðrum þjónustupöntunum en ekki er búið að reikningsfæra.  

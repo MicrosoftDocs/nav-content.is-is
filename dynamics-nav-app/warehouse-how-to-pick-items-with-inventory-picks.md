@@ -21,9 +21,9 @@ ms.lasthandoff: 10/16/2017
 # <a name="how-to-pick-items-with-inventory-picks"></a>Hvernig á að tína Vörur með Birgðatínslu
 Ef birgðageymsla er sett upp þannig að krafist sé tínsluvinnslu en ekki afhendingarvinnslu skal nota **birgðatínslu** gluggann til að skrá og bóka tínslu og afhendingarupplýsingar fyrir upprunaskjöl. Upprunaskjalið á útleið getur verið sölupöntun, innkaupaskilapöntun, millifærslupöntun á útleið eða framleiðslupöntun þar sem íhlutir eru tilbúnir til tínslu.
 
-> [!NOTE]  
+> [!NOTE]
 > Íhluti fyrir samsetningarpöntun er ekki hægt að tína eða bóka með birgðatínslum. Nota glugganum **Birgðahreyfing** í staðinn. Frekari upplýsingar, sjá [Hvernig á að: færa íhluti á aðgerðasvæði í einföldum vöruhúsaaðgerðum](warehouse-how-to-move-components-to-an-operation-area-in-basic-warehousing.md)
-
+> 
 >  Ef magn sölulínu tínslu og afhendingar er sett saman í pöntunina skal fylgja nokkrum reglum við stofnun birgðatínslulína. Nánari upplýsingar eru í hlutanum „Meðhöndlun íhluta pantanasamsetninga við birgðatínslu”.  
 
 Þú getur búið til birgðatínslu á þrjá vegu:  

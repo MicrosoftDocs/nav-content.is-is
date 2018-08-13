@@ -100,22 +100,22 @@ Flæði vara á milli hólfa innan fyrirtækis snýst um að tína íhluti og ta
 
  Eftirfarandi skref lýsa aðgerðum mismunandi notenda og tilheyrandi viðbrögð:  
 
-1.  Yfirmaður vinnusalar losar framleiðslupöntunina. Vörur með birgðaskráningaaðferðina **Framvirk** og engan leiðartengilskóð er dregnar frá hólfkóta opins vinnslusalar.  
-2.  Yfirmaður vinnusalar velur hnappinn **Stofna vöruhúsatiltekt** í framleiðslupöntuninni. Tínsluskjal vöruhúss er stofnuð tínsla fyrir vörur með birgðaskráningaaðferðunum **Handvirkt**, **Tína + afturábak** og **Tína + Framvirk**. Þessar vörur eru settar í hólfkóða framleiðslu á útleið.  
-3.  Stjórnandi vöruhússins úthlutar tiltekt á starfsmann vöruhúss.  
-4.  Starfsmaður vöruhússins tínir vörurnar úr viðkomandi hólfum og kemur þeim fyrir í hólfkóða framleiðslu á útleið eða í hólfið sem tiltekið er í tínslu vöruhúss, sem kann að vera hólf vinnustöðvar eða vélastöðvar.  
-5.  Starfsmaður í vöruhúsi skráir tínsluna. Magnið er dregið frá tiltektarhólfunum go bætt við notkunarhólfið. Reiturinn **Tínt magn** á íhlutalistanum fyrri allar tíndar vörur er uppfærður.  
+1. Yfirmaður vinnusalar losar framleiðslupöntunina. Vörur með birgðaskráningaaðferðina **Framvirk** og engan leiðartengilskóð er dregnar frá hólfkóta opins vinnslusalar.  
+2. Yfirmaður vinnusalar velur hnappinn **Stofna vöruhúsatiltekt** í framleiðslupöntuninni. Tínsluskjal vöruhúss er stofnuð tínsla fyrir vörur með birgðaskráningaaðferðunum **Handvirkt**, **Tína + afturábak** og **Tína + Framvirk**. Þessar vörur eru settar í hólfkóða framleiðslu á útleið.  
+3. Stjórnandi vöruhússins úthlutar tiltekt á starfsmann vöruhúss.  
+4. Starfsmaður vöruhússins tínir vörurnar úr viðkomandi hólfum og kemur þeim fyrir í hólfkóða framleiðslu á útleið eða í hólfið sem tiltekið er í tínslu vöruhúss, sem kann að vera hólf vinnustöðvar eða vélastöðvar.  
+5. Starfsmaður í vöruhúsi skráir tínsluna. Magnið er dregið frá tiltektarhólfunum go bætt við notkunarhólfið. Reiturinn **Tínt magn** á íhlutalistanum fyrri allar tíndar vörur er uppfærður.  
 
-    > [!NOTE]  
-    >  Aðeins er hægt að nota magn sem er tínt.  
+   > [!NOTE]  
+   >  Aðeins er hægt að nota magn sem er tínt.  
 
-6.  Starfsmaður á vél upplýsir framleiðslustjóra um það þegar endanlegar vörur eru fullunnar.  
-7.  Yfirmaður vinnusalar notar notkunarbókina eða framleiðslubókina til a bóka notkun hluta vöru sem nota annað hvort **handvirka** flæðiaðferð eða **framsendingar** eða **taka til + framsenda** flæðiaðferð með leiðartengilkóðum.  
-8.  Framleiðslustjórinn bókar framleiðslu framleiðslupöntunarinnar og breytir stöðunni í **fullunnin**. Magn íhlutavöru sem notar **Afturvirkt** birgðaskráningu er dregið frá hólfkóða opins vinnslusalar **Tína+Afturábak** birgðaskráning er dregin frá hólfkóða framleiðslu á innleið.  
+6. Starfsmaður á vél upplýsir framleiðslustjóra um það þegar endanlegar vörur eru fullunnar.  
+7. Yfirmaður vinnusalar notar notkunarbókina eða framleiðslubókina til a bóka notkun hluta vöru sem nota annað hvort **handvirka** flæðiaðferð eða **framsendingar** eða **taka til + framsenda** flæðiaðferð með leiðartengilkóðum.  
+8. Framleiðslustjórinn bókar framleiðslu framleiðslupöntunarinnar og breytir stöðunni í **fullunnin**. Magn íhlutavöru sem notar **Afturvirkt** birgðaskráningu er dregið frá hólfkóða opins vinnslusalar **Tína+Afturábak** birgðaskráning er dregin frá hólfkóða framleiðslu á innleið.  
 
- Eftirfarandi mynd sýnir þegar reiturinn **Hólfkóti** á efnisþáttalista er fylltur út út frá staðsetningu notanda eða uppsetningu vinnuvélar-/vinnustöðvarmiðstöðvar.  
+   Eftirfarandi mynd sýnir þegar reiturinn **Hólfkóti** á efnisþáttalista er fylltur út út frá staðsetningu notanda eða uppsetningu vinnuvélar-/vinnustöðvarmiðstöðvar.  
 
- ![Flæðirit hólfa](media/binflow.png "Hólfaflæði")  
+   ![Flæðirit hólfa](media/binflow.png "Hólfaflæði")  
 
 ## <a name="see-also"></a>Sjá einnig  
  [Hönnunarupplýsingar vöruhúsakerfi](design-details-warehouse-management.md)

@@ -58,7 +58,7 @@ Vegna þess að innkaupalínuafslættir og innkaupaverð byggjast á samsetningu
 3. Í reitnum **Reikningsafsláttarkóði** er valinn kóði fyrir viðeigandi reikningsafsláttarskilmála sem forritið notar til að reikna reikningsafslátt fyrir lánardrottin.
 
     > [!NOTE]  
->   Fyrirliggjandi lánardrottnaspjöld standa fyrir reikningsafsláttarkóða. Þetta gerir kleift að úthluta reikningsafsláttarskilmálum hratt og örugglega til lánardrottna með því að velja nafn annars lánardrottins sem hefur sömu skilmála.
+   >   Fyrirliggjandi lánardrottnaspjöld standa fyrir reikningsafsláttarkóða. Þetta gerir kleift að úthluta reikningsafsláttarskilmálum hratt og örugglega til lánardrottna með því að velja nafn annars lánardrottins sem hefur sömu skilmála.
 
     Næsta skref er að setja upp nýja skilmála fyrir reikningsafslátt.
 4. Í glugganum **Lánardrottnaspjald** er aðgerðin **Reikningsafslættir** valin. Glugginn **Reikningsafsláttur lánardr.** opnast.
