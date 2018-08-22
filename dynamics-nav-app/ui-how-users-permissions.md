@@ -1,28 +1,26 @@
 ---
 title: "Úthluta notandaheimild og stofna eða breyta heimildarsamstæðum"
 description: "Lýsir því hvernig skal bæta Office 365 notendum við Dynamics NAV, og svo úthluta heimildum, aðgangsréttindum og öryggisstillingum."
-author: SorenGP
+author: edupont04
 ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: access, right, security
-ms.date: 06/27/2017
-ms.author: sgroespe
+ms.date: 07/12/2018
+ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: d7dd8230fd5945a3a47e84fde017c26d936d7a39
+ms.sourcegitcommit: 9bd92e91f614963125756aceb2e6942f91e0e5e2
+ms.openlocfilehash: a05ef07a512cfe5ba9a9113dbc846c89e0493f63
 ms.contentlocale: is-is
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 07/13/2018
 
 ---
-# <a name="how-to-manage-users-and-permissions"></a>Hvernig á að: Stjórna notendur og heimildir
-Til að bæta notendum í [!INCLUDE[d365fin](includes/d365fin_md.md)], verður kerfisstjóri Office 365 í fyrirtækinu fyrst að stofna notendur í stjórnstöð Office 365. Frekari upplýsingar, sjá [Bæta notendum við Office 365 fyrir fyrirtæki](https://support.office.com/en-us/article/Add-users-to-Office-365-for-business-435ccec3-09dd-4587-9ebd-2f3cad6bc2bc).
+# <a name="how-to-manage-users-and-permissions"></a>Hvernig á að: Vinna með notendur og heimildir
+Ef þú færð nýjan starfsmann verður kerfisstjóri eða starfsmaður upplýsingatækni að bæta honum við [!INCLUDE[d365fin](includes/d365fin_md.md)]. Þá geturðu úthlutað þeim aðgangi að viðeigandi þáttum vörunnar á grundvelli starfssviðs þeirra með því að úthluta notendaflokkum og heimildum.
 
-Þegar notendur hafa verið stofnaðir í Office 365 er hægt að flytja þá inn í gluggann **notendur** með því að velja aðgerðina **Sækja notendur úr Office 365** Notendur eru úthlutað heimildir söfn samkvæmt áætlun sem er úthlutað á notandann í Office 365.
-
-Má því næst úthluta notendum heimildarsöfnum til að skilgreina hvaða hluti úr gagnagrunni, og þar með hvaða einingar Viðmótsins, þeir hafa aðgang að og í hvaða fyrirtækjum.
+Heimildasöfn skilgreina hvaða gagnagrunnshlutum, og þar af leiðandi hvaða viðmótseiningar, notendur hafa aðgang að og í hvaða fyrirtækjum.
 
 Heimildasafn er safn heimildir fyrir tiltekna hluti í gagnagrunninum. Öllum notendum verða að hafa verið úthlutað eitt eða fleiri heimildasöfn áður en þeir geta opnað [!INCLUDE[d365fin](includes/d365fin_md.md)]. Nokkur fyrirfram skilgreind heimildasöfn eru veitt sjálfvirkt. Hægt er að nota þessi heimildasöfn eins og þau eru nú þegar, breyta sjálfgefnum heimildasöfnum eða búa til önnur söfn.
 
@@ -109,4 +107,5 @@ Stjórnendur geta skilgreint tímabil þegar tilgreindir notendur geta bókað, 
 [Uppsetning og stjórnun í Dynamics NAV](admin-setup-and-administration.md)  
 [Velkomin(n) í [!INCLUDE[d365fin](includes/d365fin_md.md)]](index.md)  
 [Unnið með [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
+[Stofnar Microsoft Dynamics NAV notendur](/dynamics-nav/How-to--Create-Microsoft-Dynamics-NAV-Users)  
 

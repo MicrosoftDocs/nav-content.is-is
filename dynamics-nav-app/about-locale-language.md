@@ -8,22 +8,19 @@ ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
 ms.search.keywords: language, locale, localization, culture
-ms.date: 09/01/2017
+ms.date: 07/12/2018
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 57787e98f1d845ab3edeb945be5e00750d7c9ae8
+ms.sourcegitcommit: 9bd92e91f614963125756aceb2e6942f91e0e5e2
+ms.openlocfilehash: 94803b63504b686045933e00d7e4fb5268c7674c
 ms.contentlocale: is-is
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 07/13/2018
 
 ---
 # <a name="language-and-locale"></a>Tungumál og landsstaðall
 [!INCLUDE[d365fin](includes/d365fin_md.md)] er stutt á mörgum mörkuðum og er tiltækt á þeim tungumálum sem markaðirnir krefjast. Þetta er til komið vegna stuðnings við fjölda tungumála í keyrslu í bland við stuðning við lagalegar skilyrði studdra markaða. Það merkir að [!INCLUDE[d365fin](includes/d365fin_md.md)] getur birst á ólíkum tungumálum. Notandi getur skipt um tungumálið sem textar birtast á, og breytingin á sér stað strax, um leið og þú hefur verið skráð(ur) út og inn aftur. Stillingin á við þig en ekki alla aðra í fyrirtækinu.  
 
 Ef þú ert til dæmis kanadísk(ur), geturðu séð notandaviðmótið á ensku og frönsku, en samt er um að ræða kanadísku útgáfuna af [!INCLUDE[d365fin](includes/d365fin_md.md)] að öllu öðru leyti. Þetta er ekki það sama og til dæmis [!INCLUDE[d365fin](includes/d365fin_md.md)] í Bretlandi.  
-
-> [!NOTE]  
->  Breyting á tungumálinu er sem stendur ekki stutt í [!INCLUDE[d365fin](includes/d365fin_md.md)].
 
 Breytingar á textum sem geymdir eru sem forritsgögn falla ekki undir fjöltyngismöguleikann. Þá snýst málið um forritshönnun og venjur. Dæmi um slíkt eru heiti á vörum í birgðaskrá eða athugasemdir sem sendar eru viðskiptavinum. Með öðrum orðum, slíkur texti er ekki þýddur.  
 
